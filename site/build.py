@@ -249,8 +249,8 @@ def dialogs() -> str:
       <fieldset><legend>主题</legend><div class="segmented"><button type="button" data-theme-choice="auto">跟随系统</button><button type="button" data-theme-choice="light">浅色</button><button type="button" data-theme-choice="dark">深色</button></div></fieldset>
     </dialog>
     <dialog class="pdf-dialog" id="pdf-dialog" aria-labelledby="pdf-dialog-title">
-      <div class="dialog-head pdf-dialog-head"><div><p class="eyebrow">Local PDF companion</p><h2 id="pdf-dialog-title">原文与解读对照</h2></div>
-        <div class="pdf-head-actions"><button type="button" class="text-button js-select-pdf">选择 PDF</button><button type="button" class="dialog-close js-close-pdf" aria-label="关闭 PDF 对照阅读">×</button></div></div>
+      <div class="dialog-head pdf-dialog-head"><div><p class="eyebrow">PDF Companion</p><h2 id="pdf-dialog-title">原文与解读对照</h2></div>
+        <div class="pdf-head-actions"><button type="button" class="text-button js-select-pdf">更换 PDF</button><button type="button" class="dialog-close js-close-pdf" aria-label="关闭 PDF 对照阅读">×</button></div></div>
       <div class="pdf-split"><section class="pdf-viewer-shell" data-pdf-viewer>
         <div class="pdf-empty-state"><strong>正在载入原始 PDF</strong><p>如果内嵌阅读器无法显示，可以使用下方按钮在新标签页打开当前页。</p></div>
         <iframe class="pdf-frame js-pdf-frame" title="A Game of Thrones 原始 PDF"></iframe>
@@ -269,7 +269,12 @@ def footer() -> str:
 def html_page(*, title: str, description: str, body: str, chapters: list[dict], current: str | None = None, page_kind: str = "page") -> str:
     manifest = [{k: c[k] for k in ("id", "number", "label", "pov", "pages", "count", "url")} for c in chapters]
     config = json.dumps({"basePath": BASE, "currentChapter": current, "pageKind": page_kind, "chapters": manifest}, ensure_ascii=False).replace("</", "<\\/")
-    canonical_path = "" if page_kind == "home" else ("library/" if page_kind == "library" else f"chapters/{current}/")
+    if page_kind == "home":
+        canonical_path = ""
+    elif page_kind in {"library", "pdf"}:
+        canonical_path = f"{page_kind}/"
+    else:
+        canonical_path = f"chapters/{current}/"
     canonical = f"{SITE_URL}/{canonical_path}"
     return f'''<!doctype html><html lang="zh-CN"><head>
     <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">

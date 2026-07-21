@@ -147,7 +147,19 @@
     clone.querySelectorAll(".paragraph-tools, hr").forEach((node) => node.remove());
     clone.querySelectorAll(".js-vocab-save").forEach((button) => button.closest("td")?.remove());
     clone.querySelectorAll("th").forEach((cell) => { if (cell.textContent.trim() === "收藏") cell.remove(); });
+    clone.querySelectorAll("p").forEach((paragraph) => {
+      const text = paragraph.textContent.replace(/\s+/g, " ").trim();
+      if (!text || text.startsWith("来源：")) paragraph.remove();
+    });
+    const vocabLabel = [...clone.querySelectorAll("p")].find((paragraph) => paragraph.textContent.trim() === "难词与短语");
+    const vocabTable = vocabLabel?.nextElementSibling?.tagName === "TABLE" ? vocabLabel.nextElementSibling : null;
+    if (vocabLabel && vocabTable) {
+      const details = document.createElement("details"); details.className = "pdf-vocab-details";
+      const summary = document.createElement("summary"); summary.textContent = "难词与短语";
+      vocabLabel.replaceWith(details); details.append(summary, vocabTable);
+    }
     companion.append(clone);
+    companion.parentElement?.scrollTo({ top: 0, behavior: "auto" });
   }
 
   function openPdfDialog(button) {
