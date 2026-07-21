@@ -1,0 +1,1722 @@
+{
+  "paper": {
+    "title": "A Game of Thrones — Chapter 3 (DAENERYS)",
+    "author": "George R. R. Martin",
+    "source_type": "pdf",
+    "language": "en",
+    "source_path": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+    "pdf_page_range": [
+      31,
+      39
+    ],
+    "reader_mode": "spoiler-free close reading; English personal names"
+  },
+  "blocks": [
+    {
+      "id": "CH03-P031-001",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Her brother held the gown up for her inspection. “This is beauty. Touch it. Go on. Caress the fabric.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys让Daenerys触摸Illyrio送来的华美长裙，命令式语气把礼物变成即将进行的交易准备。",
+      "reading_note_zh": "触觉先于政治解释出现：丝绸的柔软与Viserys的命令共同说明美丽服饰并不等于自由。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-001"
+    },
+    {
+      "id": "CH03-P031-002",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Dany touched it. The cloth was so smooth that it seemed to run through her fingers like water. She could not remember ever wearing anything so soft. It frightened her. She pulled her hand away. “Is it really mine?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys感受丝织物如水般滑过手指；她从未拥有过如此精美的衣服，过去的漂泊生活由此显现。",
+      "reading_note_zh": "本段通过服装、称呼和威胁建立兄妹权力关系：Viserys定义目标，Daenerys被要求用身体实现它。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-002"
+    },
+    {
+      "id": "CH03-P031-003",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "“A gift from the Magister Illyrio,” Viserys said, smiling. Her brother was in a high mood tonight. “The color will bring out the violet in your eyes. And you shall have gold as well, and jewels of all sorts. Illyrio has promised. Tonight you must look like a princess.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys心情很好，称这套衣物是Magister Illyrio的礼物，并把Daenerys称为今晚的公主。",
+      "reading_note_zh": "本段通过服装、称呼和威胁建立兄妹权力关系：Viserys定义目标，Daenerys被要求用身体实现它。",
+      "background_note_zh": "**文本事实：** Illyrio是Pentos的magister和富商，目前收留Targaryen兄妹并安排今晚会面。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-003"
+    },
+    {
+      "id": "CH03-P031-004",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "A princess, Dany thought. She had forgotten what that was like. Perhaps she had never really known. “Why does he give us so much?” she asked. “What does he want from us?” For nigh on half a year, they had lived in the magister’s house, eating his food, pampered by his servants. Dany was thirteen, old enough to know that such gifts seldom come without their price, here in the free city of Pentos.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys在心里重复“公主”，却发现自己几乎忘记这个身份是什么感觉。",
+      "reading_note_zh": "Daenerys对“公主”感到陌生，揭示名义身份与实际生活经验之间的断裂。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-004"
+    },
+    {
+      "id": "CH03-P031-005",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "“Illyrio is no fool,” Viserys said. He was a gaunt young man with nervous hands and a feverish look in his pale lilac eyes. “The magister knows that I will not forget my friends when I come into my throne.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys断言Illyrio并不愚蠢，会为了未来奖赏支持他们；他的紧张外貌与夸大的王者信心并存。",
+      "reading_note_zh": "本段通过服装、称呼和威胁建立兄妹权力关系：Viserys定义目标，Daenerys被要求用身体实现它。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-005"
+    },
+    {
+      "id": "CH03-P031-006",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Dany said nothing. Magister Illyrio was a dealer in spices, gemstones, dragonbone, and other, less savory things. He had friends in all of the Nine Free Cities, it was said, and even beyond, in Vaes Dothrak and the fabled lands beside the Jade Sea. It was also said that he’d never had a friend he wouldn’t cheerfully sell for the right price. Dany listened to the talk in the streets, and she heard these things, but she knew better than to question her brother when he wove his webs of dream. His anger was a terrible thing when roused. Viserys called it “waking the dragon.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys沉默怀疑：Illyrio富有且交易范围广，她看不出帮助流亡兄妹能给他什么利益。",
+      "reading_note_zh": "她没有公开质疑，只在心中计算Illyrio的利益；沉默不等于没有判断力。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-006"
+    },
+    {
+      "id": "CH03-P031-007",
+      "page": 31,
+      "end_page": 31,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "Her brother hung the gown beside the door. “Illyrio will send the slaves to bathe you. Be sure you wash off the stink of the stables. Khal Drogo has a thousand horses, tonight he looks for a different sort of mount.” He studied her critically. “You still slouch. Straighten yourself” He pushed back her shoulders with his hands. “Let them see that you have a woman’s shape now.” His fingers brushed lightly over her budding breasts and tightened on a nipple. “You will not fail me tonight. If you do, it will go hard for you.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys交代沐浴、香水和服饰细节，并警告她必须让Khal Drogo满意，因为这关系到夺回王冠。",
+      "reading_note_zh": "本段通过服装、称呼和威胁建立兄妹权力关系：Viserys定义目标，Daenerys被要求用身体实现它。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P031-007"
+    },
+    {
+      "id": "CH03-P032-008",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "You don’t want to wake the dragon, do you?” His fingers twisted her, the pinch cruelly hard through the rough fabric of her tunic. “Do you?” he repeated.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys掐痛Daenerys，以“唤醒睡龙”威胁她，说明所谓龙的身份被他用作家庭暴力工具。",
+      "reading_note_zh": "`wake the dragon`是Viserys为暴力创造的委婉说法，把受害者变成需要为施暴者愤怒负责的人。",
+      "background_note_zh": "**文本事实：** Viserys自称dragon，以`wake the dragon`指自己的暴怒；这是他的个人威胁用语。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-008"
+    },
+    {
+      "id": "CH03-P032-009",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "“No,” Dany said meekly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys顺从地回答“不”，不敢反抗。",
+      "reading_note_zh": "本段通过服装、称呼和威胁建立兄妹权力关系：Viserys定义目标，Daenerys被要求用身体实现它。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-009"
+    },
+    {
+      "id": "CH03-P032-010",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Her brother smiled. “Good.” He touched her hair, almost with affection. “When they write the history of my reign, sweet sister, they will say that it began tonight.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys恢复近似温柔的态度，幻想史书会称Daenerys为帮助他复位的美丽公主。",
+      "reading_note_zh": "Viserys用未来史书美化当前交易，使Daenerys的牺牲服务于他的英雄叙事。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-010"
+    },
+    {
+      "id": "CH03-P032-011",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "When he was gone, Dany went to her window and looked out wistfully on the waters of the bay. The square brick towers of Pentos were black silhouettes outlined against the setting sun. Dany could hear the singing of the red priests as they lit their night fires and the shouts of ragged children playing games beyond the walls of the estate. For a moment she wished she could be out there with them, barefoot and breathless and dressed in tatters, with no past and no future and no feast to attend at Khal Drogo’s manse.",
+      "translation": "",
+      "paragraph_explanation_zh": "哥哥离开后，Daenerys望向Pentos海湾，向往远处的自由与安静。",
+      "reading_note_zh": "本段把Viserys讲述的王国与Daenerys亲身记得的流亡生活并置，追问“家”究竟来自血统还是记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-011"
+    },
+    {
+      "id": "CH03-P032-012",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "Somewhere beyond the sunset, across the narrow sea, lay a land of green hills and flowered plains and great rushing rivers, where towers of dark stone rose amidst magnificent blue-grey mountains, and armored knights rode to battle beneath the banners of their lords. The Dothraki called that land Rhaesh Andahli, the land of the Andals. In the Free Cities, they talked of Westeros and the Sunset Kingdoms. Her brother had a simpler name. “Our land,” he called it. The words were like a prayer with him. If he said them enough, the gods were sure to hear. “Ours by blood right, taken from us by treachery, but ours still, ours forever. You do not steal from the dragon, oh, no. The dragon remembers.”",
+      "translation": "",
+      "paragraph_explanation_zh": "夕阳彼端是Viserys所说的故国：绿色丘陵、河流和曾由dragonlords统治的城堡。",
+      "reading_note_zh": "本段把Viserys讲述的王国与Daenerys亲身记得的流亡生活并置，追问“家”究竟来自血统还是记忆。",
+      "background_note_zh": "**文本事实：** narrow sea分隔Daenerys所在的Pentos与她家族曾统治的Seven Kingdoms。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-012"
+    },
+    {
+      "id": "CH03-P032-013",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "And perhaps the dragon did remember, but Dany could not. She had never seen this land her brother said was theirs, this realm beyond the narrow sea. These places he talked of, Casterly Rock and the Eyrie, Highgarden and the Vale of Arryn, Dorne and the Isle of Faces, they were just words to her. Viserys had been a boy of eight when they fled King’s Landing to escape the advancing armies of the Usurper, but Daenerys had been only a quickening in their mother’s womb.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys声称龙会记得故国，但Daenerys没有记忆；她从未亲眼见过那个被称作家园的地方。",
+      "reading_note_zh": "同一个“家”对兄妹意义不同：Viserys记忆并执着于王国，Daenerys只继承了故事。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-013"
+    },
+    {
+      "id": "CH03-P032-014",
+      "page": 32,
+      "end_page": 32,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "Yet sometimes Dany would picture the way it had been, so often had her brother told her the stories. The midnight flight to Dragonstone, moonlight shimmering on the ship’s black sails. Her brother Rhaegar battling the Usurper in the bloody waters of the Trident and dying for the woman he loved. The sack of King’s Landing by the ones Viserys called the Usurper’s dogs, the lords Lannister and Stark. Princess Elia of Dorne pleading for mercy as Rhaegar’s heir was ripped from her breast and murdered before her eyes. The polished skulls of the last dragons staring down sightlessly from the walls of the throne room while the Kingslayer opened Father’s throat with a golden sword.",
+      "translation": "",
+      "paragraph_explanation_zh": "长期听哥哥讲述后，她能想象King’s Landing、Red Keep、Dragonstone和Iron Throne，却清楚那只是借来的记忆。",
+      "reading_note_zh": "列举地名制造完整故国图景，但反复出现的`Viserys had told her`提醒这些不是她的亲身记忆。",
+      "background_note_zh": "**文本事实：** Targaryen家族曾以dragonlords身份统治Seven Kingdoms，王权中心是King’s Landing与Iron Throne。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P032-014"
+    },
+    {
+      "id": "CH03-P033-015",
+      "page": 33,
+      "end_page": 33,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "She had been born on Dragonstone nine moons after their flight, while a raging summer storm threatened to rip the island fastness apart. They said that storm was terrible. The Targaryen fleet was smashed while it lay at anchor, and huge stone blocks were ripped from the parapets and sent hurtling into the wild waters of the narrow sea. Her mother had died birthing her, and for that her brother Viserys had never forgiven her.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys出生于Dragonstone逃亡后的暴风雨中；母亲在生产中去世，家族舰队也被风暴摧毁。",
+      "reading_note_zh": "出生、母亲死亡和舰队覆灭被压缩在同一场风暴中，使Daenerys的生命从一开始就与流亡相连。",
+      "background_note_zh": "**文本事实：** Daenerys出生于Dragonstone；其母在生产中去世，Robert一方当时正追击残余Targaryen。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P033-015"
+    },
+    {
+      "id": "CH03-P033-016",
+      "page": 33,
+      "end_page": 33,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "She did not remember Dragonstone either. They had run again, just before the Usurper’s brother set sail with his new-built fleet. By then only Dragonstone itself, the ancient seat of their House, had remained of the Seven Kingdoms that had once been theirs. It would not remain for long. The garrison had been prepared to sell them to the Usurper, but one night Ser Willem Darry and four loyal men had broken into the nursery and stolen them both, along with her wet nurse, and set sail under cover of darkness for the safety of the Braavosian coast.",
+      "translation": "",
+      "paragraph_explanation_zh": "她同样不记得Dragonstone；在Robert的弟弟攻岛前，忠臣Ser Willem Darry把兄妹秘密带往Braavos。",
+      "reading_note_zh": "本段把Viserys讲述的王国与Daenerys亲身记得的流亡生活并置，追问“家”究竟来自血统还是记忆。",
+      "background_note_zh": "**文本事实：** Ser Willem Darry忠于Targaryen，把Daenerys和Viserys从Dragonstone带往Braavos。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P033-016"
+    },
+    {
+      "id": "CH03-P033-017",
+      "page": 33,
+      "end_page": 33,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "She remembered Ser Willem dimly, a great grey bear of a man, half-blind, roaring and bellowing orders from his sickbed. The servants had lived in terror of him, but he had always been kind to Dany. He called her “Little Princess” and sometimes “My Lady,” and his hands were soft as old leather. He never left his bed, though, and the smell of sickness clung to him day and night, a hot, moist, sickly sweet odor. That was when they lived in Braavos, in the big house with the red door. Dany had her own room there, with a lemon tree outside her window. After Ser Willem had died, the servants had stolen what little money they had left, and soon after they had been put out of the big house. Dany had cried when the red door closed behind them forever.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys依稀记得Ser Willem、红门房屋、草地和柠檬树；这些私人生活片段才是她真正的“家”记忆。",
+      "reading_note_zh": "红门、草地和柠檬树是本章最温暖的记忆，也比王座与城堡更接近Daenerys真正理解的家。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P033-017"
+    },
+    {
+      "id": "CH03-P033-018",
+      "page": 33,
+      "end_page": 33,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "They had wandered since then, from Braavos to Myr, from Myr to Tyrosh, and on to Qohor and Volantis and Lys, never staying long in any one place. Her brother would not allow it. The Usurper’s hired knives were close behind them, he insisted, though Dany had never seen one.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Willem去世后，仆人偷走钱财，兄妹被逐出红门之家，从此在自由城邦间漂泊。",
+      "reading_note_zh": "本段把Viserys讲述的王国与Daenerys亲身记得的流亡生活并置，追问“家”究竟来自血统还是记忆。",
+      "background_note_zh": "**文本事实：** Braavos、Myr、Tyrosh、Qohor、Volantis与Pentos均位于海峡东侧的自由城邦世界。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P033-018"
+    },
+    {
+      "id": "CH03-P033-019",
+      "page": 33,
+      "end_page": 33,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "At first the magisters and archons and merchant princes were pleased to welcome the last Targaryens to their homes and tables, but as the years passed and the Usurper continued to sit upon the Iron Throne, doors closed and their lives grew meaner. Years past they had been forced to sell their last few treasures, and now even the coin they had gotten from Mother’s crown had gone. In the alleys and wine sinks of Pentos, they called her brother “the beggar king.” Dany did not want to know what they called her.",
+      "translation": "",
+      "paragraph_explanation_zh": "各地权贵最初欢迎最后的Targaryen，后来兴趣消退；Viserys只剩变卖母亲王冠所得的钱。",
+      "reading_note_zh": "欢迎逐渐消失、财物逐渐卖掉，展示流亡王室身份如何在现实中不断贬值。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P033-019"
+    },
+    {
+      "id": "CH03-P033-020",
+      "page": 33,
+      "end_page": 33,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“We will have it all back someday, sweet sister,” he would promise her. Sometimes his hands shook when he talked about it. “The jewels and the silks, Dragonstone and King’s Landing, the Iron Throne and the Seven Kingdoms, all they have taken from us, we will have it back.” Viserys lived for that day. All that Daenerys wanted back was the big house with the red door, the lemon tree outside her window, the childhood she had never known.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys承诺未来夺回王位与珠宝，但Daenerys看见他的手发抖，知道他真正渴望的是军队。",
+      "reading_note_zh": "Viserys的承诺与发抖的手并置；Daenerys能从身体细节识别语言背后的焦虑。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P033-020"
+    },
+    {
+      "id": "CH03-P034-021",
+      "page": 34,
+      "end_page": 34,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "There came a soft knock on her door. “Come,” Dany said, turning away from the window. Illyrio’s servants entered, bowed, and set about their business. They were slaves, a gift from one of the magister’s many Dothraki friends. There was no slavery in the free city of Pentos. Nonetheless, they were slaves. The old woman, small and grey as a mouse, never said a word, but the girl made up for it. She was Illyrio’s favorite, a fair-haired, blue-eyed wench of sixteen who chattered constantly as she worked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio的三名奴隶进屋为Daenerys准备，其中包括老妇、女奴和太监；Pentos名义上禁止奴隶制却实际拥有奴隶。",
+      "reading_note_zh": "“没有奴隶”与实际奴役并存，说明城市的法律标签和真实权力关系并不一致。",
+      "background_note_zh": "**文本事实：** Pentos法律名义上禁止奴隶制，但Illyrio仍把受控制的仆役明确称为slaves。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P034-021"
+    },
+    {
+      "id": "CH03-P034-022",
+      "page": 34,
+      "end_page": 34,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "They filled her bath with hot water brought up from the kitchen and scented it with fragrant oils. The girl pulled the rough cotton tunic over Dany’s head and helped her into the tub. The water was scalding hot, but Daenerys did not flinch or cry out. She liked the heat. It made her feel clean. Besides, her brother had often told her that it was never too hot for a Targaryen. “Ours is the house of the dragon,” he would say. “The fire is in our blood.”",
+      "translation": "",
+      "paragraph_explanation_zh": "奴隶们准备热水与香油，老妇为她脱衣；Daenerys的瘦小身体暴露出她仍非常年幼。",
+      "reading_note_zh": "沐浴场景不断提醒读者她的年龄，抵消其他人物把她当成可婚“女人”的说法。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P034-022"
+    },
+    {
+      "id": "CH03-P034-023",
+      "page": 34,
+      "end_page": 34,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "The old woman washed her long, silver-pale hair and gently combed out the snags, all in silence. The girl scrubbed her back and her feet and told her how lucky she was. “Drogo is so rich that even his slaves wear golden collars. A hundred thousand men ride in his khalasar, and his palace in Vaes Dothrak has two hundred rooms and doors of solid silver.” There was more like that, so much more, what a handsome man the khal was, so tall and fierce, fearless in battle, the best rider ever to mount a horse, a demon archer. Daenerys said nothing. She had always assumed that she would wed Viserys when she came of age. For centuries the Targaryens had married brother to sister, since Aegon the Conqueror had taken his sisters to bride. The line must be kept pure, Viserys had told her a thousand times; theirs was the kingsblood, the golden blood of old Valyria, the blood of the dragon. Dragons did not mate with the beasts of the field, and Targaryens did not mingle their blood with that of lesser men. Yet now Viserys schemed to sell her to a stranger, a barbarian.",
+      "translation": "",
+      "paragraph_explanation_zh": "老妇洗梳Daenerys的银发；女奴称赞她的头发柔软且近似银色。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P034-023"
+    },
+    {
+      "id": "CH03-P034-024",
+      "page": 34,
+      "end_page": 34,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "When she was clean, the slaves helped her from the water and toweled her dry. The girl brushed her hair until it shone like molten silver, while the old woman anointed her with the spiceflower perfume of the Dothraki plains, a dab on each wrist, behind her ears, on the tips of her breasts, and one last one, cool on her lips, down there between her legs. They dressed her in the wisps that Magister Illyrio had sent up, and then the gown, a deep plum silk to bring out the violet in her eyes. The girl slid the gilded sandals onto her feet, while the old woman fixed the tiara in her hair, and slid golden bracelets crusted with amethysts around her wrists. Last of all came the collar, a heavy golden torc emblazoned with ancient Valyrian glyphs.",
+      "translation": "",
+      "paragraph_explanation_zh": "她们为Daenerys擦干、梳发、涂抹香料，并给她穿上Illyrio送来的衣物与凉鞋。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P034-024"
+    },
+    {
+      "id": "CH03-P034-025",
+      "page": 34,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "“Now you look all a princess,” the girl said breathlessly when they were done. Dany glanced at her image in the silvered looking glass that Illyrio had so thoughtfully provided. A princess, she thought, but she remembered what the girl had said, how Khal Drogo was so rich even his slaves wore golden collars. She felt a sudden chill, and gooseflesh pimpled her bare arms.",
+      "translation": "",
+      "paragraph_explanation_zh": "装扮完成后，女奴说她像公主；Daenerys看着镜中成熟的轮廓，却仍感到寒冷和不安。",
+      "reading_note_zh": "镜子呈现他人打造的公主外形，gooseflesh则保留她身体真实的恐惧。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P034-025"
+    },
+    {
+      "id": "CH03-P035-026",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "Her brother was waiting in the cool of the entry hall, seated on the edge of the pool, his hand trailing in the water. He rose when she appeared and looked her over critically. “Stand there,” he told her. “Turn around. Yes. Good. You look . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys在池边检查她，命令她转身，并以审视商品般的目光评价外表。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-026"
+    },
+    {
+      "id": "CH03-P035-027",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“Regal,” Magister Illyrio said, stepping through an archway. He moved with surprising delicacy for such a massive man. Beneath loose garments of flame-colored silk, rolls of fat jiggled as he walked. Gemstones glittered on every finger, and his man had oiled his forked yellow beard until it shone like real gold. “May the Lord of Light shower you with blessings on this most fortunate day, Princess Daenerys,” the magister said as he took her hand. He bowed his head, showing a thin glimpse of crooked yellow teeth through the gold of his beard. “She is a vision, Your Grace, a vision,” he told her brother. “Drogo will be enraptured.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio出现并称她具有王者气质；他肥胖却动作轻巧，礼貌外表下仍带压迫感。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-027"
+    },
+    {
+      "id": "CH03-P035-028",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "“She’s too skinny,” Viserys said. His hair, the same silver-blond as hers, had been pulled back tightly behind his head and fastened with a dragonbone brooch. It was a severe look that emphasized the hard, gaunt lines of his face. He rested his hand on the hilt of the sword that Illyrio had lent him, and said, “Are you sure that Khal Drogo likes his women this young?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys嫌Daenerys太瘦，拉扯她的衣服检查胸部；Daenerys忍住眼泪。",
+      "reading_note_zh": "Viserys把妹妹的身体当成可检查资产；叙事不浪漫化这场婚姻安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-028"
+    },
+    {
+      "id": "CH03-P035-029",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“She has had her blood. She is old enough for the khal,” Illyrio told him, not for the first time. “Look at her. That silver-gold hair, those purple eyes . . . she is the blood of old Valyria, no doubt, no doubt . . . and highborn, daughter of the old king, sister to the new, she cannot fail to entrance our Drogo.” When he released her hand, Daenerys found herself trembling.",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio指出Daenerys已经初潮，年龄足够嫁给khal，再次把身体成熟当作交易条件。",
+      "reading_note_zh": "初潮在这里不是私人成人礼，而被男性谈判者直接转换成政治可用性。",
+      "background_note_zh": "**文本事实：** khal是Dothraki首领称号；婚姻安排的目标是取得Khal Drogo的军事支持。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-029"
+    },
+    {
+      "id": "CH03-P035-030",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“I suppose,” her brother said doubtfully. “The savages have queer tastes. Boys, horses, sheep . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys以侮辱性想象嘲笑Dothraki的欲望，暴露他的偏见与粗俗。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-030"
+    },
+    {
+      "id": "CH03-P035-031",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“Best not suggest this to Khal Drogo,” Illyrio said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio提醒他不要在Khal Drogo面前说这种话。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-031"
+    },
+    {
+      "id": "CH03-P035-032",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "Anger flashed in her brother’s lilac eyes. “Do you take me for a fool?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys因被提醒而发怒，反问Illyrio是否把自己当傻瓜。",
+      "reading_note_zh": "本段以沐浴、装扮和男性审视完成婚姻交易的准备，Daenerys的身体被他人解释和安排。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-032"
+    },
+    {
+      "id": "CH03-P035-033",
+      "page": 35,
+      "end_page": 35,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "The magister bowed slightly. “I take you for a king. Kings lack the caution of common men. My apologies if I have given offense.” He turned away and clapped his hands for his bearers.",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio用恭维化解冲突：他说自己把Viserys当国王，而国王往往不像普通人那样谨慎。",
+      "reading_note_zh": "Illyrio的恭维非常精确：表面尊称国王，实际提醒Viserys缺乏谨慎而不正面得罪他。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-033"
+    },
+    {
+      "id": "CH03-P035-034",
+      "page": 35,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "The streets of Pentos were pitch-dark when they set out in Illyrio’s elaborately carved palanquin. Two servants went ahead to light their way, carrying ornate oil lanterns with panes of pale blue glass, while a dozen strong men hoisted the poles to their shoulders. It was warm and close inside behind the curtains. Dany could smell the stench of Illyrio’s pallid flesh through his heavy perfumes.",
+      "translation": "",
+      "paragraph_explanation_zh": "三人乘华丽palanquin穿过黑暗的Pentos；Daenerys从香料、声音和城市气息中观察陌生世界。",
+      "reading_note_zh": "封闭palanquin把三人置于移动的谈判空间；Daenerys只能通过帘外感官碎片认识城市。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P035-034"
+    },
+    {
+      "id": "CH03-P036-035",
+      "page": 36,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "Her brother, sprawled out on his pillows beside her, never noticed. His mind was away across the narrow sea. “We won’t need his whole khalasar,” Viserys said. His fingers toyed with the hilt of his borrowed blade, though Dany knew he had never used a sword in earnest. “Ten thousand, that would be enough, I could sweep the Seven Kingdoms with ten thousand Dothraki screamers. The realm will rise for its rightful king. Tyrell, Redwyne, Darry, Greyjoy, they have no more love for the Usurper than I do. The Dornishmen burn to avenge Elia and her children. And the smallfolk will be with us. They cry out for their king.” He looked at Illyrio anxiously. “They do, don’t they?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys躺在软垫上幻想海峡对岸的故国与等待他归来的人民。",
+      "reading_note_zh": "本段在前往宴会的途中展示Viserys的复国幻想与Illyrio的奉承，让Daenerys通过微小表情判断可信度。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-035"
+    },
+    {
+      "id": "CH03-P036-036",
+      "page": 36,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“They are your people, and they love you well,” Magister Illyrio said amiably. “In holdfasts all across the realm, men lift secret toasts to your health while women sew dragon banners and hide them against the day of your return from across the water.” He gave a massive shrug. “Or so my agents tell me.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio迎合Viserys，说各地领主和百姓都秘密为真王举杯、缝制龙旗。",
+      "reading_note_zh": "本段在前往宴会的途中展示Viserys的复国幻想与Illyrio的奉承，让Daenerys通过微小表情判断可信度。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-036"
+    },
+    {
+      "id": "CH03-P036-037",
+      "page": 36,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "Dany had no agents, no way of knowing what anyone was doing or thinking across the narrow sea, but she mistrusted Illyrio’s sweet words as she mistrusted everything about Illyrio. Her brother was nodding eagerly, however. “I shall kill the Usurper myself,” he promised, who had never killed anyone, “as he killed my brother Rhaegar. And Lannister too, the Kingslayer, for what he did to my father.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys没有情报来源，只能判断哥哥相信这些话；她知道Viserys愿意听任何证明人民爱他的说法。",
+      "reading_note_zh": "Daenerys没有证据反驳，也没有证据相信；她转而观察谁需要相信什么。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-037"
+    },
+    {
+      "id": "CH03-P036-038",
+      "page": 36,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“That would be most fitting,” Magister Illyrio said. Dany saw the smallest hint of a smile playing around his full lips, but her brother did not notice. Nodding, he pushed back a curtain and stared off into the night, and Dany knew he was fighting the Battle of the Trident once again.",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio继续恭维，Daenerys却看见他胡须下的一点笑意，怀疑他并不完全认真。",
+      "reading_note_zh": "Illyrio的一点笑意是有限视角中的关键裂缝，暗示他的奉承可能服务于自身利益。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-038"
+    },
+    {
+      "id": "CH03-P036-039",
+      "page": 36,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "The nine-towered manse of Khal Drogo sat beside the waters of the bay, its high brick walls overgrown with pale ivy. It had been given to the khal by the magisters of Pentos, Illyrio told them. The Free Cities were always generous with the horselords. “It is not that we fear these barbarians,” Illyrio would explain with a smile. “The Lord of Light would hold our city walls against a million Dothraki, or so the red priests promise . . . yet why take chances, when their friendship comes so cheap?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Khal Drogo的九塔宅邸坐落海湾旁，围墙和苍白树木营造富有而陌生的环境。",
+      "reading_note_zh": "本段在前往宴会的途中展示Viserys的复国幻想与Illyrio的奉承，让Daenerys通过微小表情判断可信度。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-039"
+    },
+    {
+      "id": "CH03-P036-040",
+      "page": 36,
+      "end_page": 36,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Their palanquin was stopped at the gate, the curtains pulled roughly back by one of the house guards. He had the copper skin and dark almond eyes of a Dothraki, but his face was hairless and he wore the spiked bronze cap of the Unsullied. He looked them over coldly. Magister Illyrio growled something to him in the rough Dothraki tongue; the guardsman replied in the same voice and waved them through the gates.",
+      "translation": "",
+      "paragraph_explanation_zh": "宅门守卫粗暴掀开车帘检查；这名带Unsullied铜盔的无须守卫与Illyrio用Dothraki语交谈后才放行。",
+      "reading_note_zh": "本段在前往宴会的途中展示Viserys的复国幻想与Illyrio的奉承，让Daenerys通过微小表情判断可信度。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-040"
+    },
+    {
+      "id": "CH03-P036-041",
+      "page": 36,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Dany noticed that her brother’s hand was clenched tightly around the hilt of his borrowed sword. He looked almost as frightened as she felt. “Insolent eunuch,” Viserys muttered as the palanquin lurched up toward the manse.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys紧握借来的剑，看起来与Daenerys同样害怕；等通过守卫后，他才低声辱骂对方为无礼太监。",
+      "reading_note_zh": "借来的剑与紧握剑柄共同暴露Viserys的表演性：王者姿态依赖并不属于他的物件。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P036-041"
+    },
+    {
+      "id": "CH03-P037-042",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Magister Illyrio’s words were honey. “Many important men will be at the feast tonight. Such men have enemies. The khal must protect his guests, yourself chief among them, Your Grace. No doubt the Usurper would pay well for your head.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio用甜言蜜语解释严格安保：贵客都有敌人，Drogo必须保护他们，Robert也可能悬赏Viserys的人头。",
+      "reading_note_zh": "本段在前往宴会的途中展示Viserys的复国幻想与Illyrio的奉承，让Daenerys通过微小表情判断可信度。",
+      "background_note_zh": "**文本事实：** Robert Baratheon被Targaryen兄妹称为Usurper，因为他夺取了其家族王位。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-042"
+    },
+    {
+      "id": "CH03-P037-043",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Oh, yes,” Viserys said darkly. “He has tried, Illyrio, I promise you that. His hired knives follow us everywhere. I am the last dragon, and he will not sleep easy while I live.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys坚称Robert长期派刺客追杀自己，借此证明对方害怕合法王位继承人。",
+      "reading_note_zh": "Viserys把被追杀当作重要性的证明；这种解释既维护自尊，也无法由Daenerys验证。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-043"
+    },
+    {
+      "id": "CH03-P037-044",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "The palanquin slowed and stopped. The curtains were thrown back, and a slave offered a hand to help Daenerys out. His collar, she noted, was ordinary bronze. Her brother followed, one hand still clenched hard around his sword hilt. It took two strong men to get Magister Illyrio back on his feet.",
+      "translation": "",
+      "paragraph_explanation_zh": "palanquin停下，Daenerys接受奴隶搀扶下车，正式进入Khal Drogo的住所。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-044"
+    },
+    {
+      "id": "CH03-P037-045",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Inside the manse, the air was heavy with the scent of spices, pinchfire and sweet lemon and cinnamon. They were escorted across the entry hall, where a mosaic of colored glass depicted the Doom of Valyria. Oil burned in black iron lanterns all along the walls. Beneath an arch of twining stone leaves, a eunuch sang their coming. “Viserys of the House Targaryen, the Third of his Name,” he called in a high, sweet voice, “King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm. His sister, Daenerys Stormborn, Princess of Dragonstone. His honorable host, Illyrio Mopatis, Magister of the Free City of Pentos.”",
+      "translation": "",
+      "paragraph_explanation_zh": "宅内充满香料气味，门口的太监用Common Tongue欢迎他们。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-045"
+    },
+    {
+      "id": "CH03-P037-046",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "They stepped past the eunuch into a pillared courtyard overgrown in pale ivy. Moonlight painted the leaves in shades of bone and silver as the guests drifted among them. Many were Dothraki horselords, big men with red-brown skin, their drooping mustachios bound in metal rings, their black hair oiled and braided and hung with bells. Yet among them moved bravos and sellswords from Pentos and Myr and Tyrosh, a red priest even fatter than Illyrio, hairy men from the Port of Ibben, and lords from the Summer Isles with skin as black as ebony. Daenerys looked at them all in wonder . . . and realized, with a sudden start of fear, that she was the only woman there.",
+      "translation": "",
+      "paragraph_explanation_zh": "他们进入月光照亮的庭院；富商、王子、祭司和武士等各类宾客正在交谈。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-046"
+    },
+    {
+      "id": "CH03-P037-047",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "Illyrio whispered to them. “Those three are Drogo’s bloodriders, there,” he said. “By the pillar is Khal Moro, with his son Rhogoro. The man with the green beard is brother to the Archon of Tyrosh, and the man behind him is Ser Jorah Mormont.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio低声介绍Drogo的bloodriders、Asshai来的shadowbinder以及流亡骑士Ser Jorah Mormont。",
+      "reading_note_zh": "人物清单扩大世界范围，但Daenerys只被“来自故国的骑士”吸引，显示她仍在寻找可触及的家园联系。",
+      "background_note_zh": "**文本事实：** bloodriders是khal最亲近的武士同伴；shadowbinder来自遥远Asshai，其具体能力当前未解释。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-047"
+    },
+    {
+      "id": "CH03-P037-048",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "The last name caught Daenerys. “A knight?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys听见“骑士”便立刻追问，因为这是她与故国传统的直接联系。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-048"
+    },
+    {
+      "id": "CH03-P037-049",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“No less.” Illyrio smiled through his beard. “Anointed with the seven oils by the High Septon himself.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio确认Ser Jorah接受过High Septon主持的七油傅礼，是正式的七神骑士。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "**文本事实：** anointed knight接受七神仪式；Ser Jorah Mormont出身北方Bear Island。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-049"
+    },
+    {
+      "id": "CH03-P037-050",
+      "page": 37,
+      "end_page": 37,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“What is he doing here?” she blurted.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys脱口问他为何会在这里，表现她对故国人物的强烈好奇。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P037-050"
+    },
+    {
+      "id": "CH03-P038-051",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“The Usurper wanted his head,” Illyrio told them. “Some trifling affront. He sold some poachers to a Tyroshi slaver instead of giving them to the Night’s Watch. Absurd law. A man should be able to do as he likes with his own chattel.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio解释Ser Jorah因贩卖偷猎者为奴而触法，逃离Ned Stark的审判，成为流亡者。",
+      "reading_note_zh": "Ser Jorah的罪与Chapter 1中Will的偷猎形成制度对照：此处争议不在偷猎，而在把人卖作奴隶。",
+      "background_note_zh": "**文本事实：** Seven Kingdoms禁止把偷猎者卖作奴隶；Ser Jorah逃离了Ned Stark的司法追捕。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-051"
+    },
+    {
+      "id": "CH03-P038-052",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“I shall wish to speak with Ser Jorah before the night is done,” her brother said. Dany found herself looking at the knight curiously. He was an older man, past forty and balding, but still strong and fit. Instead of silks and cottons, he wore wool and leather. His tunic was a dark green, embroidered with the likeness of a black bear standing on two legs.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys决定稍后与Ser Jorah交谈；Daenerys从哥哥语气听出，他又在设想一支并不存在的军队。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-052"
+    },
+    {
+      "id": "CH03-P038-053",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "She was still looking at this strange man from the homeland she had never known when Magister Illyrio placed a moist hand on her bare shoulder. “Over there, sweet princess,” he whispered, “there is the khal himself.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys仍观察这位故国骑士时，Illyrio触碰她并指向Khal Drogo。",
+      "reading_note_zh": "本段借宴会宾客扩展Pentos与流亡者世界，同时让Daenerys寻找与故国有关的人和信息。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-053"
+    },
+    {
+      "id": "CH03-P038-054",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "Dany wanted to run and hide, but her brother was looking at her, and if she displeased him she knew she would wake the dragon. Anxiously, she turned and looked at the man Viserys hoped would ask to wed her before the night was done.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys本想逃走，但因害怕Viserys的惩罚，只能转身面对未来丈夫。",
+      "reading_note_zh": "她的逃跑冲动被对哥哥的恐惧压住；真正限制她行动的首先不是陌生khal，而是熟悉的家庭暴力。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-054"
+    },
+    {
+      "id": "CH03-P038-055",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "The slave girl had not been far wrong, she thought. Khal Drogo was a head taller than the tallest man in the room, yet somehow light on his feet, as graceful as the panther in Illyrio’s menagerie. He was younger than she’d thought, no more than thirty. His skin was the color of polished copper, his thick mustachios bound with gold and bronze rings.",
+      "translation": "",
+      "paragraph_explanation_zh": "她发现女奴所言不假：Drogo极其高大、强壮，皮肤和长发呈深色，佩戴金属饰物。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-055"
+    },
+    {
+      "id": "CH03-P038-056",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“I must go and make my submissions,” Magister Illyrio said. “Wait here. I shall bring him to you.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio说自己先去行礼，让兄妹留在原地等待引见。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-056"
+    },
+    {
+      "id": "CH03-P038-057",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Her brother took her by the arm as Illyrio waddled over to the khal, his fingers squeezing so hard that they hurt. “Do you see his braid, sweet sister?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Illyrio离开后，Viserys用力抓住Daenerys手臂，首先让她注意Drogo的长辫。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-057"
+    },
+    {
+      "id": "CH03-P038-058",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "Drogo’s braid was black as midnight and heavy with scented oil, hung with tiny bells that rang softly as he moved. It swung well past his belt, below even his buttocks, the end of it brushing against the back of his thighs.",
+      "translation": "",
+      "paragraph_explanation_zh": "Drogo的黑色发辫涂着香油、挂着细小铃铛，长度垂过腰臀，成为最醒目的身份标志。",
+      "reading_note_zh": "发辫是可见的战绩记录；Viserys借解释Dothraki习俗，强调自己选择的是强大盟友。",
+      "background_note_zh": "**文本事实：** Dothraki战士败北时剪掉发辫；Drogo的长辫和铃铛表示他宣称从未被击败。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-058"
+    },
+    {
+      "id": "CH03-P038-059",
+      "page": 38,
+      "end_page": 38,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "“You see how long it is?” Viserys said. “When Dothraki are defeated in combat, they cut off their braids in disgrace, so the world will know their shame. Khal Drogo has never lost a fight. He is Aegon the Dragonlord come again, and you will be his queen.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys说明Dothraki战败会剪掉发辫，因此Drogo的长发象征他从未败北。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-059"
+    },
+    {
+      "id": "CH03-P038-060",
+      "page": 38,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "Dany looked at Khal Drogo. His face was hard and cruel, his eyes as cold and dark as onyx. Her brother hurt her sometimes, when she woke the dragon, but he did not frighten her the way this man frightened her. “I don’t want to be his queen,” she heard herself say in a small, thin voice. “Please, please, Viserys, I don’t want to, I want to go home.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys直视Drogo冷硬的脸与黑色眼睛，因恐惧请求回到Illyrio的住处。",
+      "reading_note_zh": "Daenerys说`go home`时指眼前住处，表明她对家最现实的定义是暂时安全，而非王国。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P038-060"
+    },
+    {
+      "id": "CH03-P039-061",
+      "page": 39,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“Home?” He kept his voice low, but she could hear the fury in his tone. “How are we to go home, sweet sister? They took our home from us!” He drew her into the shadows, out of sight, his fingers digging into her skin. “How are we to go home?” he repeated, meaning King’s Landing, and Dragonstone, and all the realm they had lost.",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys压低声音发怒，认为没有军队就不可能回到真正的“家”。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P039-061"
+    },
+    {
+      "id": "CH03-P039-062",
+      "page": 39,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "Dany had only meant their rooms in Illyrio’s estate, no true home surely, though all they had, but her brother did not want to hear that. There was no home there for him. Even the big house with the red door had not been home for him. His fingers dug hard into her arm, demanding an answer. “I don’t know . . . ”she said at last, her voice breaking. Tears welled in her eyes.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys所说的家只是Illyrio宅中的房间；她意识到自己其实从未拥有真正家园。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P039-062"
+    },
+    {
+      "id": "CH03-P039-063",
+      "page": 39,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "“I do,” he said sharply. “We go home with an army, sweet sister. With Khal Drogo’s army, that is how we go home. And if you must wed him and bed him for that, you will.” He smiled at her. “I’d let his whole khalasar fuck you if need be, sweet sister, all forty thousand men, and their horses too if that was what it took to get my army. Be grateful it is only Drogo. In time you may even learn to like him. Now dry your eyes. Illyrio is bringing him over, and he will not see you crying.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys声明必须借Drogo的khalasar回国，并威胁即使让全部Dothraki甚至马匹侵犯她，也要换取王冠。",
+      "reading_note_zh": "Viserys的极端威胁彻底说清交易逻辑：妹妹的身体价值低于他想象中的王冠。",
+      "background_note_zh": "**文本事实：** khalasar是由khal领导的Dothraki骑马群体与军队。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P039-063"
+    },
+    {
+      "id": "CH03-P039-064",
+      "page": 39,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "Dany turned and saw that it was true. Magister Illyrio, all smiles and bows, was escorting Khal Drogo over to where they stood. She brushed away unfallen tears with the back of her hand.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys看见Illyrio正带Drogo走来，知道谈判的核心已经逼近。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P039-064"
+    },
+    {
+      "id": "CH03-P039-065",
+      "page": 39,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "“Smile,” Viserys whispered nervously, his hand failing to the hilt of his sword. “And stand up straight. Let him see that you have breasts. Gods know, you have little enough as is.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Viserys紧张命令她微笑、挺直身体，并让她刻意展示尚未成熟的胸部。",
+      "reading_note_zh": "本段让政治交易具体化为Daenerys面对Drogo的身体恐惧，并以Viserys不断升级的威胁收束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P039-065"
+    },
+    {
+      "id": "CH03-P039-066",
+      "page": 39,
+      "end_page": 39,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "Daenerys smiled, and stood up straight.",
+      "translation": "",
+      "paragraph_explanation_zh": "Daenerys照做：她微笑并站直，以顺从姿态迎接决定自己命运的男人。",
+      "reading_note_zh": "最后一句极短，表面顺从，情感上却冷硬；本章停在她把恐惧隐藏成合格公主姿态的瞬间。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Daenerys的感受、流亡记忆或交易推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH03-P039-066"
+    }
+  ],
+  "pages": [
+    {
+      "page": 31,
+      "block_ids": [
+        "CH03-P031-001",
+        "CH03-P031-002",
+        "CH03-P031-003",
+        "CH03-P031-004",
+        "CH03-P031-005",
+        "CH03-P031-006",
+        "CH03-P031-007"
+      ]
+    },
+    {
+      "page": 32,
+      "block_ids": [
+        "CH03-P032-008",
+        "CH03-P032-009",
+        "CH03-P032-010",
+        "CH03-P032-011",
+        "CH03-P032-012",
+        "CH03-P032-013",
+        "CH03-P032-014"
+      ]
+    },
+    {
+      "page": 33,
+      "block_ids": [
+        "CH03-P033-015",
+        "CH03-P033-016",
+        "CH03-P033-017",
+        "CH03-P033-018",
+        "CH03-P033-019",
+        "CH03-P033-020"
+      ]
+    },
+    {
+      "page": 34,
+      "block_ids": [
+        "CH03-P034-021",
+        "CH03-P034-022",
+        "CH03-P034-023",
+        "CH03-P034-024",
+        "CH03-P034-025"
+      ]
+    },
+    {
+      "page": 35,
+      "block_ids": [
+        "CH03-P034-025",
+        "CH03-P035-026",
+        "CH03-P035-027",
+        "CH03-P035-028",
+        "CH03-P035-029",
+        "CH03-P035-030",
+        "CH03-P035-031",
+        "CH03-P035-032",
+        "CH03-P035-033",
+        "CH03-P035-034"
+      ]
+    },
+    {
+      "page": 36,
+      "block_ids": [
+        "CH03-P035-034",
+        "CH03-P036-035",
+        "CH03-P036-036",
+        "CH03-P036-037",
+        "CH03-P036-038",
+        "CH03-P036-039",
+        "CH03-P036-040",
+        "CH03-P036-041"
+      ]
+    },
+    {
+      "page": 37,
+      "block_ids": [
+        "CH03-P036-041",
+        "CH03-P037-042",
+        "CH03-P037-043",
+        "CH03-P037-044",
+        "CH03-P037-045",
+        "CH03-P037-046",
+        "CH03-P037-047",
+        "CH03-P037-048",
+        "CH03-P037-049",
+        "CH03-P037-050"
+      ]
+    },
+    {
+      "page": 38,
+      "block_ids": [
+        "CH03-P038-051",
+        "CH03-P038-052",
+        "CH03-P038-053",
+        "CH03-P038-054",
+        "CH03-P038-055",
+        "CH03-P038-056",
+        "CH03-P038-057",
+        "CH03-P038-058",
+        "CH03-P038-059",
+        "CH03-P038-060"
+      ]
+    },
+    {
+      "page": 39,
+      "block_ids": [
+        "CH03-P038-060",
+        "CH03-P039-061",
+        "CH03-P039-062",
+        "CH03-P039-063",
+        "CH03-P039-064",
+        "CH03-P039-065",
+        "CH03-P039-066"
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": [
+    {
+      "term": "wet nurse",
+      "translation": "乳母；奶妈",
+      "note": "替别人的婴儿哺乳并照料孩子的女性"
+    },
+    {
+      "term": "heir",
+      "translation": "继承人",
+      "note": "`too many heirs` 暗示幼子继承机会有限"
+    },
+    {
+      "term": "poacher",
+      "translation": "偷猎者",
+      "note": "未经许可猎取他人土地上的猎物"
+    },
+    {
+      "term": "insolent",
+      "translation": "无礼的；顶撞的",
+      "note": "尤指对上级不敬"
+    },
+    {
+      "term": "hilt",
+      "translation": "剑柄",
+      "note": "包括护手与握柄部分"
+    },
+    {
+      "term": "gaunt",
+      "translation": "瘦削憔悴的",
+      "note": "常带不健康、骷髅般的感觉"
+    },
+    {
+      "term": "holdfast",
+      "translation": "小型堡垒；坚固据点",
+      "note": "奇幻和历史语境常用"
+    },
+    {
+      "term": "slaver",
+      "translation": "奴隶贩子",
+      "note": "从事捕捉或买卖奴隶的人"
+    },
+    {
+      "term": "ragged",
+      "translation": "破烂的；衣衫褴褛的",
+      "note": "此处形容毛皮服装"
+    },
+    {
+      "term": "don",
+      "translation": "穿上；披上",
+      "note": "文学化，与take off相对"
+    },
+    {
+      "term": "flinch",
+      "translation": "畏缩；因疼痛或恐惧猛地退缩",
+      "note": "`do not flinch`"
+    },
+    {
+      "term": "queer",
+      "translation": "奇怪的；异样的",
+      "note": "此处是较旧用法，不涉及性取向"
+    },
+    {
+      "term": "drift",
+      "translation": "风吹堆积的雪堆",
+      "note": "`snowdrift`的简写语境"
+    },
+    {
+      "term": "realm",
+      "translation": "王国；领土",
+      "note": "历史和奇幻语境常用"
+    },
+    {
+      "term": "anoint",
+      "translation": "涂圣油；举行傅油仪式",
+      "note": "宗教仪式用语"
+    },
+    {
+      "term": "mercy",
+      "translation": "宽慰；幸事；仁慈",
+      "note": "`some small mercy`指不幸中的一点安慰"
+    },
+    {
+      "term": "caress",
+      "translation": "轻抚；爱抚",
+      "note": "Viserys命令Daenerys触摸布料"
+    },
+    {
+      "term": "magister",
+      "translation": "潘托斯总督式尊称；显贵",
+      "note": "Illyrio的头衔"
+    },
+    {
+      "term": "dragonbone",
+      "translation": "龙骨",
+      "note": "本书中的珍贵材料"
+    },
+    {
+      "term": "tunic",
+      "translation": "束腰外衣；短袍",
+      "note": "中世纪常见衣物"
+    },
+    {
+      "term": "meekly",
+      "translation": "温顺地；怯弱顺从地",
+      "note": "表现恐惧下的服从"
+    },
+    {
+      "term": "wistfully",
+      "translation": "惆怅向往地",
+      "note": "想要却得不到的情绪"
+    },
+    {
+      "term": "usurper",
+      "translation": "篡位者；夺权者",
+      "note": "Targaryen对Robert的称呼"
+    },
+    {
+      "term": "treachery",
+      "translation": "背叛；不忠",
+      "note": "政治叙事中的道德定性"
+    },
+    {
+      "term": "fastness",
+      "translation": "要塞；坚固据点",
+      "note": "文学和历史用语"
+    },
+    {
+      "term": "parapet",
+      "translation": "城墙女儿墙；护墙",
+      "note": "防御建筑顶部矮墙"
+    },
+    {
+      "term": "garrison",
+      "translation": "守军；驻军",
+      "note": "驻守要塞的部队"
+    },
+    {
+      "term": "archon",
+      "translation": "执政官；城邦统治者",
+      "note": "自由城邦头衔"
+    },
+    {
+      "term": "gooseflesh",
+      "translation": "鸡皮疙瘩",
+      "note": "寒冷或恐惧造成"
+    },
+    {
+      "term": "regal",
+      "translation": "有王者气质的；庄严华贵的",
+      "note": "Illyrio对Daenerys的评价"
+    },
+    {
+      "term": "pallid",
+      "translation": "苍白的；缺乏血色的",
+      "note": "常暗示不健康"
+    },
+    {
+      "term": "palanquin",
+      "translation": "轿子；肩舆",
+      "note": "由人抬行的封闭乘具"
+    },
+    {
+      "term": "manse",
+      "translation": "大宅；豪宅",
+      "note": "此处指Drogo的宅邸"
+    },
+    {
+      "term": "eunuch",
+      "translation": "太监；阉人",
+      "note": "宫廷或豪宅仆役身份"
+    },
+    {
+      "term": "bloodrider",
+      "translation": "血盟卫；khal的亲密武士同伴",
+      "note": "Dothraki专名"
+    },
+    {
+      "term": "trifling",
+      "translation": "微不足道的",
+      "note": "Illyrio淡化Ser Jorah的罪"
+    },
+    {
+      "term": "affront",
+      "translation": "公然侮辱；冒犯",
+      "note": "对名誉或权威的冒犯"
+    },
+    {
+      "term": "khal",
+      "translation": "Dothraki部族首领",
+      "note": "本书专名"
+    },
+    {
+      "term": "khalasar",
+      "translation": "由khal统领的Dothraki群体与军队",
+      "note": "本书专名"
+    },
+    {
+      "term": "onyx",
+      "translation": "缟玛瑙；黑玛瑙",
+      "note": "比喻Drogo深黑眼睛"
+    }
+  ]
+}

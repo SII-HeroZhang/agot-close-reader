@@ -1,0 +1,1611 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 44 — SANSA",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    433,
+    440
+  ],
+  "block_count": 74,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 433,
+      "first_id": "CH44-P433-001",
+      "last_id": "CH44-P433-008"
+    },
+    {
+      "page": 434,
+      "first_id": "CH44-P434-009",
+      "last_id": "CH44-P434-017"
+    },
+    {
+      "page": 435,
+      "first_id": "CH44-P435-018",
+      "last_id": "CH44-P435-026"
+    },
+    {
+      "page": 436,
+      "first_id": "CH44-P436-027",
+      "last_id": "CH44-P436-038"
+    },
+    {
+      "page": 437,
+      "first_id": "CH44-P437-039",
+      "last_id": "CH44-P437-049"
+    },
+    {
+      "page": 438,
+      "first_id": "CH44-P438-050",
+      "last_id": "CH44-P438-062"
+    },
+    {
+      "page": 439,
+      "first_id": "CH44-P439-063",
+      "last_id": "CH44-P439-071"
+    },
+    {
+      "page": 440,
+      "first_id": "CH44-P440-072",
+      "last_id": "CH44-P440-074"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH44-P433-001",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "He wouldn’t send Ser Loras,” Sansa told Jeyne Poole that night as they shared a cold supper by lamplight. “I think it was because of his leg.”",
+      "translation": "",
+      "explanation_zh": "冷晚餐时Sansa告诉Jeyne，Eddard不派Loras大概因为伤腿疼痛。",
+      "literary_note_zh": "Sansa用Eddard leg pain解释不合hero story的决定，把复杂司法判断归因于情绪；这保护了她对Loras应被选中的信念。",
+      "background_zh": "**上一章判决：** Eddard拒绝主动请命的Loras，改派Beric率约百人执行对Gregor的王室判决。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-002",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Lord Eddard had taken his supper in his bedchamber with Alyn, Harwin, and Vayon Poole, the better to rest his broken leg, and Septa Mordane had complained of sore feet after standing in the gallery all day. Arya was supposed to join them, but she was late coming back from her dancing lesson.",
+      "translation": "",
+      "explanation_zh": "Eddard在bedchamber与guards、steward吃饭休腿，Mordane也脚痛，Arya仍在dancing lesson未归。",
+      "literary_note_zh": "Sansa与Jeyne讨论Eddard为何不派Loras，并把court judgment、white hart与Joffrey重新写进hero song逻辑。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-003",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "“His leg?” Jeyne said uncertainly. She was a pretty, dark-haired girl of Sansa’s own age. “Did Ser Loras hurt his leg?”",
+      "translation": "",
+      "explanation_zh": "Jeyne误以为受伤的是Loras。",
+      "literary_note_zh": "Sansa与Jeyne讨论Eddard为何不派Loras，并把court judgment、white hart与Joffrey重新写进hero song逻辑。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-004",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "“Not his leg,” Sansa said, nibbling delicately at a chicken leg. “Father’s leg, silly. It hurts him ever so much, it makes him cross. Otherwise I’m certain he would have sent Ser Loras.”",
+      "translation": "",
+      "explanation_zh": "Sansa边优雅吃chicken leg边解释是Father腿痛使其易怒，否则必会选Loras。",
+      "literary_note_zh": "chicken leg与Father’s leg形成轻微文字呼应；她优雅nibble时讨论父亲剧痛，显示经验距离。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-005",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Her father’s decision still bewildered her. When the Knight of Flowers had spoken up, she’d been sure she was about to see one of Old Nan’s stories come to life. Ser Gregor was the monster and Ser Loras the true hero who would slay him. He even looked a true hero, so slim and beautiful, with golden roses around his slender waist and his rich brown hair tumbling down into his eyes. And then Father had refused him! It had upset her more than she could tell. She had said as much to Septa Mordane as they descended the stairs from the gallery, but the septa had only told her it was not her place to question her lord father’s decisions.",
+      "translation": "",
+      "explanation_zh": "Eddard拒绝Loras使Sansa困惑失望，因为她已把Gregor与Loras分别看成Old Nan故事里的monster与hero。",
+      "literary_note_zh": "monster/true hero二分来自stories，不包含Beric队伍规模、Loras vengeance动机或Gregor拒捕可能性。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-006",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "That was when Lord Baelish had said, “Oh, I don’t know, Septa. Some of her lord father’s decisions could do with a bit of questioning. The young lady is as wise as she is lovely.” He made a sweeping bow to Sansa, so deep she was not quite sure if she was being complimented or mocked.",
+      "translation": "",
+      "explanation_zh": "回忆中Littlefinger说Eddard有些决定值得question，并向Sansa深鞠躬，使她不确定被赞还是被嘲。",
+      "literary_note_zh": "Littlefinger深bow同时像courtly compliment和讽刺，Sansa无法判读正是其语言优势。",
+      "background_zh": "**Littlefinger位置：** king councillor、Master of Coin与Catelyn childhood acquaintance；Sansa约十一岁，双方年龄与court authority极不对等。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-007",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "Septa Mordane had been very upset to realize that Lord Baelish had overheard them. “The girl was just talking, my lord,” she’d said. “Foolish chatter. She meant nothing by the comment.”",
+      "translation": "",
+      "explanation_zh": "Mordane发现对话被听见很不安，急忙把Sansa意见贬成无意义闲聊。",
+      "literary_note_zh": "Mordane急称foolish chatter是保护Sansa免court后果，也教她贵族女孩观点必须被迅速收回。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P433-008",
+      "page": 433,
+      "end_page": 433,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "Lord Baelish stroked his little pointed beard and said, “Nothing? Tell me, child, why would you have sent Ser Loras?”",
+      "translation": "",
+      "explanation_zh": "Littlefinger追问Sansa为何会派Loras。",
+      "literary_note_zh": "Sansa与Jeyne讨论Eddard为何不派Loras，并把court judgment、white hart与Joffrey重新写进hero song逻辑。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-009",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Sansa had no choice but to explain about heroes and monsters. The king’s councillor smiled. “Well, those are not the reasons I’d have given, but . . . ” He had touched her cheek, his thumb lightly tracing the line of a cheekbone. “Life is not a song, sweetling. You may learn that one day to your sorrow.”",
+      "translation": "",
+      "explanation_zh": "Sansa只得解释heroes与monsters；Littlefinger说life is not a song并触摸她cheek，预言她会悲伤学会。",
+      "literary_note_zh": "Life is not a song可能是准确警告，却由成年councillor在未经邀请触碰十一岁女孩时说出；权力与身体边界令场景不安。",
+      "background_zh": "**边界说明：** 文本只写Littlefinger触摸Sansa cheek并说警告；可确认她uneasy，不能由此段单独确定其全部意图。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-010",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Sansa did not feel like telling all that to Jeyne, however; it made her uneasy just to think back on it.",
+      "translation": "",
+      "explanation_zh": "这段回忆令Sansa不安，所以不告诉Jeyne。",
+      "literary_note_zh": "Sansa选择不讲不是忘记，而是回忆本身令她uneasy；她的感知已发出警报，即使尚不能命名原因。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-011",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“Ser Ilyn’s the King’s Justice, not Ser Loras,” Jcyne said. “Lord Eddard should have sent him.”",
+      "translation": "",
+      "explanation_zh": "Jeyne认为King’s Justice Ilyn才应受命。",
+      "literary_note_zh": "Sansa与Jeyne讨论Eddard为何不派Loras，并把court judgment、white hart与Joffrey重新写进hero song逻辑。",
+      "background_zh": "**King’s Justice：** Ser Ilyn是正式royal executioner；Eddard因其House Payne向Lannister fealty而绕过他。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-012",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "Sansa shuddered. Every time she looked at Ser Ilyn Payne, she shivered. He made her feel as though something dead were slithering over her naked skin. “Ser Ilyn’s almost like a second monster. I’m glad Father didn’t pick him.”",
+      "translation": "",
+      "explanation_zh": "Sansa看Ilyn就如有dead thing爬过裸肤，觉得他几乎是second monster，庆幸未选。",
+      "literary_note_zh": "slithering dead thing是强烈身体直觉；她对Ilyn危险感比对Littlefinger暧昧话术更容易识别。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-013",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“Lord Beric is as much a hero as Ser Loras. He’s ever so brave and gallant.”",
+      "translation": "",
+      "explanation_zh": "Jeyne说Beric同样勇敢有hero气质。",
+      "literary_note_zh": "Sansa与Jeyne讨论Eddard为何不派Loras，并把court judgment、white hart与Joffrey重新写进hero song逻辑。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-014",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“I suppose,” Sansa said doubtfully. Beric Dondarrion was handsome enough, but he was awfully old, almost twenty-two; the Knight of Flowers would have been much better. Of course, Jeyne had been in love with Lord Beric ever since she had first glimpsed him in the lists. Sansa thought she was being silly; Jeyne was only a steward’s daughter, after all, and no matter how much she mooned after him, Lord Beric would never look at someone so far beneath him, even if she hadn’t been half his age.",
+      "translation": "",
+      "explanation_zh": "Sansa嫌二十二岁的Beric太老，更偏爱Loras，并以阶级和年龄判断steward daughter Jeyne的爱慕无望。",
+      "literary_note_zh": "Sansa看得出Jeyne婚配阶级障碍，却看不出自身婚约也受政治利益而非song love控制。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-015",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "It would have been unkind to say so, however, so Sansa took a sip of milk and changed the subject. “I had a dream that Joffrey would be the one to take the white hart,” she said. It had been more of a wish, actually, but it sounded better to call it a dream. Everyone knew that dreams were prophetic. White harts were supposed to be very rare and magical, and in her heart she knew her gallant prince was worthier than his drunken father.",
+      "translation": "",
+      "explanation_zh": "她不说破以免伤人，转而把希望Joffrey猎得white hart包装成prophetic dream，并认为他胜过醉酒father。",
+      "literary_note_zh": "wish改称dream再用everyone knew证明prophetic，是motivated reasoning的小链条：先要结论，再升级证据地位。",
+      "background_zh": "**white hart：** 稀有白鹿，在songs中常具magic与纯洁意义；Robert、Joffrey等正随court hunt。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-016",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“A dream? Truly? Did Prince Joffrey just go up to it and touch it with his bare hand and do it no harm?”",
+      "translation": "",
+      "explanation_zh": "Jeyne问梦中Joffrey是否像songs那样徒手温柔触碰magic hart。",
+      "literary_note_zh": "Sansa与Jeyne讨论Eddard为何不派Loras，并把court judgment、white hart与Joffrey重新写进hero song逻辑。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P434-017",
+      "page": 434,
+      "end_page": 434,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“No,” Sansa said. “He shot it with a golden arrow and brought it back for me.” In the songs, the knights never killed magical beasts, they just went up to them and touched them and did them no harm, but she knew Joffrey liked hunting, especially the killing part. Only animals, though. Sansa was certain her prince had no part in murdering Jory and those other poor men; that had been his wicked uncle, the Kingslayer. She knew her father was still angry about that, but it wasn’t fair to blame Joff. That would be like blaming her for something that Arya had done.",
+      "translation": "",
+      "explanation_zh": "Sansa说Joffrey会以golden arrow杀鹿送她；她承认他爱killing，却坚信只杀animals、与Jory等死亡无关。",
+      "literary_note_zh": "她调整song规则以容纳Joffrey真实爱杀戮：magic beast仍可被golden arrow杀，只要结局是献给自己。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-018",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“I saw your sister this afternoon,” Jeyne blurted out, as if she’d been reading Sansa’s thoughts. “She was walking through the stables on her hands. Why would she do a thing like that?”",
+      "translation": "",
+      "explanation_zh": "Jeyne突然说看见Arya在stables倒立行走。",
+      "literary_note_zh": "她讲述Yoren等court琐事、偷吃pie，并在黎明把Beric队伍出发观看成song come to life。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-019",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "“I’m sure I don’t know why Arya does anything.” Sansa hated stables, smelly places full of manure and flies. Even when she went riding, she liked the boy to saddle the horse and bring it to her in the yard. “Do you want to hear about the court or not?”",
+      "translation": "",
+      "explanation_zh": "Sansa厌恶stables与Arya行为，催Jeyne继续听court故事。",
+      "literary_note_zh": "她讲述Yoren等court琐事、偷吃pie，并在黎明把Beric队伍出发观看成song come to life。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-020",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“I do,” Jeyne said.",
+      "translation": "",
+      "explanation_zh": "Jeyne表示想听。",
+      "literary_note_zh": "她讲述Yoren等court琐事、偷吃pie，并在黎明把Beric队伍出发观看成song come to life。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-021",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "“There was a black brother,” Sansa said, “begging men for the Wall, only he was kind of old and smelly.” She hadn’t liked that at all. She had always imagined the Night’s Watch to be men like Uncle Benjen. In the songs, they were called the black knights of the Wall. But this man had been crookbacked and hideous, and he looked as though he might have lice. If this was what the Night’s Watch was truly like, she felt sorry for her bastard half brother, Jon. “Father asked if there were any knights in the hall who would do honor to their houses by taking the black, but no one came forward, so he gave this Yoren his pick of the king’s dungeons and sent him on his way. And later these two brothers came before him, freeriders from the Dornish Marches, and pledged their swords to the service of the king. Father accepted their oaths . . . ”",
+      "translation": "",
+      "explanation_zh": "Sansa讲old、smelly、crookbacked的Yoren来Wall征人，现实Night’s Watch破坏她对Benjen式black knights想象；无人自愿后Eddard给他挑dungeons prisoners。",
+      "literary_note_zh": "Yoren外貌击碎black knight想象；Sansa短暂同情Jon，却仍主要用审美判断institution。",
+      "background_zh": "**Yoren：** Night’s Watch recruiter，可从king’s dungeons挑愿take the black的囚犯补充Wall人手。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-022",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Jeyne yawned. “Are there any lemon cakes?”",
+      "translation": "",
+      "explanation_zh": "Jeyne打哈欠，问有没有lemon cakes。",
+      "literary_note_zh": "她讲述Yoren等court琐事、偷吃pie，并在黎明把Beric队伍出发观看成song come to life。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-023",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "Sansa did not like being interrupted, but she had to admit, lemon cakes sounded more interesting than most of what had gone on in the throne room. “Let’s see,” she said.",
+      "translation": "",
+      "explanation_zh": "Sansa不喜欢被打断，却承认cakes比多数court事务有趣，提议去找。",
+      "literary_note_zh": "她承认lemon cakes更有趣，显示上一章重大petitions在儿童court体验中也会被食物迅速替代。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-024",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "The kitchen yielded no lemon cakes, but they did find half of a cold strawberry pie, and that was almost as good. They ate it on the tower steps, giggling and gossiping and sharing secrets, and Sansa went to bed that night feeling almost as wicked as Arya.",
+      "translation": "",
+      "explanation_zh": "两人没找到lemon cakes，却分吃cold strawberry pie、说笑秘密，Sansa觉得自己像Arya般小小越规。",
+      "literary_note_zh": "almost as wicked as Arya说明Sansa渴望小幅越规，却只在安全、甜食和同龄秘密范围内接受。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-025",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "The next morning she woke before first light and crept sleepily to her window to watch Lord Beric form up his men. They rode out as dawn was breaking over the city, with three banners going before them; the crowned stag of the king flew from the high staff, the direwolf of Stark and Lord Beric’s own forked lightning standard from shorter poles. It was all so exciting, a song come to life; the clatter of swords, the flicker of torchlight, banners dancing in the wind, horses snorting and whinnying, the golden glow of sunrise slanting through the bars of the portcullis as it jerked upward. The Winterfell men looked especially fine in their silvery mail and long grey cloaks.",
+      "translation": "",
+      "explanation_zh": "次日黎明Sansa看Beric队伍在king、Stark、Beric三旗前出发，把武器、torch、banner和horse看成song成真。",
+      "literary_note_zh": "她只看见banners与mail的exciting form，看不见队伍可能面对Gregor及Tywin的死亡风险。",
+      "background_zh": "**三面旗：** crowned stag表示Robert authority，direwolf表示Eddard/Stark guards，forked lightning是Beric personal sigil。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P435-026",
+      "page": 435,
+      "end_page": 435,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "Alyn carried the Stark banner. When she saw him rein in beside Lord Beric to exchange words, it made Sansa feel ever so proud. Alyn was handsomer than Jory had been; he was going to be a knight one day.",
+      "translation": "",
+      "explanation_zh": "Alyn执Stark banner与Beric交谈使她骄傲；她认为比Jory英俊且将成为knight。",
+      "literary_note_zh": "Alyn比刚死的Jory更handsome成为评价焦点；悲伤被新hero image快速覆盖，不等于她无情，而是叙事模板在组织注意。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-027",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "The Tower of the Hand seemed so empty after they left that Sansa was even pleased to see Arya when she went down to break her fast. “Where is everyone?” her sister wanted to know as she ripped the skin from a blood orange. “Did Father send them to hunt down Jaime Lannister?”",
+      "translation": "",
+      "explanation_zh": "men离开后Tower空荡，Sansa早餐时甚至高兴见Arya；Arya问是否去追Jaime。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-028",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "Sansa sighed. “They rode with Lord Beric, to behead Ser Gregor Clegane.” She turned to Septa Mordane, who was eating porridge with a wooden spoon. “Septa, will Lord Beric spike Ser Gregor’s head on his own gate or bring it back here for the king?” She and Jeyne Poole had been arguing over that last night.",
+      "translation": "",
+      "explanation_zh": "Sansa说队伍去斩Gregor，问Mordane会把head挂其gate还是带回king。",
+      "literary_note_zh": "head去向已变成姐妹昨夜argument，真实处刑被courtly curiosity游戏化。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-029",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "The septa was horror-struck. “A lady does not discuss such things over her porridge. Where are your courtesies, Sansa? I swear, of late you’ve been near as bad as your sister.”",
+      "translation": "",
+      "explanation_zh": "Mordane震惊，训诫lady不应在porridge前谈处刑，并说Sansa近来快像Arya。",
+      "literary_note_zh": "Mordane训的是餐桌courtesy，不是处刑伦理；这会教孩子隐藏暴力话题，而非理解暴力。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-030",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“What did Gregor do?” Arya asked.",
+      "translation": "",
+      "explanation_zh": "Arya问Gregor做了什么。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-031",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“He burned down a holdfast and murdered a lot of people, women and children too.”",
+      "translation": "",
+      "explanation_zh": "Sansa说他烧holdfast并杀了许多妇女儿童。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-032",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "Arya screwed up her face in a scowl. “Jaime Lannister murdered Jory and Heward and Wyl, and the Hound murdered Mycah. Somebody should have beheaded them.”",
+      "translation": "",
+      "explanation_zh": "Arya指出Jaime杀Jory等、Hound杀Mycah，他们也应被斩首。",
+      "literary_note_zh": "Arya用熟人具体死亡测试法律一致性：若Gregor该死，为何Jaime与Hound不受同样justice。",
+      "background_zh": "**未受审案件：** Jaime已离城，Hound杀Mycah曾由Robert以Lady之死结束争端；Arya认为两者均未获得同等justice。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-033",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“It’s not the same,” Sansa said. “The Hound is Joffrey’s sworn shield. Your butcher’s boy attacked the prince.”",
+      "translation": "",
+      "explanation_zh": "Sansa坚持不同，重复Hound是Joffrey sworn shield且Mycah袭击prince的官方说法。",
+      "literary_note_zh": "Sansa重复Mycah attacked prince的权威叙事，尽管她亲历river事件；维护Joffrey需要继续压制自己知道的细节。",
+      "background_zh": "**river事实：** Sansa当时目击Mycah没有攻击Joffrey，却在公开场合说记不得；如今仍使用Joffrey版本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-034",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "“Liar,” Arya said. Her hand clenched the blood orange so hard that red juice oozed between her fingers.",
+      "translation": "",
+      "explanation_zh": "Arya骂她liar，用力捏blood orange至红汁流出。",
+      "literary_note_zh": "blood orange把争论视觉化为血：握得越紧，红汁越像被压出的证词。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-035",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“Go ahead, call me all the names you want,” Sansa said airily. “You won’t dare when I’m married to Joffrey. You’ll have to bow to me and call me Your Grace.” She shrieked as Arya flung the orange across the table. It caught her in the middle of the forehead with a wet squish and plopped down into her lap.",
+      "translation": "",
+      "explanation_zh": "Sansa用未来queen身份威胁Arya必须bow；Arya把orange砸中她额头与衣裙。",
+      "literary_note_zh": "Sansa用future institutional power结束事实争论；Arya的orange以滑稽方式把imagined queen拉回早餐桌。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-036",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“You have juice on your face, Your Grace,” Arya said.",
+      "translation": "",
+      "explanation_zh": "Arya以Your Grace反讽她脸上沾juice。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-037",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "It was running down her nose and stinging her eyes. Sansa wiped it away with a napkin. When she saw what the fruit in her lap had done to her beautiful ivory silk dress, she shrieked again. “You’re horrible,” she screamed at her sister. “They should have killed you instead of Lady!”",
+      "translation": "",
+      "explanation_zh": "Sansa发现ivory silk dress染红，愤怒说应该杀Arya而非Lady。",
+      "literary_note_zh": "They should have killed you instead of Lady把积压哀伤武器化，攻击Arya最深责任伤口，也暴露Sansa仍未处理Lady之死。",
+      "background_zh": "**Lady：** Sansa direwolf因Nymeria逃走而被Robert命Eddard处死；姐妹都以不同方式承受责任与哀伤。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P436-038",
+      "page": 436,
+      "end_page": 436,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "Septa Mordane came lurching to her feet. “Your lord father will hear of this! Go to your chambers, at once. At once!”",
+      "translation": "",
+      "explanation_zh": "Mordane起身宣布会报告Eddard，命姐妹立刻回房。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-039",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“Me too?” Tears welled in Sansa’s eyes. “That’s not fair.”",
+      "translation": "",
+      "explanation_zh": "Sansa含泪问自己是否也被罚，认为不公平。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-040",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“The matter is not subject to discussion. Go!”",
+      "translation": "",
+      "explanation_zh": "Mordane拒绝讨论，命她走。",
+      "literary_note_zh": "早餐时姐妹用Gregor、Jaime、Hound和Mycah争论justice；blood orange引爆Lady创伤、queen权力和dress冲突。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-041",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Sansa stalked away with her head up. She was to be a queen, and queens did not cry. At least not where people could see. When she reached her bedchamber, she barred the door and took off her dress. The blood orange had left a blotchy red stain on the silk. “I hate her!” she screamed. She balled up the dress and flung it into the cold hearth, on top of the ashes of last night’s fire. When she saw that the stain had bled through onto her underskirt, she began to sob despite herself. She ripped off the rest of her clothes wildly, threw herself into bed, and cried herself back to sleep.",
+      "translation": "",
+      "explanation_zh": "Sansa昂首离开、坚持queen不当众哭，回房却因红渍透到underskirt而失控脱衣哭睡。",
+      "literary_note_zh": "queen不哭的表演只能维持到关门；public composure与private collapse构成她全部情绪教育。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-042",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "It was midday when Septa Mordane knocked upon her door. “Sansa. Your lord father will see you now.”",
+      "translation": "",
+      "explanation_zh": "中午Mordane敲门，通知Eddard召见。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-043",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "Sansa sat up. “Lady,” she whispered. For a moment it was as if the direwolf was there in the room, looking at her with those golden eyes, sad and knowing. She had been dreaming, she realized. Lady was with her, and they were running together, and . . . and . . . trying to remember was like trying to catch the rain with her fingers. The dream faded, and Lady was dead again.",
+      "translation": "",
+      "explanation_zh": "Sansa从与Lady奔跑的dream醒来，只剩模糊rain般抓不住的记忆，重新意识direwolf已死。",
+      "literary_note_zh": "Lady dream恢复两者共同奔跑的自由，醒来后trying to catch rain表现记忆与bond无法被意志留住。",
+      "background_zh": "**direwolf dream：** 本段只确认Sansa梦见与Lady奔跑并感到sad knowing gaze，不解释dream是否超自然。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-044",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“Sansa.” The rap came again, sharply. “Do you hear me?”",
+      "translation": "",
+      "explanation_zh": "Mordane再次急敲门确认她听见。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-045",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“Yes, Septa,” she called out. “Might I have a moment to dress, please?” Her eyes were red from crying, but she did her best to make herself beautiful.",
+      "translation": "",
+      "explanation_zh": "Sansa礼貌请求时间穿衣，并努力把哭红的自己整理得beautiful。",
+      "literary_note_zh": "make herself beautiful是Sansa面对冲突的armor；她修复可见外表，无法修复悲伤与安全。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-046",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "Lord Eddard was bent over a huge leather-bound book when Septa Mordane marched her into the solar, his plaster-wrapped leg stiff beneath the table. “Come here, Sansa,” he said, not unkindly, when the septa had gone for her sister. “Sit beside me.” He closed the book.",
+      "translation": "",
+      "explanation_zh": "Eddard带cast坐在solar读huge leather-bound book，温和让Sansa坐身边并合书。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "**huge book：** Eddard此前借grand tome查阅great houses婚配与children外貌记录；本段未显示当前具体页。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-047",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "Septa Mordane returned with Arya squirming in her grasp. Sansa had put on a lovely pale green damask gown and a look of remorse, but her sister was still wearing the ratty leathers and roughspun she’d worn at breakfast. “Here is the other one,” the septa announced.",
+      "translation": "",
+      "explanation_zh": "Mordane抓着挣扎Arya回来；Sansa换green damask和remorse表情，Arya仍穿旧leathers。",
+      "literary_note_zh": "green damask + look of remorse与ratty leathers形成姐妹不同的presentation politics；衣服不等于实际悔意。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-048",
+      "page": 437,
+      "end_page": 437,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“My thanks, Septa Mordane. I would talk to my daughters alone, if you would be so kind.” The septa bowed and left.",
+      "translation": "",
+      "explanation_zh": "Eddard感谢Mordane并要求单独同daughters谈。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P437-049",
+      "page": 437,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“Arya started it,” Sansa said quickly, anxious to have the first word. “She called me a liar and threw an orange at me and spoiled my dress, the ivory silk, the one Queen Cersei gave me when I was betrothed to Prince Joffrey. She hates that I’m going to marry the prince. She tries to spoil everything, Father, she can’t stand for anything to be beautiful or nice or splendid.”",
+      "translation": "",
+      "explanation_zh": "Sansa抢先控诉Arya叫她liar、扔orange、毁Cersei所赠订婚dress，并说Arya嫉妒一切beauty。",
+      "literary_note_zh": "Sansa抢first word不是只求事实，而是抢占story frame：dress由queen赠送，把财物损害升级为婚约与beauty受攻击。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-050",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“Enough, Sansa.” Lord Eddard’s voice was sharp with impatience.",
+      "translation": "",
+      "explanation_zh": "Eddard不耐烦地叫Sansa够了。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-051",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "Arya raised her eyes. “I’m sorry, Father. I was wrong and I beg my sweet sister’s forgiveness.”",
+      "translation": "",
+      "explanation_zh": "Arya主动认错并请求sweet sister原谅。",
+      "literary_note_zh": "Arya突然道歉显示她可能读出Father疲惫或更大危机；也使Sansa准备好的攻防脚本失效。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-052",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "Sansa was so startled that for a moment she was speechless. Finally she found her voice. “What about my dress?”",
+      "translation": "",
+      "explanation_zh": "Sansa惊讶到失语，恢复后首先问dress怎么办。",
+      "literary_note_zh": "What about my dress?表明Sansa把apology理解为需要material repair，而非关系结束争执。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-053",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "“Maybe . . . I could wash it,” Arya said doubtfully.",
+      "translation": "",
+      "explanation_zh": "Arya犹豫提出帮她洗。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-054",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“Washing won’t do any good,” Sansa said. “Not if you scrubbed all day and all night. The silk is ruined.”",
+      "translation": "",
+      "explanation_zh": "Sansa说silk无论怎样scrub都无法恢复。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-055",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“Then I’ll . . . make you a new one,” Arya said.",
+      "translation": "",
+      "explanation_zh": "Arya又提出做new dress。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-056",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "Sansa threw back her head in disdain. “You? You couldn’t sew a dress fit to clean the pigsties.”",
+      "translation": "",
+      "explanation_zh": "Sansa蔑视Arya针线，说她连清pigsties的dress都缝不好。",
+      "literary_note_zh": "Arya连续提repair，Sansa连续否定并羞辱技能；此时她要的已不只是dress，而是确认受害与优越位置。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-057",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Their father sighed. “I did not call you here to talk of dresses. I’m sending you both back to Winterfell.”",
+      "translation": "",
+      "explanation_zh": "Eddard打断dress争论，宣布两人都回Winterfell。",
+      "literary_note_zh": "离城announcement让早餐事件瞬间失去尺度，Eddard召见真正目的不是discipline而是security evacuation。",
+      "background_zh": "**撤离决定：** Eddard认为King’s Landing已无法保护daughters，计划让两人及household护送回Winterfell。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-058",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "For the second time Sansa found herself too stunned for words. She felt her eyes grow moist again.",
+      "translation": "",
+      "explanation_zh": "Sansa第二次震惊无言，眼睛又湿。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-059",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "“You can’t,” Arya said.",
+      "translation": "",
+      "explanation_zh": "Arya说Eddard不能这样。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-060",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“Please, Father,” Sansa managed at last. “Please don’t.”",
+      "translation": "",
+      "explanation_zh": "Sansa终于请求Father不要送走。",
+      "literary_note_zh": "Lady梦后两人被Eddard召见；Arya道歉仍未修复dress争执，Eddard突然宣布为安全送她们回Winterfell。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-061",
+      "page": 438,
+      "end_page": 438,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "Eddard Stark favored his daughters with a tired smile. “At last we’ve found something you agree on.”",
+      "translation": "",
+      "explanation_zh": "Eddard疲惫笑说姐妹总算有一致意见。",
+      "literary_note_zh": "幽默短暂标出姐妹深层一致：两人都不想被成年人无协商改变生活。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P438-062",
+      "page": 438,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“I didn’t do anything wrong,” Sansa pleaded with him. “I don’t want to go back.” She loved Mng’s Landing; the pagaentry of the court, the high lords and ladies in their velvets and silks and gemstones, the great city with all its people. The tournament had been the most magical time of her whole life, and there was so much she had not seen yet, harvest feasts and masked balls and mummer shows. She could not bear the thought of losing it all. “Send Arya away, she started it, Father, I swear it. I’ll be good, you’ll see, just let me stay and I promise to be as fine and noble and courteous as the queen.”",
+      "translation": "",
+      "explanation_zh": "Sansa以自己没做错为由求留下，列举court服饰、city、tourney、feasts、balls和shows，并许诺像queen般高贵。",
+      "literary_note_zh": "源页印作Mng’s Landing；按原文保留。Sansa列举的是spectacle与未来活动，不包括上一章villagers所经历的city政治代价。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-063",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Father’s mouth twitched strangely. “Sansa, I’m not sending you away for fighting, though the gods know I’m sick of you two squabbling. I want you back in Winterfell for your own safety. Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.”",
+      "translation": "",
+      "explanation_zh": "Eddard解释不是惩罚争吵，而是为安全：三名men近处被杀，Robert却去hunt。",
+      "literary_note_zh": "Robert goes hunting再次成为治理缺席证据；Eddard不向孩子透露全部调查，只给足以解释危险的近处死亡。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-064",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "Arya was chewing at her lip in that disgusting way she had. “Can we take Syrio back with us?”",
+      "translation": "",
+      "explanation_zh": "Arya咬唇问能否带Syrio回去。",
+      "literary_note_zh": "Arya第一反应是能否带mentor，说明她衡量迁移时关心relationship continuity，而非city spectacle。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-065",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "“Who cares about your stupid dancing master?” Sansa flared. “Father, I only just now remembered, I can’t go away, I’m to marry Prince Joffrey.” She tried to smile bravely for him. “I love him, Father, I truly truly do, I love him as much as Queen Naerys loved Prince Aemon the Dragonknight, as much as Jonquil loved Ser Florian. I want to be his queen and have his babies.”",
+      "translation": "",
+      "explanation_zh": "Sansa斥Syrio无关，拿与Joffrey婚约阻止离开，并用Naerys–Aemon、Jonquil–Florian故事宣称爱情和生子愿望。",
+      "literary_note_zh": "Sansa用历史romance为自己的感觉提供script；want babies把婚约想象成完整成人身份，却尚未理解政治与Joffrey行为风险。",
+      "background_zh": "**romance pairs：** Naerys–Aemon与Jonquil–Florian是Sansa用来理解理想爱情的historical/legendary models。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-066",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“Sweet one,” her father said gently, “listen to me. When you’re old enough, I will make you a match with a high lord who’s worthy of you, someone brave and gentle and strong. This match with Joffrey was a terrible mistake. That boy is no Prince Aemon, you must believe me.”",
+      "translation": "",
+      "explanation_zh": "Eddard温和承诺将来给她找worthy high lord，直说Joffrey婚约是错误、他不是Prince Aemon。",
+      "literary_note_zh": "Eddard不只是取消trip，而正式撤回royal match；terrible mistake是对Robert alliance最严重的私人转向。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-067",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "“He is!” Sansa insisted. “I don’t want someone brave and gentle, I want him. We’ll be ever so happy, just like in the songs, you’ll see. I’ll give him a son with golden hair, and one day he’ll be the king of all the realm, the greatest king that ever was, as brave as the wolf and as proud as the lion.”",
+      "translation": "",
+      "explanation_zh": "Sansa拒绝替代，坚信songs式幸福和golden-haired son将成为wolf般勇、lion般傲的great king。",
+      "literary_note_zh": "golden hair、wolf、lion把child、Stark、Lannister symbols拼成理想继承人，却遗漏Baratheon stag。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-068",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "Arya made a face. “Not if Joffrey’s his father,” she said. “He’s a liar and a craven and anyhow he’s a stag, not a lion.”",
+      "translation": "",
+      "explanation_zh": "Arya说Joffrey是liar、craven，而且父系纹章应是stag而非lion。",
+      "literary_note_zh": "Arya用heraldry常识纠错：作为Robert legal son，Joffrey应首先是stag；这句话与Eddard调查的genealogy产生意外连接。",
+      "background_zh": "**heraldry：** Robert属House Baratheon，sigil为crowned stag；Cersei属Lannister，sigil为lion。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-069",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "Sansa felt tears in her eyes. “He is not! He’s not the least bit like that old drunken king,” she screamed at her sister, forgetting herself in her grief.",
+      "translation": "",
+      "explanation_zh": "Sansa哭喊Joffrey一点也不像old drunken king，无意说出更尖锐的父子差异。",
+      "literary_note_zh": "Sansa说not like king本想赞Joffrey，却进一步强调父子不相似；信息价值来自她未意识到自己在提供clue。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-070",
+      "page": 439,
+      "end_page": 439,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "Father looked at her strangely. “Gods,” he swore softly, “out of the mouth of babes . . . ” He shouted for Septa Mordane. To the girls he said, “I am looking for a fast trading galley to take you home. These days, the sea is safer than the kingsroad. You will sail as soon as I can find a proper ship, with Septa Mordane and a complement of guards . . . and yes, with Syrio Forel, if he agrees to enter my service. But say nothing of this. It’s better if no one knows of our plans. We’ll talk again tomorrow.”",
+      "translation": "",
+      "explanation_zh": "Eddard因姐妹童言突然领悟某事，立即安排秘密乘trading galley回家，可带Mordane、guards及愿受雇的Syrio。",
+      "literary_note_zh": "out of mouth of babes表示儿童无意说出成人忽略的真相。Eddard反应表明得到线索，但本段尚未说明完整结论。",
+      "background_zh": "**保密路线：** Eddard寻fast trading galley，因当前kingsroad更危险；离城计划不得外泄。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P439-071",
+      "page": 439,
+      "end_page": 440,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "Sansa cried as Septa Mordane marched them down the steps. They were going to take it all away; the tournaments and the court and her prince, everything, they were going to send her back to the bleak grey walls of Winterfell and lock her up forever. Her life was over before it had begun.",
+      "translation": "",
+      "explanation_zh": "下楼时Sansa哭，觉得court、tournaments与prince全被夺走，Winterfell是永远囚禁。",
+      "literary_note_zh": "Sansa把回Winterfell理解为lock forever，安全措施在其视角中成为identity death；情感真实不等于风险判断准确。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P440-072",
+      "page": 440,
+      "end_page": 440,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "“Stop that weeping, child,” Septa Mordane said sternly. “I am certain your lord father knows what is best for you.”",
+      "translation": "",
+      "explanation_zh": "Mordane叫她停止哭，信任Father知道什么最好。",
+      "literary_note_zh": "Sansa以King’s Landing spectacle和Joffrey婚约抗拒；姐妹关于stag/lion及父子相似的话触发Eddard洞见，秘密撤离计划确定。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P440-073",
+      "page": 440,
+      "end_page": 440,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "“It won’t be so bad, Sansa,” Arya said. “We’re going to sail on a galley. It will be an adventure, and then we’ll be with Bran and Robb again, and Old Nan and Hodor and the rest.” She touched her on the arm.",
+      "translation": "",
+      "explanation_zh": "Arya安慰航海会是adventure，回家还能见Bran、Robb、Old Nan、Hodor，并触碰她手臂。",
+      "literary_note_zh": "Arya努力把共同失去改写成adventure与reunion，并主动touch；这是争吵后明确和解尝试。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH44-P440-074",
+      "page": 440,
+      "end_page": 440,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“Hodor!” Sansa yelled. “You ought to marry Hodor, you’re just like him, stupid and hairy and ugly!” She wrenched away from her sister’s hand, stormed into her bedchamber, and barred the door behind her.",
+      "translation": "",
+      "explanation_zh": "Sansa以Hodor羞辱Arya，挣脱后冲回bedchamber锁门。",
+      "literary_note_zh": "Sansa以Hodor的认知、外貌作侮辱，既伤Arya也贬低Hodor；锁门重复她以封闭空间控制无法控制的离开。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Sansa视角过滤、song逻辑、姐妹创伤与Eddard秘密撤离决定。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

@@ -1,0 +1,1873 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 54 — DAENERYS",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    533,
+    542
+  ],
+  "block_count": 86,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 533,
+      "first_id": "CH54-P533-001",
+      "last_id": "CH54-P533-008"
+    },
+    {
+      "page": 534,
+      "first_id": "CH54-P534-009",
+      "last_id": "CH54-P534-016"
+    },
+    {
+      "page": 535,
+      "first_id": "CH54-P535-017",
+      "last_id": "CH54-P535-022"
+    },
+    {
+      "page": 536,
+      "first_id": "CH54-P536-023",
+      "last_id": "CH54-P536-029"
+    },
+    {
+      "page": 537,
+      "first_id": "CH54-P537-030",
+      "last_id": "CH54-P537-037"
+    },
+    {
+      "page": 538,
+      "first_id": "CH54-P538-038",
+      "last_id": "CH54-P538-049"
+    },
+    {
+      "page": 539,
+      "first_id": "CH54-P539-050",
+      "last_id": "CH54-P539-062"
+    },
+    {
+      "page": 540,
+      "first_id": "CH54-P540-063",
+      "last_id": "CH54-P540-070"
+    },
+    {
+      "page": 541,
+      "first_id": "CH54-P541-071",
+      "last_id": "CH54-P541-081"
+    },
+    {
+      "page": 542,
+      "first_id": "CH54-P542-082",
+      "last_id": "CH54-P542-086"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH54-P533-001",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "[Content omitted: explicit sexual description involving a minor. Paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "【安全占位】亲密场景后Drogo仍拒绝iron chair，认为预言中的stallion不需要它。",
+      "literary_note_zh": "本段因未成年Daenerys露骨描写安全省略；保留iron chair／stallion冲突，它启动全章目标。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-002",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Dany propped herself on an elbow to look up at him, so tall and magnificent. She loved his hair especially. It had never been cut; he had never known defeat. “It was prophesied that the stallion will ride to the ends of the earth,” she said.",
+      "translation": "",
+      "explanation_zh": "Daenerys欣赏Drogo从未剪过的长发，并以预言会骑到earth ends回应。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-003",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "“The earth ends at the black salt sea,” Drogo answered at once. He wet a cloth in a basin of warm water to wipe the sweat and oil from his skin. “No horse can cross the poison water.”",
+      "translation": "",
+      "explanation_zh": "Drogo认为世界止于black salt sea，horses不能穿过poison water。",
+      "literary_note_zh": "poison water是Dothraki文化命名：不可饮、不可骑越的sea被解释为污染而非道路。",
+      "background_zh": "**black salt sea：** Dothraki对ocean的称呼；horse culture缺乏航海传统并将sea视为poison water。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-004",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "“In the Free Cities, there are ships by the thousand,” Dany told him, as she had told him before. “Wooden horses with a hundred legs, that fly across the sea on wings full of wind.”",
+      "translation": "",
+      "explanation_zh": "Daenerys再次把ships比作百足、有风翼的wooden horses。",
+      "literary_note_zh": "wooden horses把陌生technology翻译成horse culture能理解的形象，但Drogo仍拒绝。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-005",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Khal Drogo did not want to hear it. “We will speak no more of wooden horses and iron chairs.” He dropped the cloth and began to dress. “This day I will go to the grass and hunt, woman wife,” he announced as he shrugged into a painted vest and buckled on a wide belt with heavy medallions of silver, gold, and bronze.",
+      "translation": "",
+      "explanation_zh": "Drogo不愿再谈wooden horses与iron chairs，改去草原猎hrakkar。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-006",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "“Yes, my sun-and-stars,” Dany said. Drogo would take his bloodriders and ride in search of hrakkar, the great white lion of the plains. If they returned triumphant, her lord husband’s joy would be fierce, and he might be willing to hear her out.",
+      "translation": "",
+      "explanation_zh": "Daenerys顺从，希望狩猎凯旋后Drogo心情好、愿再听她劝说。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-007",
+      "page": 533,
+      "end_page": 533,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "Savage beasts he did not fear, nor any man who had ever drawn breath, but the sea was a different matter. To the Dothraki, water that a horse could not drink was something foul; the heaving grey-green plains of the ocean filled them with superstitious loathing. Drogo was a bolder man than the other horselords in half a hundred ways, she had found . . . but not in this. If only she could get him onto a ship . . .",
+      "translation": "",
+      "explanation_zh": "Drogo无惧野兽人类却对sea有Dothraki superstition，她盘算如何让他登船。",
+      "literary_note_zh": "Drogo在其他方面bold却不越sea，显示勇敢受culture-specific taboo限制。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P533-008",
+      "page": 533,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "After the khal and his bloodriders had ridden off with their bows, Dany summoned her handmaids. Her body felt so fat and ungainly now that she welcomed the help of their strong arms and deft hands, whereas before she had often been uncomfortable with the way they fussed and fluttered about her. They scrubbed her clean and dressed her in sandsilk, loose and flowing. As Doreah combed out her hair, she sent Jhiqui to find Ser Jorah Mormont.",
+      "translation": "",
+      "explanation_zh": "Drogo离开后handmaids帮身形笨重的Daenerys清洗换sandsilk，她召Jorah。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-009",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "The knight came at once. He wore horsehair leggings and painted vest, like a rider. Coarse black hair covered his thick chest and muscular arms. “My princess. How may I serve you?”",
+      "translation": "",
+      "explanation_zh": "Jorah立即以Dothraki-style衣着来服务。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-010",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "“You must talk to my lord husband,” Dany said. “Drogo says the stallion who mounts the world will have all the lands of the earth to rule, and no need to cross the poison water. He talks of leading his khalasar east after Rhaego is born, to plunder the lands around the Jade Sea.”",
+      "translation": "",
+      "explanation_zh": "Daenerys要他劝Drogo西进；Drogo却计划Rhaego出生后向Jade Sea掠夺。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "**Jade Sea：** Essos远东贸易区域，wealth对Drogo比陌生Westeros更直接可想象。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-011",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "The knight looked thoughtful. “The khal has never seen the Seven Kingdoms,” he said. “They are nothing to him. If he thinks of them at all, no doubt he thinks of islands, a few small cities clinging to rocks in the manner of Lorath or Lys, surrounded by stormy seas. The riches of the east must seem a more tempting prospect.”",
+      "translation": "",
+      "explanation_zh": "Jorah解释Drogo没见Seven Kingdoms，只会把它们想成贫小islands，east riches更诱人。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-012",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“But he must ride west,” Dany said, despairing. “Please, help me make him understand.” She had never seen the Seven Kingdoms either, no more than Drogo, yet she felt as though she knew them from all the tales her brother had told her. Viserys had promised her a thousand times that he would take her back one day, but he was dead now and his promises had died with him.",
+      "translation": "",
+      "explanation_zh": "Daenerys绝望坚持west，把Viserys stories当作自己对故国的认识，而其承诺已随死亡消失。",
+      "literary_note_zh": "两人都未见Westeros；Daenerys的home knowledge来自Viserys selective tales，不比Drogo直接经验更多。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-013",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“The Dothraki do things in their own time, for their own reasons,” the knight answered. “Have patience, Princess. Do not make your brother’s mistake. We will go home, I promise you.”",
+      "translation": "",
+      "explanation_zh": "Jorah劝耐心、别犯Viserys错误，保证终会home。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-014",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "Home? The word made her feel sad. Ser Jorah had his Bear Island, but what was home to her? A few tales, names recited as solemnly as the words of a prayer, the fading memory of a red door . . . was Vaes Dothrak to be her home forever? When she looked at the crones of the dosh khaleen, was she looking at her future?",
+      "translation": "",
+      "explanation_zh": "home使她悲伤：Jorah有Bear Island，她只有stories、names与red door memory，并怕余生留Vaes Dothrak。",
+      "literary_note_zh": "home由place转成memory inventory：names、prayer与red door；她的政治目标也填补无家感。",
+      "background_zh": "**dosh khaleen future：** khal死后khaleesi按传统回Vaes Dothrak加入widowed crones，不能自由另建生活。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-015",
+      "page": 534,
+      "end_page": 534,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "Ser Jorah must have seen the sadness on her face. “A great caravan arrived during the night, Khaleesi. Four hundred horses, from Pentos by way of Norvos and Qohor, under the command of Merchant Captain Byan Votyris. Illyrio may have sent a letter. Would you care to visit the Western Market?”",
+      "translation": "",
+      "explanation_zh": "Jorah转告Pentos caravan夜抵，Illyrio或有letter，邀请她逛Western Market。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P534-016",
+      "page": 534,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "Dany stirred. “Yes,” she said. “I would like that.” The markets came alive when a caravan had come in. You could never tell what treasures the traders might bring this time, and it would be good to hear men speaking Valyrian again, as they did in the Free Cities. “Irri, have them prepare a litter.”",
+      "translation": "",
+      "explanation_zh": "市场与Valyrian speech唤起兴趣，Daenerys命备litter。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P535-017",
+      "page": 535,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“I shall tell your khas,” Ser Jorah said, withdrawing.",
+      "translation": "",
+      "explanation_zh": "Jorah说会通知她的khas。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P535-018",
+      "page": 535,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "If Khal Drogo had been with her, Dany would have ridden her silver. Among the Dothraki, mothers stayed on horseback almost up to the moment of birth, and she did not want to seem weak in her husband’s eyes. But with the khal off hunting, it was pleasant to lie back on soft cushions and be carried across Vaes Dothrak, with red silk curtains to shield her from the sun. Ser Jorah saddled up and rode beside her, with the four young men of her khas and her handmaids.",
+      "translation": "",
+      "explanation_zh": "Drogo在时她会骑silver显示强健；如今选择litter，由Jorah、khas、handmaids护送。",
+      "literary_note_zh": "Daenerys再劝Drogo渡sea取iron throne失败；她与Jorah讨论east/west利益，并思考home、red door与last dragon责任。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P535-019",
+      "page": 535,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "The day was warm and cloudless, the sky a deep blue. When the wind blew, she could smell the rich scents of grass and earth. As her litter passed beneath the stolen monuments, she went from sunlight to shadow and back again. Dany swayed along, studying the faces of dead heroes and forgotten kings. She wondered if the gods of burned cities could still answer prayers.",
+      "translation": "",
+      "explanation_zh": "沿stolen monuments穿行，她看dead kings faces，怀疑burned cities gods还能否答祷。",
+      "literary_note_zh": "burned-city gods问题暗示Vaes Dothrak monuments既是trophies，也是被征服信仰的残余。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P535-020",
+      "page": 535,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "If I were not the blood of the dragon, she thought wistfully, this could be my home. She was khaleesi, she had a strong man and a swift horse, handmaids to serve her, warriors to keep her safe, an honored place in the dosh khaleen awaiting her when she grew old . . . and in her womb grew a son who would one day bestride the world. That should be enough for any woman . . . but not for the dragon. With Viserys gone, Daenerys was the last, the very last. She was the seed of kings and conquerors, and so too the child inside her. She must not forget.",
+      "translation": "",
+      "explanation_zh": "她觉得若非blood of dragon，此生活本可作home；但last Targaryen与conqueror seed身份要求她不能满足。",
+      "literary_note_zh": "that should be enough／not for the dragon让个人满足与dynastic identity对立；dragon voice推动她继续西望。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P535-021",
+      "page": 535,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "The Western Market was a great square of beaten earth surrounded by warrens of mud-baked brick, animal pens, whitewashed drinking halls. Hummocks rose from the ground like the backs of great subterranean beasts breaking the surface, yawning black mouths leading down to cool and cavernous storerooms below. The interior of the square was a maze of stalls and crookback aisles, shaded by awnings of woven grass.",
+      "translation": "",
+      "explanation_zh": "Western Market由土砖、畜栏、饮酒厅、地下storerooms及曲折stalls构成。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P535-022",
+      "page": 535,
+      "end_page": 535,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "A hundred merchants and traders were unloading their goods and setting up in stalls when they arrived, yet even so the great market seemed hushed and deserted compared to the teeming bazaars that Dany remembered from Pentos and the other Free Cities. The caravans made their way to Vaes Dothrak from east and west not so much to sell to the Dothraki as to trade with each other, Ser Jorah had explained. The riders let them come and go unmolested, so long as they observed the peace of the sacred city, did not profane the Mother of Mountains or the Womb of the World, and honored the crones of the dosh khaleen with the traditional gifts of salt, silver, and seed. The Dothraki did not truly comprehend this business of buying and selling.",
+      "translation": "",
+      "explanation_zh": "caravans主要彼此trade；Dothraki以遵守sacred-city peace和礼赠为条件放行，却不理解buy/sell。",
+      "literary_note_zh": "sacred-city peace使market成为不同贸易网络的neutral zone；Dothraki以gift而非price理解exchange。",
+      "background_zh": "**Vaes Dothrak peace：** sacred city内不得持武器、流血或亵渎Mother/Womb，caravans可在条件下安全trade。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-023",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "Dany liked the strangeness of the Eastern Market too, with all its queer sights and sounds and smells. She often spent her mornings there, nibbling tree eggs, locust pie, and green noodles, listening to the high ululating voices of the spellsingers, gaping at manticores in silver cages and immense grey elephants and the striped black-and-white horses of the Jogos Nhai. She enjoyed watching all the people too: dark solemn Asshai’i and tall pale Qartheen, the bright-eyed men of Yi Ti in monkey-tail hats, warrior maids from Bayasabhad, Shamyriana, and Kayakayanaya with iron rings in their nipples and rubies in their cheeks, even the dour and frightening Shadow Men, who covered their arms and legs and chests with tattoos and hid their faces behind masks. The Eastern Market was a place of wonder and magic for Dany.",
+      "translation": "",
+      "explanation_zh": "Daenerys也爱Eastern Market的食物、animals、各地人群与magic sights。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-024",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "But the Western Market smelled of home.",
+      "translation": "",
+      "explanation_zh": "但Western Market气味像home。",
+      "literary_note_zh": "一句短段把home定位为sensory memory，不是她实际拥有的territory。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-025",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "As Irri and Jhiqui helped her from her litter, she sniffed, and recognized the sharp odors of garlic and pepper, scents that reminded Dany of days long gone in the alleys of Tyrosh and Myr and brought a fond smile to her face. Under that she smelled the heady sweet perfumes of Lys. She saw slaves carrying bolts of intricate Myrish lace and fine wools in a dozen rich colors. Caravan guards wandered among the aisles in copper helmets and knee-length tunics of quilted yellow cotton, empty scabbards swinging from their woven leather belts. Behind one stall an armorer displayed steel breastplates worked with gold and silver in ornate patterns, and helms hammered in the shapes of fanciful beasts. Next to him was a pretty young woman selling Lannisport goldwork, rings and brooches and torcs and exquisitely wrought medallions suitable for belting. A huge eunuch guarded her stall, mute and hairless, dressed in sweat-stained velvets and scowling at anyone who came close. Across the aisle, a fat cloth trader from Yi Ti was haggling with a Pentoshi over the price of some green dye, the monkey tail on his hat swaying back and forth as he shook his head.",
+      "translation": "",
+      "explanation_zh": "garlic、pepper、Lys perfume与Myrish goods召回流亡城市记忆，市场细节展现跨洲trade。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-026",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "“When I was a little girl, I loved to play in the bazaar,” Dany told Ser Jorah as they wandered down the shady aisle between the stalls. “It was so alive there, all the people shouting and laughing, so many wonderful things to look at . . . though we seldom had enough coin to buy anything . . . well, except for a sausage now and again, or honeyfingers . . . do they have honeyfingers in the Seven Kingdoms, the kind they bake in Tyrosh?”",
+      "translation": "",
+      "explanation_zh": "她回忆童年bazaar热闹却贫穷，只偶尔买sausage或honeyfingers，并问Westeros是否有。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-027",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“Cakes, are they? I could not say, Princess.” The knight bowed. “If you would pardon me for a time, I will seek out the captain and see if he has letters for us.”",
+      "translation": "",
+      "explanation_zh": "Jorah说不知道，借口去找captain取letters。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-028",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "“Very well. I’ll help you find him.”",
+      "translation": "",
+      "explanation_zh": "Daenerys想同行。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P536-029",
+      "page": 536,
+      "end_page": 536,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“There is no need for you to trouble yourself.” Ser Jorah glanced away impatiently. “Enjoy the market. I will rejoin you when my business is concluded.”",
+      "translation": "",
+      "explanation_zh": "Jorah不耐地拒绝，让她独自逛，称事后会合。",
+      "literary_note_zh": "Jorah glance away与impatience是可观察异常；Daenerys用sexual privacy解释，错过更危险的letter context。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-030",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "Curious, Dany thought as she watched him stride off through the throngs. She didn’t see why she should not go with him. Perhaps Ser Jorah meant to find a woman after he met with the merchant captain. Whores frequently traveled with the caravans, she knew, and some men were queerly shy about their couplings. She gave a shrug. “Come,” she told the others.",
+      "translation": "",
+      "explanation_zh": "Daenerys误以为Jorah想私下找woman，未追问便继续。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-031",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "Her handmaids trailed along as Dany resumed her stroll through the market. “Oh, look,” she exclaimed to Doreah, “those are the kind of sausages I meant.” She pointed to a stall where a wizened little woman was grilling meat and onions on a hot firestone. “They make them with lots of garlic and hot peppers.” Delighted with her discovery, Dany insisted the others join her for a sausage. Her handmaids wolfed theirs down giggling and grinning, though the men of her khas sniffed at the grilled meat suspiciously. “They taste different than I remember,” Dany said after her first few bites.",
+      "translation": "",
+      "explanation_zh": "她找到童年garlic sausage，请众人同吃，却觉得味道不同。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-032",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“In Pentos, I make them with pork,” the old woman said, “but all my pigs died on the Dothraki sea. These are made of horsemeat, Khaleesi, but I spice them the same.”",
+      "translation": "",
+      "explanation_zh": "seller说Pentos用pork，此处pigs死于旅途所以改horsemeat。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-033",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“Oh.” Dany felt disappointed, but Quaro liked his sausage so well he decided to have another one, and Rakharo had to outdo him and eat three more, belching loudly. Dany giggled.",
+      "translation": "",
+      "explanation_zh": "Daenerys虽失望，khas争吃使她发笑。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-034",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "“You have not laughed since your brother the Khal Rhaggat was crowned by Drogo,” said Irri. “It is good to see, Khaleesi.”",
+      "translation": "",
+      "explanation_zh": "Irri指出Viserys death后她首次笑，认为是好事。",
+      "literary_note_zh": "Western Market以Free Cities气味唤起童年；她短暂恢复girlhood laughter并参与Dothraki gift exchange。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-035",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "Dany smiled shyly. It was sweet to laugh. She felt half a girl again.",
+      "translation": "",
+      "explanation_zh": "Daenerys感到像恢复一半girlhood。",
+      "literary_note_zh": "half a girl承认khaleesi、pregnancy、dynasty已压缩她的adolescence；市场笑声短暂恢复年龄感。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-036",
+      "page": 537,
+      "end_page": 537,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "They wandered for half the morning. She saw a beautiful feathered cloak from the Summer Isles, and took it for a gift. In return, she gave the merchant a silver medallion from her belt. That was how it was done among the Dothraki. A birdseller taught a green-and-red parrot to say her name, and Dany laughed again, yet still refused to take him. What would she do with a green-and-red parrot in a khalasar? She did take a dozen flasks of scented oils, the perfumes of her childhood; she had only to close her eyes and sniff them and she could see the big house with the red door once more. When Doreah looked longingly at a fertility charm at a magician’s booth, Dany took that too and gave it to the handmaid, thinking that now she should find something for Irri and Jhiqui as well.",
+      "translation": "",
+      "explanation_zh": "她以Dothraki gift exchange取feather cloak、perfumed oils与Doreah fertility charm，却理性拒绝不适合khalasar的parrot。",
+      "literary_note_zh": "Dothraki exchange不是免费掠取：她take gift并回赠medallion，parrot refusal又展示实用判断。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P537-037",
+      "page": 537,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "Turning a corner, they came upon a wine merchant offering thimble-sized cups of his wares to the passersby. “Sweet reds,” he cried in fluent Dothraki, “I have sweet reds, from Lys and Volantis and the Arbor. Whites from Lys, Tyroshi pear brandy, firewine, pepperwine, the pale green nectars of Myr. Smokeberry browns and Andalish sours, I have them, I have them.” He was a small man, slender and handsome, his flaxen hair curled and perfumed after the fashion of Lys. When Dany paused before his stall, he bowed low. “A taste for the khaleesi? I have a sweet red from Dorne, my lady, it sings of plums and cherries and rich dark oak. A cask, a cup, a swallow? One taste, and you will name your child after me.”",
+      "translation": "",
+      "explanation_zh": "他们遇到Lys-style wineseller，流利叫卖各地酒并奉承Daenerys试Dornish summerwine。",
+      "literary_note_zh": "wine catalogue与夸张奉承制造普通sales performance，刺客意图藏在熟悉商业语言中。",
+      "background_zh": "**Arbor wine：** Westeros知名wine产地，由House Redwyne统治；grape sigil使cask gift显得可信。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-038",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "Dany smiled. “My son has his name, but I will try your summerwine,” she said in Valyrian, Valyrian as they spoke it in the Free Cities. The words felt strange on her tongue, after so long. “Just a taste, if you would be so kind.”",
+      "translation": "",
+      "explanation_zh": "Daenerys用Free Cities Valyrian答应浅尝，语言久未使用而陌生。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-039",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "The merchant must have taken her for Dothraki, with her clothes and her oiled hair and sun-browned skin. When she spoke, he gaped at her in astonishment. “My lady, you are . . . Tyroshi? Can it be so?”",
+      "translation": "",
+      "explanation_zh": "merchant因她Dothraki外观却说Valyrian而惊讶，猜她Tyroshi。",
+      "literary_note_zh": "merchant最初误读她identity，说明Daenerys已在身体外观上被Dothraki生活重塑。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-040",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“My speech may be Tyroshi, and my garb Dothraki, but I am of Westeros, of the Sunset Kingdoms,” Dany told him.",
+      "translation": "",
+      "explanation_zh": "她说speech、garb与birth分别属于Tyrosh、Dothraki、Westeros。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-041",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Doreah stepped up beside her. “You have the honor to address Daenerys of the House Targaryen, Daenerys Stormborn, khaleesi of the riding men and princess of the Seven Kingdoms.”",
+      "translation": "",
+      "explanation_zh": "Doreah正式宣告Daenerys Targaryen titles。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-042",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "The wine merchant dropped to his knees. “Princess,” he said, bowing his head.",
+      "translation": "",
+      "explanation_zh": "wineseller立刻跪拜。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-043",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Rise,” Dany commanded him. “I would still like to taste that summerwine you spoke of.”",
+      "translation": "",
+      "explanation_zh": "Daenerys命其起身，仍要尝summerwine。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-044",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "The man bounded to his feet. “That? Dornish swill. It is not worthy of a princess. I have a dry red from the Arbor, crisp and delectable. Please, let me give you a cask.”",
+      "translation": "",
+      "explanation_zh": "merchant突然贬低刚才力荐的Dornish wine，改称要赠Arbor dry red整cask。",
+      "literary_note_zh": "他从‘Dornish佳酿’瞬间改口为swill并主动赠whole cask，是Jorah警觉后回看可疑的行为变化。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-045",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Khal Drogo’s visits to the Free Cities had given him a taste for good wine, and Dany knew that such a noble vintage would please him. “You honor me, ser,” she murmured sweetly.",
+      "translation": "",
+      "explanation_zh": "Daenerys想到Drogo喜欢good wine，礼貌接受。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-046",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“The honor is mine.” The merchant rummaged about in the back of his stall and produced a small oaken cask. Burned into the wood was a cluster of grapes. “The Redwyne sigil,” he said, pointing, “for the Arbor. There is no finer drink.”",
+      "translation": "",
+      "explanation_zh": "merchant取出带Redwyne grape sigil的oak cask，称其最优。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-047",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“Khal Drogo and I will share it together. Aggo, take this back to my litter, if you’d be so kind.” The wineseller beamed as the Dothraki hefted the cask.",
+      "translation": "",
+      "explanation_zh": "Daenerys命Aggo把酒放litter，准备与Drogo分享。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-048",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "She did not realize that Ser Jorah had returned until she heard the knight say, “No.” His voice was strange, brusque. “Aggo, put down that cask.”",
+      "translation": "",
+      "explanation_zh": "Jorah突然回来强硬阻止，叫Aggo放下cask。",
+      "literary_note_zh": "No先于解释，Jorah以command打断gift ritual；strange voice提示他已有外部情报。",
+      "background_zh": "**Illyrio letter：** caravan从Pentos带来警告，说明Robert为Targaryen siblings死亡悬赏。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P538-049",
+      "page": 538,
+      "end_page": 538,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "Aggo looked at Dany. She gave a hesitant nod. “Ser Jorah, is something wrong?”",
+      "translation": "",
+      "explanation_zh": "Aggo等待Daenerys授权，她犹豫同意并问缘由。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-050",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“I have a thirst. Open it, wineseller.”",
+      "translation": "",
+      "explanation_zh": "Jorah说自己口渴，命wineseller开桶。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-051",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "The merchant frowned. “The wine is for the khaleesi, not for the likes of you, ser.”",
+      "translation": "",
+      "explanation_zh": "merchant称酒只给khaleesi，不给Jorah。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-052",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "Ser Jorah moved closer to the stall. “If you don’t open it, I’ll crack it open with your head.” He carried no weapons here in the sacred city, save his hands—yet his hands were enough, big, hard, dangerous, his knuckles covered with coarse dark hairs. The wineseller hesitated a moment, then took up his hammer and knocked the plug from the cask.",
+      "translation": "",
+      "explanation_zh": "Jorah以徒手暴力威胁，merchant只得敲开plug。",
+      "literary_note_zh": "Vaes Dothrak禁weapons，但Jorah身体本身维持credible threat。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-053",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "“Pour,” Ser Jorah commanded. The four young warriors of Dany’s khas arrayed themselves behind him, frowning, watching with their dark, almond-shaped eyes.",
+      "translation": "",
+      "explanation_zh": "Jorah命倒酒，khas在后列阵监视。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-054",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“It would be a crime to drink this rich a wine without letting it breathe.” The wineseller had not put his hammer down.",
+      "translation": "",
+      "explanation_zh": "merchant以好酒需breathe拖延，仍握hammer。",
+      "literary_note_zh": "let it breathe可为正常wine practice，也在此作为avoid tasting的拖延；hammer增加潜在威胁。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-055",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "Jhogo reached for the whip coiled at his belt, but Dany stopped him with a light touch on the arm. “Do as Ser Jorah says,” she said. People were stopping to watch.",
+      "translation": "",
+      "explanation_zh": "Jhogo欲用whip，Daenerys制止升级并命merchant照做，旁人开始围观。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-056",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "The man gave her a quick, sullen glance. “As the princess commands.” He had to set aside his hammer to lift the cask. He filled two thimble-sized tasting cups, pouring so deftly he did not spill a drop.",
+      "translation": "",
+      "explanation_zh": "merchant不悦但放hammer，精准倒出两小杯。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-057",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Ser Jorah lifted a cup and sniffed at the wine, frowning.",
+      "translation": "",
+      "explanation_zh": "Jorah嗅酒皱眉。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-058",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "“Sweet, isn’t it?” the wineseller said, smiling. “Can you smell the fruit, ser? The perfume of the Arbor. Taste it, my lord, and tell me it isn’t the finest, richest wine that’s ever touched your tongue.”",
+      "translation": "",
+      "explanation_zh": "merchant热情催他品尝，强调果香与Arbor品质。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-059",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "Ser Jorah offered him the cup. “You taste it first.”",
+      "translation": "",
+      "explanation_zh": "Jorah把杯递回，要求merchant先喝。",
+      "literary_note_zh": "test by drinking把unknown poison风险推回seller本人，是最直接验证。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-060",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“Me?” The man laughed. “I am not worthy of this vintage, my lord. And it’s a poor wine merchant who drinks up his own wares.” His smile was amiable, yet she could see the sheen of sweat on his brow.",
+      "translation": "",
+      "explanation_zh": "merchant以不配、商人不喝自货推辞，笑容友好却额头出汗。",
+      "literary_note_zh": "sweat与拒喝合成behavioral evidence，但单独任何一项都非定罪证明。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-061",
+      "page": 539,
+      "end_page": 539,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“You will drink,” Dany said, cold as ice. “Empty the cup, or I will tell them to hold you down while Ser Jorah pours the whole cask down your throat.”",
+      "translation": "",
+      "explanation_zh": "Daenerys冷声强迫他喝，否则叫人灌下整桶。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P539-062",
+      "page": 539,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "The wineseller shrugged, reached for the cup . . . and grabbed the cask instead, flinging it at her with both hands. Ser Jorah bulled into her, knocking her out of the way. The cask bounced off his shoulder and smashed open on the ground. Dany stumbled and lost her feet. “No,” she screamed, thrusting her hands out to break her fall . . . and Doreah caught her by the arm and wrenched her backward, so she landed on her legs and not her belly.",
+      "translation": "",
+      "explanation_zh": "merchant假装接杯却抓桶砸Daenerys；Jorah撞开她，Doreah保护腹部使其未摔倒。",
+      "literary_note_zh": "merchant攻击而非饮酒完成自证；Doreah抓arm让Daenerys落腿不落belly，保护胎儿。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-063",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "The trader vaulted over the stall, darting between Aggo and Rakharo. Quaro reached for an arakh that was not there as the blond man slammed him aside. He raced down the aisle. Dany heard the snap of Jhogo’s whip, saw the leather lick out and coil around the wineseller’s leg. The man sprawled face first in the dirt.",
+      "translation": "",
+      "explanation_zh": "merchant越stall逃跑，Jhogo whip缠腿将他摔倒。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-064",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "A dozen caravan guards had come running. With them was the master himself, Merchant Captain Byan Votyris, a diminutive Norvoshi with skin like old leather and a bristling blue mustachio that swept up to his ears. He seemed to know what had happened without a word being spoken. “Take this one away to await the pleasure of the khal,” he commanded, gesturing at the man on the ground. Two guards hauled the wineseller to his feet. “His goods I gift to you as well, Princess,” the merchant captain went on. “Small token of regret, that one of mine would do this thing.”",
+      "translation": "",
+      "explanation_zh": "caravan guards与Byan Votyris赶到，立即拘押poisoner并把其goods赔给Daenerys。",
+      "literary_note_zh": "Byan无需听解释即处理，可能读懂逃跑、broken cask与armed confrontation；不证明其预知plot。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-065",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Doreah and Jhiqui helped Dany back to her feet. The poisoned wine was leaking from the broken cask into the dirt. “How did you know?” she asked Ser Jorah, trembling. “How?”",
+      "translation": "",
+      "explanation_zh": "poisoned wine渗入土中，Daenerys发抖问Jorah如何知道。",
+      "literary_note_zh": "wineseller以gift cask行刺；Jorah因Illyrio warning逼其先喝，merchant逃跑而暴露，poison plot被阻止。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-066",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“I did not know, Khaleesi, not until the man refused to drink, but once I read Magister Illyrio’s letter, I feared.” His dark eyes swept over the faces of the strangers in the market. “Come. Best not to talk of it here.”",
+      "translation": "",
+      "explanation_zh": "Jorah说读Illyrio letter后已有戒心，merchant拒喝才确认，并要求换处谈。",
+      "literary_note_zh": "Jorah不是凭直觉知道具体cask，而是Illyrio warning提高prior、拒喝更新判断。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-067",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "Dany was near tears as they carried her back. The taste in her mouth was one she had known before: fear. For years she had lived in terror of Viserys, afraid of waking the dragon. This was even worse. It was not just for herself that she feared now, but for her baby. He must have sensed her fright, for he moved restlessly inside her. Dany stroked the swell of her belly gently, wishing she could reach him, touch him, soothe him. “You are the blood of the dragon, little one,” she whispered as her litter swayed along, curtains drawn tight. “You are the blood of the dragon, and the dragon does not fear.”",
+      "translation": "",
+      "explanation_zh": "返程Daenerys重新尝到fear，且这次为腹中child担忧，以blood of dragon安抚自己和胎儿。",
+      "literary_note_zh": "Viserys fear只威胁Daenerys本人，assassination threat同时指向child，使恐惧性质扩大。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-068",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "Under the hollow hummock of earth that was her home in Vaes Dothrak, Dany ordered them to leave her—all but Ser Jorah. “Tell me,” she commanded as she lowered herself onto her cushions. “Was it the Usurper?”",
+      "translation": "",
+      "explanation_zh": "回home后她只留Jorah，直接问是否Usurper所为。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-069",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“Yes.” The knight drew out a folded parchment. “A letter to Viserys, from Magister Illyrio. Robert Baratheon offers lands and lordships for your death, or your brother’s.”",
+      "translation": "",
+      "explanation_zh": "Jorah拿出Illyrio给Viserys的信，称Robert悬lands、lordships买兄妹之死。",
+      "literary_note_zh": "letter写给已死Viserys显示information lag；Illyrio何时得知death尚不清楚。",
+      "background_zh": "**Robert order：** Robert council此前批准谋杀pregnant Daenerys；Eddard反对，Robert临终曾下令撤销，但远方命令存在时差。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P540-070",
+      "page": 540,
+      "end_page": 540,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "“My brother?” Her sob was half a laugh. “He does not know yet, does he? The Usurper owes Drogo a lordship.” This time her laugh was half a sob. She hugged herself protectively. “And me, you said. Only me?”",
+      "translation": "",
+      "explanation_zh": "Daenerys苦笑Viserys已死，问悬赏是否只针对自己。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-071",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "“You and the child,” Ser Jorah said, grim.",
+      "translation": "",
+      "explanation_zh": "Jorah严肃补充也针对child。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-072",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "“No. He cannot have my son.” She would not weep, she decided. She would not shiver with fear. The Usurper has woken the dragon now, she told herself . . . and her eyes went to the dragon’s eggs resting in their nest of dark velvet. The shifting lamplight limned their stony scales, and shimmering motes of jade and scarlet and gold swam in the air around them, like courtiers around a king.",
+      "translation": "",
+      "explanation_zh": "Daenerys拒绝让Robert夺走son，把恐惧改写为dragon被唤醒，并望向dragon eggs。",
+      "literary_note_zh": "woken the dragon把Viserys旧威胁语言夺回，转成Daenerys保护child与反击意志。",
+      "background_zh": "**dragon eggs：** Illyrio婚礼gift，石化已久；Daenerys先前感到它们温热，但未证实活性。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-073",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "Was it madness that seized her then, born of fear? Or some strange wisdom buried in her blood? Dany could not have said. She heard her own voice saying, “Ser Jorah, light the brazier.”",
+      "translation": "",
+      "explanation_zh": "她不知道突发念头是madness还是blood wisdom，命Jorah点brazier。",
+      "literary_note_zh": "madness／wisdom由Daenerys自己并列，文本不替她裁决放egg入火的动机来源。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-074",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“Khaleesi?” The knight looked at her strangely. “It is so hot. Are you certain?”",
+      "translation": "",
+      "explanation_zh": "Jorah因天气炎热而疑惑确认。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-075",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "She had never been so certain. “Yes. I . . . I have a chill. Light the brazier.”",
+      "translation": "",
+      "explanation_zh": "她谎称发冷，坚持点火。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-076",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "He bowed. “As you command.”",
+      "translation": "",
+      "explanation_zh": "Jorah服从。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-077",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "When the coals were afire, Dany sent Ser Jorah from her. She had to be alone to do what she must do. This is madness, she told herself as she lifted the black-and-scarlet egg from the velvet. It will only crack and burn, and it’s so beautiful, Ser Jorah will call me a fool if I ruin it, and yet, and yet . . .",
+      "translation": "",
+      "explanation_zh": "火起后她让Jorah离开，明知可能烧坏egg仍取black-red egg。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-078",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "Cradling the egg with both hands, she carried it to the fire and pushed it down amongst the burning coals. The black scales seemed to glow as they drank the heat. Flames licked against the stone with small red tongues. Dany placed the other two eggs beside the black one in the fire. As she stepped back from the brazier, the breath trembled in her throat.",
+      "translation": "",
+      "explanation_zh": "她把三枚egg都压入burning coals，观察scales似吸热发光。",
+      "literary_note_zh": "scales drank heat是拟人化视觉感受；不等于egg已活。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-079",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "She watched until the coals had turned to ashes. Drifting sparks floated up and out of the smokehole. Heat shimmered in waves around the dragon’s eggs. And that was all.",
+      "translation": "",
+      "explanation_zh": "她看至coals成ash，只有heat、sparks，没有其他变化。",
+      "literary_note_zh": "Daenerys得知Robert悬赏她和child，尝试用brazier heat唤醒dragon eggs，却只见dead stone。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-080",
+      "page": 541,
+      "end_page": 541,
+      "type": "paragraph",
+      "order": 80,
+      "original_text": "Your brother Rhaegar was the last dragon, Ser Jorah had said. Dany gazed at her eggs sadly. What had she expected? A thousand thousand years ago they had been alive, but now they were only pretty rocks. They could not make a dragon. A dragon was air and fire. Living flesh, not dead stone.",
+      "translation": "",
+      "explanation_zh": "她接受eggs只是dead stone，无法造出living air-and-fire dragon。",
+      "literary_note_zh": "她用living flesh／dead stone纠正期待，是一次失望后的empirical conclusion。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P541-081",
+      "page": 541,
+      "end_page": 542,
+      "type": "paragraph",
+      "order": 81,
+      "original_text": "The brazier was cold again by the time Khal Drogo returned. Cohollo was leading a packhorse behind him, with the carcass of a great white lion slung across its back. Above, the stars were coming out. The khal laughed as he swung down off his stallion and showed her the scars on his leg where the hrakkar had raked him through his leggings. “I shall make you a cloak of its skin, moon of my life,” he swore.",
+      "translation": "",
+      "explanation_zh": "brazier冷却时Drogo猎白狮归来，展示腿上claw scars并答应做cloak。",
+      "literary_note_zh": "Drogo小伤展示他战胜hrakkar，与刚发生的隐形poison attack形成直接/间接威胁对照。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P542-082",
+      "page": 542,
+      "end_page": 542,
+      "type": "paragraph",
+      "order": 82,
+      "original_text": "When Dany told him what had happened at the market, all laughter stopped, and Khal Drogo grew very quiet.",
+      "translation": "",
+      "explanation_zh": "听完market遇刺，Drogo笑意全消、沉默。",
+      "literary_note_zh": "Drogo猎归得知暗杀后改变决定，公开立誓渡海征服Seven Kingdoms，khalasar两日后启程。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P542-083",
+      "page": 542,
+      "end_page": 542,
+      "type": "paragraph",
+      "order": 83,
+      "original_text": "“This poisoner was the first,” Ser Jorah Mormont warned him, “but he will not be the last. Men will risk much for a lordship.”",
+      "translation": "",
+      "explanation_zh": "Jorah警告第一名poisoner后仍会有人为lordship冒险。",
+      "literary_note_zh": "Drogo猎归得知暗杀后改变决定，公开立誓渡海征服Seven Kingdoms，khalasar两日后启程。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P542-084",
+      "page": 542,
+      "end_page": 542,
+      "type": "paragraph",
+      "order": 84,
+      "original_text": "Drogo was silent for a time. Finally he said, “This seller of poisons ran from the moon of my life. Better he should run after her. So he will. Jhogo, Jorah the Andal, to each of you I say, choose any horse you wish from my herds, and it is yours. Any horse save my red and the silver that was my bride gift to the moon of my life. I make this gift to you for what you did.",
+      "translation": "",
+      "explanation_zh": "Drogo奖Jorah、Jhogo任选horse，并决定让poisoner一直跟在Daenerys后受罚。",
+      "literary_note_zh": "horse gifts是Dothraki最高价值奖赏之一；poisoner punishment把‘run after her’变成残酷字面双关。",
+      "background_zh": "**bloodrider reward：** Drogo以herd中任一horse奖励救命者，仅保留自己red stallion与Daenerys silver。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P542-085",
+      "page": 542,
+      "end_page": 542,
+      "type": "paragraph",
+      "order": 85,
+      "original_text": "[Content omitted: explicit sexual-violence threat. Paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "【安全占位】Drogo为Rhaego立誓渡black salt water、征服Seven Kingdoms；誓言中的露骨性暴力威胁不复录。",
+      "literary_note_zh": "露骨性暴力威胁已安全省略。叙事关键是assassination把Drogo原先拒绝渡海翻转为public sacred vow。",
+      "background_zh": "**vow consequence：** Drogo第一次明确承诺用ships渡sea并把Seven Kingdoms作为Rhaego gift，改变khalasar战略方向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH54-P542-086",
+      "page": 542,
+      "end_page": 542,
+      "type": "paragraph",
+      "order": 86,
+      "original_text": "His khalasar left Vaes Dothrak two days later, striking south and west across the plains. Khal Drogo led them on his great red stallion, with Daenerys beside him on her silver. The wineseller hurried behind them, naked, on foot, chained at throat and wrists. His chains were fastened to the halter of Dany’s silver. As she rode, he ran after her, barefoot and stumbling. No harm would come to him . . . so long as he kept up.",
+      "translation": "",
+      "explanation_zh": "两日后khalasar向southwest出发；poisoner裸体戴chains跟Daenerys silver跑，跟不上便会受伤。",
+      "literary_note_zh": "两日即启程说明vow立即转化为khalasar movement；poisoner被系于silver使Daenerys成为惩罚轴心。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Daenerys的home/dynasty冲突、Jorah如何验证poison风险及Drogo战略转向。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

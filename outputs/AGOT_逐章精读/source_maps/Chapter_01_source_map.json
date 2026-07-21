@@ -1,0 +1,2388 @@
+{
+  "paper": {
+    "title": "A Game of Thrones — Chapter 1 (BRAN)",
+    "author": "George R. R. Martin",
+    "source_type": "pdf",
+    "language": "en",
+    "source_path": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+    "pdf_page_range": [
+      16,
+      23
+    ],
+    "reader_mode": "spoiler-free close reading; English personal names"
+  },
+  "blocks": [
+    {
+      "id": "CH01-P016-001",
+      "page": 16,
+      "end_page": 16,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "The morning had dawned clear and cold, with a crispness that hinted at the end of summer. They set forth at daybreak to see a man beheaded, twenty in all, and Bran rode among them, nervous with excitement. This was the first time he had been deemed old enough to go with his lord father and his brothers to see the king’s justice done. It was the ninth year of summer, and the seventh of Bran’s life.",
+      "translation": "",
+      "paragraph_explanation_zh": "一个夏末寒冷的清晨，七岁的Bran随父亲和兄长出发观看处决；这是他第一次被认为已经大到可以承担这种见证。",
+      "reading_note_zh": "章节以孩子第一次观看处决开场，把成长与死亡责任直接联系；`too young` 与 `old enough` 是成人世界的判断。",
+      "background_note_zh": "**文本事实：** Bran七岁，随父亲观看领主司法；这不是娱乐活动，而是贵族继承人教育的一部分。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P016-001"
+    },
+    {
+      "id": "CH01-P016-002",
+      "page": 16,
+      "end_page": 16,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "The man had been taken outside a small holdfast in the hills. Robb thought he was a wildling, his sword sworn to Mance Rayder, the King-beyond-the-Wall. It made Bran’s skin prickle to think of it. He remembered the hearth tales Old Nan told them. The wildlings were cruel men, she said, slavers and slayers and thieves. They consorted with giants and ghouls, stole girl children in the dead of night, and drank blood from polished horns. And their women lay with the Others in the Long Night to sire terrible half-human children.",
+      "translation": "",
+      "paragraph_explanation_zh": "犯人在山中小堡被捕。Robb猜他是效忠墙外之王的野人，Bran因此想起Old Nan讲述的食人、巨人和异鬼等可怕炉边故事。",
+      "reading_note_zh": "本段通过Bran的儿童视角描写处决仪式，重点是他如何观察成人、控制恐惧并学习规则。",
+      "background_note_zh": "**文本事实：** Bran关于wildlings的认识主要来自Old Nan的炉边故事；其中怪谈是儿童听闻，不应自动当成已经证实的事实。Mance Rayder被称为King-beyond-the-Wall。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P016-002"
+    },
+    {
+      "id": "CH01-P016-003",
+      "page": 16,
+      "end_page": 16,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "But the man they found bound hand and foot to the holdfast wall awaiting the king’s justice was old and scrawny, not much taller than Robb. He had lost both ears and a finger to frostbite, and he dressed all in black, the same as a brother of the Night’s Watch, except that his furs were ragged and greasy.",
+      "translation": "",
+      "paragraph_explanation_zh": "被缚的老人瘦弱、冻伤严重，因耳朵和手指缺损而引起Bran害怕。",
+      "reading_note_zh": "残缺耳朵和手指与序章Gared的冻伤形成读者可见的联系，但Bran此刻并不知道前因。这里仅指出文本呼应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P016-003"
+    },
+    {
+      "id": "CH01-P016-004",
+      "page": 16,
+      "end_page": 16,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "The breath of man and horse mingled, steaming, in the cold morning air as his lord father had the man cut down from the wall and dragged before them. Robb and Jon sat tall and still on their horses, with Bran between them on his pony, trying to seem older than seven, trying to pretend that he’d seen all this before. A faint wind blew through the holdfast gate. Over their heads flapped the banner of the Starks of Winterfell: a grey direwolf racing across an ice-white field.",
+      "translation": "",
+      "paragraph_explanation_zh": "犯人获释后被带到Lord Eddard Stark面前；Bran努力记住Jon关于控制小马和不要移开视线的提醒。",
+      "reading_note_zh": "本段通过Bran的儿童视角描写处决仪式，重点是他如何观察成人、控制恐惧并学习规则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P016-004"
+    },
+    {
+      "id": "CH01-P016-005",
+      "page": 16,
+      "end_page": 16,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Bran’s father sat solemnly on his horse, long brown hair stirring in the wind. His closely trimmed beard was shot with white, making him look older than his thirty-five years. He had a grim cast to his grey eyes this day, and he seemed not at all the man who would sit before the fire in the evening and talk softly of the age of heroes and the children of the forest. He had taken off Father’s face, Bran thought, and donned the face of Lord Stark of Winterfell.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran从父亲严肃的外表和冷峻目光中感到这一仪式与平日不同。",
+      "reading_note_zh": "本段通过Bran的儿童视角描写处决仪式，重点是他如何观察成人、控制恐惧并学习规则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P016-005"
+    },
+    {
+      "id": "CH01-P016-006",
+      "page": 16,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "There were questions asked and answers given there in the chill of morning, but afterward Bran could not recall much of what had been said. Finally his lord father gave a command, and two of his guardsmen dragged the ragged man to the ironwood stump in the center of the square. They forced his head down onto the hard black wood. Lord Eddard Stark dismounted and his ward Theon Greyjoy brought forth the sword. “Ice,” that sword was called. It was as wide across as a man’s hand, and taller even than Robb. The blade was Valyrian steel, spell-forged and dark as smoke. Nothing held an edge like Valyrian steel.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲询问犯人、听取回答，随后下令将其按在铁树树桩上，并取来名为Ice的巨剑。",
+      "reading_note_zh": "巨剑Ice在执行司法时出现，武器、家族权力与责任被绑定在同一个动作中。",
+      "background_note_zh": "**文本事实：** Ice是House Stark的巨剑，Lord Eddard Stark用它亲自行刑。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P016-006"
+    },
+    {
+      "id": "CH01-P017-007",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "His father peeled off his gloves and handed them to Jory Cassel, the captain of his household guard. He took hold of Ice with both hands and said, “In the name of Robert of the House Baratheon, the First of his Name, King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm, by the word of Eddard of the House Stark, Lord of Winterfell and Warden of the North, I do sentence you to die.” He lifted the greatsword high above his head.",
+      "translation": "",
+      "paragraph_explanation_zh": "Lord Eddard Stark脱下手套，双手握住Ice，郑重承担行刑动作。",
+      "reading_note_zh": "本段通过Bran的儿童视角描写处决仪式，重点是他如何观察成人、控制恐惧并学习规则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-007"
+    },
+    {
+      "id": "CH01-P017-008",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "Bran’s bastard brother Jon Snow moved closer. “Keep the pony well in hand,” he whispered. “And don’t look away. Father will know if you do.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon Snow靠近Bran，再次提醒他稳住小马，并告诉他无论发生什么都不能移开目光。",
+      "reading_note_zh": "Jon不是叫Bran逃避，而是教他稳定身体并见证结果；这是一种保护，也是一种成长训练。",
+      "background_note_zh": "**文本事实：** Jon Snow是Bran的私生兄长；姓Snow在当前语境中标示北方的私生身份。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-008"
+    },
+    {
+      "id": "CH01-P017-009",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Bran kept his pony well in hand, and did not look away.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran照做，既控制住坐骑，也坚持直视。",
+      "reading_note_zh": "本段通过Bran的儿童视角描写处决仪式，重点是他如何观察成人、控制恐惧并学习规则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-009"
+    },
+    {
+      "id": "CH01-P017-010",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "His father took off the man’s head with a single sure stroke. Blood sprayed out across the snow, as red as surnmerwine. One of the horses reared and had to be restrained to keep from bolting. Bran could not take his eyes off the blood. The snows around the stump drank it eagerly, reddening as he watched.",
+      "translation": "",
+      "paragraph_explanation_zh": "Lord Eddard Stark一剑斩首；鲜血喷在雪上，Bran的马受惊，但他没有移开眼睛。",
+      "reading_note_zh": "红血与白雪形成强烈色彩对比；Bran没有移开目光，完成了父亲要求的第一次考验。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-010"
+    },
+    {
+      "id": "CH01-P017-011",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "The head bounced off a thick root and rolled. It came up near Greyjoy’s feet. Theon was a lean, dark youth of nineteen who found everything amusing. He laughed, put his boot on the head, and kicked it away.",
+      "translation": "",
+      "paragraph_explanation_zh": "人头滚到Theon脚边，他把它踢开并笑，引出他轻浮、残酷的一面。",
+      "reading_note_zh": "Theon踢人头的动作没有必要性，因此主要用于展示他把死亡当成表演。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-011"
+    },
+    {
+      "id": "CH01-P017-012",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“Ass,” Jon muttered, low enough so Greyjoy did not hear. He put a hand on Bran’s shoulder, and Bran looked over at his bastard brother. “You did well,” Jon told him solemnly. Jon was fourteen, an old hand at justice.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon低声骂Theon，并用手安抚Bran；Bran把这种接触理解为认可。",
+      "reading_note_zh": "本段通过Bran的儿童视角描写处决仪式，重点是他如何观察成人、控制恐惧并学习规则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-012"
+    },
+    {
+      "id": "CH01-P017-013",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "It seemed colder on the long ride back to Winterfell, though the wind had died by then and the sun was higher in the sky. Bran rode with his brothers, well ahead of the main party, his pony struggling hard to keep up with their horses.",
+      "translation": "",
+      "paragraph_explanation_zh": "返程时Bran仍无法摆脱犯人的死亡和鲜血，明明太阳升高却觉得更冷。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-013"
+    },
+    {
+      "id": "CH01-P017-014",
+      "page": 17,
+      "end_page": 17,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“The deserter died bravely,” Robb said. He was big and broad and growing every day, with his mother’s coloring, the fair skin, red-brown hair, and blue eyes of the Tullys of Riverrun. “He had courage, at the least.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb认为逃兵死得勇敢，并由外貌描写呈现他更像母亲。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-014"
+    },
+    {
+      "id": "CH01-P017-015",
+      "page": 17,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“No,” Jon Snow said quietly. “It was not courage. This one was dead of fear. You could see it in his eyes, Stark.” Jon’s eyes were a grey so dark they seemed almost black, but there was little they did not see. He was of an age with Robb, but they did not look alike. Jon was slender where Robb was muscular, dark where Robb was fair, graceful and quick where his half brother was strong and fast.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon否认那是勇敢，认为犯人早已被恐惧击垮；他与Robb同龄，却在外貌、体格和观察力上形成对照。",
+      "reading_note_zh": "Robb看重外在表现，Jon看见眼神里的恐惧；两人的判断差异也对应他们不同的观察方式。",
+      "background_note_zh": "**文本事实：** Jon与Robb同龄，是同父异母兄弟；两人的外貌差异被明确突出。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P017-015"
+    },
+    {
+      "id": "CH01-P018-016",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "Robb was not impressed. “The Others take his eyes,” he swore. “He died well. Race you to the bridge?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb用关于异鬼的咒骂回击，随后邀请Jon赛马。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-016"
+    },
+    {
+      "id": "CH01-P018-017",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“Done,” Jon said, kicking his horse forward. Robb cursed and followed, and they galloped off down the trail, Robb laughing and hooting, Jon silent and intent. The hooves of their horses kicked up showers of snow as they went.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon抢先出发，Robb追上，两人把严肃争论迅速转成少年竞赛。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-017"
+    },
+    {
+      "id": "CH01-P018-018",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "Bran did not try to follow. His pony could not keep up. He had seen the ragged man’s eyes, and he was thinking of them now. After a while, the sound of Robb’s laughter receded, and the woods grew silent again.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran的小马追不上他们；他记得犯人的眼神，并思考真正让人疯狂的恐惧会是什么。",
+      "reading_note_zh": "Bran真正关心的不是法律身份，而是犯人究竟看见了什么；这让本章与序章的信息产生错位。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-018"
+    },
+    {
+      "id": "CH01-P018-019",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "So deep in thought was he that he never heard the rest of the party until his father moved up to ride beside him. “Are you well, Bran?” he asked, not unkindly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran沉思到没有察觉父亲靠近；父亲询问他是否安好。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-019"
+    },
+    {
+      "id": "CH01-P018-020",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“Yes, Father,” Bran told him. He looked up. Wrapped in his furs and leathers, mounted on his great warhorse, his lord father loomed over him like a giant. “Robb says the man died bravely, but Jon says he was afraid.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran回答后仰望高大威严的父亲，觉得他不像一个能被轻易问倒的人。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-020"
+    },
+    {
+      "id": "CH01-P018-021",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "“What do you think?” his father asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲反过来问Bran对刚才事情的看法。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-021"
+    },
+    {
+      "id": "CH01-P018-022",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Bran thought about it. “Can a man still be brave if he’s afraid?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran提出本章的核心问题：人在害怕时还能不能勇敢。",
+      "reading_note_zh": "这是小说最著名的勇气定义之一：恐惧不是勇气的反面，而是勇气成立的前提。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-022"
+    },
+    {
+      "id": "CH01-P018-023",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "“That is the only time a man can be brave,” his father told him. “Do you understand why I did it?”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲回答，只有害怕时才谈得上勇敢，并问Bran是否理解他亲自行刑的原因。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "**文本事实：** Lord Eddard Stark把勇气定义为在恐惧存在时仍采取正确行动。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-023"
+    },
+    {
+      "id": "CH01-P018-024",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "“He was a wildling,” Bran said. “They carry off women and sell them to the Others.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran依据Old Nan的故事，把犯人误认为会掳掠妇女、献给异鬼的野人。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-024"
+    },
+    {
+      "id": "CH01-P018-025",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "His lord father smiled. “Old Nan has been telling you stories again. In truth, the man was an oathbreaker, a deserter from the Night’s Watch. No man is more dangerous. The deserter knows his life is forfeit if he is taken, so he will not flinch from any crime, no matter how vile. But you mistake me. The question was not why the man had to die, but why I must do it.”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲温和纠正：那人是逃离守夜人的背誓者；任何守夜人都清楚逃跑的代价是死刑。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "**文本事实：** 守夜人立誓终身服役；逃离被视为背誓，依法处死。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-025"
+    },
+    {
+      "id": "CH01-P018-026",
+      "page": 18,
+      "end_page": 18,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "Bran had no answer for that. “King Robert has a headsman,” he said, uncertainly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran想不出答案，只指出King Robert可以让专门的刽子手行刑。",
+      "reading_note_zh": "本段把处决后的困惑转化为父子对话，讨论勇气、司法与承担后果的原则。",
+      "background_note_zh": "**文本事实：** King Robert使用headsman代为行刑；Stark选择更古老的亲自行刑传统。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-026"
+    },
+    {
+      "id": "CH01-P018-027",
+      "page": 18,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“He does,” his father admitted. “As did the Targaryen kings before him. Yet our way is the older way. The blood of the First Men still flows in the veins of the Starks, and we hold to the belief that the man who passes the sentence should swing the sword. If you would take a man’s life, you owe it to him to look into his eyes and hear his final words. And if you cannot bear to do that, then perhaps the man does not deserve to die.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲解释Stark遵循更古老的原则：判处死刑的人必须亲自挥剑、直视死者并听完遗言。",
+      "reading_note_zh": "父亲的原则把司法从抽象命令变成身体责任：看眼睛、听遗言、亲手执行。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P018-027"
+    },
+    {
+      "id": "CH01-P019-028",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "“One day, Bran, you will be Robb’s bannerman, holding a keep of your own for your brother and your king, and justice will fall to you. When that day comes, you must take no pleasure in the task, but neither must you look away. A ruler who hides behind paid executioners soon forgets what death is.”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲告诉Bran，未来他也可能掌管城堡、执行裁决；不能承担亲手杀人的责任，就不该轻易判人死。",
+      "reading_note_zh": "这段既是对Bran的教育，也提前规定了Stark式权力应当承担的伦理成本。",
+      "background_note_zh": "**文本事实：** bannerman是向更高领主宣誓效忠、承担军事义务的封臣；keep是规模较小的城堡或据点。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-028"
+    },
+    {
+      "id": "CH01-P019-029",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "That was when Jon reappeared on the crest of the hill before them. He waved and shouted down at them. “Father, Bran, come quickly, see what Robb has found!” Then he was gone again.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon在山顶重新出现，呼喊他们去看Robb发现的东西。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-029"
+    },
+    {
+      "id": "CH01-P019-030",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "Jory rode up beside them. “Trouble, my lord?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jory赶来询问是否有麻烦。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-030"
+    },
+    {
+      "id": "CH01-P019-031",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“Beyond a doubt,” his lord father said. “Come, let us see what mischief my sons have rooted out now.” He sent his horse into a trot. Jory and Bran and the rest came after.",
+      "translation": "",
+      "paragraph_explanation_zh": "Lord Eddard Stark带着一点父亲式幽默，判断儿子们多半又发现了某种麻烦。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "**文本事实：** Winterfell是House Stark的家堡，也是队伍的目的地。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-031"
+    },
+    {
+      "id": "CH01-P019-032",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "They found Robb on the riverbank north of the bridge, with Jon still mounted beside him. The late summer snows had been heavy this moonturn. Robb stood knee-deep in white, his hood pulled back so the sun shone in his hair. He was cradling something in his arm, while the boys talked in hushed, excited voices.",
+      "translation": "",
+      "paragraph_explanation_zh": "众人在桥北河岸找到Robb和Jon；积雪很深，Robb怀抱某物，男孩们显得兴奋。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-032"
+    },
+    {
+      "id": "CH01-P019-033",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "The riders picked their way carefully through the drifts, groping for solid footing on the hidden, uneven ground. Jory Cassel and Theon Greyjoy were the first to reach the boys. Greyjoy was laughing and joking as he rode. Bran heard the breath go out of him. “Gods!” he exclaimed, struggling to keep control of his horse as he reached for his sword.",
+      "translation": "",
+      "paragraph_explanation_zh": "骑手小心穿过雪堆寻找落脚点，Jory最先察觉雪中的巨大黑影。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-033"
+    },
+    {
+      "id": "CH01-P019-034",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Jory’s sword was already out. “Robb, get away from it!” he called as his horse reared under him.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jory拔剑并让Robb远离那个东西，坐骑也受到惊吓。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-034"
+    },
+    {
+      "id": "CH01-P019-035",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "Robb grinned and looked up from the bundle in his arms. “She can’t hurt you,” he said. “She’s dead, Jory.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb展示怀里的小动物，说明巨大生物已经死亡，只剩幼崽。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-035"
+    },
+    {
+      "id": "CH01-P019-036",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "Bran was afire with curiosity by then. He would have spurred the pony faster, but his father made them dismount beside the bridge and approach on foot. Bran jumped off and ran.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran好奇得想催马，却被父亲要求从容下马，体现贵族礼仪和自我控制。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-036"
+    },
+    {
+      "id": "CH01-P019-037",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "By then Jon, Jory, and Theon Greyjoy had all dismounted as well. “What in the seven hells is it?” Greyjoy was saying.",
+      "translation": "",
+      "paragraph_explanation_zh": "众人下马查看，Theon追问怪物是什么，Robb回答是一头狼。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-037"
+    },
+    {
+      "id": "CH01-P019-038",
+      "page": 19,
+      "end_page": 19,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“A wolf,” Robb told him.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb直接说那是一头狼。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P019-038"
+    },
+    {
+      "id": "CH01-P020-039",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“A freak,” Greyjoy said. “Look at the size of it.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Theon把它称作畸形怪物，并强调体形巨大。",
+      "reading_note_zh": "`freak` 是Theon先入为主的命名；Jon随后用准确物种名纠正他，知识与嘲笑形成对照。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-039"
+    },
+    {
+      "id": "CH01-P020-040",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Bran’s heart was thumping in his chest as he pushed through a waist-high drift to his brothers’ side.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran穿过齐腰积雪靠近，心跳因好奇和紧张加快。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-040"
+    },
+    {
+      "id": "CH01-P020-041",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Half-buried in bloodstained snow, a huge dark shape slumped in death. Ice had formed in its shaggy grey fur, and the faint smell of corruption clung to it like a woman’s perfume. Bran glimpsed blind eyes crawling with maggots, a wide mouth full of yellowed teeth. But it was the size of it that made him gasp. It was bigger than his pony, twice the size of the largest hound in his father’s kennel.",
+      "translation": "",
+      "paragraph_explanation_zh": "雪中躺着一头巨大母兽，体形超过Bran的小马，喉咙处凝结着带血冰块。",
+      "reading_note_zh": "母兽体形超过小马，让direwolf的巨大不靠抽象数字，而通过Bran熟悉的尺度呈现。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-041"
+    },
+    {
+      "id": "CH01-P020-042",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "“It’s no freak,” Jon said calmly. “That’s a direwolf. They grow larger than the other kind.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon纠正Theon：这不是普通狼的畸形，而是本就能长得更大的direwolf。",
+      "reading_note_zh": "本段由返程过渡到发现direwolf，借人物不同反应逐步把普通动物事件变成异常征兆。",
+      "background_note_zh": "**文本事实：** direwolf是比普通狼更大的狼类，也是House Stark的家徽动物。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-042"
+    },
+    {
+      "id": "CH01-P020-043",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "Theon Greyjoy said, “There’s not been a direwolf sighted south of the Wall in two hundred years.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Theon指出长城以南已有两百年没有人见过direwolf。",
+      "reading_note_zh": "两百年未见使这次出现超出日常经验；本章人物因此把动物事实理解为政治或家族征兆。",
+      "background_note_zh": "**文本事实：** direwolf在长城以南已两百年没有可靠目击，因此这次发现被视为异常。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-043"
+    },
+    {
+      "id": "CH01-P020-044",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“I see one now,” Jon replied.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon以简短反击指出，眼前事实比旧记录更有力。",
+      "reading_note_zh": "Jon的回答非常简短：传闻和历史记录不能否定眼前证据。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-044"
+    },
+    {
+      "id": "CH01-P020-045",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Bran tore his eyes away from the monster. That was when he noticed the bundle in Robb’s arms. He gave a cry of delight and moved closer. The pup was a tiny ball of grey-black fur, its eyes still closed. It nuzzled blindly against Robb’s chest as he cradled it, searching for milk among his leathers, making a sad little whimpery sound. Bran reached out hesitantly. “Go on,” Robb told him. “You can touch him.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran注意到Robb怀里的幼崽；它睁不开眼却在寻找乳汁，令Bran又惊又怜。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-045"
+    },
+    {
+      "id": "CH01-P020-046",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "Bran gave the pup a quick nervous stroke, then turned as Jon said, “Here you go.” His half brother put a second pup into his arms. “There are five of them.” Bran sat down in the snow and hugged the wolf pup to his face. Its fur was soft and warm against his cheek.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon把另一只幼崽递给Bran；温暖身体和微弱心跳让它从象征变成需要照顾的生命。",
+      "reading_note_zh": "触觉从“怪物”叙述切换到幼小生命：温暖、心跳和蠕动迅速改变Bran的立场。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-046"
+    },
+    {
+      "id": "CH01-P020-047",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“Direwolves loose in the realm, after so many years,” muttered Hullen, the master of horse. “I like it not.”",
+      "translation": "",
+      "paragraph_explanation_zh": "马术总管Hullen把久违的direwolf视为不祥现象。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "**文本事实：** Hullen是master of horse，负责领主家的马匹、马厩及相关人员。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-047"
+    },
+    {
+      "id": "CH01-P020-048",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“It is a sign,” Jory said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jory明确说这是一种征兆。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "**阅读提示：** 人物所说的“征兆”是他们的解释，不等于文本已经证明超自然预言成立。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-048"
+    },
+    {
+      "id": "CH01-P020-049",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "Father frowned. “This is only a dead animal, Jory,” he said. Yet he seemed troubled. Snow crunched under his boots as he moved around the body. “Do we know what killed her?”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲口头否认征兆说法，却显得不安，并开始查看母兽死因。",
+      "reading_note_zh": "父亲嘴上坚持理性，身体反应却泄露不安；这与序章人物用常识压住恐惧的方式相似。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-049"
+    },
+    {
+      "id": "CH01-P020-050",
+      "page": 20,
+      "end_page": 20,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“There’s something in the throat,” Robb told him, proud to have found the answer before his father even asked. “There, just under the jaw.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb发现母兽喉部卡着东西，并为自己先于父亲找到答案而骄傲。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P020-050"
+    },
+    {
+      "id": "CH01-P021-051",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "His father knelt and groped under the beast’s head with his hand. He gave a yank and held it up for all to see. A foot of shattered antler, tines snapped off, all wet with blood.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲拔出一截折断的鹿角；母兽显然被它刺入喉咙。",
+      "reading_note_zh": "direwolf死于鹿角，使House Stark的家徽与带鹿角的动物意象并置；人物将其视为征兆，但此处不解释未来含义。",
+      "background_note_zh": "**文本事实：** 鹿角刺死direwolf。角色对其象征意义感到不安，但当前章节没有给出解释。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-051"
+    },
+    {
+      "id": "CH01-P021-052",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "A sudden silence descended over the party. The men looked at the antler uneasily, and no one dared to speak. Even Bran could sense their fear, though he did not understand.",
+      "translation": "",
+      "paragraph_explanation_zh": "鹿角出现后所有人沉默不安，Bran虽然不懂含义，也感受到成人的恐惧。",
+      "reading_note_zh": "Bran不懂象征，却能准确读取成人的沉默，这保持了儿童视角的可信度。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-052"
+    },
+    {
+      "id": "CH01-P021-053",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "His father tossed the antler to the side and cleansed his hands in the snow. “I’m surprised she lived long enough to whelp,” he said. His voice broke the spell.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲抛开鹿角并洗手，惊讶母兽受此伤后还能活到生产。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-053"
+    },
+    {
+      "id": "CH01-P021-054",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“Maybe she didn’t,” Jory said. “I’ve heard tales . . . maybe the bitch was already dead when the pups came.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jory提出更诡异的可能：幼崽也许是在母兽死亡后出生。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-054"
+    },
+    {
+      "id": "CH01-P021-055",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“Born with the dead,” another man put in. “Worse luck.”",
+      "translation": "",
+      "paragraph_explanation_zh": "另一人用“生于死亡”概括此事，并认为这预示坏运气。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-055"
+    },
+    {
+      "id": "CH01-P021-056",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“No matter,” said Hullen. “They be dead soon enough too.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Hullen认为无论如何幼崽很快都会死。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-056"
+    },
+    {
+      "id": "CH01-P021-057",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Bran gave a wordless cry of dismay.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran因幼崽将死而发出无言的难过声。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-057"
+    },
+    {
+      "id": "CH01-P021-058",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "“The sooner the better,” Theon Greyjoy agreed. He drew his sword. “Give the beast here, Bran.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Theon赞成立刻杀死幼崽，并拔剑向Bran索要。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-058"
+    },
+    {
+      "id": "CH01-P021-059",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "The little thing squirmed against him, as if it heard and understood. “No!” Bran cried out fiercely. “It’s mine.”",
+      "translation": "",
+      "paragraph_explanation_zh": "幼崽在Bran怀中扭动，Bran强烈拒绝交出它。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-059"
+    },
+    {
+      "id": "CH01-P021-060",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“Put away your sword, Greyjoy,” Robb said. For a moment he sounded as commanding as their father, like the lord he would someday be. “We will keep these pups.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb命令Theon收剑，短暂表现出像父亲一样的权威。",
+      "reading_note_zh": "Robb模仿父亲的命令语气，显示孩子开始学习家族权力的表达方式。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-060"
+    },
+    {
+      "id": "CH01-P021-061",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“You cannot do that, boy,” said Harwin, who was Hullen’s son.",
+      "translation": "",
+      "paragraph_explanation_zh": "Harwin指出两个孩子实际上无法养活幼崽。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-061"
+    },
+    {
+      "id": "CH01-P021-062",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“It be a mercy to kill them,” Hullen said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Hullen认为趁早杀死它们反而是仁慈。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-062"
+    },
+    {
+      "id": "CH01-P021-063",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Bran looked to his lord father for rescue, but got only a frown, a furrowed brow. “Hullen speaks truly, son. Better a swift death than a hard one from cold and starvation.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran向父亲求助，但父亲承认幼崽没有母乳、可能饿死或冻死。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-063"
+    },
+    {
+      "id": "CH01-P021-064",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "“No!” He could feel tears welling in his eyes, and he looked away. He did not want to cry in front of his father.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran含泪再次拒绝，却不愿在父亲面前哭出来。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-064"
+    },
+    {
+      "id": "CH01-P021-065",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Robb resisted stubbornly. “Ser Rodrik’s red bitch whelped again last week,” he said. “It was a small litter, only two live pups. She’ll have milk enough.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb提出让刚生产的母犬哺乳，并以只有两只活犬崽为理由说明奶水足够。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-065"
+    },
+    {
+      "id": "CH01-P021-066",
+      "page": 21,
+      "end_page": 21,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“She’ll rip them apart when they try to nurse.”",
+      "translation": "",
+      "paragraph_explanation_zh": "成年人反驳说母犬可能把陌生幼崽咬死。",
+      "reading_note_zh": "本段把宏大的征兆缩小为幼崽能否存活的具体问题，让孩子的同情与成人的现实判断冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P021-066"
+    },
+    {
+      "id": "CH01-P022-067",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "“Lord Stark,” Jon said. It was strange to hear him call Father that, so formal. Bran looked at him with desperate hope. “There are five pups,” he told Father. “Three male, two female.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon正式称呼父亲为Lord Stark，指出幼崽恰好有五只：三公两母。",
+      "reading_note_zh": "Jon用正式称呼把家庭请求转化成家族与纹章逻辑，因此父亲必须认真回应。",
+      "background_note_zh": "**文本事实：** `Lord Stark`是正式身份称呼；Jon改变称呼，意味着他以封建家族逻辑而非私人亲情提出请求。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-067"
+    },
+    {
+      "id": "CH01-P022-068",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "“What of it, Jon?”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲追问数量与决定之间有什么关系。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-068"
+    },
+    {
+      "id": "CH01-P022-069",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“You have five trueborn children,” Jon said. “Three sons, two daughters. The direwolf is the sigil of your House. Your children were meant to have these pups, my lord.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon指出Lord Eddard Stark也恰有五名婚生子女，而direwolf正是House Stark的家徽；幼崽可以分别属于他们。",
+      "reading_note_zh": "五只幼崽与五名婚生子女的对应是论证核心；Jon不是只求同情，而是给出符合贵族象征体系的理由。",
+      "background_note_zh": "**文本事实：** House Stark的sigil是direwolf；Lord Eddard Stark有五名婚生子女，恰与五只幼崽对应。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-069"
+    },
+    {
+      "id": "CH01-P022-070",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "Bran saw his father’s face change, saw the other men exchange glances. He loved Jon with all his heart at that moment. Even at seven, Bran understood what his brother had done. The count had come right only because Jon had omitted himself. He had included the girls, included even Rickon, the baby, but not the bastard who bore the surname Snow, the name that custom decreed be given to all those in the north unlucky enough to be born with no name of their own.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran看见父亲与随从都被这个对应打动，并因Jon的机智而充满感激。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-070"
+    },
+    {
+      "id": "CH01-P022-071",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "Their father understood as well. “You want no pup for yourself, Jon?” he asked softly.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲理解Jon主动把自己排除在外，柔声问他是否不想要幼崽。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-071"
+    },
+    {
+      "id": "CH01-P022-072",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "“The direwolf graces the banners of House Stark,” Jon pointed out. “I am no Stark, Father.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon强调direwolf属于House Stark，而自己因私生身份并不算Stark。",
+      "reading_note_zh": "Jon主动说 `I am no Stark`，揭示私生身份带来的排除感，也说明他为何愿意牺牲自己的份额。",
+      "background_note_zh": "**文本事实：** Jon因私生身份不被视为正式的Stark继承人；他因此没有把自己计入五名孩子。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-072"
+    },
+    {
+      "id": "CH01-P022-073",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "Their lord father regarded Jon thoughtfully. Robb rushed into the silence he left. “I will nurse him myself, Father,” he promised. “I will soak a towel with warm milk, and give him suck from that.”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲沉思；Robb趁沉默承诺亲自给幼崽喂奶。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-073"
+    },
+    {
+      "id": "CH01-P022-074",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“Me too!” Bran echoed.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran立刻附和，也愿意承担照料责任。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-074"
+    },
+    {
+      "id": "CH01-P022-075",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "The lord weighed his sons long and carefully with his eyes. “Easy to say, and harder to do. I will not have you wasting the servants’ time with this. If you want these pups, you will feed them yourselves. Is that understood?”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲警告，承诺容易、执行困难；若孩子让幼崽受苦，他会亲自结束它们的生命。",
+      "reading_note_zh": "允许收养不是无条件奖励；父亲把生命照料转化为孩子必须亲自承担的责任。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-075"
+    },
+    {
+      "id": "CH01-P022-076",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "Bran nodded eagerly. The pup squirmed in his grasp, licked at his face with a warm tongue.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran急切点头，怀中幼崽舔他的脸，加强两者已经形成的情感联系。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-076"
+    },
+    {
+      "id": "CH01-P022-077",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "“You must train them as well,” their father said. “You must train them. The kennelmaster will have nothing to do with these monsters, I promise you that. And the gods help you if you neglect them, or brutalize them, or train them badly. These are not dogs to beg for treats and slink off at a kick. A direwolf will rip a man’s arm off his shoulder as easily as a dog will kill a rat. Are you sure you want this?”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲又要求他们亲自训练并照料direwolf，不许把责任推给马夫、仆人或养犬人。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-077"
+    },
+    {
+      "id": "CH01-P022-078",
+      "page": 22,
+      "end_page": 22,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "“Yes, Father,” Bran said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran答应。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P022-078"
+    },
+    {
+      "id": "CH01-P023-079",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "“Yes,” Robb agreed.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb也答应。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-079"
+    },
+    {
+      "id": "CH01-P023-080",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 80,
+      "original_text": "“The pups may die anyway, despite all you do.”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲提醒，即使尽力，幼崽仍可能死亡。",
+      "reading_note_zh": "父亲保留失败和死亡的现实可能，Robb则以儿童式决心回答，形成成熟与希望的对照。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-080"
+    },
+    {
+      "id": "CH01-P023-081",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 81,
+      "original_text": "“They won’t die,” Robb said. “We won’t let them die.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb坚持他们不会让幼崽死。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-081"
+    },
+    {
+      "id": "CH01-P023-082",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 82,
+      "original_text": "“Keep them, then. Jory, Desmond, gather up the other pups. It’s time we were back to Winterfell.”",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲最终同意留下幼崽，并命人收集其余几只后返回Winterfell。",
+      "reading_note_zh": "本段通过家徽、婚生身份和数量对应完成说服，同时把收养与责任绑定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-082"
+    },
+    {
+      "id": "CH01-P023-083",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 83,
+      "original_text": "It was not until they were mounted and on their way that Bran allowed himself to taste the sweet air of victory. By then, his pup was snuggled inside his leathers, warm against him, safe for the long ride home. Bran was wondering what to name him.",
+      "translation": "",
+      "paragraph_explanation_zh": "上马返程后Bran才敢品尝胜利的喜悦，怀中的幼崽贴着他取暖。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-083"
+    },
+    {
+      "id": "CH01-P023-084",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 84,
+      "original_text": "Halfway across the bridge, Jon pulled up suddenly.",
+      "translation": "",
+      "paragraph_explanation_zh": "走到桥中央时，Jon突然停马。",
+      "reading_note_zh": "Jon再次先于众人听见细微信号，延续他在前文“看见别人忽略之处”的人物特征。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-084"
+    },
+    {
+      "id": "CH01-P023-085",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 85,
+      "original_text": "“What is it, Jon?” their lord father asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲询问Jon发现了什么。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-085"
+    },
+    {
+      "id": "CH01-P023-086",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 86,
+      "original_text": "“Can’t you hear it?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon反问众人是否听见某种声音。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-086"
+    },
+    {
+      "id": "CH01-P023-087",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 87,
+      "original_text": "Bran could hear the wind in the trees, the clatter of their hooves on the ironwood planks, the whimpering of his hungry pup, but Jon was listening to something else.",
+      "translation": "",
+      "paragraph_explanation_zh": "Bran只听见风、马蹄和幼崽声音；Jon却能从中辨出另一个声音。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-087"
+    },
+    {
+      "id": "CH01-P023-088",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 88,
+      "original_text": "“There,” Jon said. He swung his horse around and galloped back across the bridge. They watched him dismount where the direwolf lay dead in the snow, watched him kneel. A moment later he was riding back to them, smiling.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon循声返回雪地，从母兽尸体附近抱出第六只幼崽。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-088"
+    },
+    {
+      "id": "CH01-P023-089",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 89,
+      "original_text": "“He must have crawled away from the others,” Jon said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon推测它是自己爬离其他幼崽的。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-089"
+    },
+    {
+      "id": "CH01-P023-090",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 90,
+      "original_text": "“Or been driven away,” their father said, looking at the sixth pup. His fur was white, where the rest of the litter was grey. His eyes were as red as the blood of the ragged man who had died that morning. Bran thought it curious that this pup alone would have opened his eyes while the others were still blind.",
+      "translation": "",
+      "paragraph_explanation_zh": "父亲提出它也可能被排挤；第六只通体白色，眼睛已经睁开且呈红色。",
+      "reading_note_zh": "白毛红眼不仅标示albino，也让第六只幼崽在视觉上与五只灰色幼崽分离，对应Jon的家庭位置。",
+      "background_note_zh": "**文本事实：** albino指先天缺乏色素的个体，常见特征包括白色毛发和红色或浅色眼睛。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-090"
+    },
+    {
+      "id": "CH01-P023-091",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 91,
+      "original_text": "“An albino,” Theon Greyjoy said with wry amusement. “This one will die even faster than the others.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Theon用讽刺口吻称它为albino，并断言它会最先死。",
+      "reading_note_zh": "本段用第六只幼崽完成第二次发现，并让它与Jon在家庭中的特殊位置形成对应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-091"
+    },
+    {
+      "id": "CH01-P023-092",
+      "page": 23,
+      "end_page": 23,
+      "type": "paragraph",
+      "order": 92,
+      "original_text": "Jon Snow gave his father’s ward a long, chilling look. “I think not, Greyjoy,” he said. “This one belongs to me.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon以冰冷目光否定Theon，宣布这只幼崽属于自己。",
+      "reading_note_zh": "结尾把Theon的死亡判断与Jon的认领正面对置；`belongs to me` 同时是保护和身份确认。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点是人物反应、家庭关系或现场信息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH01-P023-092"
+    }
+  ],
+  "pages": [
+    {
+      "page": 16,
+      "block_ids": [
+        "CH01-P016-001",
+        "CH01-P016-002",
+        "CH01-P016-003",
+        "CH01-P016-004",
+        "CH01-P016-005",
+        "CH01-P016-006"
+      ]
+    },
+    {
+      "page": 17,
+      "block_ids": [
+        "CH01-P016-006",
+        "CH01-P017-007",
+        "CH01-P017-008",
+        "CH01-P017-009",
+        "CH01-P017-010",
+        "CH01-P017-011",
+        "CH01-P017-012",
+        "CH01-P017-013",
+        "CH01-P017-014",
+        "CH01-P017-015"
+      ]
+    },
+    {
+      "page": 18,
+      "block_ids": [
+        "CH01-P017-015",
+        "CH01-P018-016",
+        "CH01-P018-017",
+        "CH01-P018-018",
+        "CH01-P018-019",
+        "CH01-P018-020",
+        "CH01-P018-021",
+        "CH01-P018-022",
+        "CH01-P018-023",
+        "CH01-P018-024",
+        "CH01-P018-025",
+        "CH01-P018-026",
+        "CH01-P018-027"
+      ]
+    },
+    {
+      "page": 19,
+      "block_ids": [
+        "CH01-P018-027",
+        "CH01-P019-028",
+        "CH01-P019-029",
+        "CH01-P019-030",
+        "CH01-P019-031",
+        "CH01-P019-032",
+        "CH01-P019-033",
+        "CH01-P019-034",
+        "CH01-P019-035",
+        "CH01-P019-036",
+        "CH01-P019-037",
+        "CH01-P019-038"
+      ]
+    },
+    {
+      "page": 20,
+      "block_ids": [
+        "CH01-P020-039",
+        "CH01-P020-040",
+        "CH01-P020-041",
+        "CH01-P020-042",
+        "CH01-P020-043",
+        "CH01-P020-044",
+        "CH01-P020-045",
+        "CH01-P020-046",
+        "CH01-P020-047",
+        "CH01-P020-048",
+        "CH01-P020-049",
+        "CH01-P020-050"
+      ]
+    },
+    {
+      "page": 21,
+      "block_ids": [
+        "CH01-P021-051",
+        "CH01-P021-052",
+        "CH01-P021-053",
+        "CH01-P021-054",
+        "CH01-P021-055",
+        "CH01-P021-056",
+        "CH01-P021-057",
+        "CH01-P021-058",
+        "CH01-P021-059",
+        "CH01-P021-060",
+        "CH01-P021-061",
+        "CH01-P021-062",
+        "CH01-P021-063",
+        "CH01-P021-064",
+        "CH01-P021-065",
+        "CH01-P021-066"
+      ]
+    },
+    {
+      "page": 22,
+      "block_ids": [
+        "CH01-P022-067",
+        "CH01-P022-068",
+        "CH01-P022-069",
+        "CH01-P022-070",
+        "CH01-P022-071",
+        "CH01-P022-072",
+        "CH01-P022-073",
+        "CH01-P022-074",
+        "CH01-P022-075",
+        "CH01-P022-076",
+        "CH01-P022-077",
+        "CH01-P022-078"
+      ]
+    },
+    {
+      "page": 23,
+      "block_ids": [
+        "CH01-P023-079",
+        "CH01-P023-080",
+        "CH01-P023-081",
+        "CH01-P023-082",
+        "CH01-P023-083",
+        "CH01-P023-084",
+        "CH01-P023-085",
+        "CH01-P023-086",
+        "CH01-P023-087",
+        "CH01-P023-088",
+        "CH01-P023-089",
+        "CH01-P023-090",
+        "CH01-P023-091",
+        "CH01-P023-092"
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": [
+    {
+      "term": "wildling",
+      "translation": "野人；长城外居民",
+      "note": "奇幻专名，在人物话语中带有边境内部人的称呼色彩"
+    },
+    {
+      "term": "stump",
+      "translation": "残端；树桩",
+      "note": "此处指冻伤后缺失耳朵留下的部位"
+    },
+    {
+      "term": "crispness",
+      "translation": "清冽；凉爽而干燥的感觉",
+      "note": "此处暗示夏末将尽"
+    },
+    {
+      "term": "set forth",
+      "translation": "出发；启程",
+      "note": "较正式、文学化"
+    },
+    {
+      "term": "holdfast",
+      "translation": "小型堡垒；坚固据点",
+      "note": "奇幻和历史语境常用"
+    },
+    {
+      "term": "prickle",
+      "translation": "刺痛；汗毛竖起",
+      "note": "此处是恐惧引起的皮肤感觉"
+    },
+    {
+      "term": "hearth tale",
+      "translation": "炉边故事；口耳相传的旧故事",
+      "note": "常含民间传说和夸张成分"
+    },
+    {
+      "term": "slaver",
+      "translation": "奴隶贩子",
+      "note": "从事捕捉或买卖奴隶的人"
+    },
+    {
+      "term": "consort with",
+      "translation": "与……结交；和……厮混",
+      "note": "常暗含不赞同"
+    },
+    {
+      "term": "ghoul",
+      "translation": "食尸鬼；恶鬼",
+      "note": "民间怪物名称"
+    },
+    {
+      "term": "sire",
+      "translation": "生育；成为……的父亲",
+      "note": "古风或动物繁殖语境"
+    },
+    {
+      "term": "scrawny",
+      "translation": "干瘦的；骨瘦如柴的",
+      "note": "带弱小、不健康的观感"
+    },
+    {
+      "term": "frostbite",
+      "translation": "冻伤",
+      "note": "严寒导致组织损伤"
+    },
+    {
+      "term": "ragged",
+      "translation": "破烂的；衣衫褴褛的",
+      "note": "此处形容毛皮服装"
+    },
+    {
+      "term": "bound hand and foot",
+      "translation": "手脚都被捆住",
+      "note": "也可比喻完全受制"
+    },
+    {
+      "term": "king’s justice",
+      "translation": "国王依法施行的裁决",
+      "note": "封建司法表达"
+    },
+    {
+      "term": "ward",
+      "translation": "受监护者；寄养的贵族子弟",
+      "note": "并非普通客人或囚犯"
+    },
+    {
+      "term": "solemnly",
+      "translation": "庄严地；严肃地",
+      "note": "强调仪式性"
+    },
+    {
+      "term": "grim cast",
+      "translation": "冷峻的神情",
+      "note": "`cast`指面部呈现出的固定样子"
+    },
+    {
+      "term": "don",
+      "translation": "穿上；披上",
+      "note": "文学化，与take off相对"
+    },
+    {
+      "term": "Valyrian steel",
+      "translation": "瓦雷利亚钢",
+      "note": "本书中的珍贵锻造材料"
+    },
+    {
+      "term": "spell-forged",
+      "translation": "以法术锻造的",
+      "note": "暗示锻造过程包含魔法"
+    },
+    {
+      "term": "warden",
+      "translation": "守护者；军政长官",
+      "note": "此处为Warden of the North头衔"
+    },
+    {
+      "term": "bastard",
+      "translation": "私生子（的）",
+      "note": "历史语境中的法律身份，常带侮辱性"
+    },
+    {
+      "term": "flinch",
+      "translation": "畏缩；因疼痛或恐惧猛地退缩",
+      "note": "`do not flinch`"
+    },
+    {
+      "term": "stroke",
+      "translation": "一次挥击；一击",
+      "note": "此处指干净利落的一剑"
+    },
+    {
+      "term": "spray",
+      "translation": "喷溅；飞散",
+      "note": "描写血液瞬间散开"
+    },
+    {
+      "term": "muscular",
+      "translation": "肌肉发达的",
+      "note": "与slender形成对照"
+    },
+    {
+      "term": "slender",
+      "translation": "修长纤细的",
+      "note": "不等于虚弱"
+    },
+    {
+      "term": "gallop",
+      "translation": "策马飞奔",
+      "note": "马的快速步态"
+    },
+    {
+      "term": "deserter",
+      "translation": "逃兵；擅离职守者",
+      "note": "本章犯人的法律身份"
+    },
+    {
+      "term": "oathbreaker",
+      "translation": "背誓者",
+      "note": "违背正式誓言的人"
+    },
+    {
+      "term": "sworn",
+      "translation": "宣誓承担的；以誓言约束的",
+      "note": "`sworn to`"
+    },
+    {
+      "term": "headsman",
+      "translation": "刽子手；斩首执行人",
+      "note": "专门代为执行死刑"
+    },
+    {
+      "term": "pass the sentence",
+      "translation": "作出判决；宣判",
+      "note": "此处sentence是法律判决"
+    },
+    {
+      "term": "bannerman",
+      "translation": "封臣；旗臣",
+      "note": "向领主效忠并在战时随旗出征"
+    },
+    {
+      "term": "keep",
+      "translation": "主堡；小型城堡",
+      "note": "此处不是动词“保持”"
+    },
+    {
+      "term": "mischief",
+      "translation": "麻烦；恶作剧造成的乱子",
+      "note": "父亲口吻带幽默"
+    },
+    {
+      "term": "crest",
+      "translation": "山顶；山脊最高处",
+      "note": "此处是Jon重新出现的位置"
+    },
+    {
+      "term": "root out",
+      "translation": "搜出；发现",
+      "note": "父亲幽默地说儿子们又找出了麻烦"
+    },
+    {
+      "term": "drift",
+      "translation": "风吹堆积的雪堆",
+      "note": "`snowdrift`的简写语境"
+    },
+    {
+      "term": "footing",
+      "translation": "立足处；脚下支撑",
+      "note": "`solid footing`"
+    },
+    {
+      "term": "rear",
+      "translation": "（马）扬起前蹄",
+      "note": "受惊或反抗动作"
+    },
+    {
+      "term": "afire with curiosity",
+      "translation": "好奇心炽盛",
+      "note": "把强烈好奇比作着火"
+    },
+    {
+      "term": "direwolf",
+      "translation": "冰原狼；巨型狼",
+      "note": "House Stark的家徽动物"
+    },
+    {
+      "term": "realm",
+      "translation": "王国；领土",
+      "note": "历史和奇幻语境常用"
+    },
+    {
+      "term": "sigil",
+      "translation": "家徽；纹章标志",
+      "note": "代表贵族家族"
+    },
+    {
+      "term": "antler",
+      "translation": "鹿角",
+      "note": "通常指鹿科动物分叉的角"
+    },
+    {
+      "term": "tine",
+      "translation": "叉齿；鹿角分叉",
+      "note": "较生僻的具体名词"
+    },
+    {
+      "term": "litter",
+      "translation": "一窝幼崽",
+      "note": "同一胎出生的动物"
+    },
+    {
+      "term": "whelp",
+      "translation": "产仔；幼犬",
+      "note": "古风动物繁殖用语"
+    },
+    {
+      "term": "dismay",
+      "translation": "惊愕与沮丧",
+      "note": "此处指听见幼崽将死后的痛苦"
+    },
+    {
+      "term": "furrowed",
+      "translation": "皱起的；有深纹的",
+      "note": "`furrowed brow`表示忧虑"
+    },
+    {
+      "term": "squirm",
+      "translation": "蠕动；扭动",
+      "note": "幼小动物不安地动"
+    },
+    {
+      "term": "kennelmaster",
+      "translation": "养犬负责人",
+      "note": "管理领主家的犬舍"
+    },
+    {
+      "term": "trueborn",
+      "translation": "婚生的；合法婚姻所生的",
+      "note": "与bastard身份相对"
+    },
+    {
+      "term": "albino",
+      "translation": "白化个体",
+      "note": "先天缺乏黑色素"
+    },
+    {
+      "term": "wry",
+      "translation": "挖苦的；带讽刺的",
+      "note": "`wry amusement`"
+    },
+    {
+      "term": "clatter",
+      "translation": "连续的硬物碰撞声",
+      "note": "此处为马蹄踏木桥声"
+    },
+    {
+      "term": "whimper",
+      "translation": "呜咽；低声哀叫",
+      "note": "幼兽细弱的叫声"
+    }
+  ]
+}

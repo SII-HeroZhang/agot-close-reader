@@ -1,0 +1,1658 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 8 — BRAN",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    75,
+    83
+  ],
+  "block_count": 76,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 75,
+      "first_id": "CH08-P075-001",
+      "last_id": "CH08-P075-005"
+    },
+    {
+      "page": 76,
+      "first_id": "CH08-P076-006",
+      "last_id": "CH08-P076-011"
+    },
+    {
+      "page": 77,
+      "first_id": "CH08-P077-012",
+      "last_id": "CH08-P077-018"
+    },
+    {
+      "page": 78,
+      "first_id": "CH08-P078-019",
+      "last_id": "CH08-P078-025"
+    },
+    {
+      "page": 79,
+      "first_id": "CH08-P079-026",
+      "last_id": "CH08-P079-034"
+    },
+    {
+      "page": 80,
+      "first_id": "CH08-P080-035",
+      "last_id": "CH08-P080-048"
+    },
+    {
+      "page": 81,
+      "first_id": "CH08-P081-049",
+      "last_id": "CH08-P081-059"
+    },
+    {
+      "page": 82,
+      "first_id": "CH08-P082-060",
+      "last_id": "CH08-P082-071"
+    },
+    {
+      "page": 83,
+      "first_id": "CH08-P083-072",
+      "last_id": "CH08-P083-076"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH08-P075-001",
+      "page": 75,
+      "end_page": 75,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "The hunt left at dawn. The king wanted wild boar at the feast tonight. Prince Joffrey rode with his father, so Robb had been allowed to join the hunters as well. Uncle Benjen, Jory, Theon Greyjoy, Ser Rodrik, and even the queen’s funny little brother had all ridden out with them. It was the last hunt, after all. On the morrow they left for the south.",
+      "translation": "",
+      "explanation_zh": "国王一行黎明出发猎野猪；Robb也随行，这是南下前最后一次狩猎。",
+      "literary_note_zh": "“最后一次狩猎”与“明日南下”让本章从一开始就带有过渡时刻的不可逆感。",
+      "background_zh": "**文本事实：** Robert在南下前举行最后一次狩猎，Joffrey、Robb、Benjen、Theon、Jory、Ser Rodrik和Tyrion随行。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P075-002",
+      "page": 75,
+      "end_page": 75,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Bran had been left behind with Jon and the girls and Rickon. But Rickon was only a baby and the girls were only girls and Jon and his wolf were nowhere to be found. Bran did not look for him very hard. He thought Jon was angry at him. Jon seemed to be angry at everyone these days. Bran did not know why. He was going with Uncle Ben to the Wall, to join the Night’s Watch. That was almost as good as going south with the king. Robb was the one they were leaving behind, not Jon.",
+      "translation": "",
+      "explanation_zh": "Bran被留在Winterfell，他不理解Jon近来的愤怒，还认为去Night’s Watch并不比南下差。",
+      "literary_note_zh": "本段从南下前的兴奋转向离别伤感，direwolf的异常嚎叫为Bran的最后一次攀爬蒙上警示。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P075-003",
+      "page": 75,
+      "end_page": 75,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "For days, Bran could scarcely wait to be off. He was going to ride the kingsroad on a horse of his own, not a pony but a real horse. His father would be the Hand of the King, and they were going to live in the red castle at King’s Landing, the castle the Dragonlords had built. Old Nan said there were ghosts there, and dungeons where terrible things had been done, and dragon heads on the walls. It gave Bran a shiver just to think of it, but he was not afraid. How could he be afraid? His father would be with him, and the king with all his knights and sworn swords.",
+      "translation": "",
+      "explanation_zh": "Bran原本极度期待骑真马走kingsroad、住进King’s Landing的红堡；恐怖传说只增加了他的兴奋。",
+      "literary_note_zh": "Bran用骑士、鬼魂和龙头构建王都，这是儿童英雄故事的King’s Landing，不是成人政治中的王都。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P075-004",
+      "page": 75,
+      "end_page": 75,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "Bran was going to be a knight himself someday, one of the Kingsguard. Old Nan said they were the finest swords in all the realm. There were only seven of them, and they wore white armor and had no wives or children, but lived only to serve the king. Bran knew all the stories. Their names were like music to him. Serwyn of the Mirror Shield. Ser Ryam Redwyne. Prince Aemon the Dragonknight. The twins Ser Erryk and Ser Arryk, who had died on one another’s swords hundreds of years ago, when brother fought sister in the war the singers called the Dance of the Dragons. The White Bull, Gerold Hightower. Ser Arthur Dayne, the Sword of the Morning. Barristan the Bold.",
+      "translation": "",
+      "explanation_zh": "Bran梦想成为Kingsguard，并如数家珍地回想传说中的白袍骑士与古老战争。",
+      "literary_note_zh": "名字“like music”显示Bran对骑士的认识首先来自歌谣；古老内战在他心中也已经被美化成传奇。",
+      "background_zh": "**当前可知设定：** Kingsguard由七名白袍骑士组成，终身服务君主，不婚不育。Bran提及的古人多来自歌谣与传奇。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P075-005",
+      "page": 75,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Two of the Kingsguard had come north with King Robert. Bran had watched them with fascination, never quite daring to speak to them. Ser Boros was a bald man with a jowly face, and Ser Meryn had droopy eyes and a beard the color of rust. Ser Jaime Lannister looked more like the knights in the stories, and he was of the Kingsguard too, but Robb said he had killed the old mad king and shouldn’t count anymore. The greatest living knight was Ser Barristan Selmy, Barristan the Bold, the Lord Commander of the Kingsguard. Father had promised that they would meet Ser Barristan when they reached King’s Landing, and Bran had been marking the days on his wall, eager to depart, to see a world he had only dreamed of and begin a life he could scarcely imagine.",
+      "translation": "",
+      "explanation_zh": "他比较随行的三名Kingsguard，认为Jaime最像故事里的骑士，又期待到王都见到Ser Barristan Selmy。",
+      "literary_note_zh": "Jaime外貌最像传奇骑士，却因弑旧王不被Robb认可；外形、誓言和行为在此出现缝隙。",
+      "background_zh": "**文本事实：** Jaime Lannister是Kingsguard成员，但他曾杀死自己誓言保护的旧王，因此其骑士名誉存在争议。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P076-006",
+      "page": 76,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Yet now that the last day was at hand, suddenly Bran felt lost. Winterfell had been the only home he had ever known. His father had told him that he ought to say his farewells today, and he had tried. After the hunt had ridden out, he wandered through the castle with his wolf at his side, intending to visit the ones who would be left behind, Old Nan and Gage the cook, Mikken in his smithy, Hodor the stableboy who smiled so much and took care of his pony and never said anything but “Hodor,” the man in the glass gardens who gave him a blackberry when he came to visit . . .",
+      "translation": "",
+      "explanation_zh": "真到离别前一天，Bran却感到失落；他试图向城堡中熟悉的人一一道别。",
+      "literary_note_zh": "期待在离别成为现实时突然反转成失落，这是儿童对“去新地方”和“失去家”的第一次同时感知。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P076-007",
+      "page": 76,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "But it was no good. He had gone to the stable first, and seen his pony there in its stall, except it wasn’t his pony anymore, he was getting a real horse and leaving the pony behind, and all of a sudden Bran just wanted to sit down and cry. He turned and ran off before Hodor and the other stableboys could see the tears in his eyes. That was the end of his farewells. Instead Bran spent the morning alone in the godswood, trying to teach his wolf to fetch a stick, and failing. The wolfling was smarter than any of the hounds in his father’s kennel and Bran would have sworn he understood every word that was said to him, but he showed very little interest in chasing sticks.",
+      "translation": "",
+      "explanation_zh": "在马厩看见即将留下的小马后，他差点哭出来，放弃道别，转而和direwolf独处。",
+      "literary_note_zh": "被遗留的小马将抽象离别变成可见的损失；Bran逃走是为了不被他人看见眼泪。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P076-008",
+      "page": 76,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "He was still trying to decide on a name. Robb was calling his Grey Wind, because he ran so fast. Sansa had named hers Lady, and Arya named hers after some old witch queen in the songs, and little Rickon called his Shaggydog, which Bran thought was a pretty stupid name for a direwolf. Jon’s wolf, the white one, was Ghost. Bran wished he had thought of that first, even though his wolf wasn’t white. He had tried a hundred names in the last fortnight, but none of them sounded right.",
+      "translation": "",
+      "explanation_zh": "Bran还没给direwolf找到合适名字，他美慕Ghost这个名，也评论兄弟姐妹各自的命名。",
+      "literary_note_zh": "本段从南下前的兴奋转向离别伤感，direwolf的异常嚎叫为Bran的最后一次攀爬蒙上警示。",
+      "background_zh": "**文本事实：** 狼名分别包括Grey Wind、Lady、Nymeria、Shaggydog与Ghost；Bran的direwolf此时仍未命名。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P076-009",
+      "page": 76,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Finally he got tired of the stick game and decided to go climbing. He hadn’t been up to the broken tower for weeks with everything that had happened, and this might be his last chance.",
+      "translation": "",
+      "explanation_zh": "他玩腻投棍后决定去爬broken tower，把它当作离开前最后一次探险。",
+      "literary_note_zh": "本段从南下前的兴奋转向离别伤感，direwolf的异常嚎叫为Bran的最后一次攀爬蒙上警示。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P076-010",
+      "page": 76,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "He raced across the godswood, taking the long way around to avoid the pool where the heart tree grew. The heart tree had always frightened him; trees ought not have eyes, Bran thought, or leaves that looked like hands. His wolf came sprinting at his heels. “You stay here,” he told him at the base of the sentinel tree near the armory wall. “Lie down. That’s right. Now stay—”",
+      "translation": "",
+      "explanation_zh": "Bran绕开令他害怕的heart tree，命令direwolf留在sentinel tree下。",
+      "literary_note_zh": "heart tree的眼睛和手形叶子被儿童视角重新陌生化，使熟悉的godswood也带有被观察感。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P076-011",
+      "page": 76,
+      "end_page": 76,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "The wolf did as he was told. Bran scratched him behind the ears, then turned away, jumped, grabbed a low branch, and pulled himself up. He was halfway up the tree, moving easily from limb to limb, when the wolf got to his feet and began to howl.",
+      "translation": "",
+      "explanation_zh": "direwolf先服从命令，却在Bran爬到半途时起身嚎叫。",
+      "literary_note_zh": "本段从南下前的兴奋转向离别伤感，direwolf的异常嚎叫为Bran的最后一次攀爬蒙上警示。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-012",
+      "page": 77,
+      "end_page": 77,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "Bran looked back down. His wolf fell silent, staring up at him through slitted yellow eyes. A strange chill went through him. He began to climb again. Once more the wolf howled. “Quiet,” he yelled. “Sit down. Stay. You’re worse than Mother.” The howling chased him all the way up the tree, until finally he jumped off onto the armory roof and out of sight.",
+      "translation": "",
+      "explanation_zh": "Bran因狼的注视感到寒意，但仍把警告当成烦人阻拦，继续爬上屋顶。",
+      "literary_note_zh": "direwolf的嚎叫是明确警告；Bran把它类比为Mother的唠叨，正显示他如何忽略危险信号。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-013",
+      "page": 77,
+      "end_page": 77,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "The rooftops of Winterfell were Bran’s second home. His mother often said that Bran could climb before he could walk. Bran could not remember when he first learned to walk, but he could not remember when he started to climb either, so he supposed it must be true.",
+      "translation": "",
+      "explanation_zh": "Winterfell的屋顶是Bran的第二个家；Catelyn甚至说他先会爬才会走。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-014",
+      "page": 77,
+      "end_page": 77,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "To a boy, Winterfell was a grey stone labyrinth of walls and towers and courtyards and tunnels spreading out in all directions. In the older parts of the castle, the halls slanted up and down so that you couldn’t even be sure what floor you were on. The place had grown over the centuries like some monstrous stone tree, Maester Luwin told him once, and its branches were gnarled and thick and twisted, its roots sunk deep into the earth.",
+      "translation": "",
+      "explanation_zh": "在孩子眼中，Winterfell是不规则生长的灰色石迷宫，像一棵扭曲的巨树。",
+      "literary_note_zh": "城堡被比作“monstrous stone tree”，建筑不再是静态布局，而是几个世纪累积生长的活物。",
+      "background_zh": "**文本事实：** Winterfell是几百年间分期扩建的古老城堡，所以地面、楼层和建筑并不规整。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-015",
+      "page": 77,
+      "end_page": 77,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "When he got out from under it and scrambled up near the sky, Bran could see all of Winterfell in a glance. He liked the way it looked, spread out beneath him, only birds wheeling over his head while all the life of the castle went on below. Bran could perch for hours among the shapeless, rain-worn gargoyles that brooded over the First Keep, watching it all: the men drilling with wood and steel in the yard, the cooks tending their vegetables in the glass garden, restless dogs running back and forth in the kennels, the silence of the godswood, the girls gossiping beside the washing well. It made him feel like he was lord of the castle, in a way even Robb would never know.",
+      "translation": "",
+      "explanation_zh": "登高后Bran可俯瞰整座城堡的日常，这使他拥有一种连Robb也不懂的领主感。",
+      "literary_note_zh": "俯瞰让Bran感到自己比继承人Robb更像城主；他的权力来自视角和无人知晓的在场。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-016",
+      "page": 77,
+      "end_page": 77,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "It taught him Winterfell’s secrets too. The builders had not even leveled the earth; there were hills and valleys behind the walls of Winterfell. There was a covered bridge that went from the fourth floor of the bell tower across to the second floor of the rookery. Bran knew about that. And he knew you could get inside the inner wall by the south gate, climb three floors and run all the way around Winterfell through a narrow tunnel in the stone, and then come out on ground level at the north gate, with a hundred feet of wall looming over you. Even Maester Luwin didn’t know that, Bran was convinced.",
+      "translation": "",
+      "explanation_zh": "爬行还让Bran掌握Winterfell的暗道、桥梁和错层结构，他相信有些秘密连Maester Luwin也不知道。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-017",
+      "page": 77,
+      "end_page": 77,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "His mother was terrified that one day Bran would slip off a wall and kill himself. He told her that he wouldn’t, but she never believed him. Once she made him promise that he would stay on the ground. He had managed to keep that promise for almost a fortnight, miserable every day, until one night he had gone out the window of his bedroom when his brothers were fast asleep.",
+      "translation": "",
+      "explanation_zh": "Catelyn害怕他失足身亡，曾迫他保证留在地面；Bran只忍了近两周便偷偷违约。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P077-018",
+      "page": 77,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "He confessed his crime the next day in a fit of guilt. Lord Eddard ordered him to the godswood to cleanse himself. Guards were posted to see that Bran remained there alone all night to reflect on his disobedience. The next morning Bran was nowhere to be seen. They finally found him fast asleep in the upper branches of the tallest sentinel in the grove.",
+      "translation": "",
+      "explanation_zh": "Bran因内疚坦白后被罚在godswood反省，结果第二天被发现睡在最高的树上。",
+      "literary_note_zh": "惩罚要求Bran在godswood的地面反思，他却睡到最高的树上，用空间行动完成了无声反驳。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-019",
+      "page": 78,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "As angry as he was, his father could not help but laugh. “You’re not my son,” he told Bran when they fetched him down, “you’re a squirrel. So be it. If you must climb, then climb, but try not to let your mother see you.”",
+      "translation": "",
+      "explanation_zh": "Eddard再生气也忍不住发笑，戏称Bran是松鼠，并默许他继续爬，只别让母亲看见。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-020",
+      "page": 78,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "Bran did his best, although he did not think he ever really fooled her. Since his father would not forbid it, she turned to others. Old Nan told him a story about a bad little boy who climbed too high and was struck down by lightning, and how afterward the crows came to peck out his eyes. Bran was not impressed. There were crows’ nests atop the broken tower, where no one ever went but him, and sometimes he filled his pockets with corn before he climbed up there and the crows ate it right out of his hand. None of them had ever shown the slightest bit of interest in pecking out his eyes.",
+      "translation": "",
+      "explanation_zh": "Old Nan用雷击和乌鸦啄眼的故事吓他，但Bran用自己喂乌鸦的经验否定这种警告。",
+      "literary_note_zh": "Old Nan故事中的雷击、坠落、乌鸦与眼睛集中出现，本章结尾会让这些意象变得不再只是吓孩子。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-021",
+      "page": 78,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "Later, Maester Luwin built a little pottery boy and dressed him in Bran’s clothes and flung him off the wall into the yard below, to demonstrate what would happen to Bran if he fell. That had been fun, but afterward Bran just looked at the maester and said, “I’m not made of clay. And anyhow, I never fall.”",
+      "translation": "",
+      "explanation_zh": "Maester Luwin把穿Bran衣服的陶偶抛下城墙演示后果，Bran却坚信自己不是陶土，也绝不会掉落。",
+      "literary_note_zh": "“我不是陶土”在逻辑上没错，却避开了演示的真正命题；这是儿童对自身例外性的坚信。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-022",
+      "page": 78,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Then for a while the guards would chase him whenever they saw him on the roofs, and try to haul him down. That was the best time of all. It was like playing a game with his brothers, except that Bran always won. None of the guards could climb half so well as Bran, not even Jory. Most of the time they never saw him anyway. People never looked up. That was another thing he liked about climbing; it was almost like being invisible.",
+      "translation": "",
+      "explanation_zh": "守卫后来追逐屋顶上的Bran，却总是输给他；他也发现人们很少抬头，因而爬高几乎等于隐身。",
+      "literary_note_zh": "“People never looked up”是Bran的优势，也是悬念机制：他可以看见别人，别人却忘记他可能存在。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-023",
+      "page": 78,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "He liked how it felt too, pulling himself up a wall stone by stone, fingers and toes digging hard into the small crevices between. He always took off his boots and went barefoot when he climbed; it made him feel as if he had four hands instead of two. He liked the deep, sweet ache it left in the muscles afterward. He liked the way the air tasted way up high, sweet and cold as a winter peach. He liked the birds: the crows in the broken tower, the tiny little sparrows that nested in cracks between the stones, the ancient owl that slept in the dusty loft above the old armory. Bran knew them all.",
+      "translation": "",
+      "explanation_zh": "Bran详细感受赤脚攀爬的触感、肌肉酸痛、高处冷空气与栖息的鸟类。",
+      "literary_note_zh": "这一长串触觉、味觉与肌肉感觉让“他爱爬高”成为身体经验，而不只是性格标签。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-024",
+      "page": 78,
+      "end_page": 78,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "Most of all, he liked going places that no one else could go, and seeing the grey sprawl of Winterfell in a way that no one else ever saw it. It made the whole castle Bran’s secret place.",
+      "translation": "",
+      "explanation_zh": "他最喜欢的是到达旁人无法去的地方，拥有一座只属于自己视角的Winterfell。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P078-025",
+      "page": 78,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "His favorite haunt was the broken tower. Once it had been a watchtower, the tallest in Winterfell. A long time ago, a hundred years before even his father had been born, a lightning strike had set it afire. The top third of the structure had collapsed inward, and the tower had never been rebuilt. Sometimes his father sent ratters into the base of the tower, to clean out the nests they always found among the jumble of fallen stones and charred and rotten beams. But no one ever got up to the jagged top of the structure now except for Bran and the crows.",
+      "translation": "",
+      "explanation_zh": "broken tower是他最爱的去处；它百年前被雷火摧毁，如今只有Bran和乌鸦能到达崩坏顶部。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "**文本事实：** broken tower约在百年前被雷击烧毁，顶部坍塌后从未重建。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-026",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "He knew two ways to get there. You could climb straight up the side of the tower itself, but the stones were loose, the mortar that held them together long gone to ash, and Bran never liked to put his full weight on them.",
+      "translation": "",
+      "explanation_zh": "Bran知道两条路，但不喜欢直接爬松动、砂浆已烧毁的塔墙。",
+      "literary_note_zh": "本段交代Bran的攀爬技术、家庭争论和对Winterfell的秘密视角，为后面的高处偷听建立可信性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-027",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "The best way was to start from the godswood, shinny up the tall sentinel, and cross over the armory and the guards hall, leaping roof to roof, barefoot so the guards wouldn’t hear you overhead. That brought you up to the blind side of the First Keep, the oldest part of the castle, a squat round fortress that was taller than it looked. Only rats and spiders lived there now but the old stones still made for good climbing. You could go straight up to where the gargoyles leaned out blindly over empty space, and swing from gargoyle to gargoyle, hand over hand, around to the north side. From there, if you really stretched, you could reach out and pull yourself over to the broken tower where it leaned close. The last part was the scramble up the blackened stones to the eyrie, no more than ten feet, and then the crows would come round to see if you’d brought any corn.",
+      "translation": "",
+      "explanation_zh": "更好的路线需穿过树、屋顶、First Keep与石像鬼，最后荡到broken tower；叙述展示他娴熟的身体地图。",
+      "literary_note_zh": "路线的精密描述先证明Bran几乎从不失手，从而使后面的坠落不能被简化为普通攀爬事故。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-028",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "Bran was moving from gargoyle to gargoyle with the ease of long practice when he heard the voices. He was so startled he almost lost his grip. The First Keep had been empty all his life.",
+      "translation": "",
+      "explanation_zh": "Bran在石像鬼间移动时听见空置多年的First Keep传出人声，惊得几乎脱手。",
+      "literary_note_zh": "一直空置的First Keep突然有声音，日常冒险在一句中转向政治悬念。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-029",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“I do not like it,” a woman was saying. There was a row of windows beneath him, and the voice was drifting out of the last window on this side. “You should be the Hand.”",
+      "translation": "",
+      "explanation_zh": "一名女子表示不喜欢当前局势，认为对话的男人本应成为Hand。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-030",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“Gods forbid,” a man’s voice replied lazily. “It’s not an honor I’d want. There’s far too much work involved.”",
+      "translation": "",
+      "explanation_zh": "男人懒洋洋拒绝这份荣誉，因为Hand的工作太多。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-031",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "Bran hung, listening, suddenly afraid to go on. They might glimpse his feet if he tried to swing by.",
+      "translation": "",
+      "explanation_zh": "Bran悬在窗上方偷听，又担心移动时脚会被对方看见。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-032",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“Don’t you see the danger this puts us in?” the woman said. “Robert loves the man like a brother.”",
+      "translation": "",
+      "explanation_zh": "女子强调Eddard受Robert手足般喜爱，认为他成为Hand会带来危险。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-033",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“Robert can barely stomach his brothers. Not that I blame him. Stannis would be enough to give anyone indigestion.”",
+      "translation": "",
+      "explanation_zh": "男人用Robert不喜欢自己亲兄弟作玩笑，还讽刺Stannis令人消化不良。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P079-034",
+      "page": 79,
+      "end_page": 79,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "“Don’t play the fool. Stannis and Renly are one thing, and Eddard Stark is quite another. Robert will listen to Stark. Damn them both. I should have insisted that he name you, but I was certain Stark would refuse him.”",
+      "translation": "",
+      "explanation_zh": "女子区分Robert的兄弟与Eddard，懊悔没有坚持推举对话的男人。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-035",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“We ought to count ourselves fortunate,” the man said. “The king might as easily have named one of his brothers, or even Littlefinger, gods help us. Give me honorable enemies rather than ambitious ones, and I’ll sleep more easily by night.”",
+      "translation": "",
+      "explanation_zh": "男人认为Eddard至少是honorable enemy，比Littlefinger这类有野心的候选人更容易应付。",
+      "literary_note_zh": "“honorable enemies”与“ambitious ones”的对照说明：对话者并不把Eddard看作朋友，只是把他视为行为可预测的对手。",
+      "background_zh": "**文本事实：** Hand of the King是国王最高级的执政代理人；Eddard获任命会改变王都的权力关系。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-036",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "They were talking about Father, Bran realized. He wanted to hear more. A few more feet . . . but they would see him if he swung out in front of the window.",
+      "translation": "",
+      "explanation_zh": "Bran意识到他们在谈Father，因此冒险留下，想听得更多。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-037",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“We will have to watch him carefully,” the woman said.",
+      "translation": "",
+      "explanation_zh": "女子说必须密切监视Eddard。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-038",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“I would sooner watch you,” the man said. He sounded bored. “Come back here.”",
+      "translation": "",
+      "explanation_zh": "男人把政治担忧转成调情，说自己更想看她。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-039",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“Lord Eddard has never taken any interest in anything that happened south of the Neck,” the woman said. “Never. I tell you, he means to move against us. Why else would he leave the seat of his power?”",
+      "translation": "",
+      "explanation_zh": "女子认为Eddard长年不理南方事务，此次离开根基必然是要对付他们。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-040",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“A hundred reasons. Duty. Honor. He yearns to write his name large across the book of history, to get away from his wife, or both. Perhaps he just wants to be warm for once in his life.”",
+      "translation": "",
+      "explanation_zh": "男人列举责任、荣誉、留名、逃离妻子或追求温暖等普通动机，消解阴谋解读。",
+      "literary_note_zh": "Bran身体上想靠近窗口，叙事上也在靠近他无法完全理解的成人秘密。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-041",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "“His wife is Lady Arryn’s sister. It’s a wonder Lysa was not here to greet us with her accusations.”",
+      "translation": "",
+      "explanation_zh": "女子指出Eddard的妻子是Lysa Arryn的姐妹，并担心Lysa的指控。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "**文本事实：** Lysa Arryn是Catelyn的姐妹、已故Jon Arryn的妻子；她已带儿子离开King’s Landing回到Eyrie。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-042",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Bran looked down. There was a narrow ledge beneath the window, only a few inches wide. He tried to lower himself toward it. Too far. He would never reach.",
+      "translation": "",
+      "explanation_zh": "Bran研究窗下狭窄凸沿，想靠近却发现距离太远。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-043",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“You fret too much. Lysa Arryn is a frightened cow.”",
+      "translation": "",
+      "explanation_zh": "男人轻蔑地称Lysa只是受惊的母牛。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-044",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“That frightened cow shared Jon Arryn’s bed.”",
+      "translation": "",
+      "explanation_zh": "女子提醒他，Lysa与Jon Arryn同床，可能知道秘密。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-045",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“If she knew anything, she would have gone to Robert before she fled King’s Landing.”",
+      "translation": "",
+      "explanation_zh": "男人认为若Lysa知情，逃离King’s Landing前本会告诉Robert。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "**阅读推测：** 对话者认为Lysa可能因儿子的安全而保持沉默；这是他们的判断，尚非已证实事实。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-046",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“When he had already agreed to foster that weakling son of hers at Casterly Rock? I think not. She knew the boy’s life would be hostage to her silence. She may grow bolder now that he’s safe atop the Eyrie.”",
+      "translation": "",
+      "explanation_zh": "女子反驳：Lysa的儿子原将被送往Casterly Rock，他会成为迫她沉默的人质；如今孩子在Eyrie才可能大胆。",
+      "literary_note_zh": "“她没有证据”后的停顿与反问泄露了男人的不安，这比直接承认恐惧更有效。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-047",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“Mothers.” The man made the word sound like a curse. “I think birthing does something to your minds. You are all mad.” He laughed. It was a bitter sound. “Let Lady Arryn grow as bold as she likes. Whatever she knows, whatever she thinks she knows, she has no proof.” He paused a moment. “Or does she?”",
+      "translation": "",
+      "explanation_zh": "男人咒骂母亲都疯了，又宣称Lysa无论知道什么都没有证据，但随即也显出一丝不确定。",
+      "literary_note_zh": "本段由空置城堡中的声音引出政治秘谈；Bran只听懂零碎人名，读者则能辨认对Eddard和Lysa的恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P080-048",
+      "page": 80,
+      "end_page": 80,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“Do you think the king will require proof?” the woman said. “I tell you, he loves me not.”",
+      "translation": "",
+      "explanation_zh": "女子担心Robert根本不会要求证据，因为他并不爱她。",
+      "literary_note_zh": "sweet sister突然明确两人的手足关系，也使前面的调情语气变得异常。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-049",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“And whose fault is that, sweet sister?”",
+      "translation": "",
+      "explanation_zh": "男人反问这是谁的错，并称她为sweet sister，暴露两人是姐弟或兄妹。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-050",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "Bran studied the ledge. He could drop down. It was too narrow to land on, but if he could catch hold as he fell past, pull himself up . . . except that might make a noise, draw them to the window. He was not sure what he was hearing, but he knew it was not meant for his ears.",
+      "translation": "",
+      "explanation_zh": "Bran考虑冒险落到窗台上，他虽不懂内容，却知道这些话不该被自己听到。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-051",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“You are as blind as Robert,” the woman was saying.",
+      "translation": "",
+      "explanation_zh": "女子骂男人像Robert一样盲目。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-052",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“If you mean I see the same thing, yes,” the man said. “I see a man who would sooner die than betray his king.”",
+      "translation": "",
+      "explanation_zh": "男人借“看到同一件事”反驳，认为Eddard宁死也不会背叛Robert。",
+      "literary_note_zh": "女人把Eddard的忠诚限定在Robert生前，担心的是王位继承后的权力重组。",
+      "background_zh": "**文本事实：** Lyanna是Eddard已故的妹妹，Robert曾深爱她；女子担心这段记忆影响自己的王后地位。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-053",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "“He betrayed one already, or have you forgotten?” the woman said. “Oh, I don’t deny he’s loyal to Robert, that’s obvious. What happens when Robert dies and Joff takes the throne? And the sooner that comes to pass, the safer we’ll all be. My husband grows more restless every day. Having Stark beside him will only make him worse. He’s still in love with the sister, the insipid little dead sixteen-year-old. How long till he decides to put me aside for some new Lyanna?”",
+      "translation": "",
+      "explanation_zh": "女子以Eddard曾背叛旧王反驳，并担心Robert死后Joffrey继位时Eddard的立场；她还嫉妒Robert对Lyanna的旧情。",
+      "literary_note_zh": "Bran从好奇转为害怕，但“必须看清是谁”又把他留在危险中；识别身份是求助的前提。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-054",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "Bran was suddenly very frightened. He wanted nothing so much as to go back the way he had come, to find his brothers. Only what would he tell them? He had to get closer, Bran realized. He had to see who was talking.",
+      "translation": "",
+      "explanation_zh": "Bran终于害怕，想找兄弟求助，又意识到自己必须先看清说话者身份。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-055",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "The man sighed. “You should think less about the future and more about the pleasures at hand.”",
+      "translation": "",
+      "explanation_zh": "男人叫女子少想未来，多享受眼前的快乐。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-056",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“Stop that!” the woman said. Bran heard the sudden slap of flesh on flesh, then the man’s laughter.",
+      "translation": "",
+      "explanation_zh": "Bran听见肉体拍击声、女子制止和男人笑声，却无法正确理解。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-057",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Bran pulled himself up, climbed over the gargoyle, crawled out onto the roof. This was the easy way. He moved across the roof to the next gargoyle, right above the window of the room where they were talking.",
+      "translation": "",
+      "explanation_zh": "他爬过石像鬼上屋顶，绕到对话房间正上方。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-058",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "“All this talk is getting very tiresome, sister,” the man said. “Come here and be quiet.”",
+      "translation": "",
+      "explanation_zh": "男人嫌政治谈话乏味，再次命令姐妹靠近并安静。",
+      "literary_note_zh": "倒悬视角把世界在字面上翻转；这时Bran即将看见与官方亲族和骑士形象相反的私密真相。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P081-059",
+      "page": 81,
+      "end_page": 81,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "Bran sat astride the gargoyle, tightened his legs around it, and swung himself around, upside down. He hung by his legs and slowly stretched his head down toward the window. The world looked strange upside down. A courtyard swam dizzily below him, its stones still wet with melted snow.",
+      "translation": "",
+      "explanation_zh": "Bran头朝下挂在石像鬼上，倒置的世界与下方湿滑庭院制造眩晕与危险感。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-060",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "Bran looked in the window.",
+      "translation": "",
+      "explanation_zh": "Bran终于从窗口望进房间。",
+      "literary_note_zh": "本段让偷听从政治疑惧滑向亲密秘；Bran为确认身份越靠越近，却无法理解眼前行为。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-061",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "Inside the room, a man and a woman were wrestling. They were both naked. Bran could not tell who they were. The man’s back was to him, and his body screened the woman from view as he pushed her up against a wall.",
+      "translation": "",
+      "explanation_zh": "他看到一对赤裸男女在“摔跤”，因视线被挡还认不出他们。",
+      "literary_note_zh": "文本严格留在七岁孩子的理解边界：读者懂得性行为，Bran却只能用“弄疼她”解释。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-062",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "There were soft, wet sounds. Bran realized they were kissing. He watched, wide-eyed and frightened, his breath tight in his throat. The man had a hand down between her legs, and he must have been hurting her there, because the woman started to moan, low in her throat. “Stop it,” she said, “stop it, stop it. Oh, please . . . ” But her voice was low and weak, and she did not push him away. Her hands buried themselves in his hair, his tangled golden hair, and pulled his face down to her breast.",
+      "translation": "",
+      "explanation_zh": "孩子误把性行为理解为男人在弄疼女人，只通过接吻、呻吟和金发看到零碎线索。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-063",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Bran saw her face. Her eyes were closed and her mouth was open, moaning. Her golden hair swung from side to side as her head moved back and forth, but still he recognized the queen.",
+      "translation": "",
+      "explanation_zh": "女人的脸露出后，Bran认出她是queen。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-064",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "He must have made a noise. Suddenly her eyes opened, and she was staring right at him. She screamed.",
+      "translation": "",
+      "explanation_zh": "Bran可能发出了声音；queen突然睁眼直视他并尖叫。",
+      "literary_note_zh": "“Everything happened at once”后动词密集加速，从看见、惊叫到失足几乎没有思考空间。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-065",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Everything happened at once then. ‘ The woman pushed the man away wildly, shouting and pointing. Bran tried to pull himself up, bending double as he reached for the gargoyle. He was in too much of a hurry. His hand scraped uselessly across smooth stone, and in his panic his legs slipped, and suddenly he was failing. There was an instant of vertigo, a sickening lurch as the window flashed past. He shot out a hand, grabbed for the ledge, lost it, caught it again with his other hand. He swung against the building, hard. The impact took the breath out of him. Bran dangled, one-handed, panting.",
+      "translation": "",
+      "explanation_zh": "惊慌中Bran失去固定点，向下坠落后勉强单手抓住窗沿，撞在墙上悬空。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-066",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "Faces appeared in the window above him.",
+      "translation": "",
+      "explanation_zh": "两张脸出现在Bran上方的窗口。",
+      "literary_note_zh": "两人“like reflections in a mirror”是Bran用外貌相似确认亲缘的瞬间，也将窗口变成一面暴露秘密的镜子。",
+      "background_zh": "**文本事实：** queen与男人有极强外貌相似，且对话中已用`sister`确认手足关系。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-067",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "The queen. And now Bran recognized the man beside her. They looked as much alike as reflections in a mirror.",
+      "translation": "",
+      "explanation_zh": "Bran看清queen身边的男人，两人长得像镜中倒影。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-068",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "“He saw us,” the woman said shrilly.",
+      "translation": "",
+      "explanation_zh": "女人尖声说Bran看见了他们。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-069",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“So he did,” the man said.",
+      "translation": "",
+      "explanation_zh": "男人冷静承认事实。",
+      "literary_note_zh": "男人先伸手救Bran，延长了安全幻觉，也使他随后的选择明确成为决定，而非失手。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-070",
+      "page": 82,
+      "end_page": 82,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "Bran’s fingers started to slip. He grabbed the ledge with his other hand. Fingernails dug into unyielding stone. The man reached down. “Take my hand,” he said. “Before you fall.”",
+      "translation": "",
+      "explanation_zh": "Bran手指滑落时，男人伸手叫他抓住，免得坠落。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P082-071",
+      "page": 82,
+      "end_page": 83,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "Bran seized his arm and held on tight with all his strength. The man yanked him up to the ledge. “What are you doing?” the woman demanded.",
+      "translation": "",
+      "explanation_zh": "Bran抓紧男人手臂被拉回窗沿；女人不理解男人在做什么。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P083-072",
+      "page": 83,
+      "end_page": 83,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "The man ignored her. He was very strong. He stood Bran up on the sill. “How old are you, boy?”",
+      "translation": "",
+      "explanation_zh": "男人把Bran立在窗台上，询问他的年龄。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P083-073",
+      "page": 83,
+      "end_page": 83,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "“Seven,” Bran said, shaking with relief. His fingers had dug deep gouges in the man’s forearm. He let go sheepishly.",
+      "translation": "",
+      "explanation_zh": "Bran如释重负地回答七岁，还为自己在对方手臂抓出深痕而难为情。",
+      "literary_note_zh": "“The things I do for love”把暴力包装成爱的代价；“with loathing”则使这句话完全没有浪漫意味。",
+      "background_zh": "**文本事实：** 男人在已将Bran拉回窗台后主动将他推落；这不是攀爬失足。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P083-074",
+      "page": 83,
+      "end_page": 83,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "The man looked over at the woman. “The things I do for love,” he said with loathing. He gave Bran a shove.",
+      "translation": "",
+      "explanation_zh": "男人看向女人，厌恶地说出“我为爱做的事”，随即把Bran推出窗外。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P083-075",
+      "page": 83,
+      "end_page": 83,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "Screaming, Bran went backward out the window into empty air. There was nothing to grab on to. The courtyard rushed up to meet him.",
+      "translation": "",
+      "explanation_zh": "Bran尖叫着坠向空无一物的庭院，再没有可以抓住的支点。",
+      "literary_note_zh": "本段从身份暴露迅速转入失足、获救和被推落；章首的狼嚎与乌鸦意象在结尾合拢。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH08-P083-076",
+      "page": 83,
+      "end_page": 83,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "Somewhere off in the distance, a wolf was howling. Crows circled the broken tower, waiting for corn.",
+      "translation": "",
+      "explanation_zh": "远处传来狼嚎，乌鸦在broken tower上盘旋等待玉米，与前面的警告和童话形成冷酷回声。",
+      "literary_note_zh": "狼的预警、Old Nan的乌鸦故事、Bran喂鸟的玉米与真实坠落在末句重合，将温柔日常变成不祥回声。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Bran的儿童理解、攀爬空间、偷听信息或危险升级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

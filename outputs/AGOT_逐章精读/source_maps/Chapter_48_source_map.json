@@ -1,0 +1,1653 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 48 — JON",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    472,
+    479
+  ],
+  "block_count": 76,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 472,
+      "first_id": "CH48-P472-001",
+      "last_id": "CH48-P472-008"
+    },
+    {
+      "page": 473,
+      "first_id": "CH48-P473-009",
+      "last_id": "CH48-P473-020"
+    },
+    {
+      "page": 474,
+      "first_id": "CH48-P474-021",
+      "last_id": "CH48-P474-030"
+    },
+    {
+      "page": 475,
+      "first_id": "CH48-P475-031",
+      "last_id": "CH48-P475-041"
+    },
+    {
+      "page": 476,
+      "first_id": "CH48-P476-042",
+      "last_id": "CH48-P476-053"
+    },
+    {
+      "page": 477,
+      "first_id": "CH48-P477-054",
+      "last_id": "CH48-P477-064"
+    },
+    {
+      "page": 478,
+      "first_id": "CH48-P478-065",
+      "last_id": "CH48-P478-073"
+    },
+    {
+      "page": 479,
+      "first_id": "CH48-P479-074",
+      "last_id": "CH48-P479-076"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH48-P472-001",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Jon was breaking his fast on applecakes and blood sausage when Samwell Tarly plopped himself down on the bench. “I’ve been summoned to the sept,” Sam said in an excited whisper. “They’re passing me out of training. I’m to be made a brother with the rest of you. Can you believe it?”",
+      "translation": "",
+      "explanation_zh": "Sam兴奋告诉Jon，自己获准与其他recruits一起结束training、成为Night’s Watch brother。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-002",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "“No, truly?”",
+      "translation": "",
+      "explanation_zh": "Jon惊喜地确认消息是否当真。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-003",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "“Truly. I’m to assist Maester Aemon with the library and the birds. He needs someone who can read and write letters.”",
+      "translation": "",
+      "explanation_zh": "Sam将协助Maester Aemon管理library、letters与ravens，正好发挥识字能力。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-004",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "“You’ll do well at that,” Jon said, smiling.",
+      "translation": "",
+      "explanation_zh": "Jon真心肯定Sam会胜任。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-005",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Sam glanced about anxiously. “Is it time to go? I shouldn’t be late, they might change their minds.” He was fairly bouncing as they crossed the weed-strewn courtyard. The day was warm and sunny. Rivulets of water trickled down the sides of the Wall, so the ice seemed to sparkle and shine.",
+      "translation": "",
+      "explanation_zh": "Sam怕决定反悔，急着准时赶往sept；融水与阳光让Wall呈现少见的明亮景象。",
+      "literary_note_zh": "warm、sunny、sparkle构成短暂安全表象；本章结尾会用night、smell与severed hand反转这种明亮。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-006",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Inside the sept, the great crystal caught the morning light as it streamed through the south-facing window and spread it in a rainbow on the altar. Pyp’s mouth dropped open when he caught sight of Sam, and Toad poked Grenn in the ribs, but no one dared say a word. Septon Celladar was swinging a censer, filling the air with fragrant incense that reminded Jon of Lady Stark’s little sept in Winterfell. For once the septon seemed sober.",
+      "translation": "",
+      "explanation_zh": "sept内crystal把晨光折成rainbow，众人惊讶Sam出现却保持肃静，Celladar也难得清醒。",
+      "literary_note_zh": "rainbow来自Seven仪式中的crystal，既是宗教光学意象，也把sept与Jon稍后选择的dark grove并置。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-007",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "The high officers arrived in a body; Maester Aemon leaning on Clydas, Ser Alliser cold-eyed and grim, Lord Commander Mormont resplendent in a black wool doublet with silvered bearclaw fastenings. Behind them came the senior members of the three orders: red-faced Bowen Marsh the Lord Steward, First Builder Othell Yarwyck, and Ser Jaremy Rykker, who commanded the rangers in the absence of Benjen Stark.",
+      "translation": "",
+      "explanation_zh": "Mormont、Aemon、Alliser与三个orders的senior officers正式到场，仪式具有完整组织权威。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "**三个orders：** rangers负责侦察与战斗，builders维护Wall与fortifications，stewards承担供给、照料、通信与管理；三者共同维持Watch。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P472-008",
+      "page": 472,
+      "end_page": 472,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "Mormont stood before the altar, the rainbow shining on his broad bald head. “You came to us outlaws,” he began, “poachers, rapers, debtors, killers, and thieves. You came to us children. You came to us alone, in chains, with neither friends nor honor. You came to us rich, and you came to us poor. Some of you bear the names of proud houses. Others have only bastards’ names, or no names at all. It makes no matter. All that is past now. On the Wall, we are all one house.",
+      "translation": "",
+      "explanation_zh": "Mormont说众人虽来自罪犯、children、贵族或无名者，过去身份都在Wall被抹平，今后同属一个House。",
+      "literary_note_zh": "排比反复You came to us，将差异巨大的来历压缩成共同过去；one house直接重写家族归属。",
+      "background_zh": "**amnesty与new House：** 加入Watch可洗去旧罪债与社会身份，但成员也放弃原House的政治忠诚。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-009",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "“At evenfall, as the sun sets and we face the gathering night, you shall take your vows. From that moment, you will be a Sworn Brother of the Night’s Watch. Your crimes will be washed away, your debts forgiven. So too you must wash away your former loyalties, put aside your grudges, forget old wrongs and old loves alike. Here you begin anew.",
+      "translation": "",
+      "explanation_zh": "他说明evenfall宣誓后，罪与债会被免除，同时必须放弃旧忠诚、怨恨与爱，重新开始。",
+      "literary_note_zh": "wash away既指法律赦免，也带宗教净化意味；获得新身份的代价是主动抹去旧爱与旧恨。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-010",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "“A man of the Night’s Watch lives his life for the realm. Not for a king, nor a lord, nor the honor of this house or that house, neither for gold nor glory nor a woman’s love, but for the realm, and all the people in it. A man of the Night’s Watch takes no wife and fathers no sons. Our wife is duty. Our mistress is honor. And you are the only sons we shall ever know.",
+      "translation": "",
+      "explanation_zh": "Night’s Watch只为realm及其中所有人服务，不为king、lord、gold、glory或爱情；brothers以duty、honor和彼此替代家庭。",
+      "literary_note_zh": "wife/mistress/sons的拟亲属语言说明Watch不是简单职业，而是用institutional family取代私人家庭。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-011",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“You have learned the words of the vow. Think carefully before you say them, for once you have taken the black, there is no turning back. The penalty for desertion is death.” The Old Bear paused for a moment before he said, “Are there any among you who wish to leave our company? If so, go now, and no one shall think the less of you.”",
+      "translation": "",
+      "explanation_zh": "Mormont警告vow终身不可撤回，desertion判死，并给所有人最后一次无羞辱退出的机会。",
+      "literary_note_zh": "先给退出机会、再说明desertion death，强调vow只有在说出前才可自由撤回。",
+      "background_zh": "**desertion：** vow后擅离Watch是死罪；Jon此前已从Eddard处见过这一法律后果。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-012",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "No one moved.",
+      "translation": "",
+      "explanation_zh": "没有人选择离开。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-013",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“Well and good,” said Mormont. “You may take your vows here at evenfall, before Septon Celladar and the first of your order. Do any of you keep to the old gods?”",
+      "translation": "",
+      "explanation_zh": "Mormont安排他们在evenfall于sept宣誓，并询问谁仍信old gods。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-014",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "Jon stood. “I do, my lord.”",
+      "translation": "",
+      "explanation_zh": "Jon起身表明自己信奉old gods。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-015",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“I expect you will want to say your words before a heart tree, as your uncle did,” Mormont said.",
+      "translation": "",
+      "explanation_zh": "Mormont知道Jon会像Benjen一样希望在heart tree前宣誓。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-016",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“Yes, my lord,” Jon said. The gods of the sept had nothing to do with him; the blood of the First Men flowed in the veins of the Starks.",
+      "translation": "",
+      "explanation_zh": "Jon确认；他把自己与Stark、First Men血统及old gods连接起来。",
+      "literary_note_zh": "Jon把faith写成blood inheritance；这既是个人信仰，也是他主动认同Stark lineage的方式。",
+      "background_zh": "**First Men／old gods：** Starks传统上追溯First Men并在heart trees前敬old gods；Andals后来把Seven带入Westeros。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-017",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "He heard Grenn whispering behind him. “There’s no godswood here. Is there? I never saw a godswood.”",
+      "translation": "",
+      "explanation_zh": "Grenn疑惑Castle Black根本没有godswood。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-018",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“You wouldn’t see a herd of aurochs until they trampled you into the snow,” Pyp whispered back.",
+      "translation": "",
+      "explanation_zh": "Pyp用aurochs玩笑嘲弄Grenn迟钝。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-019",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "“I would so,” Grenn insisted. “I’d see them a long way off.”",
+      "translation": "",
+      "explanation_zh": "Grenn认真辩称自己一定能远远看见aurochs。",
+      "literary_note_zh": "Sam获准宣誓；sept仪式说明Night’s Watch以共同House、终身duty与death penalty重建成员身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P473-020",
+      "page": 473,
+      "end_page": 473,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "Mormont himself confirmed Grenn’s doubts. “Castle Black has no need of a godswood. Beyond the Wall the haunted forest stands as it stood in the Dawn Age, long before the Andals brought the Seven across the narrow sea. You will find a grove of weirwoods half a league from this spot, and mayhap your gods as well.”",
+      "translation": "",
+      "explanation_zh": "Mormont解释Wall以北的haunted forest自Dawn Age便存在，不需人工godswood；半league外有weirwood grove。",
+      "literary_note_zh": "Castle Black没有godswood并非缺失：越过Wall便进入未经Andal religion改造的古老森林。",
+      "background_zh": "**Dawn Age：** 对极古年代的泛称；haunted forest被描述为早于Andal arrival的原始空间。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-021",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "“My lord.” The voice made Jon glance back in surprise. Samwell Tarly was on his feet. The fat boy wiped his sweaty palms against his tunic. “Might I . . . might I go as well? To say my words at this heart tree?”",
+      "translation": "",
+      "explanation_zh": "Sam出人意料地请求与Jon一起去heart tree前宣誓。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-022",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "“Does House Tarly keep the old gods too?” Mormont asked.",
+      "translation": "",
+      "explanation_zh": "Mormont问House Tarly是否也信old gods。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-023",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "“No, my lord,” Sam replied in a thin, nervous voice. The high officers frightened him, Jon knew, the Old Bear most of all. “I was named in the light of the Seven at the sept on Horn Hill, as my father was, and his father, and all the Tarlys for a thousand years.”",
+      "translation": "",
+      "explanation_zh": "Sam承认家族千年来都在Seven之光下命名，自己也不例外。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "**House Tarly：** Sam出身Horn Hill的古老贵族House，传统信仰Seven；此处只说明其宗教传承。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-024",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "“Why would you forsake the gods of your father and your House?” wondered Ser Jaremy Rykker.",
+      "translation": "",
+      "explanation_zh": "Jaremy Rykker追问他为何放弃父亲与House的神。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-025",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "“The Night’s Watch is my House now,” Sam said. “The Seven have never answered my prayers. Perhaps the old gods will.”",
+      "translation": "",
+      "explanation_zh": "Sam说Night’s Watch如今才是自己的House，而Seven从未回应祈祷，或许old gods会。",
+      "literary_note_zh": "Sam不是突然证明old gods更真实，而是对未回应祈祷的Seven失望，并把选择新神与选择新House绑定。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-026",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "“As you wish, boy,” Mormont said. Sam took his seat again, as did Jon. “We have placed each of you in an order, as befits our need and your own strengths and skills.” Bowen Marsh stepped forward and handed him a paper. The Lord Commander unrolled it and began to read. “Haider, to the builders,” he began. Haider gave a stiff nod of approval. “Grenn, to the rangers. Albett, to the builders. Pypar, to the rangers.” Pyp looked over at Jon and wiggled his ears. “Samwell, to the stewards.” Sam sagged with relief, mopping at his brow with,a scrap of silk. “Matthar, to the rangers. Dareon, to the stewards. Todder, to the rangers. Jon, to the stewards.”",
+      "translation": "",
+      "explanation_zh": "Mormont允许后公布order分配：不同recruit进入builders、rangers或stewards，最后Jon被分到stewards。",
+      "literary_note_zh": "名单按organizational need与skills宣布；Jon只听到最后结果，尚未掌握Mormont点名的隐藏语境。源页的with,a为文本层/版面原样。",
+      "background_zh": "**order assignment：** new brothers不自行选岗，由senior command按Watch需要和个人能力分配。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-027",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "The stewards? For a moment Jon could not believe what he had heard. Mormont must have read it wrong. He started to rise, to open his mouth, to tell them there had been a mistake . . . and then he saw Ser Alliser studying him, eyes shiny as two flakes of obsidian, and he knew.",
+      "translation": "",
+      "explanation_zh": "Jon先以为听错，看到Alliser得意目光后立即认定这是对方故意羞辱。",
+      "literary_note_zh": "obsidian eyes把Alliser写得冷硬锋利；但‘and he knew’仍是Jon主观确信，不等于文本已证明Alliser决定分配。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-028",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "The Old Bear rolled up the paper. “Your firsts will instruct you in your duties. May all the gods preserve you, brothers.” The Lord Commander favored them with a half bow, and took his leave. Ser Alliser went with him, a thin smile on his face. Jon had never seen the master-at-arms took quite so happy.",
+      "translation": "",
+      "explanation_zh": "Mormont结束仪式，Alliser带着笑离开；Jon把结果进一步理解为Alliser获胜。",
+      "literary_note_zh": "源页印作master-at-arms took quite so happy，明显是原文件字符错误；为忠实校勘不擅自改成looked。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-029",
+      "page": 474,
+      "end_page": 474,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“Rangers with me,” Ser Jaremy Rykker called when they were gone. Pyp was staring at Jon as he got slowly to his feet. His ears were red. Grenn, grinning broadly, did not seem to realize that anything was amiss. Matt and Toad fell in beside them, and they followed Ser Jaremy from the sept.",
+      "translation": "",
+      "explanation_zh": "Jaremy带走new rangers；Pyp不安，Grenn却因如愿而未察觉Jon的受挫。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P474-030",
+      "page": 474,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“Builders,” announced lantern-jawed Othell Yarwyck. Haider and Albett trailed out after him.",
+      "translation": "",
+      "explanation_zh": "Othell Yarwyck带Haider与Albett去builders。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-031",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "Jon looked around him in sick disbelief. Maester Aemon’s blind eyes were raised toward the light he could not see. The septon was arranging crystals on the altar. Only Sam and Darcon remained on the benches; a fat boy, a singer . . . and him.",
+      "translation": "",
+      "explanation_zh": "Jon只见自己与Sam、Dareon留在stewards，身份落差令他恶心而难以置信。",
+      "literary_note_zh": "fat boy, a singer . . . and him以Jon带偏见的分类排列；源页此处印作Darcon，与同章Dareon不一致，按源页保留。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-032",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "Lord Steward Bowen Marsh rubbed his plump hands together. “Samwell, you will assist Maester Aemon in the rookery and library. Chett is going to the kennels, to help with the hounds. You shall have his cell, so as to be close to the maester night and day. I trust you will take good care of him. He is very old and very precious to us.",
+      "translation": "",
+      "explanation_zh": "Bowen Marsh安排Sam接替Chett，日夜协助Aemon照料rookery、library，并强调Aemon的珍贵。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "**rookery：** 饲养messenger ravens的地方；识字、写信与管birds是Watch跨fort通信关键。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-033",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“Dareon, I am told that you sang at many a high lord’s table and shared their meat and mead. We are sending you to Eastwatch. It may be your palate will be some help to Cotter Pyke when merchant galleys come trading. We are paying too dear for salt beef and pickled fish, and the quality of the olive oil we’re getting has been frightful, Present yourself to Borcas when you arrive, he will keep you busy between ships.”",
+      "translation": "",
+      "explanation_zh": "Dareon将去Eastwatch，利用贵族餐桌经验帮助Cotter Pyke判断商船货物、价格与食品品质。",
+      "literary_note_zh": "stewards不是只有家务：采购、贸易判断、communications和专业support都属后勤组织能力。源页frightful, Present的大写与逗号按原样保留。",
+      "background_zh": "**Eastwatch-by-the-Sea：** Wall东端港口，可与merchant galleys交易；steward需要管理采购质量与价格。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-034",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Marsh turned his smile on Jon. “Lord Commander Mormont has requested you for his personal steward, Jon. You’ll sleep in a cell beneath his chambers, in the Lord Commander’s tower.”",
+      "translation": "",
+      "explanation_zh": "Marsh宣布Mormont亲自点名Jon做personal steward，并住在其tower下层。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "**personal steward：** 既做贴身日常服务，也可接触command messages、meetings与campaigns；具体培养意图仍是Sam推断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-035",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“And what will my duties be?” Jon asked sharply. “Will I serve the Lord Commander’s meals, help him fasten his clothes, fetch hot water for his bath?”",
+      "translation": "",
+      "explanation_zh": "Jon用尖锐反问列举端饭、穿衣、洗澡等servant工作。",
+      "literary_note_zh": "Jon用问题列出care work，语气不是求知而是把这些任务预先定义为羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-036",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“Certainly.” Marsh frowned at Jon’s tone. “And you will run his messages, keep a fire burning in his chambers, change his sheets and blankets daily, and do all else that the Lord Commander might require of you.”",
+      "translation": "",
+      "explanation_zh": "Marsh确认这些职责，还包括传信、添火、换寝具及Mormont要求的一切。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-037",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“Do you take me for a servant?”",
+      "translation": "",
+      "explanation_zh": "Jon直接问他们是否把自己当servant。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-038",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“No,” Maester Aemon said, from the back of the sept. Clydas helped him stand. “We took you for a man of the Night’s Watch . . . but perhaps we were wrong in that.”",
+      "translation": "",
+      "explanation_zh": "Aemon回答他们原以为Jon是Night’s Watch的man，但Jon的反应让这一判断可疑。",
+      "literary_note_zh": "Aemon把争论从job rank转成identity：man of the Watch服从共同需要，而非只选择符合自我形象的职责。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-039",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "It was all Jon could do to stop himself from walking out. Was he supposed to churn butter and sew doublets like a girl for the rest of his days? “May I go?” he asked stiffly.",
+      "translation": "",
+      "explanation_zh": "Jon以性别化偏见贬低日常劳动，勉强压住离席冲动并请求离开。",
+      "literary_note_zh": "churn butter、sew doublets与like a girl暴露Jon把战斗男性气质置于维持组织的劳动之上；文本让偏见属于人物，不要求读者认同。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-040",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“As you wish,” Bowen Marsh responded.",
+      "translation": "",
+      "explanation_zh": "Marsh允许他走。",
+      "literary_note_zh": "Sam选择old gods后，八名recruits被分配orders；Jon因进入stewards而把organizational assignment体验为阶级羞辱。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P475-041",
+      "page": 475,
+      "end_page": 475,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Dareon and Sam left with him. They descended to the yard in silence. Outside, Jon looked up at the Wall shining in the sun, the melting ice creeping down its side in a hundred thin fingers. Jon’s rage was such that he would have smashed it all in an instant, and the world be damned.",
+      "translation": "",
+      "explanation_zh": "Jon与Sam、Dareon沉默到yard；融化的Wall在他愤怒视角里化成想一击毁掉的对象。",
+      "literary_note_zh": "Wall融水像hundred thin fingers；同一融化景象从p.472的sparkle变成rage中的侵蚀，环境随视角改义。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-042",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "“Jon,” Samwell Tarly said excitedly. “Wait. Don’t you see what they’re doing?”",
+      "translation": "",
+      "explanation_zh": "Sam追上Jon，兴奋地问他是否看懂安排的真正意义。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-043",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "Jon turned on him in a fury. “I see Ser Alliser’s bloody hand, that’s all I see. He wanted to shame me, and he has.”",
+      "translation": "",
+      "explanation_zh": "Jon只看到Alliser操纵与羞辱，仍在愤怒中拒绝其他解释。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-044",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "Dareon gave him a look. “The stewards are fine for the likes of you and me, Sam, but not for Lord Snow.”",
+      "translation": "",
+      "explanation_zh": "Dareon以Lord Snow反讽Jon自视高于普通stewards。",
+      "literary_note_zh": "Lord Snow既指Jon的bastard name，也讽刺他表现出的lordly entitlement。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-045",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“I’m a better swordsman and a better rider than any of you,” Jon blazed back. “It’s not fair!”",
+      "translation": "",
+      "explanation_zh": "Jon诉诸剑术与骑术优势，认为分配不公平。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-046",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“Fair?” Dareon sneered. “The girl was waiting for me, naked as the day she was born. She pulled me through the window, and you talk to me of fair?” He walked off.",
+      "translation": "",
+      "explanation_zh": "Dareon用自己声称遭诬陷、被流放的经历反击Jon关于fairness的抱怨，随后离开。",
+      "literary_note_zh": "Dareon叙述是否完整真实尚不可核实；它的当前功能是表明Watch中多数人都认为自己受过不公。",
+      "background_zh": "**Dareon的来历：** 他曾称自己因与lord daughter事件被送到Wall；目前只有其自述，不能验证责任归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-047",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“There is no shame in being a steward,” Sam said.",
+      "translation": "",
+      "explanation_zh": "Sam坚持steward身份本身并不羞耻。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-048",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“Do you think I want to spend the rest of my life washing an old man’s smallclothes?”",
+      "translation": "",
+      "explanation_zh": "Jon把未来简化成替老人洗内衣，继续只看最低贱的表层任务。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-049",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“The old man is Lord Commander of the Night’s Watch,” Sam reminded him. “You’ll be with him day and night. Yes, you’ll pour his wine and see that his bed linen is fresh, but you’ll also take his letters, attend him at meetings, squire for him in battle. You’ll be as close to him as his shadow. You’ll know everything, be a part of everything . . . and the Lord Steward said Mormont asked for you himself!",
+      "translation": "",
+      "explanation_zh": "Sam指出personal steward会参加会议、传递letters、战时作squire，能像shadow般接触Mormont全部工作；更重要的是Mormont亲自要Jon。",
+      "literary_note_zh": "Sam把相同任务重新框架：端酒与换床单没有消失，但因access、information与apprenticeship获得另一层意义。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-050",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“When I was little, my father used to insist that I attend him in the audience chamber whenever he held court. When he rode to Highgarden to bend his knee to Lord Tyrell, he made me come. Later, though, he started to take Dickon and leave me at home, and he no longer cared whether I sat through his audiences, so long as Dickon was there. He wanted his heir at his side, don’t you see? To watch and listen and learn from all he did. I’ll wager that’s why Lord Mormont requested you, Jon. What else could it be? He wants to groom you for command!”",
+      "translation": "",
+      "explanation_zh": "Sam以父亲让heir旁听court的经验类比，推测Mormont正在让Jon观察、学习，为未来command作准备。",
+      "literary_note_zh": "groom you for command是Sam基于家族经验的合理推断，不是Mormont明说；证据是personal request与持续贴身参与。",
+      "background_zh": "**heir education：** 贵族继承人常通过陪父亲听court、出访、议事学习rule；Sam以自己被Dickon取代的经历理解Jon安排。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-051",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "Jon was taken aback. It was true, Lord Eddard had often made Robb part of his councils back at Winterfell. Could Sam be right? Even a bastard could rise high in the Night’s Watch, they said. “I never asked for this,” he said stubbornly.",
+      "translation": "",
+      "explanation_zh": "Jon想到Eddard也让Robb参与councils，开始承认Sam可能正确，却仍本能说自己没要求这种安排。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-052",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“None of us are here for asking,” Sam reminded him.",
+      "translation": "",
+      "explanation_zh": "Sam提醒没有人是按自己意愿来到Wall。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P476-053",
+      "page": 476,
+      "end_page": 476,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "And suddenly Jon Snow was ashamed.",
+      "translation": "",
+      "explanation_zh": "Jon突然为自己的幼稚与特权感羞愧。",
+      "literary_note_zh": "一句短段让争论落在自我认识，不靠Mormont或Alliser解释；Jon成长首先表现为能修正自己的叙事。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-054",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "Craven or not, Samwell Tarly had found the courage to accept his fate like a man. On the Wall, a man gets only what he earns, Benjen Stark had said the last night Jon had seen him alive. You’re no ranger, Jon, only a green boy with the smell of summer still on you. He’d heard it said that bastards grow up faster than other children; on the Wall, you grew up or you died.",
+      "translation": "",
+      "explanation_zh": "Jon想到Sam敢接受命运、Benjen曾说他只是summer-smelling green boy，明白Wall迫人迅速成长。",
+      "literary_note_zh": "summer smell承接全书逐渐逼近的winter motif；在Wall，心理上的summer意味着未经真正危险考验。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-055",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "Jon let out a deep sigh. “You have the right of it. I was acting the boy.”",
+      "translation": "",
+      "explanation_zh": "他承认Sam说得对，自己刚才像child。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-056",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“Then you’ll stay and say your words with me?”",
+      "translation": "",
+      "explanation_zh": "Sam确认Jon是否会留下并与他一起宣誓。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-057",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "“The old gods will be expecting us.” He made himself smile.",
+      "translation": "",
+      "explanation_zh": "Jon用old gods在等他们作答，并勉强重新微笑。",
+      "literary_note_zh": "Sam用personal steward的access与heir education经验重新解释安排，Jon承认自己幼稚并决定留下宣誓。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-058",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "They set out late that afternoon. The Wall had no gates as such, neither here at Castle Black nor anywhere along its three hundred miles. They led their horses down a narrow tunnel cut through the ice, cold dark walls pressing in around them as the passage twisted and turned. Three times their way was blocked by iron bars, and they had to stop while Bowen Marsh drew out his keys and unlocked the massive chains that secured them. Jon could sense the vast weight pressing down on him as he waited behind the Lord Steward. The air was colder than a tomb, and more still. He felt a strange relief when they reemerged into the afternoon light on the north side of the Wall.",
+      "translation": "",
+      "explanation_zh": "傍晚众人穿过Wall内曲折冰隧道与三重iron bars；巨大冰体的压迫让北侧重见日光成为释放。",
+      "literary_note_zh": "三重bars与twisting tunnel强调Wall既阻挡外敌，也严格控制brothers出入；穿越它具有阈限仪式感。",
+      "background_zh": "**Wall passage：** Castle Black没有普通open gate；通道以多道iron bars和chains控制，Lord Steward掌keys。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-059",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "Sam blinked at the sudden glare and looked around apprehensively. “The wildlings . . . they wouldn’t . . . they’d never dare come this close to the Wall. Would they?”",
+      "translation": "",
+      "explanation_zh": "Sam刚到Wall以北便担心wildlings是否敢逼近。",
+      "literary_note_zh": "众人穿Wall进入haunted forest，在九棵weirwoods前完成vow；空间、日落与誓词共同完成身份转换。",
+      "background_zh": "**wildlings：** Wall以北不受Seven Kingdoms统治的人群；Sam把未知危险首先投射为他们。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-060",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“They never have.” Jon climbed into his saddle. When Bowen Marsh and their ranger escort had mounted, Jon put two fingers in his mouth and whistled. Ghost came loping out of the tunnel.",
+      "translation": "",
+      "explanation_zh": "Jon说他们从未如此靠近，随后召Ghost同行。",
+      "literary_note_zh": "众人穿Wall进入haunted forest，在九棵weirwoods前完成vow；空间、日落与誓词共同完成身份转换。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-061",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "The Lord Steward’s garron whickered and backed away from the direwolf. “Do you mean to take that beast?”",
+      "translation": "",
+      "explanation_zh": "Bowen Marsh的garron惧怕direwolf，他问Jon是否真要带它。",
+      "literary_note_zh": "众人穿Wall进入haunted forest，在九棵weirwoods前完成vow；空间、日落与誓词共同完成身份转换。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-062",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“Yes, my lord,” Jon said. Ghost’s head lifted. He seemed to taste the air. In the blink of an eye he was off, racing across the broad, weed-choked field to vanish in the trees.",
+      "translation": "",
+      "explanation_zh": "Jon确认；Ghost像嗅到什么，突然穿过荒地冲入树林消失。",
+      "literary_note_zh": "众人穿Wall进入haunted forest，在九棵weirwoods前完成vow；空间、日落与誓词共同完成身份转换。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-063",
+      "page": 477,
+      "end_page": 477,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Once they had entered the forest, they were in a different world. Jon had often hunted with his father and Jory and his brother Robb. He knew the wolfswood around Winterfell as well as any man. The haunted forest was much the same, and yet the feel of it was very different.",
+      "translation": "",
+      "explanation_zh": "进入haunted forest后，环境虽像Winterfell wolfswood，氛围却截然不同。",
+      "literary_note_zh": "众人穿Wall进入haunted forest，在九棵weirwoods前完成vow；空间、日落与誓词共同完成身份转换。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P477-064",
+      "page": 477,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "Perhaps it was all in the knowing. They had ridden past the end of the world; somehow that changed everything. Every shadow seemed darker, every sound more ominous. The trees pressed close and shut out the light of the setting sun. A thin crust of snow cracked beneath the hooves of their horses, with a sound like breaking bones. When the wind set the leaves to rustling, it was like a chilly finger tracing a path up Jon’s spine. The Wall was at their backs, and only the gods knew what lay ahead.",
+      "translation": "",
+      "explanation_zh": "因为意识到自己越过‘世界尽头’，shadow、sound、snow与leaves都变得ominous，Wall在后、前方未知。",
+      "literary_note_zh": "end of the world不是地图事实，而是集体文化边界的心理重量；cracking snow like bones把普通声音恐怖化。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-065",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "The sun was sinking below the trees when they reached their destination, a small clearing in the deep of the wood where nine weirwoods grew in a rough circle. Jon drew in a breath, and he saw Sam Tarly staring. Even in the wolfswood, you never found more than two or three of the white trees growing together; a grove of nine was unheard of. The forest floor was carpeted with fallen leaves, bloodred on top, black rot beneath. The wide smooth trunks were bone pale, and nine faces stared inward. The dried sap that crusted in the eyes was red and hard as ruby. Bowen Marsh commanded them to leave their horses outside the circle. “This is a sacred place, we will not defile it.”",
+      "translation": "",
+      "explanation_zh": "他们到达九棵weirwoods围成的罕见grove；红叶黑腐、骨白树干与红色sap形成神圣又不安的视觉，Marsh命众人不得亵渎。",
+      "literary_note_zh": "bloodred／black rot／bone pale把life、decay、death叠在sacred grove，拒绝把old gods场所写成温和教堂。",
+      "background_zh": "**weirwood：** 白干、红叶、刻face的神圣树；heart tree通常是godswood宗教中心，九棵成圈极罕见。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-066",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "When they entered the grove, Samwell Tarly turned slowly looking at each face in turn. No two were quite alike. “They’re watching us,” he whispered. “The old gods.”",
+      "translation": "",
+      "explanation_zh": "Sam逐一看过不同的carved faces，低声觉得old gods正在注视。",
+      "literary_note_zh": "carved faces不真的移动；they’re watching是Sam面对拟人树像的宗教感受，当前不能当超自然事实。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-067",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "“Yes.” Jon knelt, and Sam knelt beside him.",
+      "translation": "",
+      "explanation_zh": "Jon确认并与Sam一同跪下。",
+      "literary_note_zh": "众人穿Wall进入haunted forest，在九棵weirwoods前完成vow；空间、日落与誓词共同完成身份转换。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-068",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "They said the words together, as the last light faded in the west and grey day became black night.",
+      "translation": "",
+      "explanation_zh": "日光消失、白昼转黑时，两人共同开始宣誓。",
+      "literary_note_zh": "evenfall、grey to black把个人身份转换与Night’s Watch名字、职责统一起来。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-069",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“Hear my words, and bear witness to my vow,” they recited, their voices filling the twilit grove. “Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against the cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men. I pledge my life and honor to the Night’s Watch, for this night and all the nights to come.”",
+      "translation": "",
+      "explanation_zh": "完整vow承诺放弃婚姻、土地、后代、冠冕与荣耀，把生命、职位和honor永久献给Night’s Watch与realm防线。",
+      "literary_note_zh": "vow以一连串第一人称比喻把brother变成sword、watcher、fire、light、horn、shield；个人生命被改写为防线功能。",
+      "background_zh": "**Night’s Watch vow：** 誓言明确终身服役、无婚姻土地后代与冠冕，并把brother定义为抵挡dark/cold的守护工具。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-070",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "The woods fell silent. “You knelt as boys,” Bowen Marsh intoned solemnly. “Rise now as men of the Night’s Watch.”",
+      "translation": "",
+      "explanation_zh": "树林沉默后，Marsh宣布他们跪下时是boys，起身时已成为Night’s Watch men。",
+      "literary_note_zh": "boys to men是institutional declaration，不等于年龄、生理或成熟已瞬间改变；Jon此前认错使这一句具有额外心理分量。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-071",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "Jon held out a hand to pull Sam back to his feet. The rangers gathered round to offer smiles and congratulations, all but the gnarled old forester Dywen. “Best we be starting back, m’lord,” he said to Bowen Marsh. “Dark’s falling, and there’s something in the smell o’ the night that I mislike.”",
+      "translation": "",
+      "explanation_zh": "Jon拉Sam起身，rangers祝贺；只有老forester Dywen因夜晚气味不对而催促立即返程。",
+      "literary_note_zh": "Dywen依赖smell与forest experience感知危险，和officers依赖规则、Jon依赖视觉形成不同知识方式。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-072",
+      "page": 478,
+      "end_page": 478,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "And suddenly Ghost was back, stalking softly between two weirwoods. White fur and red eyes, Jon realized, disquieted. Like the trees . . .",
+      "translation": "",
+      "explanation_zh": "Ghost忽然从两棵weirwoods之间回来；它的白毛红眼与树木相似，使Jon不安。",
+      "literary_note_zh": "Ghost与weirwoods共享white/red色彩，建立视觉亲缘；like the trees是Jon联想，不揭示原因。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P478-073",
+      "page": 478,
+      "end_page": 479,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "The wolf had something in his jaws. Something black. “What’s he got there?” asked Bowen Marsh, frowning.",
+      "translation": "",
+      "explanation_zh": "Ghost嘴里衔着黑色物体；Marsh皱眉问那是什么。",
+      "literary_note_zh": "跨页原本是同一问句，已合并。黑色物体先被延迟命名，以认知悬置制造结尾惊骇。",
+      "background_zh": "**当前事实边界：** Ghost带回黑色物体，随后确认是hand；其主人、是否来自失踪rangers及死因均尚未由本段证明。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P479-074",
+      "page": 479,
+      "end_page": 479,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“To me, Ghost.” Jon knelt. “Bring it here.”",
+      "translation": "",
+      "explanation_zh": "Jon跪下命Ghost把东西带来。",
+      "literary_note_zh": "Dywen预感夜气异常，Ghost带回一只hand，把成年仪式立刻接入Wall以北的真实危险。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P479-075",
+      "page": 479,
+      "end_page": 479,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "The direwolf trotted to him. Jon heard Samwell Tarly’s sharp intake of breath.",
+      "translation": "",
+      "explanation_zh": "Ghost走近，Sam猛吸一口气，显示他先认出了异常。",
+      "literary_note_zh": "Dywen预感夜气异常，Ghost带回一只hand，把成年仪式立刻接入Wall以北的真实危险。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH48-P479-076",
+      "page": 479,
+      "end_page": 479,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "“Gods be good,” Dywen muttered. “That’s a hand.”",
+      "translation": "",
+      "explanation_zh": "Dywen确认Ghost带回的是一只hand，仪式后的神圣寂静骤然变成现实恐怖。",
+      "literary_note_zh": "hand既是具体尸体线索，也是切断、失去控制与未知来者的恐怖符号；本章只确认物体，不回答所属者或死亡经过。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点是Night’s Watch的组织身份、Jon的主观判断与Wall以北逐步增强的危险感。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "paper": {
+    "title": "A Game of Thrones — Chapter 2 (CATELYN)",
+    "author": "George R. R. Martin",
+    "source_type": "pdf",
+    "language": "en",
+    "source_path": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+    "pdf_page_range": [
+      25,
+      29
+    ],
+    "reader_mode": "spoiler-free close reading; English personal names"
+  },
+  "blocks": [
+    {
+      "id": "CH02-P025-001",
+      "page": 25,
+      "end_page": 25,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Catelyn had never liked this godswood.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn从未喜欢过Winterfell的godswood，开篇直接建立她与北方信仰空间之间的疏离。",
+      "reading_note_zh": "极短开篇把空间写成关系：godswood属于Ned和北方传统，却没有成为Catelyn的精神家园。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-001"
+    },
+    {
+      "id": "CH02-P025-002",
+      "page": 25,
+      "end_page": 25,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "She had been born a Tully, at Riverrun far to the south, on the Red Fork of the Trident. The godswood there was a garden, bright and airy, where tall redwoods spread dappled shadows across tinkling streams, birds sang from hidden nests, and the air was spicy with the scent of flowers.",
+      "translation": "",
+      "paragraph_explanation_zh": "她出生于南方Riverrun；故乡的godswood明亮、开放，像供人散步和休息的花园。",
+      "reading_note_zh": "南方树林像经过整理的花园，北方树林则保留原始状态；地景差异承载宗教与文化差异。",
+      "background_note_zh": "**文本事实：** Catelyn出身House Tully，故乡Riverrun位于南方Trident河流域；她是嫁入北方的外来者。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-002"
+    },
+    {
+      "id": "CH02-P025-003",
+      "page": 25,
+      "end_page": 25,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "The gods of Winterfell kept a different sort of wood. It was a dark, primal place, three acres of old forest untouched for ten thousand years as the gloomy castle rose around it. It smelled of moist earth and decay. No redwoods grew here. This was a wood of stubborn sentinel trees armored in grey-green needles, of mighty oaks, of ironwoods as old as the realm itself. Here thick black trunks crowded close together while twisted branches wove a dense canopy overhead and misshappen roots wrestled beneath the soil. This was a place of deep silence and brooding shadows, and the gods who lived here had no names.",
+      "translation": "",
+      "paragraph_explanation_zh": "Winterfell的godswood却古老、浓暗而原始，粗壮树木遮住天空，使她感到被监视和压迫。",
+      "reading_note_zh": "本段通过Catelyn的感官和回忆对比南北信仰，使godswood同时成为宗教空间与婚姻差异的象征。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-003"
+    },
+    {
+      "id": "CH02-P025-004",
+      "page": 25,
+      "end_page": 25,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "But she knew she would find her husband here tonight. Whenever he took a man’s life, afterward he would seek the quiet of the godswood.",
+      "translation": "",
+      "paragraph_explanation_zh": "尽管不喜欢这里，Catelyn知道Ned每次亲手处决犯人后都会来到此处清洗剑并沉思。",
+      "reading_note_zh": "本段通过Catelyn的感官和回忆对比南北信仰，使godswood同时成为宗教空间与婚姻差异的象征。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-004"
+    },
+    {
+      "id": "CH02-P025-005",
+      "page": 25,
+      "end_page": 25,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Catelyn had been anointed with the seven oils and named in the rainbow of light that filled the sept of Riverrun. She was of the Faith, like her father and grandfather and his father before him. Her gods had names, and their faces were as familiar as the faces of her parents. Worship was a septon with a censer, the smell of incense, a seven-sided crystal alive with light, voices raised in song. The Tullys kept a godswood, as all the great houses did, but it was only a place to walk or read or lie in the sun. Worship was for the sept.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn信奉Faith of the Seven；她的命名与信仰仪式发生在Riverrun的sept中。",
+      "reading_note_zh": "Catelyn的信仰通过油、彩虹光和七面神呈现，明亮秩序与北方黑水、红叶形成对照。",
+      "background_note_zh": "**文本事实：** Faith of the Seven以七种面相理解神；sept是其礼拜场所。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-005"
+    },
+    {
+      "id": "CH02-P025-006",
+      "page": 25,
+      "end_page": 25,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "For her sake, Ned had built a small sept where she might sing to the seven faces of god, but the blood of the First Men still flowed in the veins of the Starks, and his own gods were the old ones, the nameless, faceless gods of the greenwood they shared with the vanished children of the forest.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned为她修建sept，但Stark血脉仍属于旧神与北方森林，婚姻并未消除两人的信仰差异。",
+      "reading_note_zh": "本段通过Catelyn的感官和回忆对比南北信仰，使godswood同时成为宗教空间与婚姻差异的象征。",
+      "background_note_zh": "**文本事实：** House Stark遵循old gods传统；Ned为Catelyn修建sept，是对妻子信仰的实际尊重。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-006"
+    },
+    {
+      "id": "CH02-P025-007",
+      "page": 25,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "At the center of the grove an ancient weirwood brooded over a small pool where the waters were black and cold. “The heart tree,” Ned called it. The weirwood’s bark was white as bone, its leaves dark red, like a thousand bloodstained hands. A face had been carved in the trunk of the great tree, its features long and melancholy, the deep-cut eyes red with dried sap and strangely watchful. They were old, those eyes; older than Winterfell itself. They had seen Brandon the Builder set the first stone, if the tales were true; they had watched the castle’s granite walls rise around them. It was said that the children of the forest had carved the faces in the trees during the dawn centuries before the coming of the First Men across the narrow sea.",
+      "translation": "",
+      "paragraph_explanation_zh": "树林中心的古老weirwood俯临黑水池，白骨般树皮与血手般红叶构成不安的圣树形象。",
+      "reading_note_zh": "白骨、血手和注视的眼睛把圣树写得既神圣又令人不安，也贴合Catelyn的外来者感受。",
+      "background_note_zh": "**文本事实：** weirwood是旧神信仰的圣树，刻有面孔的古树称heart tree。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P025-007"
+    },
+    {
+      "id": "CH02-P026-008",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "In the south the last weirwoods had been cut down or burned out a thousand years ago, except on the Isle of Faces where the green men kept their silent watch. Up here it was different. Here every castle had its godswood, and every godswood had its heart tree, and every heart tree its face.",
+      "translation": "",
+      "paragraph_explanation_zh": "南方多数weirwood早已被砍毁，北方却仍保留；Catelyn觉得树上的面孔既陌生又具有神性。",
+      "reading_note_zh": "本段通过Catelyn的感官和回忆对比南北信仰，使godswood同时成为宗教空间与婚姻差异的象征。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-008"
+    },
+    {
+      "id": "CH02-P026-009",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Catelyn found her husband beneath the weirwood, seated on a moss-covered stone. The greatsword Ice was across his lap, and he was cleaning the blade in those waters black as night. A thousand years of humus lay thick upon the godswood floor, swallowing the sound of her feet, but the red eyes of the weirwood seemed to follow her as she came. “Ned,” she called softly.",
+      "translation": "",
+      "paragraph_explanation_zh": "她在weirwood下找到Ned；Ice横在他膝上，他正用黑水清洗剑上的血。",
+      "reading_note_zh": "Ice再次出现，但视角从Bran的司法教育转为妻子观察丈夫事后承担的心理重量。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-009"
+    },
+    {
+      "id": "CH02-P026-010",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "He lifted his head to look at her. “Catelyn,” he said. His voice was distant and formal. “Where are the children?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned以正式疏远的语气叫她，并首先询问孩子们在哪里。",
+      "reading_note_zh": "本段以夫妻间克制的对话延续处决余波，并把孩子教育、家族箴言和Ice连接起来。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-010"
+    },
+    {
+      "id": "CH02-P026-011",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "He would always ask her that. “In the kitchen, arguing about names for the wolf pups.” She spread her cloak on the forest floor and sat beside the pool, her back to the weirwood. She could feel the eyes watching her, but she did her best to ignore them. “Arya is already in love, and Sansa is charmed and gracious, but Rickon is not quite sure.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn说孩子们正在厨房为direwolf幼崽取名，并靠近Ned坐下。",
+      "reading_note_zh": "本段以夫妻间克制的对话延续处决余波，并把孩子教育、家族箴言和Ice连接起来。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-011"
+    },
+    {
+      "id": "CH02-P026-012",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“Is he afraid?” Ned asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned询问三岁的Rickon是否害怕幼崽。",
+      "reading_note_zh": "本段以夫妻间克制的对话延续处决余波，并把孩子教育、家族箴言和Ice连接起来。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-012"
+    },
+    {
+      "id": "CH02-P026-013",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“A little,” she admitted. “He is only three.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn承认Rickon有一点害怕，强调他毕竟只有三岁。",
+      "reading_note_zh": "本段以夫妻间克制的对话延续处决余波，并把孩子教育、家族箴言和Ice连接起来。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-013"
+    },
+    {
+      "id": "CH02-P026-014",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "Ned frowned. “He must learn to face his fears. He will not be three forever. And winter is coming.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned认为Rickon必须学习面对恐惧，并说出House Stark的家族箴言：Winter is coming。",
+      "reading_note_zh": "`Winter is coming`既是家族箴言，也是教育原则：舒适不会永久存在，孩子必须提前学会面对困难。",
+      "background_note_zh": "**文本事实：** `Winter is coming`是House Stark的家族箴言。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-014"
+    },
+    {
+      "id": "CH02-P026-015",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“Yes,” Catelyn agreed. The words gave her a chill, as they always did. The Stark words. Every noble house had its words. Family mottoes, touchstones, prayers of sorts, they boasted of honor and glory, promised loyalty and truth, swore faith and courage. All but the Starks. Winter is coming, said the Stark words. Not for the first time, she reflected on what a strange people these northerners were.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn虽然同意，却一如既往地因这句家族箴言感到寒意；它不像别家箴言那样炫耀荣誉。",
+      "reading_note_zh": "别家箴言强调荣耀，Stark箴言却是一句警告；这种克制定义了家族的自我想象。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-015"
+    },
+    {
+      "id": "CH02-P026-016",
+      "page": 26,
+      "end_page": 26,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“The man died well, I’ll give him that,” Ned said. He had a swatch of oiled leather in one hand. He ran it lightly up the greatsword as he spoke, polishing the metal to a dark glow.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned评价逃兵死得还算体面，一边用油革擦亮Ice。",
+      "reading_note_zh": "本段以夫妻间克制的对话延续处决余波，并把孩子教育、家族箴言和Ice连接起来。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P026-016"
+    },
+    {
+      "id": "CH02-P027-017",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“I was glad for Bran’s sake. You would have been proud of Bran.”",
+      "translation": "",
+      "paragraph_explanation_zh": "他很高兴Bran表现得好，认为Catelyn会为Bran骄傲。",
+      "reading_note_zh": "本段以夫妻间克制的对话延续处决余波，并把孩子教育、家族箴言和Ice连接起来。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-017"
+    },
+    {
+      "id": "CH02-P027-018",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“I am always proud of Bran,” Catelyn replied, watching the sword as he stroked it. She could see the rippling deep within the steel, where the metal had been folded back on itself a hundred times in the forging. Catelyn had no love for swords, but she could not deny that Ice had its own beauty. It had been forged in Valyria, before the Doom had come to the old Freehold, when the ironsmiths had worked their metal with spells as well as hammers. Four hundred years old it was, and as sharp as the day it was forged. The name it bore was older still, a legacy from the age of heroes, when the Starks were Kings in the North.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn回答自己一直为Bran骄傲，并观察Valyrian steel反复折叠锻造形成的波纹。",
+      "reading_note_zh": "剑身波纹来自反复折叠锻造；Catelyn观察工艺，却明确不爱武器，保持她的独立视角。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-018"
+    },
+    {
+      "id": "CH02-P027-019",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "“He was the fourth this year,” Ned said grimly. “The poor man was half-mad. Something had put a fear in him so deep that my words could not reach him.” He sighed. “Ben writes that the strength of the Night’s Watch is down below a thousand. It’s not only desertions. They are losing men on rangings as well.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说这是当年第四名逃兵；此人近乎疯狂，恐惧深入到言语之外。",
+      "reading_note_zh": "Ned说逃兵无法清楚表达恐惧，与Chapter 1中Jon从其眼睛判断恐惧相互补充。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-019"
+    },
+    {
+      "id": "CH02-P027-020",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“Is it the wildlings?” she asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn猜测这种变化是否由wildlings引起。",
+      "reading_note_zh": "本段围绕逃兵恐惧展开理性解释与旧故事之间的争论，形成读者知道更多的戏剧性反差。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-020"
+    },
+    {
+      "id": "CH02-P027-021",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "“Who else?” Ned lifted Ice, looked down the cool steel length of it. “And it will only grow worse. The day may come when I will have no choice but to call the banners and ride north to deal with this King-beyond-the-Wall for good and all.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned认为最可能是wildlings，并判断局势会恶化；Mance Rayder正在集结北方人，守夜人力量则不断衰弱。",
+      "reading_note_zh": "Ned把异常归入可理解的政治威胁：Mance集结、守夜人衰弱。这是理性解释，不是已证实结论。",
+      "background_note_zh": "**文本事实：** Mance Rayder被称为King-beyond-the-Wall；守夜人负责长城防务，但人数正在减少。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-021"
+    },
+    {
+      "id": "CH02-P027-022",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "“Beyond the Wall?” The thought made Catelyn shudder.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn听见Ned打算亲自越过长城处理此事，立即感到恐惧。",
+      "reading_note_zh": "本段围绕逃兵恐惧展开理性解释与旧故事之间的争论，形成读者知道更多的戏剧性反差。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-022"
+    },
+    {
+      "id": "CH02-P027-023",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "Ned saw the dread on her face. “Mance Rayder is nothing for us to fear.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned安慰她说Mance Rayder不值得他们害怕。",
+      "reading_note_zh": "本段围绕逃兵恐惧展开理性解释与旧故事之间的争论，形成读者知道更多的戏剧性反差。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-023"
+    },
+    {
+      "id": "CH02-P027-024",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "“There are darker things beyond the Wall.” She glanced behind her at the heart tree, the pale bark and red eyes, watching, listening, thinking its long slow thoughts.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn认为长城外还有更黑暗的事物，并不安地看向heart tree。",
+      "reading_note_zh": "本段围绕逃兵恐惧展开理性解释与旧故事之间的争论，形成读者知道更多的戏剧性反差。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-024"
+    },
+    {
+      "id": "CH02-P027-025",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "His smile was gentle. “You listen to too many of Old Nan’s stories. The Others are as dead as the children of the forest, gone eight thousand years. Maester Luwin will tell you they never lived at all. No living man has ever seen one.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned温和地把她的担忧归为Old Nan的故事，认为异鬼和children of the forest早已消失。",
+      "reading_note_zh": "Ned像Chapter 1中的Bran一样把超自然担忧归于Old Nan；读者因看过序章而掌握更多信息。",
+      "background_note_zh": "**文本事实：** children of the forest属于古老传说中的族群；Ned认为它们与异鬼一样早已消失。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-025"
+    },
+    {
+      "id": "CH02-P027-026",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "“Until this morning, no living man had ever seen a direwolf either,” Catelyn reminded him.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn用当天发现direwolf反驳：此前人们同样认为活人不可能看见它。",
+      "reading_note_zh": "Catelyn用direwolf挑战“旧事物已经消失”的确定语气，是基于新证据的谨慎反驳。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-026"
+    },
+    {
+      "id": "CH02-P027-027",
+      "page": 27,
+      "end_page": 27,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“I ought to know better than to argue with a Tully,” he said with a rueful smile. He slid Ice back into its sheath. “You did not come here to tell me crib tales. I know how little you like this place. What is it, my lady?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned带着无奈笑容结束争论，收剑起身，问她为何来到这里。",
+      "reading_note_zh": "本段围绕逃兵恐惧展开理性解释与旧故事之间的争论，形成读者知道更多的戏剧性反差。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-027"
+    },
+    {
+      "id": "CH02-P027-028",
+      "page": 27,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "Catelyn took her husband’s hand. “There was grievous news today, my lord. I did not wish to trouble you until you had cleansed yourself.” There was no way to soften the blow, so she told him straight. “I am so sorry, my love. Jon Arryn is dead.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn牵住丈夫的手，说明自己带来噩耗，并直接告诉他Jon Arryn已经去世。",
+      "reading_note_zh": "噩耗放在Ned清洗Ice之后出现，使死亡从公共司法转入私人情感。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P027-028"
+    },
+    {
+      "id": "CH02-P028-029",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "His eyes found hers, and she could see how hard it took him, as she had known it would. In his youth, Ned had fostered at the Eyrie, and the childless Lord Arryn had become a second father to him and his fellow ward, Robert Baratheon. When the Mad King Aerys II Targaryen had demanded their heads, the Lord of the Eyrie had raised his moon-and-falcon banners in revolt rather than give up those he had pledged to protect.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned遭受沉重打击；Jon Arryn曾在他年少时收养并教养他，如同第二位父亲。",
+      "reading_note_zh": "fosterage在贵族社会不仅是抚养安排，也能建立近似父子的持久政治与情感纽带。",
+      "background_note_zh": "**文本事实：** Ned年轻时在Jon Arryn处foster，与Robert Baratheon一同受其教养。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-029"
+    },
+    {
+      "id": "CH02-P028-030",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "And one day fifteen years ago, this second father had become a brother as well, as he and Ned stood together in the sept at Riverrun to wed two sisters, the daughters of Lord Hoster Tully.",
+      "translation": "",
+      "paragraph_explanation_zh": "十五年前Jon Arryn又与Ned并肩对抗Mad King Aerys，并协助Robert Baratheon夺得Iron Throne。",
+      "reading_note_zh": "一段家族回忆迅速连接私人亲情、旧战争和当前王权，却不提前展开后文政治。",
+      "background_note_zh": "**文本事实：** 十五年前Ned、Robert与Jon Arryn反抗Aerys Targaryen；Robert随后成为国王。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-030"
+    },
+    {
+      "id": "CH02-P028-031",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“Jon . . . ” he said. “Is this news certain?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned难以接受消息，询问Jon Arryn的死讯是否确定。",
+      "reading_note_zh": "本段借Jon Arryn死讯补足Ned的旧日亲情与政治经历，再把叙事转向Robert来访。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-031"
+    },
+    {
+      "id": "CH02-P028-032",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“It was the king’s seal, and the letter is in Robert’s own hand. I saved it for you. He said Lord Arryn was taken quickly. Even Maester Pycelle was helpless, but he brought the milk of the poppy, so Jon did not linger long in pain.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn确认信件有国王印章且由Robert亲笔书写；Jon Arryn病势迅速，来不及挽救。",
+      "reading_note_zh": "本段借Jon Arryn死讯补足Ned的旧日亲情与政治经历，再把叙事转向Robert来访。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-032"
+    },
+    {
+      "id": "CH02-P028-033",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“That is some small mercy, I suppose,” he said. She could see the grief on his face, but even then he thought first of her. “Your sister,” he said. “And Jon’s boy. What word of them?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned在悲痛中仍先关心Jon Arryn的妻子Lysa和儿子Robert是否安好。",
+      "reading_note_zh": "Ned的第一反应从个人悲痛转向遗属安危，表现他把照料责任置于情绪表达之前。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-033"
+    },
+    {
+      "id": "CH02-P028-034",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "“The message said only that they were well, and had returned to the Eyrie,” Catelyn said. “I wish they had gone to Riverrun instead. The Eyrie is high and lonely, and it was ever her husband’s place, not hers. Lord Jon’s memory will haunt each stone. I know my sister. She needs the comfort of family and friends around her.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn说母子已经返回Eyrie，并遗憾他们没有去Riverrun寻求家人陪伴。",
+      "reading_note_zh": "本段借Jon Arryn死讯补足Ned的旧日亲情与政治经历，再把叙事转向Robert来访。",
+      "background_note_zh": "**文本事实：** Lysa是Catelyn的妹妹、Jon Arryn的妻子；Eyrie是House Arryn的家堡。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-034"
+    },
+    {
+      "id": "CH02-P028-035",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“Your uncle waits in the Vale, does he not? Jon named him Knight of the Gate, I’d heard.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned指出Catelyn的叔叔Brynden正在Vale任Knight of the Gate，应能提供帮助。",
+      "reading_note_zh": "本段借Jon Arryn死讯补足Ned的旧日亲情与政治经历，再把叙事转向Robert来访。",
+      "background_note_zh": "**文本事实：** Brynden Tully是Catelyn的叔叔，目前在Vale担任Knight of the Gate。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-035"
+    },
+    {
+      "id": "CH02-P028-036",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "Catelyn nodded. “Brynden will do what he can for her, and for the boy. That is some comfort, but still . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn承认Brynden会尽力，但仍担心姐姐Lysa失去丈夫后的处境。",
+      "reading_note_zh": "本段借Jon Arryn死讯补足Ned的旧日亲情与政治经历，再把叙事转向Robert来访。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-036"
+    },
+    {
+      "id": "CH02-P028-037",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“Go to her,” Ned urged. “Take the children. Fill her halls with noise and shouts and laughter. That boy of hers needs other children about him, and Lysa should not be alone in her grief.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned建议Catelyn带孩子们去陪伴Lysa，用家庭的声音和欢乐缓解她的悲痛。",
+      "reading_note_zh": "本段借Jon Arryn死讯补足Ned的旧日亲情与政治经历，再把叙事转向Robert来访。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-037"
+    },
+    {
+      "id": "CH02-P028-038",
+      "page": 28,
+      "end_page": 28,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“Would that I could,” Catelyn said. “The letter had other tidings. The king is riding to Winterfell to seek you out.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn表示自己也想去，但信中还有另一消息：国王正前往Winterfell。",
+      "reading_note_zh": "同一封信先带来死亡，再带来国王来访；私人哀伤与国家权力在家庭空间中汇合。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-038"
+    },
+    {
+      "id": "CH02-P028-039",
+      "page": 28,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "It took Ned a moment to comprehend her words, but when the understanding came, the darkness left his eyes. “Robert is coming here?” When she nodded, a smile broke across his face.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned短暂无法理解，随后意识到Robert即将来访，悲色立刻转为惊喜。",
+      "reading_note_zh": "Ned情绪骤变显示Robert对他不仅是国王，也是多年未见的亲密旧友。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P028-039"
+    },
+    {
+      "id": "CH02-P029-040",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Catelyn wished she could share his joy. But she had heard the talk in the yards; a direwolf dead in the snow, a broken antler in its throat. Dread coiled within her like a snake, but she forced herself to smile at this man she loved, this man who put no faith in signs. “I knew that would please you,” she said. “We should send word to your brother on the Wall.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn无法分享他的喜悦；direwolf与鹿角的传言使她把国王来访视为可能的不祥事件。",
+      "reading_note_zh": "Catelyn把鹿角、direwolf和国王到访连成不祥预感；这是人物的解释，文本此时没有证明因果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-040"
+    },
+    {
+      "id": "CH02-P029-041",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "“Yes, of course,” he agreed. “Ben will want to be here. I shall tell Maester Luwin to send his swiftest bird.” Ned rose and pulled her to her feet. “Damnation, how many years has it been? And he gives us no more notice than this? How many in his party, did the message say?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned决定通知在长城的弟弟Benjen，并让Maester Luwin派出最快的鸟送信。",
+      "reading_note_zh": "本段从Catelyn的不祥预感转向王室车队的现实规模，展现家庭、后勤和宫廷政治同时逼近Winterfell。",
+      "background_note_zh": "**文本事实：** Benjen Stark是Ned的弟弟，人在长城；maester常通过渡鸦传递远距离消息。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-041"
+    },
+    {
+      "id": "CH02-P029-042",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "“I should think a hundred knights, at the least, with all their retainers, and half again as many freeriders. Cersei and the children travel with them.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn估计王室队伍至少包括百名骑士、随从、自由骑手以及Cersei和孩子们，规模庞大。",
+      "reading_note_zh": "本段从Catelyn的不祥预感转向王室车队的现实规模，展现家庭、后勤和宫廷政治同时逼近Winterfell。",
+      "background_note_zh": "**文本事实：** 王室出行包括骑士、retainers、freeriders、王后和王子女，不是私人拜访。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-042"
+    },
+    {
+      "id": "CH02-P029-043",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Robert will keep an easy pace for their sakes,” he said. “It is just as well. That will give us more time to prepare.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned认为Robert会顾及车队而慢行，这让Winterfell有更多时间准备。",
+      "reading_note_zh": "本段从Catelyn的不祥预感转向王室车队的现实规模，展现家庭、后勤和宫廷政治同时逼近Winterfell。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-043"
+    },
+    {
+      "id": "CH02-P029-044",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“The queen’s brothers are also in the party,” she told him.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn补充，王后的兄弟们也在队伍中。",
+      "reading_note_zh": "本段从Catelyn的不祥预感转向王室车队的现实规模，展现家庭、后勤和宫廷政治同时逼近Winterfell。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-044"
+    },
+    {
+      "id": "CH02-P029-045",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Ned grimaced at that. There was small love between him and the queen’s family, Catelyn knew. The Lannisters of Casterly Rock had come late to Robert’s cause, when victory was all but certain, and he had never forgiven them. “Well, if the price for Robert’s company is an infestation of Lannisters, so be it. It sounds as though Robert is bringing half his court.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned听后皱眉；他与Lannister家族关系冷淡，而Cersei及其兄弟在王廷拥有重要影响。",
+      "reading_note_zh": "三个Lannister各自占据王室核心位置，说明王后家族的影响不止来自婚姻。",
+      "background_note_zh": "**文本事实：** Cersei Lannister是王后；其兄弟Jaime属于Kingsguard，Tyrion也随王室同行。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-045"
+    },
+    {
+      "id": "CH02-P029-046",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“Where the king goes, the realm follows,” she said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn用一句话概括王室出行：国王到哪里，整个王国的权力与人员就跟到哪里。",
+      "reading_note_zh": "`the realm follows`把数百人的车队写成权力结构的移动：王室从不只是一个人。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-046"
+    },
+    {
+      "id": "CH02-P029-047",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“It will be good to see the children. The youngest was still sucking at the Lannister woman’s teat the last time I saw him. He must be, what, five by now?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned期待见到王室孩子，却把最小的孩子记成仍在吃奶。",
+      "reading_note_zh": "本段从Catelyn的不祥预感转向王室车队的现实规模，展现家庭、后勤和宫廷政治同时逼近Winterfell。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-047"
+    },
+    {
+      "id": "CH02-P029-048",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“Prince Tommen is seven,” she told him. “The same age as Bran. Please, Ned, guard your tongue. The Lannister woman is our queen, and her pride is said to grow with every passing year.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn纠正Prince Tommen已经七岁，并提醒Ned谨慎说话，因为Lannister家族骄傲且容易记仇。",
+      "reading_note_zh": "Catelyn管理语言风险，Ned则以老友情感看待来访；两人关注点分别偏向政治后果与私人重逢。",
+      "background_note_zh": "**文本事实：** Prince Tommen与Bran同为七岁；Catelyn担心Ned的随口玩笑冒犯Lannister家族。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-048"
+    },
+    {
+      "id": "CH02-P029-049",
+      "page": 29,
+      "end_page": 29,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "Ned squeezed her hand. “There must be a feast, of course, with singers, and Robert will want to hunt. I shall send Jory south with an honor guard to meet them on the kingsroad and escort them back. Gods, how are we going to feed them all? On his way already, you said? Damn the man. Damn his royal hide.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned开始盘算宴会、歌手、狩猎、守卫和庞大队伍的食宿，亲密地抱怨老友带来的麻烦。",
+      "reading_note_zh": "Ned的抱怨带亲昵而非敌意；从哀痛到忙乱计划，结尾让家庭生活暂时重新流动。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻关系、信仰差异或消息推进。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH02-P029-049"
+    }
+  ],
+  "pages": [
+    {
+      "page": 25,
+      "block_ids": [
+        "CH02-P025-001",
+        "CH02-P025-002",
+        "CH02-P025-003",
+        "CH02-P025-004",
+        "CH02-P025-005",
+        "CH02-P025-006",
+        "CH02-P025-007"
+      ]
+    },
+    {
+      "page": 26,
+      "block_ids": [
+        "CH02-P025-007",
+        "CH02-P026-008",
+        "CH02-P026-009",
+        "CH02-P026-010",
+        "CH02-P026-011",
+        "CH02-P026-012",
+        "CH02-P026-013",
+        "CH02-P026-014",
+        "CH02-P026-015",
+        "CH02-P026-016"
+      ]
+    },
+    {
+      "page": 27,
+      "block_ids": [
+        "CH02-P027-017",
+        "CH02-P027-018",
+        "CH02-P027-019",
+        "CH02-P027-020",
+        "CH02-P027-021",
+        "CH02-P027-022",
+        "CH02-P027-023",
+        "CH02-P027-024",
+        "CH02-P027-025",
+        "CH02-P027-026",
+        "CH02-P027-027",
+        "CH02-P027-028"
+      ]
+    },
+    {
+      "page": 28,
+      "block_ids": [
+        "CH02-P027-028",
+        "CH02-P028-029",
+        "CH02-P028-030",
+        "CH02-P028-031",
+        "CH02-P028-032",
+        "CH02-P028-033",
+        "CH02-P028-034",
+        "CH02-P028-035",
+        "CH02-P028-036",
+        "CH02-P028-037",
+        "CH02-P028-038",
+        "CH02-P028-039"
+      ]
+    },
+    {
+      "page": 29,
+      "block_ids": [
+        "CH02-P028-039",
+        "CH02-P029-040",
+        "CH02-P029-041",
+        "CH02-P029-042",
+        "CH02-P029-043",
+        "CH02-P029-044",
+        "CH02-P029-045",
+        "CH02-P029-046",
+        "CH02-P029-047",
+        "CH02-P029-048",
+        "CH02-P029-049"
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": [
+    {
+      "term": "wildling",
+      "translation": "野人；长城外居民",
+      "note": "奇幻专名，在人物话语中带有边境内部人的称呼色彩"
+    },
+    {
+      "term": "ranging",
+      "translation": "远程巡逻；越墙侦察",
+      "note": "本书中守夜人的任务用语"
+    },
+    {
+      "term": "sheath",
+      "translation": "刀鞘；剑鞘",
+      "note": "`draw ... from its sheath`"
+    },
+    {
+      "term": "sentinel",
+      "translation": "哨兵；守望者",
+      "note": "此处把树拟人化为守卫"
+    },
+    {
+      "term": "ward",
+      "translation": "受监护者；寄养的贵族子弟",
+      "note": "并非普通客人或囚犯"
+    },
+    {
+      "term": "keep",
+      "translation": "主堡；小型城堡",
+      "note": "此处不是动词“保持”"
+    },
+    {
+      "term": "direwolf",
+      "translation": "冰原狼；巨型狼",
+      "note": "House Stark的家徽动物"
+    },
+    {
+      "term": "realm",
+      "translation": "王国；领土",
+      "note": "历史和奇幻语境常用"
+    },
+    {
+      "term": "antler",
+      "translation": "鹿角",
+      "note": "通常指鹿科动物分叉的角"
+    },
+    {
+      "term": "godswood",
+      "translation": "神木林；城堡内的信仰树林",
+      "note": "本书旧神崇拜空间"
+    },
+    {
+      "term": "primal",
+      "translation": "原始的；远古本能的",
+      "note": "强调未被人工驯化"
+    },
+    {
+      "term": "canopy",
+      "translation": "树冠层；天篷",
+      "note": "树枝叶形成的顶部覆盖"
+    },
+    {
+      "term": "anoint",
+      "translation": "涂圣油；举行傅油仪式",
+      "note": "宗教仪式用语"
+    },
+    {
+      "term": "sept",
+      "translation": "七神圣堂",
+      "note": "Faith of the Seven的礼拜场所"
+    },
+    {
+      "term": "weirwood",
+      "translation": "鱼梁木；旧神圣树",
+      "note": "本书专名"
+    },
+    {
+      "term": "brood",
+      "translation": "阴沉地笼罩；沉思",
+      "note": "此处把古树拟人化"
+    },
+    {
+      "term": "melancholy",
+      "translation": "忧郁的；哀伤的",
+      "note": "形容树脸神情"
+    },
+    {
+      "term": "sap",
+      "translation": "树液",
+      "note": "红色树液像血或眼泪"
+    },
+    {
+      "term": "swatch",
+      "translation": "一小块布料或材料",
+      "note": "此处为涂油皮革"
+    },
+    {
+      "term": "rueful",
+      "translation": "苦笑的；带懊恼的",
+      "note": "承认自己争不过对方"
+    },
+    {
+      "term": "grievous",
+      "translation": "令人悲痛的；严重的",
+      "note": "`grievous news`"
+    },
+    {
+      "term": "foster",
+      "translation": "寄养并教养",
+      "note": "贵族子弟在另一家族成长"
+    },
+    {
+      "term": "comprehend",
+      "translation": "理解；领会",
+      "note": "比understand更正式"
+    },
+    {
+      "term": "mercy",
+      "translation": "宽慰；幸事；仁慈",
+      "note": "`some small mercy`指不幸中的一点安慰"
+    },
+    {
+      "term": "tidings",
+      "translation": "消息；音讯",
+      "note": "古风复数名词"
+    },
+    {
+      "term": "retainer",
+      "translation": "贵族家臣；随从",
+      "note": "长期依附某家族服务"
+    },
+    {
+      "term": "guard your tongue",
+      "translation": "谨慎说话；管住嘴",
+      "note": "避免言语得罪人"
+    }
+  ]
+}

@@ -1,0 +1,2104 @@
+{
+  "paper": {
+    "title": "A Game of Thrones — Chapter 7 (ARYA)",
+    "author": "George R. R. Martin",
+    "source_type": "pdf",
+    "language": "en",
+    "source_path": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+    "pdf_page_range": [
+      67,
+      74
+    ],
+    "reader_mode": "spoiler-free close reading; English personal names"
+  },
+  "blocks": [
+    {
+      "id": "CH07-P067-001",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Arya’s stitches were crooked again.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya的针脚再次歪斜，第一句便把她放在一项反复失败、也不喜欢的女性训练中。",
+      "reading_note_zh": "极短首句像老师批语，先让Arya被失败定义，再逐步展示她不适合的其实是一套单一标准。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-001"
+    },
+    {
+      "id": "CH07-P067-002",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "She frowned down at them with dismay and glanced over to where her sister Sansa sat among the other girls. Sansa’s needlework was exquisite. Everyone said so. “Sansa’s work is as pretty as she is,” Septa Mordane told their lady mother once. “She has such fine, delicate hands.” When Lady Catelyn had asked about Arya, the septa had sniffed. “Arya has the hands of a blacksmith.”",
+      "translation": "",
+      "paragraph_explanation_zh": "她沮丧地比较Sansa整齐精美的刺绣；Sansa周围的女孩都在称赞她，Arya更显孤立。",
+      "reading_note_zh": "针脚差异立即变成姐妹比较；Arya不是单纯讨厌缝纫，而是不断在姐姐优势旁被衡量。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-002"
+    },
+    {
+      "id": "CH07-P067-003",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "Arya glanced furtively across the room, worried that Septa Mordane might have read her thoughts, but the septa was paying her no attention today. She was sitting with the Princess Myrcella, all smiles and admiration. It was not often that the septa was privileged to instruct a royal princess in the womanly arts, as she had said when the queen brought Myrcella to join them. Arya thought that Myrcella’s stitches looked a little crooked too, but you would never know it from the way Septa Mordane was cooing.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya担心Septa Mordane看出自己的不满，却发现septa正向Princess Myrcella展示Sansa作品。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "**文本事实：** Septa Mordane负责Stark女孩的七神礼仪与女红教育；Myrcella是王室公主。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-003"
+    },
+    {
+      "id": "CH07-P067-004",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "She studied her own work again, looking for some way to salvage it, then sighed and put down the needle. She looked glumly at her sister. Sansa was chatting away happily as she worked. Beth Cassel, Ser Rodrik’s little girl, was sitting by her feet, listening to every word she said, and Jeyne Poole was leaning over to whisper something in her ear.",
+      "translation": "",
+      "paragraph_explanation_zh": "她尝试补救针脚后放下针，听见Sansa与Jeyne、Beth低声谈论某事。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-004"
+    },
+    {
+      "id": "CH07-P067-005",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "“What are you talking about?” Arya asked suddenly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya突然插话，直接询问她们在谈什么。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-005"
+    },
+    {
+      "id": "CH07-P067-006",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Jeyne gave her a startled look, then giggled. Sansa looked abashed. Beth blushed. No one answered.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jeyne吃惊后发笑，Sansa尴尬，Beth脸红，没人立刻回答。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-006"
+    },
+    {
+      "id": "CH07-P067-007",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "“Tell me,” Arya said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya再次坚持要她们告诉自己。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-007"
+    },
+    {
+      "id": "CH07-P067-008",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "Jeyne glanced over to make certain that Septa Mordane was not listening. Myrcella said something then, and the septa laughed along with the rest of the ladies.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jeyne先确认Septa Mordane没在听，说明话题带有少女私密和越界意味。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-008"
+    },
+    {
+      "id": "CH07-P067-009",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "“We were talking about the prince,” Sansa said, her voice soft as a kiss.",
+      "translation": "",
+      "paragraph_explanation_zh": "Sansa用温柔语气说她们在谈王子。",
+      "reading_note_zh": "Sansa语气`soft as a kiss`把王子话题浪漫化，Arya随后用更尖锐观察打破这种氛围。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-009"
+    },
+    {
+      "id": "CH07-P067-010",
+      "page": 67,
+      "end_page": 67,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Arya knew which prince she meant: Jofftey, of course. The tall, handsome one. Sansa got to sit with him at the feast. Arya had to sit with the little fat one. Naturally.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya知道是Joffrey；她回想宴会座位，Sansa与王储同席，自己只陪年幼Tommen。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P067-010"
+    },
+    {
+      "id": "CH07-P068-011",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“Joffrey likes your sister,” Jeyne whispered, proud as if she had something to do with it. She was the daughter of Winterfell’s steward and Sansa’s dearest friend. “He told her she was very beautiful.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jeyne说Joffrey喜欢Sansa，还以自己似乎参与此事的口气感到骄傲。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "**文本事实：** Jeyne Poole是Winterfell steward之女，也是Sansa最亲近的朋友。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-011"
+    },
+    {
+      "id": "CH07-P068-012",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“He’s going to marry her,” little Beth said dreamily, hugging herself. “Then Sansa will be queen of all the realm.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Beth梦想Joffrey会娶Sansa，使她成为整个王国的王后。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-012"
+    },
+    {
+      "id": "CH07-P068-013",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "Sansa had the grace to blush. She blushed prettily. She did everything prettily, Arya thought with dull resentment. “Beth, you shouldn’t make up stories,” Sansa corrected the younger girl, gently stroking her hair to take the harshness out of her words. She looked at Arya. “What did you think of Prince Joff, sister? He’s very gallant, don’t you think?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Sansa优雅脸红；Arya苦涩地觉得姐姐连脸红都比自己漂亮。",
+      "reading_note_zh": "`She did everything prettily`既是羡慕也是怨气；Arya承认Sansa优势，却把它体验成自己的失败。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-013"
+    },
+    {
+      "id": "CH07-P068-014",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“Jon says he looks like a girl,” Arya said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya引用Jon的评价，说Joffrey看起来像女孩。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-014"
+    },
+    {
+      "id": "CH07-P068-015",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "Sansa sighed as she stitched. “Poor Jon,” she said. “He gets jealous because he’s a bastard.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Sansa同情式地说Jon因bastard身份嫉妒Joffrey。",
+      "reading_note_zh": "Sansa把Jon的评价归因于嫉妒，避免正面判断Joffrey，也把bastard身份变成解释一切的缺陷。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-015"
+    },
+    {
+      "id": "CH07-P068-016",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“He’s our brother,” Arya said, much too loudly. Her voice cut through the afternoon quiet of the tower room.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya过于响亮地反驳Jon是她们的brother，声音打破塔楼安静。",
+      "reading_note_zh": "Arya用`our brother`优先表达情感关系，Sansa随后用`half brother`恢复法律与礼仪精确性。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-016"
+    },
+    {
+      "id": "CH07-P068-017",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "Septa Mordane raised her eyes. She had a bony face, sharp eyes, and a thin lipless mouth made for frowning. It was frowning now. “What are you talking about, children?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Septa Mordane抬头，严厉目光和天生适合皱眉的面孔让Arya感到压力。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-017"
+    },
+    {
+      "id": "CH07-P068-018",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“Our half brother,” Sansa corrected, soft and precise. She smiled for the septa. “Arya and I were remarking on how pleased we were to have the princess with us today,” she said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Sansa精准纠正Jon只是half brother，并向septa解释她们在谈王室婚约。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "**文本事实：** Jon与Arya、Sansa同父异母；`half brother`在血缘上准确，但人物选择何种称呼也表达亲疏。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-018"
+    },
+    {
+      "id": "CH07-P068-019",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "Septa Mordane nodded. “Indeed. A great honor for us all.” Princess Myrcella smiled uncertainly at the compliment. “Arya, why aren’t you at work?” the septa asked. She rose to her feet, starched skirts rustling as she started across the room. “Let me see your stitches.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Septa Mordane认可婚约是全家的荣誉，Myrcella则对紧张气氛有些不确定。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-019"
+    },
+    {
+      "id": "CH07-P068-020",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "Arya wanted to scream. It was just like Sansa to go and attract the septa’s attention. “Here,” she said, surrendering up her work.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya恼怒Sansa引来septa注意，索性把失败针线交给她检查。",
+      "reading_note_zh": "Arya主动交出针线近似挑衅：既然已经被注意，她宁愿让冲突立刻发生。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-020"
+    },
+    {
+      "id": "CH07-P068-021",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "The septa examined the fabric. “Arya, Arya, Arya,” she said. “This will not do. This will not do at all.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Septa Mordane反复说作品不合格，公开表示失望。",
+      "reading_note_zh": "本段以缝纫课堂展示Arya与Sansa的才能、礼仪和婚姻想象差异，羞耻在集体注视中不断累积。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-021"
+    },
+    {
+      "id": "CH07-P068-022",
+      "page": 68,
+      "end_page": 68,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Everyone was looking at her. It was too much. Sansa was too well bred to smile at her sister’s disgrace, but Jeyne was smirking on her behalf. Even Princess Myrcella looked sorry for her. Arya felt tears filling her eyes. She pushed herself out of her chair and bolted for the door.",
+      "translation": "",
+      "paragraph_explanation_zh": "所有人注视Arya；Sansa没有笑，Jeyne却窃笑，Arya羞耻到起身逃离。",
+      "reading_note_zh": "Sansa没有笑而Jeyne笑，细节避免把姐妹矛盾简单写成Sansa故意羞辱。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P068-022"
+    },
+    {
+      "id": "CH07-P069-023",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "Septa Mordane called after her. “Arya, come back here! Don’t you take another step! Your lady mother will hear of this. In front of our royal princess too! You’ll shame us all!”",
+      "translation": "",
+      "paragraph_explanation_zh": "Septa Mordane在身后命令她回来，警告会告诉Catelyn，并说她在王室公主前让家族蒙羞。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-023"
+    },
+    {
+      "id": "CH07-P069-024",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "Arya stopped at the door and turned back, biting her lip. The tears were running down her cheeks now. She managed a stiff little bow to Myrcella. “By your leave, my lady.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya在门口咬唇回头，泪水已流下，却仍没有返回座位。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-024"
+    },
+    {
+      "id": "CH07-P069-025",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "Myrcella blinked at her and looked to her ladies for guidance. But if she was uncertain, Septa Mordane was not. “Just where do you think you are going, Arya?” the septa demanded.",
+      "translation": "",
+      "paragraph_explanation_zh": "Myrcella不知如何反应，Septa Mordane则继续命令Arya立刻回来。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-025"
+    },
+    {
+      "id": "CH07-P069-026",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "Arya glared at her. “I have to go shoe a horse,” she said sweetly, taking a brief satisfaction in the shock on the septa’s face. Then she whirled and made her exit, running down the steps as fast as her feet would take her.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya甜甜地说自己得去给马钉蹄铁，用不符合贵族女孩身份的工作故意刺激septa后离开。",
+      "reading_note_zh": "`shoe a horse`用被视为男性或仆役的工作挑战贵族女孩规范；甜美语气让反抗更尖。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-026"
+    },
+    {
+      "id": "CH07-P069-027",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "It wasn’t fair. Sansa had everything. Sansa was two years older; maybe by the time Arya had been born, there had been nothing left. Often it felt that way. Sansa could sew and dance and sing. She wrote poetry. She knew how to dress. She played the high harp and the bells. Worse, she was beautiful. Sansa had gotten their mother’s fine high cheekbones and the thick auburn hair of the Tullys. Arya took after their lord father. Her hair was a lusterless brown, and her face was long and solemn. Jeyne used to call her Arya Horseface, and neigh whenever she came near. It hurt that the one thing Arya could do better than her sister was ride a horse. Well, that and manage a household. Sansa had never had much of a head for figures. If she did marry Prince Joff, Arya hoped for his sake that he had a good steward.",
+      "translation": "",
+      "paragraph_explanation_zh": "她觉得一切不公平：Sansa年龄更大、从母亲处得到美貌与才能，自己似乎只剩失败。",
+      "reading_note_zh": "Arya把才能分配想象成母亲在出生时已经用完，显示儿童如何把长期比较内化为宿命。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-027"
+    },
+    {
+      "id": "CH07-P069-028",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "Nymeria was waiting for her in the guardroom at the base of the stairs. She bounded to her feet as soon as she caught sight of Arya. Arya grinned. The wolf pup loved her, even if no one else did. They went everywhere together, and Nymeria slept in her room, at the foot of her bed. If Mother had not forbidden it, Arya would gladly have taken the wolf with her to needlework. Let Septa Mordane complain about her stitches then.",
+      "translation": "",
+      "paragraph_explanation_zh": "Nymeria在楼梯下等她，听见脚步立刻起身，提供无条件欢迎。",
+      "reading_note_zh": "Nymeria无需Arya表现优雅便欢迎她，动物关系提供家庭评价体系之外的安全感。",
+      "background_note_zh": "**文本事实：** Arya的direwolf名为Nymeria，黄眼，性格活跃。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-028"
+    },
+    {
+      "id": "CH07-P069-029",
+      "page": 69,
+      "end_page": 69,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "Nymeria nipped eagerly at her hand as Arya untied her. She had yellow eyes. When they caught the sunlight, they gleamed like two golden coins. Arya had named her after the warrior queen of the Rhoyne, who had led her people across the narrow sea. That had been a great scandal too. Sansa, of course, had named her pup “Lady.” Arya made a face and hugged the wolfling tight. Nymeria licked her ear, and she giggled.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya解开Nymeria，幼狼兴奋轻咬她手；黄色眼睛在阳光中像两枚金币。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-029"
+    },
+    {
+      "id": "CH07-P069-030",
+      "page": 69,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "By now Septa Mordane would certainly have sent word to her lady mother. If she went to her room, they would find her. Arya did not care to be found. She had a better notion. The boys were at practice in the yard. She wanted to see Robb put gallant Prince Joffrey flat on his back. “Come,” she whispered to Nymeria. She got up and ran, the wolf coming hard at her heels.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya知道septa会告状，不能回房；她决定去看Robb和王子们练武，Nymeria紧跟。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P069-030"
+    },
+    {
+      "id": "CH07-P070-031",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "There was a window in the covered bridge between the armory and the Great Keep where you had a view of the whole yard. That was where they headed.",
+      "translation": "",
+      "paragraph_explanation_zh": "她想起连接armory与Great Keep的covered bridge有一扇能俯瞰练武场的窗。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-031"
+    },
+    {
+      "id": "CH07-P070-032",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "They arrived, flushed and breathless, to find Jon seated on the sill, one leg drawn up languidly to his chin. He was watching the action, so absorbed that he seemed unaware of her approach until his white wolf moved to meet them. Nymeria stalked closer on wary feet. Ghost, already larger than his litter mates, smelled her, gave her ear a careful nip, and settled back down.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya气喘吁吁赶到时，Jon已懒散坐在窗台，Ghost在旁安静躺着。",
+      "reading_note_zh": "Jon与Ghost已经占据观看边缘位置；Arya逃离女孩课堂后自然来到另一个边缘者身边。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-032"
+    },
+    {
+      "id": "CH07-P070-033",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "Jon gave her a curious look. “Shouldn’t you be working on your stitches, little sister?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon好奇问她此刻是否应该练针线。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-033"
+    },
+    {
+      "id": "CH07-P070-034",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Arya made a face at him. “I wanted to see them fight.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya做鬼脸，说自己想看男孩们打斗。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-034"
+    },
+    {
+      "id": "CH07-P070-035",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "He smiled. “Come here, then.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon微笑，邀请她过来一起看。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-035"
+    },
+    {
+      "id": "CH07-P070-036",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "Arya climbed up on the window and sat beside him, to a chorus of thuds and grunts from the yard below.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya爬上窗台坐在Jon旁，下面练武场传来击打声、喘息和Ser Rodrik的喊声。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-036"
+    },
+    {
+      "id": "CH07-P070-037",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "To her disappointment, it was the younger boys drilling. Bran was so heavily padded he looked as though he had belted on a featherbed, and Prince Tommen, who was plump to begin with, seemed positively round. They were huffing and puffing and hitting at each other with padded wooden swords under the watchful eye of old Ser Rodrik Cassel, the master-at-arms, a great stout keg of a man with magnificent white cheek whiskers. A dozen spectators, man and boy, were calling out encouragement, Robb’s voice the loudest among them. She spotted Theon Greyjoy beside him, his black doublet emblazoned with the golden kraken of his House, a look of wry contempt on his face. Both of the combatants were staggering. Arya judged that they had been at it awhile.",
+      "translation": "",
+      "paragraph_explanation_zh": "让她失望的是只有年幼男孩练习；Bran和Tommen穿着厚重护具，用木质武器交手。",
+      "reading_note_zh": "厚护具让男孩练武也显得笨拙，暂时拆解“男孩天生擅长、女孩天生不擅长”的假设。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-037"
+    },
+    {
+      "id": "CH07-P070-038",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“A shade more exhausting than needlework,” Jon observed.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon说这项活动只比针线稍微累一点，故意调侃她。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-038"
+    },
+    {
+      "id": "CH07-P070-039",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“A shade more fun than needlework,” Arya gave back at him. Jon grinned, reached over, and messed up her hair. Arya flushed. They had always been close. Jon had their father’s face, as she did. They were the only ones. Robb and Sansa and Bran and even little Rickon all took after the Tullys, with easy smiles and fire in their hair. When Arya had been little, she had been afraid that meant that she was a bastard too. It been Jon she had gone to in her fear, and Jon who had reassured her.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya回敬说也比针线有趣一点；Jon笑着揉乱她的头发。",
+      "reading_note_zh": "本段让Arya逃离评价空间，经由Nymeria来到Jon身边；边缘人物与direwolves组成暂时安全的小群体。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-039"
+    },
+    {
+      "id": "CH07-P070-040",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“Why aren’t you down in the yard?” Arya asked him.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya询问Jon为何不在场下练武。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-040"
+    },
+    {
+      "id": "CH07-P070-041",
+      "page": 70,
+      "end_page": 70,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "He gave her a half smile. “Bastards are not allowed to damage young princes,” he said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon半笑着说bastards不被允许弄伤年轻王子。",
+      "reading_note_zh": "Jon用玩笑说出严肃等级规则：王子的身体只能被社会认可的trueborn身体碰伤。",
+      "background_note_zh": "**文本事实：** Jon因bastard身份未被允许与王子进行可能造成伤痕的正式练习。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P070-041"
+    },
+    {
+      "id": "CH07-P071-042",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "“Any bruises they take in the practice yard must come from trueborn swords.”",
+      "translation": "",
+      "paragraph_explanation_zh": "他补充，王子在练武场受的瘀伤必须来自trueborn的剑。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-042"
+    },
+    {
+      "id": "CH07-P071-043",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Oh.” Arya felt abashed. She should have realized. For the second time today, Arya reflected that life was not fair.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya惭愧自己没有想到；她一天内第二次意识到生活并不公平。",
+      "reading_note_zh": "Arya一天两次发现不公平——自己因女孩身份被排除，Jon因bastard身份被排除。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-043"
+    },
+    {
+      "id": "CH07-P071-044",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "She watched her little brother whack at Tommen. “I could do just as good as Bran,” she said. “He’s only seven. I’m nine.”",
+      "translation": "",
+      "paragraph_explanation_zh": "她看Bran攻击Tommen，自信自己也能做得一样好，甚至比Bran更强。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-044"
+    },
+    {
+      "id": "CH07-P071-045",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Jon looked her over with all his fourteen-year-old wisdom. “You’re too skinny,” he said. He took her arm to feel her muscle. Then he sighed and shook his head. “I doubt you could even lift a longsword, little sister, never mind swing one.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon以十四岁少年的权威打量她，说她太瘦，并捏了捏她手臂。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-045"
+    },
+    {
+      "id": "CH07-P071-046",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "Arya snatched back her arm and glared at him. Jon messed up her hair again. They watched Bran and Tommen circle each other.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya抽回手瞪他，Jon又揉乱她头发；两人继续观看，Bran一度占上风。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-046"
+    },
+    {
+      "id": "CH07-P071-047",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“You see Prince Joffrey?” Jon asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon让Arya注意Prince Joffrey。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-047"
+    },
+    {
+      "id": "CH07-P071-048",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "She hadn’t, not at first glance, but when she looked again she found him to the back, under the shade of the high stone wall. He was surrounded by men she did not recognize, young squires in the livery of Lannister and Baratheon, strangers all. There were a few older men among them; knights, she surmised.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya起初没看到，随后发现Joffrey与Robb在阴影下休息，正被随从围绕。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-048"
+    },
+    {
+      "id": "CH07-P071-049",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“Look at the arms on his surcoat,” Jon suggested.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon提示她观察Joffrey练习服上的纹章。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-049"
+    },
+    {
+      "id": "CH07-P071-050",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "Arya looked. An ornate shield had been embroidered on the prince’s padded surcoat. No doubt the needlework was exquisite. The arms were divided down the middle; on one side was the crowned stag of the royal House, on the other the lion of Lannister.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya看见盾形刺绣把Baratheon王冠鹿与Lannister金狮并列。",
+      "reading_note_zh": "一面盾牌同时展示父系王权与母系家族，纹章成为血统政治的可视化。",
+      "background_note_zh": "**文本事实：** Joffrey的纹章同时包含House Baratheon crowned stag与House Lannister lion。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-050"
+    },
+    {
+      "id": "CH07-P071-051",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“The Lannisters are proud,” Jon observed. “You’d think the royal sigil would be sufficient, but no. He makes his mother’s House equal in honor to the king’s.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon说Lannisters骄傲到觉得单用王室纹章还不够，必须同时展示母系狮子。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-051"
+    },
+    {
+      "id": "CH07-P071-052",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“The woman is important too!” Arya protested.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya反驳母亲一方同样重要。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-052"
+    },
+    {
+      "id": "CH07-P071-053",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "Jon chuckled. “Perhaps you should do the same thing, little sister. Wed Tully to Stark in your arms.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon笑着建议她也把Tully与Stark纹章结合，让父母两家同时出现在自己盾牌上。",
+      "reading_note_zh": "本段用练武资格和纹章讨论对照女孩与bastard的制度限制，并通过arms双关把血统和武器连接。",
+      "background_note_zh": "**文本事实：** Arya母亲出身House Tully，其家徽为trout；父亲House Stark家徽为direwolf。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-053"
+    },
+    {
+      "id": "CH07-P071-054",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“A wolf with a fish in its mouth?” It made her laugh. “That would look silly. Besides, if a girl can’t fight, why should she have a coat of arms?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya想象狼叼鱼的滑稽图案，并指出女孩反正不能使用真正纹章作战。",
+      "reading_note_zh": "狼叼鱼的荒谬图像让Arya笑，但笑后问题仍在：她不能把纹章转化为持剑权利。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-054"
+    },
+    {
+      "id": "CH07-P071-055",
+      "page": 71,
+      "end_page": 71,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "Jon shrugged. “Girls get the arms but not the swords. Bastards get the swords but not the arms. I did not make the rules, little sister.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon总结两人的不公平：女孩拥有家徽却没有剑，bastards有剑却没有家徽；他相信Arya会比自己更擅长缝两家纹章。",
+      "reading_note_zh": "Jon的总结精确交换两种缺失：Arya有arms纹章却无arms武器，英文双关强化结构性不公平。",
+      "background_note_zh": "**语言提示：** `arms`既可指纹章，也可指武器；此处用双关概括Arya和Jon各自被剥夺之物。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P071-055"
+    },
+    {
+      "id": "CH07-P072-056",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "There was a shout from the courtyard below. Prince Tommen was rolling in the dust, trying to get up and failing. All the padding made him look like a turtle on its back. Bran was standing over him with upraised wooden sword, ready to whack him again once he regained his feet. The men began to laugh.",
+      "translation": "",
+      "paragraph_explanation_zh": "场下突然有人喊叫，Tommen穿着厚护具仰面倒地，像翻不过身的乌龟，Bran高兴绕圈。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-056"
+    },
+    {
+      "id": "CH07-P072-057",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "“Enough!” Ser Rodrik called out. He gave the prince a hand and yanked him back to his feet. “Well fought. Lew, Donnis, help them out of their armor.” He looked around. “Prince Joffrey, Robb, will you go another round?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Rodrik叫停并扶起Tommen，随后邀请Robb与Joffrey再比一场。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-057"
+    },
+    {
+      "id": "CH07-P072-058",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "Robb, already sweaty from a previous bout, moved forward eagerly. “Gladly.”",
+      "translation": "",
+      "paragraph_explanation_zh": "刚练过一场、满身汗水的Robb立即欣然应战。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-058"
+    },
+    {
+      "id": "CH07-P072-059",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "Joffrey moved into the sunlight in response to Rodrik’s summons. His hair shone like spun gold. He looked bored. “This is a game for children, Ser Rodrik.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Joffrey走进阳光，金发闪耀；他虽疲倦，却以王子姿态拒绝显弱。",
+      "reading_note_zh": "Joffrey的外貌光彩与言语挑衅并置，继续区分“像王子”与“如何行动”。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-059"
+    },
+    {
+      "id": "CH07-P072-060",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "Theon Greyjoy gave a sudden bark of laughter. “You are children,” he said derisively.",
+      "translation": "",
+      "paragraph_explanation_zh": "Theon Greyjoy突然嘲笑两人仍是children。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-060"
+    },
+    {
+      "id": "CH07-P072-061",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“Robb may be a child,” Joffrey said. “I am a prince. And I grow tired of swatting at Starks with a play sword.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Joffrey说Robb也许是孩子，自己却是prince，并厌烦用木剑拍打Starks。",
+      "reading_note_zh": "`I am a prince`不是反驳自己年幼，而是用身份宣布普通年龄标准不适用于他。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-061"
+    },
+    {
+      "id": "CH07-P072-062",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“You got more swats than you gave, Joff,” Robb said. “Are you afraid?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb反击Joffrey挨打更多，并问他是不是害怕。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-062"
+    },
+    {
+      "id": "CH07-P072-063",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Prince Joffrey looked at him. “Oh, terrified,” he said. “You’re so much older.” Some of the Lannister men laughed.",
+      "translation": "",
+      "paragraph_explanation_zh": "Joffrey以讽刺口气假装恐惧，拿Robb年龄开玩笑，Lannister随从随之发笑。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-063"
+    },
+    {
+      "id": "CH07-P072-064",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "Jon looked down on the scene with a frown. “Joffrey is truly a little shit,” he told Arya.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon皱眉看着场下，直截了当地告诉Arya：Joffrey确实是个讨厌鬼。",
+      "reading_note_zh": "Jon的粗话提供章节最直接的Joffrey评价，但仍来自Jon个人判断。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-064"
+    },
+    {
+      "id": "CH07-P072-065",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Ser Rodrik tugged thoughtfully at his white whiskers. “What are you suggesting?” he asked the prince.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Rodrik若有所思地问Joffrey究竟想提出什么。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-065"
+    },
+    {
+      "id": "CH07-P072-066",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“Live steel.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Joffrey要求使用live steel。",
+      "reading_note_zh": "`live steel`只有两词，骤然把练习从游戏提升到可能致命的真实暴力。",
+      "background_note_zh": "**文本事实：** live steel指开刃或可致伤的真实钢制武器，与木剑、钝化练习剑相对。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-066"
+    },
+    {
+      "id": "CH07-P072-067",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "“Done,” Robb shot back. “You’ll be sorry!”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb立即接受并警告Joffrey会后悔。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-067"
+    },
+    {
+      "id": "CH07-P072-068",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "The master-at-arms put a hand on Robb’s shoulder to quiet him. “Live steel is too dangerous. I will permit you tourney swords, with blunted edges.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Rodrik按住Robb，拒绝使用真剑，愿意提供钝化的tourney blades。",
+      "reading_note_zh": "Ser Rodrik拒绝并非懦弱，而是训练责任：十四岁少年的自尊不能替代安全判断。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-068"
+    },
+    {
+      "id": "CH07-P072-069",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "Joffrey said nothing, but a man strange to Arya, a tall knight with black hair and burn scars on his face, pushed forward in front of the prince. “This is your prince. Who are you to tell him he may not have an edge on his sword, ser?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya不认识的烧伤黑发高大男人替Joffrey说话，嘲弄Winterfell的master-at-arms。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "**文本事实：** 烧伤面孔的男人是Sandor Clegane，担任Joffrey的护卫。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-069"
+    },
+    {
+      "id": "CH07-P072-070",
+      "page": 72,
+      "end_page": 72,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "“Master-at-arms of Winterfell, Clegane, and you would do well not to forget it.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Rodrik报出自己的正式职位，警告Sandor Clegane不要忘记。",
+      "reading_note_zh": "本段从儿童练习升级到Joffrey与Robb的身份对抗，live steel要求暴露较量背后的家族自尊。",
+      "background_note_zh": "**文本事实：** Ser Rodrik Cassel是Winterfell master-at-arms，负责武术训练与安全。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P072-070"
+    },
+    {
+      "id": "CH07-P073-071",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "“Are you training women here?” the burned man wanted to know. He was muscled like a bull.",
+      "translation": "",
+      "paragraph_explanation_zh": "Sandor讥讽Ser Rodrik是不是在训练女人，并以强壮身体施压。",
+      "reading_note_zh": "Sandor以性别侮辱挑战训练方法，把谨慎等同女性化，迫使Robb在荣誉压力下冒险。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-071"
+    },
+    {
+      "id": "CH07-P073-072",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "“I am training knights,” Ser Rodrik said pointedly. “They will have steel when they are ready. When they are of an age.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Rodrik强调自己训练的是knights，只有准备好的人才会获得钢剑。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-072"
+    },
+    {
+      "id": "CH07-P073-073",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "The burned man looked at Robb. “How old are you, boy?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Sandor转向Robb询问年龄。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-073"
+    },
+    {
+      "id": "CH07-P073-074",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“Fourteen,” Robb said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb回答十四岁。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-074"
+    },
+    {
+      "id": "CH07-P073-075",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "“I killed a man at twelve. You can be sure it was not with a blunt sword.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Sandor说自己十二岁已杀过人，而且用的不是钝剑，以血腥经历羞辱Robb。",
+      "reading_note_zh": "十二岁杀人被Sandor当作成熟证明，显示其价值体系把暴力经验置于训练与年龄之上。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-075"
+    },
+    {
+      "id": "CH07-P073-076",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "Arya could see Robb bristle. His pride was wounded. He turned on Ser Rodrik. “Let me do it. I can beat him.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya看见Robb因自尊受伤而竖起防备，再次请求Ser Rodrik允许真剑决斗。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-076"
+    },
+    {
+      "id": "CH07-P073-077",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "“Beat him with a tourney blade, then,” Ser Rodrik said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ser Rodrik坚持让Robb用tourney blade击败Joffrey即可。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-077"
+    },
+    {
+      "id": "CH07-P073-078",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "Joffrey shrugged. “Come and see me when you’re older, Stark. If you’re not too old.” There was laughter from the Lannister men.",
+      "translation": "",
+      "paragraph_explanation_zh": "Joffrey耸肩拒绝，嘲笑Robb长大后再来找他，随从大笑着准备离开。",
+      "reading_note_zh": "Joffrey先要求真剑，再以对方不能使用真剑为由拒绝钝剑，目标更像羞辱而非公平较量。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-078"
+    },
+    {
+      "id": "CH07-P073-079",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "Robb’s curses rang through the yard. Arya covered her mouth in shock. Theon Greyjoy seized Robb’s arm to keep him away from the prince. Ser Rodrik tugged at his whiskers in dismay.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robb在场中咒骂，Arya震惊捂嘴；Theon抓住他防止冲上去。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-079"
+    },
+    {
+      "id": "CH07-P073-080",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 80,
+      "original_text": "Joffrey feigned a yawn and turned to his younger brother. “Come, Tommen,” he said. “The hour of play is done. Leave the children to their frolics.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Joffrey假装打哈欠，叫Tommen离开，称玩耍时间已结束。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-080"
+    },
+    {
+      "id": "CH07-P073-081",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 81,
+      "original_text": "That brought more laughter from the Lannisters, more curses from Robb. Ser Rodrik’s face was beet-red with fury under the white of his whiskers. Theon kept Robb locked in an iron grip until the princes and their party were safely away.",
+      "translation": "",
+      "paragraph_explanation_zh": "Lannisters再次发笑，Robb继续咒骂，Ser Rodrik气得面红；孩子较量已变成家族侮辱。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-081"
+    },
+    {
+      "id": "CH07-P073-082",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 82,
+      "original_text": "Jon watched them leave, and Arya watched Jon. His face had grown as still as the pool at the heart of the godswood. Finally he climbed down off the window. “The show is done,” he said. He bent to scratch Ghost behind the ears. The white wolf rose and rubbed against him. “You had best run back to your room, little sister. Septa Mordane will surely be lurking. The longer you hide, the sterner the penance. You’ll be sewing all through winter. When the spring thaw comes, they will find your body with a needle still locked tight between your frozen fingers.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon目送他们离开，Arya观察Jon；他的脸像godswood黑水池一样静止，隐藏情绪。",
+      "reading_note_zh": "Jon脸部静止与Ghost沉默相似；他比Arya更早学会把愤怒藏在无法读取的表面下。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-082"
+    },
+    {
+      "id": "CH07-P073-083",
+      "page": 73,
+      "end_page": 73,
+      "type": "paragraph",
+      "order": 83,
+      "original_text": "Arya didn’t think it was funny. “I hate needlework!” she said with passion. “It’s not fair!”",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya不觉得好笑，突然用力说自己憎恨needlework，一切都不公平。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P073-083"
+    },
+    {
+      "id": "CH07-P074-084",
+      "page": 74,
+      "end_page": 74,
+      "type": "paragraph",
+      "order": 84,
+      "original_text": "“Nothing is fair,” Jon said. He messed up her hair again and walked away from her, Ghost moving silently beside him. Nymeria started to follow too, then stopped and came back when she saw that Arya was not coming.",
+      "translation": "",
+      "paragraph_explanation_zh": "Jon回答没有什么是公平的，最后揉乱她头发，与Ghost一起离开；Nymeria一度想跟随。",
+      "reading_note_zh": "`Nothing is fair`没有安慰Arya，而是承认共同现实；兄妹亲昵动作仍提供有限支持。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P074-084"
+    },
+    {
+      "id": "CH07-P074-085",
+      "page": 74,
+      "end_page": 74,
+      "type": "paragraph",
+      "order": 85,
+      "original_text": "Reluctantly she turned in the other direction.",
+      "translation": "",
+      "paragraph_explanation_zh": "Arya不情愿地转向相反方向，准备面对自己的惩罚。",
+      "reading_note_zh": "本段让Sandor以真实杀人经验施压，Ser Rodrik坚持训练边界；冲突结束后Arya仍须回去面对家庭惩罚。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P074-085"
+    },
+    {
+      "id": "CH07-P074-086",
+      "page": 74,
+      "end_page": 74,
+      "type": "paragraph",
+      "order": 86,
+      "original_text": "It was worse than Jon had thought. It wasn’t Septa Mordane waiting in her room. It was Septa Mordane and her mother.",
+      "translation": "",
+      "paragraph_explanation_zh": "实际情况比Jon预想更糟：她房里不仅有Septa Mordane，还有Catelyn。",
+      "reading_note_zh": "结尾把外部练武冲突切回家庭纪律，Arya不能永久逃离对她的女性规范要求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Arya的自我比较、性别规范、血统资格或练武冲突。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH07-P074-086"
+    }
+  ],
+  "pages": [
+    {
+      "page": 67,
+      "block_ids": [
+        "CH07-P067-001",
+        "CH07-P067-002",
+        "CH07-P067-003",
+        "CH07-P067-004",
+        "CH07-P067-005",
+        "CH07-P067-006",
+        "CH07-P067-007",
+        "CH07-P067-008",
+        "CH07-P067-009",
+        "CH07-P067-010"
+      ]
+    },
+    {
+      "page": 68,
+      "block_ids": [
+        "CH07-P068-011",
+        "CH07-P068-012",
+        "CH07-P068-013",
+        "CH07-P068-014",
+        "CH07-P068-015",
+        "CH07-P068-016",
+        "CH07-P068-017",
+        "CH07-P068-018",
+        "CH07-P068-019",
+        "CH07-P068-020",
+        "CH07-P068-021",
+        "CH07-P068-022"
+      ]
+    },
+    {
+      "page": 69,
+      "block_ids": [
+        "CH07-P069-023",
+        "CH07-P069-024",
+        "CH07-P069-025",
+        "CH07-P069-026",
+        "CH07-P069-027",
+        "CH07-P069-028",
+        "CH07-P069-029",
+        "CH07-P069-030"
+      ]
+    },
+    {
+      "page": 70,
+      "block_ids": [
+        "CH07-P069-030",
+        "CH07-P070-031",
+        "CH07-P070-032",
+        "CH07-P070-033",
+        "CH07-P070-034",
+        "CH07-P070-035",
+        "CH07-P070-036",
+        "CH07-P070-037",
+        "CH07-P070-038",
+        "CH07-P070-039",
+        "CH07-P070-040",
+        "CH07-P070-041"
+      ]
+    },
+    {
+      "page": 71,
+      "block_ids": [
+        "CH07-P071-042",
+        "CH07-P071-043",
+        "CH07-P071-044",
+        "CH07-P071-045",
+        "CH07-P071-046",
+        "CH07-P071-047",
+        "CH07-P071-048",
+        "CH07-P071-049",
+        "CH07-P071-050",
+        "CH07-P071-051",
+        "CH07-P071-052",
+        "CH07-P071-053",
+        "CH07-P071-054",
+        "CH07-P071-055"
+      ]
+    },
+    {
+      "page": 72,
+      "block_ids": [
+        "CH07-P072-056",
+        "CH07-P072-057",
+        "CH07-P072-058",
+        "CH07-P072-059",
+        "CH07-P072-060",
+        "CH07-P072-061",
+        "CH07-P072-062",
+        "CH07-P072-063",
+        "CH07-P072-064",
+        "CH07-P072-065",
+        "CH07-P072-066",
+        "CH07-P072-067",
+        "CH07-P072-068",
+        "CH07-P072-069",
+        "CH07-P072-070"
+      ]
+    },
+    {
+      "page": 73,
+      "block_ids": [
+        "CH07-P073-071",
+        "CH07-P073-072",
+        "CH07-P073-073",
+        "CH07-P073-074",
+        "CH07-P073-075",
+        "CH07-P073-076",
+        "CH07-P073-077",
+        "CH07-P073-078",
+        "CH07-P073-079",
+        "CH07-P073-080",
+        "CH07-P073-081",
+        "CH07-P073-082",
+        "CH07-P073-083"
+      ]
+    },
+    {
+      "page": 74,
+      "block_ids": [
+        "CH07-P074-084",
+        "CH07-P074-085",
+        "CH07-P074-086"
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": [
+    {
+      "term": "longsword",
+      "translation": "长剑",
+      "note": "中世纪武器名称"
+    },
+    {
+      "term": "don",
+      "translation": "穿上；披上",
+      "note": "文学化，与take off相对"
+    },
+    {
+      "term": "bastard",
+      "translation": "私生子（的）",
+      "note": "历史语境中的法律身份，常带侮辱性"
+    },
+    {
+      "term": "keep",
+      "translation": "主堡；小型城堡",
+      "note": "此处不是动词“保持”"
+    },
+    {
+      "term": "realm",
+      "translation": "王国；领土",
+      "note": "历史和奇幻语境常用"
+    },
+    {
+      "term": "sigil",
+      "translation": "家徽；纹章标志",
+      "note": "代表贵族家族"
+    },
+    {
+      "term": "litter",
+      "translation": "一窝幼崽",
+      "note": "同一胎出生的动物"
+    },
+    {
+      "term": "dismay",
+      "translation": "惊愕与沮丧",
+      "note": "此处指听见幼崽将死后的痛苦"
+    },
+    {
+      "term": "trueborn",
+      "translation": "婚生的；合法婚姻所生的",
+      "note": "与bastard身份相对"
+    },
+    {
+      "term": "wry",
+      "translation": "挖苦的；带讽刺的",
+      "note": "`wry amusement`"
+    },
+    {
+      "term": "godswood",
+      "translation": "神木林；城堡内的信仰树林",
+      "note": "本书旧神崇拜空间"
+    },
+    {
+      "term": "tourney",
+      "translation": "比武大会",
+      "note": "tournament的古风缩写"
+    },
+    {
+      "term": "squire",
+      "translation": "骑士侍从；见习武士",
+      "note": "通常为年轻贵族"
+    },
+    {
+      "term": "crooked",
+      "translation": "歪斜的；不直的",
+      "note": "形容针脚"
+    },
+    {
+      "term": "stitch",
+      "translation": "针脚；一针",
+      "note": "缝纫基本单位"
+    },
+    {
+      "term": "furtively",
+      "translation": "偷偷地；鬼祟地",
+      "note": "担心被发现"
+    },
+    {
+      "term": "salvage",
+      "translation": "挽救；抢救",
+      "note": "试图补救失败作品"
+    },
+    {
+      "term": "abashed",
+      "translation": "尴尬惭愧的",
+      "note": "因被指出或意识到失误"
+    },
+    {
+      "term": "disgrace",
+      "translation": "耻辱；丢脸",
+      "note": "公开失败造成的羞耻"
+    },
+    {
+      "term": "shoe a horse",
+      "translation": "给马钉蹄铁",
+      "note": "铁匠或马匹工作"
+    },
+    {
+      "term": "sill",
+      "translation": "窗台；门槛",
+      "note": "Jon坐的位置"
+    },
+    {
+      "term": "languidly",
+      "translation": "懒洋洋地；倦怠地",
+      "note": "姿态放松"
+    },
+    {
+      "term": "surcoat",
+      "translation": "罩在盔甲外的无袖外衣",
+      "note": "常展示纹章"
+    },
+    {
+      "term": "embroider",
+      "translation": "刺绣；绣上",
+      "note": "制作纹章图案"
+    },
+    {
+      "term": "derisively",
+      "translation": "嘲弄地；轻蔑地",
+      "note": "Theon的笑"
+    },
+    {
+      "term": "swat",
+      "translation": "拍打；猛击",
+      "note": "Joffrey贬低木剑练习"
+    },
+    {
+      "term": "whiskers",
+      "translation": "胡须；络腮胡",
+      "note": "Ser Rodrik白胡子"
+    },
+    {
+      "term": "bristle",
+      "translation": "因愤怒而竖起戒备",
+      "note": "像动物毛发竖立"
+    },
+    {
+      "term": "blunt",
+      "translation": "钝的；未开刃的",
+      "note": "练习武器"
+    },
+    {
+      "term": "feign",
+      "translation": "假装；佯作",
+      "note": "`feigned a yawn`"
+    }
+  ]
+}

@@ -1,0 +1,1097 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 35 — EDDARD",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    348,
+    353
+  ],
+  "block_count": 50,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 348,
+      "first_id": "CH35-P348-001",
+      "last_id": "CH35-P348-009"
+    },
+    {
+      "page": 349,
+      "first_id": "CH35-P349-010",
+      "last_id": "CH35-P349-017"
+    },
+    {
+      "page": 350,
+      "first_id": "CH35-P350-018",
+      "last_id": "CH35-P350-026"
+    },
+    {
+      "page": 351,
+      "first_id": "CH35-P351-027",
+      "last_id": "CH35-P351-039"
+    },
+    {
+      "page": 352,
+      "first_id": "CH35-P352-040",
+      "last_id": "CH35-P352-045"
+    },
+    {
+      "page": 353,
+      "first_id": "CH35-P353-046",
+      "last_id": "CH35-P353-050"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH35-P348-001",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "He found Littlefinger in the brothel’s common room, chatting amiably with a tall, elegant woman who wore a feathered gown over skin as black as ink. By the hearth, Heward and a buxom wench were playing at forfeits. From the look of it, he’d lost his belt, his cloak, his mail shirt, and his right boot so far, while the girl had been forced to unbutton her shift to the waist. Jory Cassel stood beside a rain-streaked window with a wry smile on his face, watching Heward turn over tiles and enjoying the view.",
+      "translation": "",
+      "explanation_zh": "Eddard在Chataya brothel common room找到Littlefinger；Heward、Jory等人正参与或旁观带脱衣惩罚的成人游戏。",
+      "literary_note_zh": "brothel日常轻浮与即将发生的street killing并置，角色以为调查已结束，真正危险却在门外。",
+      "background_zh": "**Chataya’s brothel：** Jon与Stannis曾访问的地点；Eddard刚询问一名为Robert生下Barra的年轻mother。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-002",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Ned paused at the foot of the stair and pulled on his gloves. “It’s time we took our leave. My business here is done.”",
+      "translation": "",
+      "explanation_zh": "Eddard在楼梯下戴好gloves，宣布调查完毕、该离开。",
+      "literary_note_zh": "pull on gloves像结束接触证据的仪式动作，也为雨夜离开与之后拔剑预备身体。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-003",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "Heward lurched to his feet, hurriedly gathering up his things. “As you will, my lord,” Jory said. “I’ll help Wyl bring round the horses.” He strode to the door.",
+      "translation": "",
+      "explanation_zh": "Heward慌忙收拾衣物，Jory让Wyl一起备马。",
+      "literary_note_zh": "Eddard完成brothel问话，与Littlefinger、Jory及guards冒雨返城；Littlefinger以投资和性笑话保持语言挑衅。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-004",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "Littlefinger took his time saying his farewells. He kissed the black woman’s hand, whispered some joke that made her laugh aloud, and sauntered over to Ned. “Your business,” he said lightly, “or Robert’s? They say the Hand dreams the king’s dreams, speaks with the king’s voice, and rules with the king’s sword. Does that also mean you fuck with the king’s—”",
+      "translation": "",
+      "explanation_zh": "Littlefinger从容告别并用Hand代表king延伸出粗俗性玩笑。",
+      "literary_note_zh": "Littlefinger把Hand’s representative formula一路推到sexual substitution，故意测试Eddard刚辞职后的身份与耐性。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-005",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "“Lord Baelish,” Ned interrupted, “you presume too much. I am not ungrateful for your help. It might have taken us years to find this brothel without you. That does not mean I intend to endure your mockery. And I am no longer the King’s Hand.”",
+      "translation": "",
+      "explanation_zh": "Eddard打断，承认找brothel受其帮助，却拒绝mockery，并说明自己已不再是Hand。",
+      "literary_note_zh": "Eddard能同时acknowledge help与拒绝humiliation，显示感激不等于接受对方控制对话规则。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-006",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "“The direwolf must be a prickly beast,” said Littlefinger with a sharp twist of his mouth.",
+      "translation": "",
+      "explanation_zh": "Littlefinger以prickly direwolf回敬。",
+      "literary_note_zh": "Eddard完成brothel问话，与Littlefinger、Jory及guards冒雨返城；Littlefinger以投资和性笑话保持语言挑衅。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-007",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "A warm rain was pelting down from a starless black sky as they walked to the stables. Ned drew up the hood of his cloak. Jory brought out his horse. Young Wyl came right behind him, leading Littlefinger’s mare with one hand while the other fumbled with his belt and the lacings of his trousers. A barefoot whore leaned out of the stable door, giggling at him.",
+      "translation": "",
+      "explanation_zh": "无星暖雨中众人去stable；Wyl也衣衫未整，被门边woman取笑。",
+      "literary_note_zh": "Eddard完成brothel问话，与Littlefinger、Jory及guards冒雨返城；Littlefinger以投资和性笑话保持语言挑衅。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-008",
+      "page": 348,
+      "end_page": 348,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "“Will we be going back to the castle now, my lord?” Jory asked. Ned nodded and swung into the saddle. Littlefinger mounted up beside him. Jory and the others followed.",
+      "translation": "",
+      "explanation_zh": "Jory确认返回castle，Eddard与Littlefinger等人上马。",
+      "literary_note_zh": "Eddard完成brothel问话，与Littlefinger、Jory及guards冒雨返城；Littlefinger以投资和性笑话保持语言挑衅。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P348-009",
+      "page": 348,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "“Chataya runs a choice establishment,” Littlefinger said as they rode. “I’ve half a mind to buy it. Brothels are a much sounder investment than ships, I’ve found. Whores seldom sink, and when they are boarded by pirates, why, the pirates pay good coin like everyone else.” Lord Petyr chuckled at his own wit.",
+      "translation": "",
+      "explanation_zh": "Littlefinger夸Chataya经营好，拿brothel比ships更稳健作投资和pirates双关。",
+      "literary_note_zh": "brothel/ship比较把人身服务完全转成资产收益语言，也延续Littlefinger擅长用经济逻辑消解道德不适。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-010",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Ned let him prattle on. After a time, he quieted and they rode in silence. The streets of King’s Landing were dark and deserted. The rain had driven everyone under their roofs. It beat down on Ned’s head, warm as blood and relentless as old guilts. Fat drops of water ran down his face.",
+      "translation": "",
+      "explanation_zh": "Eddard任其闲谈直至沉默；空街暖雨像blood、像old guilts不断冲刷他。",
+      "literary_note_zh": "warm as blood/relentless as old guilts把天气内化；雨不清洗他，反而使旧责任持续贴在脸上。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-011",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“Robert will never keep to one bed,” Lyanna had told him at Winterfell, on the night long ago when their father had promised her hand to the young Lord of Storm’s End. “I hear he has gotten a child on some girl in the Vale.” Ned had held the babe in his arms; he could scarcely deny her, nor would he lie to his sister, but he had assured her that what Robert did before their betrothal was of no matter, that he was a good man and true who would love her with all his heart. Lyanna had only smiled. “Love is sweet, dearest Ned, but it cannot change a man’s nature.”",
+      "translation": "",
+      "explanation_zh": "他回忆Lyanna订婚时早已预见Robert不会忠于一张bed，并说love不能改变nature。",
+      "literary_note_zh": "Lyanna准确区分love intensity与habit change；Eddard当年用betrothal前后界线安慰她，却低估nature连续性。",
+      "background_zh": "**Lyanna betrothal：** Rickard曾把Lyanna许配Robert；Lyanna早知Robert在Vale已有child并怀疑其忠诚。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-012",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "The girl had been so young Ned had not dared to ask her age. No doubt she’d been a virgin; the better brothels could always find a virgin, if the purse was fat enough. She had light red hair and a powdering of freckles across the bridge of her nose, and when she slipped free a breast to give her nipple to the babe, he saw that her bosom was freckled as well. “I named her Barra,” she said as the child nursed. “She looks so like him, does she not, milord? She has his nose, and his hair . . . ”",
+      "translation": "",
+      "explanation_zh": "brothel中的年轻mother可能尚未成年；她红发雀斑，哺乳女婴Barra并请求Eddard确认孩子像Robert。",
+      "literary_note_zh": "叙述刻意不确定mother年龄并写Eddard不敢问，提示权力与贫困下的性剥削；场景不是浪漫相遇。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-013",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“She does.” Eddard Stark had touched the baby’s fine, dark hair. It flowed through his fingers like black silk. Robert’s firstborn had had the same fine hair, he seemed to recall.",
+      "translation": "",
+      "explanation_zh": "Eddard确认Barra黑发，并想起Robert在Vale的firstborn也有同样发色。",
+      "literary_note_zh": "Barra、Gendry与Vale firstborn均呈Robert black hair等特征，重复观察让bloodline pattern越来越稳定。",
+      "background_zh": "**bloodline observation：** Barra具有Robert黑发；Gendry与Vale firstborn也呈类似Baratheon外貌，Jon正调查这些children。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-014",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“Tell him that when you see him, milord, as it . . . as it please you. Tell him how beautiful she is.”",
+      "translation": "",
+      "explanation_zh": "年轻mother求他告诉Robert孩子美丽。",
+      "literary_note_zh": "回忆中Lyanna预见Robert本性；年轻mother展示Barra黑发并等待Robert，Eddard把守诺、Jon与baseborn suffering相连。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-015",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“I will,” Ned had promised her. That was his curse. Robert would swear undying love and forget them before evenfall, but Ned Stark kept his vows. He thought of the promises he’d made Lyanna as she lay dying, and the price he’d paid to keep them.",
+      "translation": "",
+      "explanation_zh": "Eddard答应；他把自己守诺视为curse，并想到对临终Lyanna的promises与代价。",
+      "literary_note_zh": "That was his curse说明守诺对Eddard既是identity也是持续负担；Lyanna promise仍未向读者完整说明。",
+      "background_zh": "**Lyanna promises：** Eddard曾向dying Lyanna作出多项承诺；截至本段具体内容仍未公开。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-016",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“And tell him I’ve not been with no one else. I swear it, milord, by the old gods and new. Chataya said I could have half a year, for the baby, and for hoping he’d come back. So you’ll tell him I’m waiting, won’t you? I don’t want no jewels or nothing, just him. He was always good to me, truly.”",
+      "translation": "",
+      "explanation_zh": "mother发誓Robert是唯一男子，愿在Chataya给的半年期限内等待，不求jewels只求他回来。",
+      "literary_note_zh": "mother把Robert短暂kindness解释为可持续love，并主动排除金钱动机；她的等待与Robert遗忘形成残酷信息差。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P349-017",
+      "page": 349,
+      "end_page": 349,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "Good to you, Ned thought hollowly. “I will tell him, child, and I promise you, Barra shall not go wanting.”",
+      "translation": "",
+      "explanation_zh": "Eddard空洞地想所谓good to you，并保证转告且让Barra生活无缺。",
+      "literary_note_zh": "回忆中Lyanna预见Robert本性；年轻mother展示Barra黑发并等待Robert，Eddard把守诺、Jon与baseborn suffering相连。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-018",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "She had smiled then, a smile so tremulous and sweet that it cut the heart out of him. Riding through the rainy night, Ned saw Jon Snow’s face in front of him, so like a younger version of his own. If the gods frowned so on bastards, he thought dully, why did they fill men with such lusts? “Lord Baelish, what do you know of Robert’s bastards?”",
+      "translation": "",
+      "explanation_zh": "她颤抖甜美的笑令他心碎；雨夜中Eddard想到Jon相貌与baseborn children，询问Littlefinger知道多少Robert bastards。",
+      "literary_note_zh": "Jon脸孔由baseborn suffering触发，说明Eddard对Jon的guilt与promise密切相连，但具体原因仍不可确定。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-019",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "“Well, he has more than you, for a start.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger先讽刺Robert的children比Eddard多。",
+      "literary_note_zh": "Littlefinger列公开bastard与未证实twins传闻，却指出仅发现Robert有children不足以解释Jon被杀。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-020",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“How many?”",
+      "translation": "",
+      "explanation_zh": "Eddard追问数量。",
+      "literary_note_zh": "Littlefinger列公开bastard与未证实twins传闻，却指出仅发现Robert有children不足以解释Jon被杀。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-021",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "Littlefinger shrugged. Rivulets of moisture twisted down the back of his cloak. “Does it matter? If you bed enough women, some will give you presents, and His Grace has never been shy on that count. I know he’s acknowledged that boy at Storm’s End, the one he fathered the night Lord Stannis wed. He could hardly do otherwise. The mother was a Florent, niece to the Lady Selyse, one of her bedmaids. Renly says that Robert carried the girl upstairs during the feast, and broke in the wedding bed while Stannis and his bride were still dancing. Lord Stannis seemed to think that was a blot on the honor of his wife’s House, so when the boy was born, he shipped him off to Renly.” He gave Ned a sideways glance. “I’ve also heard whispers that Robert got a pair of twins on a serving wench at Casterly Rock, three years ago when he went west for Lord Tywin’s tourney. Cersei had the babes killed, and sold the mother to a passing slaver. Too much an affront to Lannister pride, that close to home.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger说数量不重要，列Storm’s End已承认boy，又转述Cersei曾杀死Casterly Rock twins、卖掉mother的传闻。",
+      "literary_note_zh": "Storm’s End boy有公开承认背景；Casterly Rock twins则由Littlefinger以whispers提供，不能提升为已证实Cersei命令。",
+      "background_zh": "**已知／传闻：** Storm’s End boy是Robert公开承认的baseborn son，由Renly household抚养；Casterly Rock twins遭Cersei杀害、mother被卖则只是Littlefinger转述的whispers，本章无独立证据。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-022",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Ned Stark grimaced. Ugly tales like that were told of every great lord in the realm. He could believe it of Cersei Lannister readily enough . . . but would the king stand by and let it happen? The Robert he had known would not have, but the Robert he had known had never been so practiced at shutting his eyes to things he did not wish to see. “Why would Jon Arryn take a sudden interest in the king’s baseborn children?”",
+      "translation": "",
+      "explanation_zh": "Eddard知道great lords常有丑闻，却担心如今的Robert是否会对Cersei恶行闭眼，继而问Jon为何调查baseborn children。",
+      "literary_note_zh": "Eddard开始承认Robert可能用not seeing逃避责任；不亲自下令也可能通过故意忽视容许伤害。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-023",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "The short man gave a sodden shrug. “He was the King’s Hand. Doubtless Robert asked him to see that they were provided for.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger说Jon作为Hand可能只是替Robert照顾他们。",
+      "literary_note_zh": "Littlefinger列公开bastard与未证实twins传闻，却指出仅发现Robert有children不足以解释Jon被杀。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-024",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "Ned was soaked through to the bone, and his soul had grown cold. “It had to be more than that, or why kill him?”",
+      "translation": "",
+      "explanation_zh": "Eddard认为若只是供养，便不足以解释Jon被杀。",
+      "literary_note_zh": "Littlefinger列公开bastard与未证实twins传闻，却指出仅发现Robert有children不足以解释Jon被杀。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-025",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "Littlefinger shook the rain from his hair and laughed. “Now I see. Lord Arryn learned that His Grace had filled the bellies of some whores and fishwives, and for that he had to be silenced. Small wonder. Allow a man like that to live, and next he’s like to blurt out that the sun rises in the east.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger嘲讽Robert有bastards人人皆知，不可能单凭发现此事招来灭口。",
+      "literary_note_zh": "Littlefinger的反讽逻辑有效：Robert有bastards是公开常识，因此Jon被杀必与更具体的发现有关。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P350-026",
+      "page": 350,
+      "end_page": 350,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "There was no answer Ned Stark could give to that but a frown. For the first time in years, he found himself remembering Rhaegar Targaryen. He wondered if Rhaegar had frequented brothels; somehow he thought not.",
+      "translation": "",
+      "explanation_zh": "Eddard无言，只想到自己认为不逛brothel的Rhaegar。",
+      "literary_note_zh": "Rhaegar记忆并非证据，只是Eddard用对比重新评价Robert；somehow I thought not明确是个人印象。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-027",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "The rain was falling harder now, stinging the eyes and drumming against the ground. Rivers of black water were running down the hill when Jory called out, “My lord,” his voice hoarse with alarm. And in an instant, the street was full of soldiers.",
+      "translation": "",
+      "explanation_zh": "雨更猛烈、黑水成河时，Jory警告，街道瞬间出现士兵。",
+      "literary_note_zh": "Jory一声alarm把内省切断；street was full几乎无过渡，制造伏击已经完成部署的突然感。",
+      "background_zh": "**力量状态：** Eddard刚辞去Hand，随行主要是Jory、Wyl、Heward；Jaime带约二十名Lannister guards前后封路。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-028",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "Ned glimpsed ringmail over leather, gauntlets and greaves, steel helms with golden lions on the crests. Their cloaks clung to their backs, sodden with rain. He had no time to count, but there were ten at least, a line of them, on foot, blocking the street, with longswords and iron-tipped spears. “Behind!” he heard Wyl cry, and when he turned his horse, there were more in back of them, cutting off their retreat. Jory’s sword came singing from its scabbard. “Make way or die!”",
+      "translation": "",
+      "explanation_zh": "前后至少二十名带golden lion的Lannister men封路，Jory拔剑要求让道。",
+      "literary_note_zh": "前后封路显示不是偶遇争吵而是组织好的interception；人数优势也让公开街道变成受控空间。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-029",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“The wolves are howling,” their leader said. Ned could see rain running down his face. “Such a small pack, though.”",
+      "translation": "",
+      "explanation_zh": "对方leader嘲讽wolves pack太小。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-030",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "Littlefinger walked his horse forward, step by careful step. “What is the meaning of this? This is the Hand of the King.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger谨慎上前，仍以Eddard是Hand质问。",
+      "literary_note_zh": "Littlefinger仍称Hand可能是习惯、策略或给Eddard保护性身份；Jaime立即拆掉这层office shield。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-031",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“He was the Hand of the King.” The mud muffled the hooves of the blood bay stallion. The line parted before him. On a golden breastplate, the lion of Lannister roared its defiance. “Now, if truth be told, I’m not sure what he is.”",
+      "translation": "",
+      "explanation_zh": "Jaime骑blood bay从队列中出现，纠正Eddard曾是Hand，如今身份不明。",
+      "literary_note_zh": "was the Hand把早晨辞职消息已传到Jaime处，显示court information传播速度极快。",
+      "background_zh": "**office变化：** Jaime已知Eddard辞职，因此拒绝Littlefinger用Hand身份要求让路。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-032",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“Lannister, this is madness,” Littlefinger said. “Let us pass. We are expected back at the castle. What do you think you’re doing?”",
+      "translation": "",
+      "explanation_zh": "Littlefinger称行动疯狂，要求放行并问Jaime意图。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-033",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“He knows what he’s doing,” Ned said calmly.",
+      "translation": "",
+      "explanation_zh": "Eddard冷静说Jaime很清楚自己在做什么。",
+      "literary_note_zh": "Eddard不接受madness解释，因为Jaime目的、兵力和路线都显示清醒算计；暴力可以蓄意而非失控。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-034",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Jaime Lannister smiled. “Quite true. I’m looking for my brother. You remember my brother, don’t you, Lord Stark? He was with us at Winterfell. Fair-haired, mismatched eyes, sharp of tongue. A short man.”",
+      "translation": "",
+      "explanation_zh": "Jaime描述Tyrion特征，直说在寻找brother。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-035",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“I remember him well,” Ned replied.",
+      "translation": "",
+      "explanation_zh": "Eddard说自己记得Tyrion。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-036",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“It would seem he has met some trouble on the road. My lord father is quite vexed. You would not perchance have any notion of who might have wished my brother ill, would you?”",
+      "translation": "",
+      "explanation_zh": "Jaime说Tywin因Tyrion路上出事而愤怒，讽刺询问谁想伤害他。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-037",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“Your brother has been taken at my command, to answer for his crimes,” Ned Stark said.",
+      "translation": "",
+      "explanation_zh": "Eddard公开说Tyrion按自己命令被捕，以回答crimes。",
+      "literary_note_zh": "Catelyn实际自主拘捕Tyrion；Eddard说at my command是在公开承担妻子行动的家族与政治责任，也可能保护她免被单独针对。",
+      "background_zh": "**拘捕事实：** Catelyn在crossroads inn自主下令抓Tyrion；Eddard此处公开归到自己command名下。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-038",
+      "page": 351,
+      "end_page": 351,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "Littlefinger groaned in dismay. “My lords—”",
+      "translation": "",
+      "explanation_zh": "Littlefinger因局势升级而呻吟。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P351-039",
+      "page": 351,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "Ser Jaime ripped his longsword from its sheath and urged his stallion forward. “Show me your steel, Lord Eddard. I’ll butcher you like Aerys if I must, but I’d sooner you died with a blade in your hand.” He gave Littlefinger a cool, contemptuous glance. “Lord Baelish, I’d leave here in some haste if I did not care to get bloodstains on my costly clothing.”",
+      "translation": "",
+      "explanation_zh": "Jaime拔剑，威胁像杀Aerys般杀Eddard，却希望他持剑死；同时叫Littlefinger快走免污衣。",
+      "literary_note_zh": "like Aerys把Jaime过去regicide作为威胁资本；他让Littlefinger离开说明控制对象和预定惩罚范围清晰。",
+      "background_zh": "**Jaime与Aerys：** Jaime作为Kingsguard杀死Aerys，故以butcher you like Aerys威胁Eddard。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P352-040",
+      "page": 352,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Littlefinger did not need to be urged. “I will bring the City Watch,” he promised Ned. The Lannister line parted to let him through, and closed behind him. Littlefinger put his heels to his mare and vanished around a corner.",
+      "translation": "",
+      "explanation_zh": "Littlefinger立刻离开，承诺带City Watch，Lannister队列特意放行后再合拢。",
+      "literary_note_zh": "Lannister line主动开合放行Littlefinger是文本事实；他随后确实带Watch返回，但这不足以证明事前参与伏击。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P352-041",
+      "page": 352,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Ned’s men had drawn their swords, but they were three against twenty. Eyes watched from nearby windows and doors, but no one was about to intervene. His party was mounted, the Lannisters on foot save for Jaime himself. A charge might win them free, but it seemed to Eddard Stark that they had a surer, safer tactic. “Kill me,” he warned the Kingslayer, “and Catelyn will most certainly slay Tyrion.”",
+      "translation": "",
+      "explanation_zh": "Eddard方三人对二十人，旁观者不介入；他用Catelyn会杀Tyrion威胁，认为比冲锋更安全。",
+      "literary_note_zh": "Eddard的hostage deterrence把Tyrion生命变成自身保护；他依赖Jaime相信Catelyn愿意报复。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P352-042",
+      "page": 352,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Jaime Lannister poked at Ned’s chest with the gilded sword that had sipped the blood of the last of the Dragonkings. “Would she? The noble Catelyn Tully of Riverrun murder a hostage? I think . . . not.” He sighed. “But I am not willing to chance my brother’s life on a woman’s honor.” Jaime slid the golden sword into its sheath. “So I suppose I’ll let you run back to Robert to tell him how I frightened you. I wonder if he’ll care.” Jaime pushed his wet hair back with his fingers and wheeled his horse around. When he was beyond the line of swordsmen, he glanced back at his captain. “Tregar, see that no harm comes to Lord Stark.”",
+      "translation": "",
+      "explanation_zh": "Jaime判断Catelyn honor使她不会杀hostage，却不愿冒brother风险，因此收剑放Eddard，并命Tregar保证不伤他。",
+      "literary_note_zh": "Jaime判断Catelyn不会因honor杀hostage，却仍不肯risk，显示他把概率与stakes分开；brother affection限制杀Eddard。",
+      "background_zh": "**hostage logic：** Jaime不杀Eddard，以免Catelyn报复Tyrion；他对Catelyn honor的信心仍不足以承受brother death风险。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P352-043",
+      "page": 352,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“As you say, m’lord.”",
+      "translation": "",
+      "explanation_zh": "Tregar服从。",
+      "literary_note_zh": "Lannister men前后封街，Jaime追问Tyrion；Eddard承担拘捕责任，Jaime因hostage风险不杀他，却命杀其guards。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P352-044",
+      "page": 352,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“Still . . . we wouldn’t want him to leave here entirely unchastened, so”—through the night and the rain, he glimpsed the white of Jaime’s smile—“kill his men.”",
+      "translation": "",
+      "explanation_zh": "Jaime随即补充仍要惩戒Eddard，命令杀死他的men。",
+      "literary_note_zh": "no harm to Lord Stark与kill his men在相邻命令中构成冷酷字面规避：他保留Tyrion保险，却用属下生命实施惩罚。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P352-045",
+      "page": 352,
+      "end_page": 352,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“No!” Ned Stark screamed, clawing for his sword. Jaime was already cantering off down the street as he heard Wyl shout. Men closed from both sides. Ned rode one down, cutting at phantoms in red cloaks who gave way before him. Jory Cassel put his heels into his mount and charged. A steel-shod hoof caught a Lannister guardsman in the face with a sickening crunch. A second man reeled away and for an instant Jory was free. Wyl cursed as they pulled him off his dying horse, swords slashing in the rain. Ned galloped to him, bringing his longsword down on Tregar’s helm. The jolt of impact made him grit his teeth. Tregar stumbled to his knees, his lion crest sheared in half, blood running down his face. Heward was hacking at the hands that had seized his bridle when a spear caught him in the belly. Suddenly Jory was back among them, a red rain flying from his sword. “No!” Ned shouted. “Jory, away!” Ned’s horse slipped under him and came crashing down in the mud. There was a moment of blinding pain and the taste of blood in his mouth.",
+      "translation": "",
+      "explanation_zh": "Eddard尖叫拔剑，Jaime离开；Wyl、Heward、Jory与Eddard在雨中遭围杀，Eddard horse滑倒使他重伤。",
+      "literary_note_zh": "Eddard从更surer tactic瞬间被迫进入混战，说明deterrence只保护了首要目标，没有覆盖companions。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P353-046",
+      "page": 353,
+      "end_page": 353,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "He saw them cut the legs from Jory’s mount and drag him to the earth, swords rising and failing as they closed in around him. When Ned’s horse lurched back to its feet, he tried to rise, only to fall again, choking on his scream. He could see the splintered bone poking through his calf. It was the last thing he saw for a time. The rain came down and down and down.",
+      "translation": "",
+      "explanation_zh": "Eddard看见Jory被拖下马围杀，自己小腿bone穿出皮肉，随后失去意识。",
+      "literary_note_zh": "rising and falling swords避免逐刀细写，却以重复运动表现Jory被人群吞没；断骨成为Eddard视野最后锚点。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P353-047",
+      "page": 353,
+      "end_page": 353,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "When he opened his eyes again, Lord Eddard Stark was alone with his dead. His horse moved closer, caught the rank scent of blood, and galloped away. Ned began to drag himself through the mud, gritting his teeth at the agony in his leg. It seemed to take years. Faces watched from candlelit windows, and people began to emerge from alleys and doors, but no one moved to help.",
+      "translation": "",
+      "explanation_zh": "醒来后Eddard独处死者之间，拖着断腿穿泥；围观者开始出现却无人援助。",
+      "literary_note_zh": "windows中的观众延续tourney crowd motif，但这里没有规则或欢呼；城市居民对贵族暴力的安全选择是不介入。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P353-048",
+      "page": 353,
+      "end_page": 353,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "Littlefinger and the City Watch found him there in the street, cradling Jory Cassel’s body in his arms.",
+      "translation": "",
+      "explanation_zh": "Littlefinger最终带City Watch赶到，发现Eddard抱着Jory尸体。",
+      "literary_note_zh": "Eddard抱Jory尸体把lord/retainer关系还原为私人丧失；援兵到达只证明晚到，无法逆转命令后果。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P353-049",
+      "page": 353,
+      "end_page": 353,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "Somewhere the gold cloaks found a litter, but the trip back to the castle was a blur of agony, and Ned lost consciousness more than once. He remembered seeing the Red Keep looming ahead of him in the first grey light of dawn. The rain had darkened the pale pink stone of the massive walls to the color of blood.",
+      "translation": "",
+      "explanation_zh": "gold cloaks用litter送他返Red Keep；城墙被雨染成blood颜色，他反复昏迷。",
+      "literary_note_zh": "Red Keep pale pink转blood色把king’s seat视觉上纳入街头暴力，雨成为全章统一的罪责染料。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Robert bloodline线索、Littlefinger信息可靠性、Jaime hostage calculation与街头伏击责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH35-P353-050",
+      "page": 353,
+      "end_page": 353,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "Then Grand Maester Pycelle was looming over him, holding a cup, whispering, “Drink, my lord. Here. The milk of the poppy, for your pain.” He remembered swallowing, and Pycelle was telling someone to heat the wine to boiling and fetch him clean silk, and that was the last he knew.",
+      "translation": "",
+      "explanation_zh": "Pycelle给他milk of the poppy止痛并命人煮wine、取clean silk，Eddard再次失去知觉。",
+      "literary_note_zh": "雨中围杀造成Wyl、Heward、Jory死亡与Eddard断腿；Littlefinger带City Watch晚到，Pycelle为Eddard止痛治疗。",
+      "background_zh": "**milk of the poppy：** 强效鸦片类止痛/镇静药；Pycelle随后准备处理Eddard开放性小腿骨折。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

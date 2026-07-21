@@ -1,0 +1,1721 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 43 — EDDARD",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    424,
+    432
+  ],
+  "block_count": 79,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 424,
+      "first_id": "CH43-P424-001",
+      "last_id": "CH43-P424-007"
+    },
+    {
+      "page": 425,
+      "first_id": "CH43-P425-008",
+      "last_id": "CH43-P425-017"
+    },
+    {
+      "page": 426,
+      "first_id": "CH43-P426-018",
+      "last_id": "CH43-P426-025"
+    },
+    {
+      "page": 427,
+      "first_id": "CH43-P427-026",
+      "last_id": "CH43-P427-036"
+    },
+    {
+      "page": 428,
+      "first_id": "CH43-P428-037",
+      "last_id": "CH43-P428-047"
+    },
+    {
+      "page": 429,
+      "first_id": "CH43-P429-048",
+      "last_id": "CH43-P429-057"
+    },
+    {
+      "page": 430,
+      "first_id": "CH43-P430-058",
+      "last_id": "CH43-P430-067"
+    },
+    {
+      "page": 431,
+      "first_id": "CH43-P431-068",
+      "last_id": "CH43-P431-077"
+    },
+    {
+      "page": 432,
+      "first_id": "CH43-P432-078",
+      "last_id": "CH43-P432-079"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH43-P424-001",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Through the high narrow windows of the Red Keep’s cavernous throne room, the light of sunset spilled across the floor, laying dark red stripes upon the walls where the heads of dragons had once hung. Now the stone was covered with hunting tapestries, vivid with greens and browns and blues, and yet still it seemed to Ned Stark that the only color in the hall was the red of blood.",
+      "translation": "",
+      "explanation_zh": "夕阳在throne room投下暗红条纹；dragon skull已换成hunting tapestries，Eddard却只看见blood red。",
+      "literary_note_zh": "dragon heads换成hunting tapestries标志王朝更替，但sunset仍把墙染成blood；换装饰不能消除权力暴力。",
+      "background_zh": "**throne room变迁：** Targaryen dragon skull已从墙上移走，换成Robert喜爱的hunting tapestries；Iron Throne仍保留。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P424-002",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "He sat high upon the immense ancient seat of Aegon the Conqueror, an ironwork monstrosity of spikes and jagged edges and grotesquely twisted metal. It was, as Robert had warned him, a hellishly uncomfortable chair, and never more so than now, with his shattered leg throbbing more sharply every minute. The metal beneath him had grown harder by the hour, and the fanged steel behind made it impossible to lean back. A king should never sit easy, Aegon the Conqueror had said, when he commanded his armorers to forge a great seat from the swords laid down by his enemies. Damn Aegon for his arrogance, Ned thought sullenly, and damn Robert and his hunting as well.",
+      "translation": "",
+      "explanation_zh": "Eddard坐在尖锐不适的Iron Throne上，断腿持续剧痛，暗骂Aegon的傲慢和Robert外出狩猎。",
+      "literary_note_zh": "A king should never sit easy被椅子字面执行；Eddard伤腿让治理责任成为持续身体刑罚，也怨Robert把工作留给他。",
+      "background_zh": "**Iron Throne：** 传说Aegon以战败者千把swords、借Balerion dragonfire熔铸，尖锐不适用于提醒king不得安逸。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P424-003",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "“You are quite certain these were more than brigands?” Varys asked softly from the council table beneath the throne. Grand Maester Pycelle stirred uneasily beside him, while Littlefinger toyed with a pen. They were the only councillors in attendance. A white hart had been sighted in the kingswood, and Lord Renly and Ser Barristan had joined the king to hunt it, along with Prince Joffrey, Sandor Clegane, Balon Swann, and half the court. So Ned must needs sit the Iron Throne in his absence.",
+      "translation": "",
+      "explanation_zh": "Varys确认袭击者是否真非普通brigands；多数court随Robert hunt，Eddard被迫代坐throne。",
+      "literary_note_zh": "white hart吸走king与half court，使日常hunt和边境屠杀在同一时间并置；Robert absence不是中性背景。",
+      "background_zh": "**Hand代理权：** Robert离城hunt时命Eddard代坐Iron Throne、听petitions并以king authority裁断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P424-004",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "At least he could sit. Save the council, the rest must stand respectfully, or kneel. The petitioners clustered near the tall doors, the knights and high lords and ladies beneath the tapestries, the smallfolk in the gallery, the mailed guards in their cloaks, gold or grey: all stood.",
+      "translation": "",
+      "explanation_zh": "除council外，petitioners、lords、smallfolk与guards都必须站立或跪下。",
+      "literary_note_zh": "sit/stand/kneel把等级写成身体高度；下一段受害者位于最低处，Eddard首先会改变这一姿势。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P424-005",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "The villagers were kneeling: men, women, and children, alike tattered and bloody, their faces drawn by fear. The three knights who had brought them here to bear witness stood behind them.",
+      "translation": "",
+      "explanation_zh": "衣衫破烂、带血恐惧的villagers跪着，三名knights在后作引见者。",
+      "literary_note_zh": "Robert hunt期间Eddard带伤代坐Iron Throne；三名riverland knights带来Sherrer等地survivors公开陈情。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P424-006",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "“Brigands, Lord Varys?” Ser Raymun Darry’s voice dripped scorn. “Oh, they were brigands, beyond a doubt. Lannister brigands.”",
+      "translation": "",
+      "explanation_zh": "Raymun讥讽说他们当然是brigands——Lannister brigands。",
+      "literary_note_zh": "Lannister brigands是矛盾组合：brigand应无主，Lannister却指向有组织权力，这正是案件核心。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P424-007",
+      "page": 424,
+      "end_page": 424,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "Ned could feel the unease in the hall, as high lords and servants alike strained to listen.",
+      "translation": "",
+      "explanation_zh": "Eddard感到全厅各阶层都不安地竭力倾听。",
+      "literary_note_zh": "Robert hunt期间Eddard带伤代坐Iron Throne；三名riverland knights带来Sherrer等地survivors公开陈情。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-008",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "He could not pretend to surprise. The west had been a tinderbox since Catelyn had seized Tyrion Lannister. Both Riverrun and Casterly Rock had called their banners, and armies were massing in the pass below the Golden Tooth. It had only been a matter of time until the blood began to flow. The sole question that remained was how best to stanch the wound.",
+      "translation": "",
+      "explanation_zh": "他不惊讶：Tyrion被捕后双方call banners，Golden Tooth已有armies；现在要考虑如何止血。",
+      "literary_note_zh": "tinderbox、blood flow、stanch wound把政治冲突写成火与身体创伤；Eddard目标是止血而非赢一方。",
+      "background_zh": "**边境动员：** Catelyn拘捕Tyrion后，Riverrun与Casterly Rock均call banners，Golden Tooth pass两侧集兵。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-009",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Sad-eyed Ser Karyl Vance, who would have been handsome but for the winestain birthmark that discolored his face, gestured at the kneeling villagers. “This is all the remains of the holdfast of Sherrer, Lord Eddard. The rest are dead, along with the people of Wendish Town and the Mummer’s Ford.”",
+      "translation": "",
+      "explanation_zh": "Karyl说这些是Sherrer仅存者，Wendish Town与Mummer’s Ford也几乎全灭。",
+      "literary_note_zh": "Robert hunt期间Eddard带伤代坐Iron Throne；三名riverland knights带来Sherrer等地survivors公开陈情。",
+      "background_zh": "**受袭地点：** Sherrer、Wendish Town、Mummer’s Ford位于riverlands西部，靠近Lannister边境与Red Fork。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-010",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "“Rise,” Ned commanded the villagers. He never trusted what a man told him from his knees. “All of you, up.”",
+      "translation": "",
+      "explanation_zh": "Eddard命villagers起身，因为不信任人在跪姿中说出的证词。",
+      "literary_note_zh": "不信kneeling testimony体现他的司法直觉：恐惧与讨好会扭曲话语，要求站起是恢复最低限度主体性。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-011",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "In ones and twos, the holdfast of Sherrer struggled to its feet. One ancient needed to be helped, and a young girl in a bloody dress stayed on her knees, staring blankly at Ser Arys Oakheart, who stood by the foot of the throne in the white armor of the Kingsguard, ready to protect and defend the king . . . or, Ned supposed, the King’s Hand.",
+      "translation": "",
+      "explanation_zh": "众人艰难站起，一名血衣女孩仍呆跪并盯着Kingsguard Arys。",
+      "literary_note_zh": "女孩仍不能站不等于抗命；blank stare显示命令无法立即解除创伤与身体冻结。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-012",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“Joss,” Ser Raymun Darry said to a plump balding man in a brewer’s apron. “Tell the Hand what happened at Sherrer.”",
+      "translation": "",
+      "explanation_zh": "Raymun叫alehouse keeper Joss讲述Sherrer发生的事。",
+      "literary_note_zh": "Robert hunt期间Eddard带伤代坐Iron Throne；三名riverland knights带来Sherrer等地survivors公开陈情。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-013",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "Joss nodded. “If it please His Grace—”",
+      "translation": "",
+      "explanation_zh": "Joss误把Eddard称His Grace。",
+      "literary_note_zh": "Robert hunt期间Eddard带伤代坐Iron Throne；三名riverland knights带来Sherrer等地survivors公开陈情。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-014",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“His Grace is hunting across the Blackwater,” Ned said, wondering how a man could live his whole life a few days ride from the Red Keep and still have no notion what his king looked like. Ned was clad in a white linen doublet with the direwolf of Stark on the breast; his black wool cloak was fastened at the collar by his silver hand of office. Black and white and grey, all the shades of truth. “I am Lord Eddard Stark, the King’s Hand. Tell me who you are and what you know of these raiders.”",
+      "translation": "",
+      "explanation_zh": "Eddard纠正king正在hunt，自报Hand身份，命其说明自己及raiders。",
+      "literary_note_zh": "black/white/grey, shades of truth让衣服颜色变成认识论：案件不是单纯善恶二色，需要在灰中判定。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-015",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“I keep . . . I kept . . . I kept an alehouse, m’lord, in Sherrer, by the stone bridge. The finest ale south of the Neck, everyone said so, begging your pardons, m’lord. It’s gone now like all the rest, m’lord. They come and drank their fill and spilled the rest before they fired my roof, and they would of spilled my blood too, if they’d caught me. M’lord.”",
+      "translation": "",
+      "explanation_zh": "Joss在现在时与过去时间挣扎，讲alehouse被喝空、烧毁，自己险些被杀。",
+      "literary_note_zh": "I keep / I kept的自我修正把财产毁灭变成语法时态断裂，Joss仍习惯活在失去之前。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-016",
+      "page": 425,
+      "end_page": 425,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“They burnt us out,” a farmer beside him said. “Come riding in the dark, up from the south, and fired the fields and the houses alike, killing them as tried to stop them. They weren’t no raiders, though, m’lord. They had no mind to steal our stock, not these, they butchered my milk cow where she stood and left her for the flies and the crows.”",
+      "translation": "",
+      "explanation_zh": "farmer说来者夜焚田屋、杀阻挡者，却不掠stock而故意杀cow弃尸，因此不像求财raiders。",
+      "literary_note_zh": "不抢cow而杀弃证明目的不是economic banditry，而是terror、资源破坏与诱发军事反应。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P425-017",
+      "page": 425,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“They rode down my ’prentice boy,” said a squat man with a smith’s muscles and a bandage around his head. He had put on his finest clothes to come to court, but his breeches were patched, his cloak travel-stained and dusty. “Chased him back and forth across the fields on their horses, poking at him with their lances like it was a game, them laughing and the boy stumbling and screaming till the big one pierced him clean through.”",
+      "translation": "",
+      "explanation_zh": "bandaged smith讲袭击者骑马把apprentice当游戏追刺，最终由big one一枪杀死。",
+      "literary_note_zh": "袭击者把apprentice的死亡当game，laughter使军事行动呈现刻意残酷而非战斗附带伤亡。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-018",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "The girl on her knees craned her head up at Ned, high above her on the throne. “They killed my mother too, Your Grace. And they . . . they . . . ” Her voice trailed off, as if she had forgotten what she was about to say. She began to sob.",
+      "translation": "",
+      "explanation_zh": "跪地女孩说mother也被杀，随后在未完成的句子中哭泣。",
+      "literary_note_zh": "ellipsis保留女孩无法说完的伤害；文本没有具体完成句子，精读不替她确定遭遇。",
+      "background_zh": "**证词边界：** 女孩只说mother被杀并在后一句中断；不能由本段确定她未说出的具体遭遇。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-019",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "Ser Raymun Darry took up the tale. “At Wendish Town, the people sought shelter in their holdfast, but the walls were timbered. The raiders piled straw against the wood and burnt them all alive. When the Wendish folk opened their gates to flee the fire, they shot them down with arrows as they came running out, even women with suckling babes.”",
+      "translation": "",
+      "explanation_zh": "Raymun说Wendish folk躲进木holdfast后被火攻，逃出者连妇女婴儿都被arrow射杀。",
+      "literary_note_zh": "villagers描述非掠夺式焚杀、warhorses与巨大leader；证词数量不一，却逐步指向Gregor及有组织Lannister行动。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-020",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“Oh, dreadful,” murmured Varys. “How cruel can men be?”",
+      "translation": "",
+      "explanation_zh": "Varys低声感叹残酷。",
+      "literary_note_zh": "Varys的感叹可能是真怜悯、礼仪或表演；仅凭soft voice无法判定内心。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-021",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "“They would of done the same for us, but the Sherrer holdfast’s made of stone,” Joss said. “Some wanted to smoke us out, but the big one said there was riper fruit upriver, and they made for the Mummer’s Ford.”",
+      "translation": "",
+      "explanation_zh": "Joss说石制Sherrer未被烧出，big one因upriver有更多目标而转往Mummer’s Ford。",
+      "literary_note_zh": "villagers描述非掠夺式焚杀、warhorses与巨大leader；证词数量不一，却逐步指向Gregor及有组织Lannister行动。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-022",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Ned could feel cold steel against his fingers as he leaned forward. Between each finger was a blade, the points of twisted swords fanning out like talons from arms of the throne. Even after three centuries, some were still sharp enough to cut. The Iron Throne was full of traps for the unwary. The songs said it had taken a thousand blades to make it, heated white-hot in the furnace breath of Balerion the Black Dread. The hammering had taken fifty-nine days. The end of it was this hunched black beast made of razor edges and barbs and ribbons of sharp metal; a chair that could kill a man, and had, if the stories could be believed.",
+      "translation": "",
+      "explanation_zh": "Eddard触到Iron Throne仍锋利的blades，回顾Balerion熔千剑、59日锻成的杀人chair传说。",
+      "literary_note_zh": "Iron Throne本是敌人surrendered swords，却继续切伤使用者；胜利武器被熔成统治风险。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-023",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "What Eddard Stark was doing sitting there he would never comprehend, yet there he sat, and these people looked to him for justice. “What proof do you have that these were Lannisters?” he asked, trying to keep his fury under control. “Did they wear crimson cloaks or fly a lion banner?”",
+      "translation": "",
+      "explanation_zh": "他不理解自己为何坐上这里，却因众人求justice而压住怒火，追问Lannister身份的proof与旗帜。",
+      "literary_note_zh": "Eddard明知可能是谁仍先问proof，区分私人确信与可公开作出王权决定的证据标准。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-024",
+      "page": 426,
+      "end_page": 426,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "“Even Lannisters are not so blind stupid as that,” Ser Marq Piper snapped. He was a swaggering bantam rooster of a youth, too young and too hot-blooded for Ned’s taste, though a fast friend of Catelyn’s brother, Edmure Tully.",
+      "translation": "",
+      "explanation_zh": "Marq急躁回应Lannisters不至于蠢到公开挂lion banner。",
+      "literary_note_zh": "Marq的推理合理，却用blind stupid替代证据；Eddard需要把可否认策略转成可裁判事实链。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P426-025",
+      "page": 426,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "“Every man among them was mounted and mailed, my lord,” Ser Karyl answered calmly. “They were armed with steel-tipped lances and longswords, with battle-axes for the butchering.” He gestured toward one of the ragged survivors. “You. Yes, you, no one’s going to hurt you. Tell the Hand what you told me.”",
+      "translation": "",
+      "explanation_zh": "Karyl冷静列出全员骑马、mail、steel lance、longsword与battle-axe，并叫一名survivor讲horses。",
+      "literary_note_zh": "Karyl用装备系统证明规模化资源：统一mounted、mailed与steel武器比单个coat of arms更难由普通brigands获得。",
+      "background_zh": "**组织证据：** 数十上百全员warhorse、mail与steel arms需要lord-scale资源，但仍非直接命令书。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-026",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "The old man bobbed his head. “Concerning their horses,” he said, “it were warhorses they rode. Many a year I worked in old Ser Willum’s stables, so I knows the difference. Not a one of these ever pulled a plow, gods bear witness if I’m wrong.”",
+      "translation": "",
+      "explanation_zh": "old stable worker凭经验确认全是warhorses，从未拉过plow。",
+      "literary_note_zh": "old man的stable expertise让smallfolk不是只提供痛苦故事，也提供技术证据。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-027",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“Well-mounted brigands,” observed Littlefinger. “Perhaps they stole the horses from the last place they raided.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger提出也可能是装备精良、抢来warhorses的brigands。",
+      "literary_note_zh": "Littlefinger提出alternative hypothesis，虽可被反驳，却有助测试推论是否只剩一个解释。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-028",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "“How many men were there in this raiding party?” Ned asked.",
+      "translation": "",
+      "explanation_zh": "Eddard询问人数。",
+      "literary_note_zh": "villagers描述非掠夺式焚杀、warhorses与巨大leader；证词数量不一，却逐步指向Gregor及有组织Lannister行动。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-029",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“A hundred, at the least,” Joss answered, in the same instant as the bandaged smith said, “Fifty,” and the grandmother behind him, “Hunnerds and hunnerds, m’lord, an army they was.”",
+      "translation": "",
+      "explanation_zh": "三名witness同时给出至少百人、五十人、数百人的不同估计。",
+      "literary_note_zh": "人数冲突展示恐惧条件下eyewitness estimation不可靠；差异不等于整场袭击虚构。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-030",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“You are more right than you know, goodwoman,” Lord Eddard told her. “You say they flew no banners. What of the armor they wore? Did any of you note ornaments or decorations, devices on shield or helm?”",
+      "translation": "",
+      "explanation_zh": "Eddard说老太太比自己知道的更接近真相，再问armor是否有device。",
+      "literary_note_zh": "goodwoman说army在组织性质上可能更对，即使数字夸张；Eddard区分quantity error与category insight。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-031",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "The brewer, Joss, shook his head. “It grieves me, m’lord, but no, the armor they showed us was plain, only . . . the one who led them, he was armored like the rest, but there was no mistaking him all the same. It was the size of him, m’lord. Those as say the giants are all dead never saw this one, I swear. Big as an ox he was, and a voice like stone breaking.”",
+      "translation": "",
+      "explanation_zh": "Joss说装备无标记，但leader巨大如ox、声音如石裂，无法认错。",
+      "literary_note_zh": "plain armor显示袭击者主动去标识化；leader巨大身体反而成为无法卸下的signature。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-032",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“The Mountain!” Ser Marq said loudly. “Can any man doubt it? This was Gregor Clegane’s work.”",
+      "translation": "",
+      "explanation_zh": "Marq立即认定是Mountain Gregor Clegane。",
+      "literary_note_zh": "villagers描述非掠夺式焚杀、warhorses与巨大leader；证词数量不一，却逐步指向Gregor及有组织Lannister行动。",
+      "background_zh": "**Gregor Clegane：** 巨型knight、Tywin bannerman，号Mountain That Rides；体型是witness识别核心。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-033",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "Ned heard muttering from beneath the windows and the far end of the hall. Even in the galley, nervous whispers were exchanged. High lords and smallfolk alike knew what it could mean if Ser Marq was proved right. Ser Gregor Clegane stood bannerman to Lord Tywin Lannister.",
+      "translation": "",
+      "explanation_zh": "厅内各阶层窃窃私语，因为Gregor是Tywin bannerman，指控将牵动王室姻亲。",
+      "literary_note_zh": "villagers描述非掠夺式焚杀、warhorses与巨大leader；证词数量不一，却逐步指向Gregor及有组织Lannister行动。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-034",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "He studied the frightened faces of the villagers. Small wonder they had been so fearful; they had thought they were being dragged here to name Lord Tywin a red-handed butcher before a king who was his son by marriage. He wondered if the knights had given them a choice.",
+      "translation": "",
+      "explanation_zh": "Eddard意识到villagers害怕被迫在king面前指认其father-in-law，并怀疑knights是否给他们选择。",
+      "literary_note_zh": "villagers可能被knights带来承担政治指控风险；Eddard不仅审证词内容，也审证词产生条件。",
+      "background_zh": "**王室亲缘：** Tywin是Cersei father，也即Robert father-in-law；公开指控他可能意味着王室阵营分裂。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-035",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "Grand Maester Pycelle rose ponderously from the council table, his chain of office clinking. “Ser Marq, with respect, you cannot know that this outlaw was Ser Gregor. There are many large men in the realm.”",
+      "translation": "",
+      "explanation_zh": "Pycelle说realm还有很多large men，不能仅凭体型确认Gregor。",
+      "literary_note_zh": "Pycelle说large men很多是抽象可能，Karyl下一句用极端体型稀有性压缩这个替代解释。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P427-036",
+      "page": 427,
+      "end_page": 427,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“As large as the Mountain That Rides?” Ser Karyl said. “I have never met one.”",
+      "translation": "",
+      "explanation_zh": "Karyl反问是否真有谁像Mountain That Rides一样巨大。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-037",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“Nor has any man here,” Ser Raymun added hotly. “Even his brother is a pup beside him. My lords, open your eyes. Do you need to see his seal on the corpses? It was Gregor.”",
+      "translation": "",
+      "explanation_zh": "Raymun说连Sandor在Gregor旁都像pup，坚称无需尸体上的seal也可认出。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-038",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“Why should Ser Gregor turn brigand?” Pycelle asked. “By the grace of his liege lord, he holds a stout keep and lands of his own. The man is an anointed knight.”",
+      "translation": "",
+      "explanation_zh": "Pycelle质疑有land与keep的anointed knight为何会去当brigand。",
+      "literary_note_zh": "anointed knight与brigand不相容只是规范逻辑，不是事实不可能；title不能证明行为。",
+      "background_zh": "**anointed knight：** 经宗教仪式授knighthood并发保护弱者等誓言；身份规范不保证实际遵守。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-039",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“A false knight!” Ser Marq said. “Lord Tywin’s mad dog.”",
+      "translation": "",
+      "explanation_zh": "Marq骂Gregor是false knight、Tywin的mad dog。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-040",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“My lord Hand,” Pycelle declared in a stiff voice, “I urge you to remind this good knight that Lord Tywin Lannister is the father of our own gracious queen.”",
+      "translation": "",
+      "explanation_zh": "Pycelle提醒Eddard，Tywin是queen father。",
+      "literary_note_zh": "Pycelle用queen kinship提醒政治后果，实质要求证据判断向power relation让步。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-041",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "“Thank you, Grand Maester Pycelle,” Ned said. “I fear we might have forgotten that if you had not pointed it out.”",
+      "translation": "",
+      "explanation_zh": "Eddard反讽感谢提醒，暗示Pycelle立场明显。",
+      "literary_note_zh": "Eddard反讽揭露提醒并非中立信息，而是众人都知道的压力。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-042",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "From his vantage point atop the throne, he could see men slipping out the door at the far end of the hall. Hares going to ground, he supposed . . . or rats off to nibble the queen’s cheese. He caught a glimpse of Septa Mordane in the gallery, with his daughter Sansa beside her. Ned felt a flash of anger; this was no place for a girl. But the septa could not have known that today’s court would be anything but the usual tedious business of hearing petitions, settling disputes between rival holdfasts, and adjudicating the placement of boundary stones.",
+      "translation": "",
+      "explanation_zh": "Eddard看见有人悄悄离厅报信，也发现Sansa与Mordane旁听，虽生气却知septa无法预料court内容。",
+      "literary_note_zh": "hares或rats二选一描写离席者：可能自保，也可能给Cersei送信；Eddard不能确定，文本也不确定。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-043",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "At the council table below, Petyr Baelish lost interest in his quill and leaned forward. “Ser Marq, Ser Karyl, Ser Raymun—perhaps I might ask you a question? These holdfasts were under your protection. Where were you when all this slaughtering and burning was going on?”",
+      "translation": "",
+      "explanation_zh": "Littlefinger追问三名knights领地受保护时他们为何缺席。",
+      "literary_note_zh": "Littlefinger的问题把受害者证词外扩到lord protection failure，避免骑士只以正义代表自居。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-044",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "Ser Karyl Vance answered. “I was attending my lord father in the pass below the Golden Tooth, as was Ser Marq. When the word of these outrages reached Ser Edmure Tully, he sent word that we should take a small force of men to find what survivors we could and bring them to the king.”",
+      "translation": "",
+      "explanation_zh": "Karyl说自己与Marq守Golden Tooth pass，Edmure得报后才派小队救survivors进京。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-045",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Ser Raymun Darry spoke up. “Ser Edmure had summoned me to Riverrun with all my strength. I was camped across the river from his walls, awaiting his commands, when the word reached me. By the time I could return to my own lands, Clegane and his vermin were back across the Red Fork, riding for Lannister’s hills.”",
+      "translation": "",
+      "explanation_zh": "Raymun因Edmure召集主力在Riverrun，返地时Clegane已越Red Fork逃向Lannister hills。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "**Edmure部署：** riverland lords被召集到Riverrun或Golden Tooth防线，边境本地因而出现防守空隙。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-046",
+      "page": 428,
+      "end_page": 428,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "Littlefinger stroked the point of his beard thoughtfully. “And if they come again, ser?”",
+      "translation": "",
+      "explanation_zh": "Littlefinger问若raiders再来怎么办。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P428-047",
+      "page": 428,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“If they come again, we’ll use their blood to water the fields they burnt,” Ser Marq Piper declared hotly.",
+      "translation": "",
+      "explanation_zh": "Marq激动说会用敌血灌溉被烧fields。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-048",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“Ser Edmure has sent men to every village and holdfast within a day’s ride of the border,” Ser Karyl explained. “The next raider will not have such an easy time of it.”",
+      "translation": "",
+      "explanation_zh": "Karyl说Edmure已向边境各village、holdfast派人，下次袭击不会容易。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-049",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "And that may be precisely what Lord Tywin wants, Ned thought to himself, to bleed off strength from Riverrun, goad the boy into scattering his swords. His wife’s brother was young, and more gallant than wise. He would try to hold every inch of his soil, to defend every man, woman, and child who named him lord, and Tywin Lannister was shrewd enough to know that.",
+      "translation": "",
+      "explanation_zh": "Eddard判断这或正中Tywin计谋：诱年轻Edmure为保护每寸土地而分散Riverrun兵力。",
+      "literary_note_zh": "Tywin strategy是Eddard inference：袭击迫Edmure分兵守每点，主力便被bleed off；合理但尚无Tywin书面命令。",
+      "background_zh": "**文本事实／推断：** Edmure确实分派村镇防卫；‘这是Tywin目的’是Eddard战略推断，未有直接证据。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-050",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“If your fields and holdfasts are safe from harm,” Lord Petyr was saying, “what then do you ask of the throne?”",
+      "translation": "",
+      "explanation_zh": "Littlefinger问既已加强防御，他们究竟向throne求什么。",
+      "literary_note_zh": "Pycelle质疑身份与管辖，Littlefinger追问防守缺席；Eddard识别无旗袭击意在诱Edmure分兵并承担破坏peace罪名。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-051",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“The lords of the Trident keep the king’s peace,” Ser Raymun Darry said. “The Lannisters have broken it. We ask leave to answer them, steel for steel. We ask justice for the smallfolk of Sherrer and Wendish Town and the Mummer’s Ford.”",
+      "translation": "",
+      "explanation_zh": "Raymun请求获准以steel回击Lannisters，为三地smallfolk求justice。",
+      "literary_note_zh": "steel for steel把justice和symmetrical retaliation等同；Eddard后面会拆开这两个概念。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-052",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“Edmure agrees, we must pay Gregor Clegane back his bloody coin,” Ser Marq declared, “but old Lord Hoster commanded us to come here and beg the king’s leave before we strike.”",
+      "translation": "",
+      "explanation_zh": "Marq说Edmure也想报复Gregor，但Hoster命他们先请king许可。",
+      "literary_note_zh": "Hoster要求royal leave阻止Tully落入‘先开战’叙事，是法律程序也是战略防护。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-053",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "Thank the gods for old Lord Hoster, then. Tywin Lannister was as much fox as lion. If indeed he’d sent Ser Gregor to burn and pillage—and Ned did not doubt that he had— he’d taken care to see that he rode under cover of night, without banners, in the guise of a common brigand. Should Riverrun strike back, Cersei and her father would insist that it had been the Tullys who broke the king’s peace, not the Lannisters. The gods only knew what Robert would believe.",
+      "translation": "",
+      "explanation_zh": "Eddard感谢Hoster谨慎，并推演Tywin让Gregor夜间无旗伪装brigands，以便反咬Tully先破king’s peace。",
+      "literary_note_zh": "fox as lion强调Tywin兼具隐蔽算计与公开力量；no banners制造plausible deniability并诱敌承担formal blame。",
+      "background_zh": "**plausible deniability：** 无banners、plain armor、夜袭让Tywin可否认控制；Tully若正式反击则可能被指先开战。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-054",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "Grand Maester Pycelle was on his feet again. “My lord Hand, if these good folk believe that Ser Gregor has forsaken his holy vows for plunder and rape, let them go to his liege lord and make their complaint. These crimes are no concern of the throne. Let them seek Lord Tywin’s justice.”",
+      "translation": "",
+      "explanation_zh": "Pycelle主张若Gregor违vow劫掠强暴，应向其liege Tywin申诉，此事不属throne。",
+      "literary_note_zh": "让Tywin审自己bannerman会把控诉交给潜在指挥者；Pycelle以feudal channel形式制造利益冲突。",
+      "background_zh": "**feudal chain：** 通常bannerman受liege lord审判；但king是全realm最高justice source，Hand可越过有利益冲突的liege。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-055",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“It is all the king’s justice,” Ned told him. “North, south, east, or west, all we do we do in Robert’s name.”",
+      "translation": "",
+      "explanation_zh": "Eddard回答各地justice都以Robert名义施行，因此全部属于king。",
+      "literary_note_zh": "一句话确立central sovereignty：liege justice不是独立私域，而是king authority的层级执行。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-056",
+      "page": 429,
+      "end_page": 429,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“The king’s justice,” Grand Maester Pycelle said. “So it is, and so we should defer this matter until the king—”",
+      "translation": "",
+      "explanation_zh": "Pycelle接受措辞却想拖到Robert回来决定。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P429-057",
+      "page": 429,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "“The king is hunting across the river and may not return for days,” Lord Eddard said. “Robert bid me to sit here in his place, to listen with his ears, and to speak with his voice. I mean to do just that . . . though I agree that he must be told.” He saw a familiar face beneath the tapestries. “Ser Robar.”",
+      "translation": "",
+      "explanation_zh": "Eddard说Robert命自己以king耳朵听、声音说，他将履职，同时派Robar向hunt队报告。",
+      "literary_note_zh": "合并的跨页长句把delegation说清：Hand不是等待king的秘书，而在授权期间借king voice作决定，同时仍建立报告链。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-058",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "Ser Robar Royce stepped forward and bowed. “My lord.”",
+      "translation": "",
+      "explanation_zh": "Robar Royce上前行礼。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-059",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "“Your father is hunting with the king,” Ned said. “Will you bring them word of what was said and done here today?”",
+      "translation": "",
+      "explanation_zh": "Eddard因Robar father随king hunt，请他传达今日court所言所为。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-060",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“At once, my lord.”",
+      "translation": "",
+      "explanation_zh": "Robar承诺立刻出发。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-061",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“Do we have your leave to take our vengeance against Ser Gregor, then?” Marq Piper asked the throne.",
+      "translation": "",
+      "explanation_zh": "Marq追问是否获准向Gregor复仇。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-062",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“Vengeance?” Ned said. “I thought we were speaking of justice. Burning Clegane’s fields and slaughtering his people will not restore the king’s peace, only your injured pride.” He glanced away before the young knight could voice his outraged protest, and addressed the villagers. “People of Sherrer, I cannot give you back your homes or your crops, nor can I restore your dead to life. But perhaps I can give you some small measure of justice, in the name of our king, Robert.”",
+      "translation": "",
+      "explanation_zh": "Eddard纠正他们谈的是justice而非vengeance，拒绝烧Clegane田地杀其people，并向villagers承诺有限司法补偿。",
+      "literary_note_zh": "Eddard拒绝报复Clegane smallfolk，因collective punishment会复制原罪；justice以具体行为者为target。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-063",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Every eye in the hall was fixed on him, waiting. Slowly Ned struggled to his feet, pushing himself up from the throne with the strength of his arms, his shattered leg screaming inside its cast. He did his best to ignore the pain; it was no moment to let them see his weakness. “The First Men believed that the judge who called for death should wield the sword, and in the north we hold to that still. I mislike sending another to do my killing . . . yet it seems I have no choice.” He gestured at his broken leg.",
+      "translation": "",
+      "explanation_zh": "全厅注视下，Eddard忍断腿剧痛站起，解释north传统要求判死者亲自行刑，但伤势迫使他派人。",
+      "literary_note_zh": "他无法亲自wield sword，却公开说明例外理由，尽量维持判决责任与执行责任的可追踪关系。",
+      "background_zh": "**north execution principle：** 判死者应亲自挥剑以承担责任；Eddard因broken leg公开委派执行。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-064",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "“Lord Eddard!” The shout came from the west side of the hall as a handsome stripling of a boy strode forth boldly. Out of his armor, Ser Loras Tyrell looked even younger than his sixteen years. He wore pale blue silk, his belt a linked chain of golden roses, the sigil of his House. “I beg you the honor of acting in your place. Give this task to me, my lord, and I swear I shall not fail you.”",
+      "translation": "",
+      "explanation_zh": "十六岁的Loras主动请命代Eddard执行，保证不会失败。",
+      "literary_note_zh": "Loras说honor，动机却与Gregor tournament冲突相连；Eddard不只评能力，也评执行者为何想去。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-065",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Littlefinger chuckled. “Ser Loras, if we send you off alone, Ser Gregor will send us back your head with a plum stuffed in that pretty mouth of yours. The Mountain is not the sort to bend his neck to any man’s justice.”",
+      "translation": "",
+      "explanation_zh": "Littlefinger嘲若Loras独去，Gregor会把他的head配plum送回，并不会接受justice。",
+      "literary_note_zh": "Littlefinger的plum羞辱Loras外貌，却指出派单人去不服从的armed lord不是execution而是送死。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-066",
+      "page": 430,
+      "end_page": 430,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“I do not fear Gregor Clegane,” Ser Loras said haughtily.",
+      "translation": "",
+      "explanation_zh": "Loras傲然说自己不怕Gregor。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P430-067",
+      "page": 430,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "Ned eased himself slowly back onto the hard iron seat of Aegon’s misshapen throne. His eyes searched the faces along the wall. “Lord Beric,” he called out. “Thoros of Myr. Ser Gladden. Lord Lothar.” The men named stepped forward one by one. “Each of you is to assemble twenty men, to bring my word to Gregor’s keep. Twenty of my own guards shall go with you. Lord Beric Dondarrion, you shall have the command, as befits your rank.”",
+      "translation": "",
+      "explanation_zh": "Eddard点Beric、Thoros、Gladden、Lothar各集二十人，再加二十Stark guards，由Beric统领。",
+      "literary_note_zh": "Eddard派约百人、多人领队及king flag，把私人duel替换为可见的state enforcement。",
+      "background_zh": "**royal party：** Beric等四组各20人，加20 Stark guards，合计约100；携king flag表明国家执法而非Tully raid。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-068",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "The young lord with the red-gold hair bowed. “As you command, Lord Eddard.”",
+      "translation": "",
+      "explanation_zh": "Beric鞠躬接受命令。",
+      "literary_note_zh": "Eddard拒绝把案件交Tywin或等Robert，区分justice与vengeance，组织Beric率王旗队伍并正式褫夺、判死Gregor。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-069",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "Ned raised his voice, so it carried to the far end of the throne room. “In the name of Robert of the House Baratheon, the First of his Name, King of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm, by the word of Eddard of the House Stark, his Hand, I charge you to ride to the westlands with all haste, to cross the Red Fork of the Trident under the king’s flag, and there bring the king’s justice to the false knight Gregor Clegane, and to all those who shared in his crimes. I denounce him, and attaint him, and strip him of all rank and titles, of all lands and incomes and holdings, and do sentence him to death. May the gods take pity on his soul.”",
+      "translation": "",
+      "explanation_zh": "Eddard以Robert与Hand完整名义，命队伍持king’s flag赴westlands，褫夺Gregor全部身份财产并判死。",
+      "literary_note_zh": "denounce、attaint、strip、sentence形成递进法律动词：先公开定性，再法律褫夺，最后判死。",
+      "background_zh": "**attainder：** 以统治权宣告某人丧失法律身份、titles、lands、income和holdings，并可判处死刑。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-070",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "When the echo of his words had died away, the Knight of Flowers seemed perplexed. “Lord Eddard, what of me?”",
+      "translation": "",
+      "explanation_zh": "宣判回声消散后，Loras困惑地问自己怎么办。",
+      "literary_note_zh": "Eddard拒绝Loras参与；Varys指出他同时放弃Tyrell结盟机会并可能冒犯Ser Ilyn，揭示正确程序仍有court成本。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-071",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "Ned looked down on him. From on high, Loras Tyrell seemed almost as young as Robb. “No one doubts your valor, Ser Loras, but we are about justice here, and what you seek is vengeance.” He looked back to Lord Beric. “Ride at first light. These things are best done quickly.” He held up a hand. “The throne will hear no more petitions today.”",
+      "translation": "",
+      "explanation_zh": "Eddard见他几乎像Robb般年轻，肯定valor却说其求的是vengeance，命Beric天明立刻出发并闭庭。",
+      "literary_note_zh": "valor不足以保证justice；Eddard拒绝让个人荣耀与复仇欲主导王权执行。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-072",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "Alyn and Porther climbed the steep iron steps to help him back down. As they made their descent, he could feel Loras Tyrell’s sullen stare, but the boy had stalked away before Ned reached the floor of the throne room.",
+      "translation": "",
+      "explanation_zh": "Alyn、Porther扶Eddard下throne；Loras怒视后先行离开。",
+      "literary_note_zh": "Eddard拒绝Loras参与；Varys指出他同时放弃Tyrell结盟机会并可能冒犯Ser Ilyn，揭示正确程序仍有court成本。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-073",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "At the base of the Iron Throne, Varys was gathering papers from the council table. Littlefinger and Grand Maester Pycelle had already taken their leave. “You are a bolder man than I, my lord,” the eunuch said softly.",
+      "translation": "",
+      "explanation_zh": "Varys收papers时称Eddard比自己大胆；Littlefinger、Pycelle已走。",
+      "literary_note_zh": "Eddard拒绝Loras参与；Varys指出他同时放弃Tyrell结盟机会并可能冒犯Ser Ilyn，揭示正确程序仍有court成本。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-074",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“How so, Lord Varys?” Ned asked brusquely. His leg was throbbing, and he was in no mood for word games.",
+      "translation": "",
+      "explanation_zh": "Eddard因leg痛不耐烦，问何出此言。",
+      "literary_note_zh": "Eddard拒绝Loras参与；Varys指出他同时放弃Tyrell结盟机会并可能冒犯Ser Ilyn，揭示正确程序仍有court成本。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-075",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "“Had it been me up there, I should have sent Ser Loras. He so wanted to go . . . and a man who has the Lannisters for his enemies would do well to make the Tyrells his friends.”",
+      "translation": "",
+      "explanation_zh": "Varys说自己会派Loras，因为与Lannisters为敌者应结交Tyrells。",
+      "literary_note_zh": "Varys指出被Eddard忽略的alliance payoff：让Loras去可把Tyrell私人荣誉绑定到反Lannister阵线。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-076",
+      "page": 431,
+      "end_page": 431,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "“Ser Loras is young,” said Ned. “I daresay he will outgrow the disappointment.”",
+      "translation": "",
+      "explanation_zh": "Eddard只说Loras年轻，会长大并忘掉失望。",
+      "literary_note_zh": "Eddard以成长问题处理Loras失望，低估被拒绝的政治与情感后果，这与他擅长法律原则、较弱于court coalition相符。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P431-077",
+      "page": 431,
+      "end_page": 432,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "“And Ser Ilyn?” The eunuch stroked a plump, powdered cheek. “He is the King’s Justice, after all. Sending other men to do his office . . . some might construe that as a grave insult.”",
+      "translation": "",
+      "explanation_zh": "Varys又指出Ser Ilyn是King’s Justice，另派人执行可能被视为grave insult。",
+      "literary_note_zh": "Varys从未明说Eddard错，只列第二个失去的关系：King’s Justice Ser Ilyn的office honor。",
+      "background_zh": "**King’s Justice：** Ser Ilyn Payne是王室正式executioner；未用他可能被解释为绕过office。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P432-078",
+      "page": 432,
+      "end_page": 432,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "“No slight was intended.” In truth, Ned did not trust the mute knight, though perhaps that was only because he misliked executioners. “I remind you, the Paynes are bannermen to House Lannister. I thought it best to choose men who owed Lord Tywin no fealty.”",
+      "translation": "",
+      "explanation_zh": "Eddard说无意冒犯，实则不信任mute executioner，且Paynes是Lannister bannermen，故选无Tywin fealty者。",
+      "literary_note_zh": "选择无Lannister fealty执行者是sound conflict-of-interest control；代价是可能冒犯正式execution office。",
+      "background_zh": "**fealty conflict：** House Payne对House Lannister负封建义务，Eddard因此不让Ilyn执行针对Tywin bannerman的任务。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH43-P432-079",
+      "page": 432,
+      "end_page": 432,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "“Very prudent, no doubt,” Varys said. “Still, I chanced to see Ser Ilyn in the back of the hall, staring at us with those pale eyes of his, and I must say, he did not look pleased, though to be sure it is hard to tell with our silent knight. I hope he outgrows his disappointment as well. He does so love his work . . . ”",
+      "translation": "",
+      "explanation_zh": "Varys表面称赞谨慎，又提醒Ilyn在后厅不悦，并阴冷玩笑他热爱execution work。",
+      "literary_note_zh": "does so love his work把Ilyn的execution热情说成职业爱好，Varys用轻柔幽默把潜在敌意留在Eddard心中。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在riverlands证词、proxy raid识别、king’s justice与court政治成本。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

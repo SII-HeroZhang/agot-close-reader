@@ -1,0 +1,1742 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 67 — SANSA",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    673,
+    681
+  ],
+  "block_count": 80,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 673,
+      "first_id": "CH67-P673-001",
+      "last_id": "CH67-P673-006"
+    },
+    {
+      "page": 674,
+      "first_id": "CH67-P674-007",
+      "last_id": "CH67-P674-015"
+    },
+    {
+      "page": 675,
+      "first_id": "CH67-P675-016",
+      "last_id": "CH67-P675-028"
+    },
+    {
+      "page": 676,
+      "first_id": "CH67-P676-029",
+      "last_id": "CH67-P676-036"
+    },
+    {
+      "page": 677,
+      "first_id": "CH67-P677-037",
+      "last_id": "CH67-P677-043"
+    },
+    {
+      "page": 678,
+      "first_id": "CH67-P678-044",
+      "last_id": "CH67-P678-056"
+    },
+    {
+      "page": 679,
+      "first_id": "CH67-P679-057",
+      "last_id": "CH67-P679-065"
+    },
+    {
+      "page": 680,
+      "first_id": "CH67-P680-066",
+      "last_id": "CH67-P680-077"
+    },
+    {
+      "page": 681,
+      "first_id": "CH67-P681-078",
+      "last_id": "CH67-P681-080"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH67-P673-001",
+      "page": 673,
+      "end_page": 673,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "In the tower room at the heart of Maegor’s Holdfast, Sansa gave herself to the darkness.",
+      "translation": "",
+      "explanation_zh": "Sansa在Maegor’s Holdfast核心tower room中完全投入darkness。",
+      "literary_note_zh": "give herself to darkness既是关闭curtains的动作，也描述traumatic withdrawal与失去时间。",
+      "background_zh": "**Maegor’s Holdfast：** Red Keep内最坚固独立堡区；物理中心和高防御并未给Sansa心理安全。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P673-002",
+      "page": 673,
+      "end_page": 673,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "She drew the curtains around her bed, slept, woke weeping, and slept again. When she could not sleep she lay under her blankets shivering with grief. Servants came and went, bringing meals, but the sight of food was more than she could bear. The dishes piled up on the table beneath her window, untouched and spoiling, until the servants took them away again.",
+      "translation": "",
+      "explanation_zh": "她反复睡醒哭泣、拒食，servants送来的食物堆积变坏后又被拿走。",
+      "literary_note_zh": "food spoiling将grief从心理转为身体功能受损；她已无法完成基本进食。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P673-003",
+      "page": 673,
+      "end_page": 673,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "Sometimes her sleep was leaden and dreamless, and she woke from it more tired than when she had closed her eyes. Yet those were the best times, for when she dreamed, she dreamed of Father. Waking or sleeping, she saw him, saw the gold cloaks fling him down, saw Ser Ilyn striding forward, unsheathing Ice from the scabbard on his back, saw the moment . . . the moment when . . . she had wanted to look away, she had wanted to, her legs had gone out from under her and she had fallen to her knees, yet somehow she could not turn her head, and all the people were screaming and shouting, and her prince had smiled at her, he’d smiled and she’d felt safe, but only for a heartbeat, until he said those words, and her father’s legs . . . that was what she remembered, his legs, the way they’d jerked when Ser Ilyn . . . when the sword . . .",
+      "translation": "",
+      "explanation_zh": "无梦重睡反而最好；有梦便重演Eddard被按倒、Joffrey微笑和execution最后身体画面。",
+      "literary_note_zh": "长句模仿intrusive memory无法停止，反复‘the moment’和未完成syntax表现创伤性回避与重现并存。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P673-004",
+      "page": 673,
+      "end_page": 673,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "Perhaps I will die too, she told herself, and the thought did not seem so terrible to her. If she flung herself from the window, she could put an end to her suffering, and in the years to come the singers would write songs of her grief. Her body would lie on the stones below, broken and innocent, shaming all those who had betrayed her. Sansa went so far as to cross the bedchamber and throw open the shutters . . . but then her courage left her, and she ran back to her bed, sobbing.",
+      "translation": "",
+      "explanation_zh": "她产生从window跳下结束痛苦的念头，并幻想songs证明innocence；走到窗前后因恐惧退回bed。",
+      "literary_note_zh": "songs/shaming仍借旧romance框架理解自毁念头；她没有行动能力不等于痛苦不严重。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P673-005",
+      "page": 673,
+      "end_page": 673,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "[Content omitted: forced undressing and bodily touching involving a minor. Paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "[内容省略：涉及未成年角色的强迫脱衣与身体触碰。段落位置保留。] Pycelle检查后给sedative，Sansa一次喝完。",
+      "literary_note_zh": "本段敏感细节省略；一次喝完nightly potion显示她在绝望中追求长时间无意识，需视作高风险状态。",
+      "background_zh": "**内容安全：** 原段包含对未成年Sansa的强迫脱衣和身体触碰，不复录；保留医疗权力、约束与sedative后果。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P673-006",
+      "page": 673,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "[Content omitted: sexualized violent dream involving a minor. Cross-page paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "[内容省略：涉及未成年角色的性化暴力梦境。跨页段落位置保留。] Sansa梦见Ilyn持Ice逼近且无处逃。",
+      "literary_note_zh": "dream把execution weapon、无法bar door和暴露感叠合，呈现安全边界彻底消失。",
+      "background_zh": "**内容安全：** 跨页梦境含未成年裸露与性化暴力威胁，使用稳定占位符。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-007",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "She woke murmuring, “Please, please, I’ll be good, I’ll be good, please don’t,” but there was no one to hear.",
+      "translation": "",
+      "explanation_zh": "她醒来反复求饶，room中却无人回应。",
+      "literary_note_zh": "Eddard execution后Sansa陷入睡眠、拒食、intrusive memory与自毁念头；sedative和nightmare进一步模糊时间。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-008",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "When they finally came for her in truth, Sansa never heard their footsteps. It was Joffrey who opened her door, not Ser Ilyn but the boy who had been her prince. She was in bed, curled up tight, her curtains drawn, and she could not have said if it was noon or midnight. The first thing she heard was the slam of the door. Then her bed hangings were yanked back, and she threw up a hand against the sudden light and saw them standing over her.",
+      "translation": "",
+      "explanation_zh": "真正来人没有脚步预警；Joffrey突然拉开bed curtains，随Hound和两名Kingsguard站在她面前。",
+      "literary_note_zh": "真实来人无footsteps说明hypervigilance并不能提供控制；Joffrey取代Ilyn成为直接威胁。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-009",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "“You will attend me in court this afternoon,” Joffrey said. “See that you bathe and dress as befits my betrothed.” Sandor Clegane stood at his shoulder in a plain brown doublet and green mantle, his burned face hideous in the morning light. Behind them were two knights of the Kingsguard in long white satin cloaks.",
+      "translation": "",
+      "explanation_zh": "Joffrey命她下午出席court，并按betrothed身份沐浴着装。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-010",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Sansa drew her blanket up to her chin to cover herself. “No,” she whimpered, “please . . . leave me be.”",
+      "translation": "",
+      "explanation_zh": "Sansa用blanket遮身，请求独处。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-011",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“If you won’t rise and dress yourself, my Hound will do it for you,” Joffrey said.",
+      "translation": "",
+      "explanation_zh": "Joffrey威胁若不自行起身就让Hound替她。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-012",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“I beg of you, my prince . . . ”",
+      "translation": "",
+      "explanation_zh": "Sansa仍以my prince求情。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-013",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“I’m king now. Dog, get her out of bed.”",
+      "translation": "",
+      "explanation_zh": "Joffrey纠正自己已是king，命Dog把她弄下床。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-014",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "[Content omitted: forced exposure involving a minor. Paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "[内容省略：涉及未成年角色的强迫暴露。段落位置保留。] Sandor以较克制方式迫她去dress。",
+      "literary_note_zh": "本段强迫暴露不复录；Sandor的almost gentle不能消除他执行coercion，只显示程度差异。",
+      "background_zh": "**内容安全：** 原段涉及未成年强迫暴露，不复录；Sandor执行Joffrey命令及其相对克制均保留。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P674-015",
+      "page": 674,
+      "end_page": 674,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "Sansa backed away from them. “I did as the queen asked, I wrote the letters, I wrote what she told me. You promised you’d be merciful. Please, let me go home. I won’t do any treason, I’ll be good, I swear it, I don’t have traitor’s blood, I don’t. I only want to go home.” Remembering her courtesies, she lowered her head. “As it please you,” she finished weakly.",
+      "translation": "",
+      "explanation_zh": "Sansa说已按Cersei要求写letters，引用mercy承诺并求回家，最后仍用courtesy收束。",
+      "literary_note_zh": "courtesies在这里不是天真装饰，而是Sansa在恐惧中仍可调用的survival script。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-016",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“It does not please me,” Joffrey said. “Mother says I’m still to marry you, so you’ll stay here, and you’ll obey.”",
+      "translation": "",
+      "explanation_zh": "Joffrey说Cersei仍要他们结婚，Sansa必须留下服从。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-017",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“I don’t want to marry you,” Sansa wailed. “You chopped off my father’s head!”",
+      "translation": "",
+      "explanation_zh": "Sansa第一次直接说不愿结婚，因为Joffrey斩了Eddard。",
+      "literary_note_zh": "I don’t want to marry you是她首次明确撤回romantic consent，理由直指父亲死亡。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-018",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“He was a traitor. I never promised to spare him, only that I’d be merciful, and I was. If he hadn’t been your father, I would have had him torn or flayed, but I gave him a clean death.”",
+      "translation": "",
+      "explanation_zh": "Joffrey把execution称mercy：若非她父亲会用更残酷方式，而他给了clean death。",
+      "literary_note_zh": "Joffrey把不使用更残酷刑罚称mercy，重定义语言以免自己违反承诺。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-019",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "Sansa stared at him, seeing him for the first time. He was wearing a padded crimson doublet patterned with lions and a cloth-of-gold cape with a high collar that framed his face. She wondered how she could ever have thought him handsome. His lips were as soft and red as the worms you found after a rain, and his eyes were vain and cruel. “I hate you,” she whispered.",
+      "translation": "",
+      "explanation_zh": "Sansa仿佛第一次真正看见Joffrey，华服下的worm-like lips与vain cruel eyes取代handsome prince。",
+      "literary_note_zh": "seeing him for first time标志fantasy collapse；外貌没变，解释框架已变。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-020",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "King Joffrey’s face hardened. “My mother tells me that it isn’t fitting that a king should strike his wife. Ser Meryn.”",
+      "translation": "",
+      "explanation_zh": "她低声说恨他。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-021",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "The knight was on her before she could think, yanking back her hand as she tried to shield her face and backhanding her across the ear with a gloved fist. Sansa did not remember failing, yet the next she knew she was sprawled on one knee amongst the rushes. Her head was ringing. Ser Meryn Trant stood over her, with blood on the knuckles of his white silk glove.",
+      "translation": "",
+      "explanation_zh": "Joffrey说king不宜亲手打wife，转而召Meryn。",
+      "literary_note_zh": "不亲手strike wife只把暴力outsourcing给Kingsguard，遵守表面规范同时保留伤害。",
+      "background_zh": "**Kingsguard proxy violence：** Joffrey以king不打wife为借口，命Meryn代打，形式礼法未限制实质伤害。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-022",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "“Will you obey now, or shall I have him chastise you again?”",
+      "translation": "",
+      "explanation_zh": "Meryn扭开她遮脸的手并用gloved fist打倒，white glove沾血。",
+      "literary_note_zh": "white silk glove沾blood让chivalric purity视觉上被其行动反驳。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-023",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "Sansa’s ear felt numb. She touched it, and her fingertips came away wet and red. “I . . . as . . . as you command, my lord.”",
+      "translation": "",
+      "explanation_zh": "Joffrey问是否服从，否则可继续chastise。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-024",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "“Your Grace,” Joffrey corrected her. “I shall look for you in court.” He turned and left.",
+      "translation": "",
+      "explanation_zh": "Sansa摸到耳边血，结巴表示遵命。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-025",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "Ser Meryn and Ser Arys followed him out, but Sandor Clegane lingered long enough to yank her roughly to her feet. “Save yourself some pain, girl, and give him what he wants.”",
+      "translation": "",
+      "explanation_zh": "Joffrey纠正称呼必须Your Grace，随后离开。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-026",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "“What . . . what does he want? Please, tell me.”",
+      "translation": "",
+      "explanation_zh": "Meryn与Arys跟走，Sandor把她拉起并劝给Joffrey想要的以少受痛。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-027",
+      "page": 675,
+      "end_page": 675,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“He wants you to smile and smell sweet and be his lady love,” the Hound rasped. “He wants to hear you recite all your pretty little words the way the septa taught you. He wants you to love him . . . and fear him.”",
+      "translation": "",
+      "explanation_zh": "Sansa问Joffrey究竟要什么。",
+      "literary_note_zh": "Joffrey强迫她恢复betrothed外观，outsourcing violence给Meryn；Sandor教她用beauty、courtesy和fear-love表演减少伤害。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P675-028",
+      "page": 675,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "After he was gone, Sansa sank back onto the rushes, staring at the wall until two of her bedmaids crept timidly into the chamber. “I will need hot water for my bath, please,” she told them, “and perfume, and some powder to hide this bruise.” The right side of her face was swollen and beginning to ache, but she knew Joffrey would want her to be beautiful.",
+      "translation": "",
+      "explanation_zh": "Sandor说他要她微笑芬芳、复诵septa words、同时爱他和怕他。",
+      "literary_note_zh": "love him and fear him揭示Joffrey要的不是单纯obedience，而是受害者表演自愿崇拜。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-029",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "The hot water made her think of Winterfell, and she took strength from that. She had not washed since the day her father died, and she was startled at how filthy the water became. Her maids sluiced the blood off her face, scrubbed the dirt from her back, washed her hair and brushed it out until it sprang back in thick auburn curls. Sansa did not speak to them, except to give them commands; they were Lannister servants, not her own, and she did not trust them. When the time came to dress, she chose the green silk gown that she had worn to the tourney. She recalled how gallant Joff had been to her that night at the feast. Perhaps it would make him remember as well, and treat her more gently.",
+      "translation": "",
+      "explanation_zh": "来人离开后Sansa发呆，最终命bedmaids备bath、perfume和powder遮bruise，因为Joffrey要她beautiful。",
+      "literary_note_zh": "她主动准备beauty并非重新爱他，而是根据Hound建议降低再受伤概率。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-030",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "She drank a glass of buttermilk and nibbled at some sweet biscuits as she waited, to settle her stomach. It was midday when Ser Meryn returned. He had donned his white armor; a shirt of enameled scales chased with gold, a tall helm with a golden sunburst crest, greaves and gorget and gauntlet and boots of gleaming plate, a heavy wool cloak clasped with a golden lion. His visor had been removed from his helm, to better show his dour face; pouchy bags under his eyes, a wide sour mouth, rusty hair spotted with grey. “My lady,” he said, bowing, as if he had not beaten her bloody only three hours past. “His Grace has instructed me to escort you to the throne room.”",
+      "translation": "",
+      "explanation_zh": "hot water唤起Winterfell给她力量；她洗去数日污垢、选择tourney green gown，希望唤起Joffrey从前gallant表现。",
+      "literary_note_zh": "green tourney gown试图利用Joffrey旧角色记忆；这是一项策略，仍含她对过去gentleness残余希望。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-031",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“Did he instruct you to hit me if I refused to come?”",
+      "translation": "",
+      "explanation_zh": "她勉强进食等候；Meryn穿华丽white armor回来，礼貌得像三小时前未打过她。",
+      "literary_note_zh": "Meryn礼貌escort与早前beating无矛盾于他，因为两者都是orders。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-032",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“Are you refusing to come, my lady?” The look he gave her was without expression. He did not so much as glance at the bruise he had left her.",
+      "translation": "",
+      "explanation_zh": "Sansa问若拒绝，他是否也奉命殴打。",
+      "literary_note_zh": "Sansa试图借旧gown唤回gentleness，却识别Meryn只是order instrument；court展示Joffrey arbitrary cruelty。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-033",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "He did not hate her, Sansa realized; neither did he love her. He felt nothing for her at all. She was only a . . . a thing to him. “No,” she said, rising. She wanted to rage, to hurt him as he’d hurt her, to warn him that when she was queen she would have him exiled if he ever dared strike her again . . . but she remembered what the Hound had told her, so all she said was, “I shall do whatever His Grace commands.”",
+      "translation": "",
+      "explanation_zh": "Meryn反问她是否拒绝，完全不看自己留下的bruise。",
+      "literary_note_zh": "Sansa试图借旧gown唤回gentleness，却识别Meryn只是order instrument；court展示Joffrey arbitrary cruelty。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-034",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "“As I do,” he replied.",
+      "translation": "",
+      "explanation_zh": "Sansa意识到他不恨不爱，只把她当thing；她压下愤怒，按Hound建议承诺服从。",
+      "literary_note_zh": "thing realization比hate更冷：impersonal obedience让她无法通过同情、愤怒或honor影响他。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-035",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“Yes . . . but you are no true knight, Ser Meryn.”",
+      "translation": "",
+      "explanation_zh": "Meryn说自己也只服从。",
+      "literary_note_zh": "Sansa试图借旧gown唤回gentleness，却识别Meryn只是order instrument；court展示Joffrey arbitrary cruelty。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P676-036",
+      "page": 676,
+      "end_page": 676,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "Sandor Clegane would have laughed at that, Sansa knew. Other men might have cursed her, warned her to keep silent, even begged for her forgiveness. Ser Meryn Trant did none of these. Ser Meryn Trant simply did not care.",
+      "translation": "",
+      "explanation_zh": "Sansa指出他并非true knight。",
+      "literary_note_zh": "true knight判断是Sansa保留的道德分类；不能保护身体，却保护价值认知不被court改写。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-037",
+      "page": 677,
+      "end_page": 677,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "The balcony was deserted save for Sansa. She stood with her head bowed, fighting to hold back her tears, while below Joffrey sat on his Iron Throne and dispensed what it pleased him to call justice. Nine cases out of ten seemed to bore him; those he allowed his council to handle, squirming restlessly while Lord Baelish, Grand Maester Pycelle, or Queen Cersei resolved the matter. When he did choose to make a ruling, though, not even his queen mother could sway him.",
+      "translation": "",
+      "explanation_zh": "她想象其他人的反应，Meryn却完全不在乎，道德控诉无法触及他。",
+      "literary_note_zh": "Sansa试图借旧gown唤回gentleness，却识别Meryn只是order instrument；court展示Joffrey arbitrary cruelty。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-038",
+      "page": 677,
+      "end_page": 677,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "A thief was brought before him and he had Ser Ilyn chop his hand off, right there in court. Two knights came to him with a dispute about some land, and he decreed that they should duel for it on the morrow. “To the death,” he added. A woman fell to her knees to plead for the head of a man executed as a traitor. She had loved him, she said, and she wanted to see him decently buried. “If you loved a traitor, you must be a traitor too,” Joffrey said. Two gold cloaks dragged her off to the dungeons.",
+      "translation": "",
+      "explanation_zh": "Sansa独站balcony看Joffrey在Iron Throne上施行所谓justice；多数案件交council，亲判时Cersei也劝不动。",
+      "literary_note_zh": "所谓justice随boredom和personal whim变化，council只能在Joffrey不感兴趣时发挥作用。",
+      "background_zh": "**Iron Throne court：** Joffrey只有在感兴趣时亲判；Baelish、Pycelle、Cersei处理多数常规案件。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-039",
+      "page": 677,
+      "end_page": 677,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "Frog-faced Lord Slynt sat at the end of the council table wearing a black velvet doublet and a shiny cloth-of-gold cape, nodding with approval every time the king pronounced a sentence. Sansa stared hard at his ugly face, remembering how he had thrown down her father for Ser Ilyn to behead, wishing she could hurt him, wishing that some hero would throw him down and cut off his head. But a voice inside her whispered, There are no heroes, and she remembered what Lord Petyr had said to her, here in this very hall. “Life is not a song, sweetling,” he’d told her. “You may learn that one day to your sorrow.” In life, the monsters win, she told herself, and now it was the Hound’s voice she heard, a cold rasp, metal on stone. “Save yourself some pain, girl, and give him what he wants.”",
+      "translation": "",
+      "explanation_zh": "Joffrey砍thief手、让土地争议knights决斗至死、把求回traitor头颅的女人也关入dungeon。",
+      "literary_note_zh": "Sansa试图借旧gown唤回gentleness，却识别Meryn只是order instrument；court展示Joffrey arbitrary cruelty。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-040",
+      "page": 677,
+      "end_page": 677,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "The last case was a plump tavern singer, accused of making a song that ridiculed the late King Robert. Joff commanded them to fetch his woodharp and ordered him to perform the song for the court. The singer wept and swore he would never sing that song again, but the king insisted. It was sort of a funny song, all about Robert fighting with a pig. The pig was the boar who’d killed him, Sansa knew, but in some verses it almost sounded as if he were singing about the queen. When the song was done, Joffrey announced that he’d decided to be merciful. The singer could keep either his fingers or his tongue. He would have a day to make his choice. Janos Slynt nodded.",
+      "translation": "",
+      "explanation_zh": "Janos每次都点头；Sansa想有hero杀他，却以Littlefinger与Hound声音告诉自己life不是song、monsters会赢。",
+      "literary_note_zh": "There are no heroes是grief generalization；Sandor/Littlefinger cynicism帮助她生存，也可能把暂时powerlessness说成宇宙定律。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-041",
+      "page": 677,
+      "end_page": 677,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "That was the final business of the afternoon, Sansa saw with relief, but her ordeal was not yet done. When the herald’s voice dismissed the court, she fled the balcony, only to find Joffrey waiting for her at the base of the curving stairs. The Hound was with him, and Ser Meryn as well. The young king examined her critically, top to bottom. “You look much better than you did.”",
+      "translation": "",
+      "explanation_zh": "tavern singer因讽刺Robert被迫演唱；Joffrey称mercy，却让其在fingers和tongue之间选择。",
+      "literary_note_zh": "fingers or tongue是假mercy：两个选项都毁掉singer职业，只把施害责任伪装成受害者选择。",
+      "background_zh": "**singer punishment：** 舌与手指分别代表singing和instrument能力，二选一都会毁掉职业。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-042",
+      "page": 677,
+      "end_page": 677,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "“Thank you, Your Grace,” Sansa said. Hollow words, but they made him nod and smile.",
+      "translation": "",
+      "explanation_zh": "court散后Sansa仍被Joffrey、Hound、Meryn堵住；Joffrey检查外表并说好很多。",
+      "literary_note_zh": "Sansa试图借旧gown唤回gentleness，却识别Meryn只是order instrument；court展示Joffrey arbitrary cruelty。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P677-043",
+      "page": 677,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Walk with me,” Joffrey commanded, offering her his arm. She had no choice but to take it. The touch of his hand would have thrilled her once; now it made her flesh crawl. “My name day will be here soon,” Joffrey said as they slipped out the rear of the throne room. “There will be a great feast, and gifts. What are you going to give me?”",
+      "translation": "",
+      "explanation_zh": "Sansa以hollow thanks使他满意。",
+      "literary_note_zh": "hollow words仍产生实际效果，说明court language可在不真诚时作为shield。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-044",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“I . . . I had not thought, my lord.”",
+      "translation": "",
+      "explanation_zh": "Joffrey命她挽臂同行并索要name day gift；从前会令她兴奋的触碰如今令人恶心。",
+      "literary_note_zh": "曾thrill/如今flesh crawl以同一触碰测量Sansa认知彻底改变。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-045",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“Your Grace,” he said sharply. “You truly are a stupid girl, aren’t you? My mother says so.”",
+      "translation": "",
+      "explanation_zh": "Sansa说尚未想过礼物。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-046",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“She does?” After all that had happened, his words should have lost their power to hurt her, yet somehow they had not. The queen had always been so kind to her.",
+      "translation": "",
+      "explanation_zh": "Joffrey再次纠正Your Grace并称她stupid。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-047",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“Oh, yes. She worries about our children, whether they’ll be stupid like you, but I told her not to trouble herself.” The king gestured, and Ser Meryn opened a door for them.",
+      "translation": "",
+      "explanation_zh": "听说Cersei也如此评价仍刺痛Sansa，因为她曾相信queen kindness。",
+      "literary_note_zh": "Cersei曾提供maternal performance，stupid评价因此仍有attachment injury力量。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-048",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“Thank you, Your Grace,” she murmured. The Hound was right, she thought, I am only a little bird, repeating the words they taught me. The sun had fallen below the western wall, and the stones of the Red Keep glowed dark as blood.",
+      "translation": "",
+      "explanation_zh": "Joffrey说Cersei担心未来children会继承Sansa愚蠢。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-049",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "[Content omitted: reproductive and lethal threat involving a minor. Paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "[内容省略：涉及未成年角色的生育与死亡威胁。段落位置保留。] Joffrey以未来生育控制恐吓Sansa。",
+      "literary_note_zh": "生育威胁敏感原文省略；政治功能是把Sansa身体、future marriage和死亡都置于Joffrey控制。",
+      "background_zh": "**内容安全：** 原段对未成年Sansa施加生育与死亡威胁，不复录细节；保留dynastic coercion。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-050",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "[Content omitted: puberty and reproductive content involving a minor. Paragraph position preserved.]",
+      "translation": "",
+      "explanation_zh": "[内容省略：涉及未成年角色的青春期与生育内容。段落位置保留。] Sansa被迫回答何时可能生育。",
+      "literary_note_zh": "青春期细节省略；Sansa被迫把尚未发生的身体发育报告给威胁者。",
+      "background_zh": "**内容安全：** 原段涉及未成年青春期与生育时间，被迫回答这一事实保留。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-051",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "Joffrey nodded. “This way.” He led her into the gatehouse, to the base of the steps that led up to the battlements.",
+      "translation": "",
+      "explanation_zh": "Joffrey带她进入通往battlements的gatehouse。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-052",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "Sansa jerked back away from him, trembling. Suddenly she knew where they were going. “No,” she said, her voice a frightened gasp. “Please, no, don’t make me, I beg you . . . ”",
+      "translation": "",
+      "explanation_zh": "Sansa突然明白目的地，后退颤抖请求不要去。",
+      "literary_note_zh": "她未看见heads才拒绝，而是看见并推断路线后触发恐惧。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-053",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "Joffrey pressed his lips together. “I want to show you what happens to traitors.”",
+      "translation": "",
+      "explanation_zh": "Joffrey说要展示traitors下场。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-054",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "Sansa shook her head wildly. “I won’t. I won’t.”",
+      "translation": "",
+      "explanation_zh": "Sansa激烈拒绝。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-055",
+      "page": 678,
+      "end_page": 678,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“I can have Ser Meryn drag you up,” he said. “You won’t like that. You had better do what I say.” Joffrey reached for her, and Sansa cringed away from him, backing into the Hound.",
+      "translation": "",
+      "explanation_zh": "Joffrey威胁让Meryn拖她上去，Sansa退到Hound身上。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P678-056",
+      "page": 678,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“Do it, girl,” Sandor Clegane told her, pushing her back toward the king. His mouth twitched on the burned side of his face and Sansa could almost hear the rest of it. He’ll have you up there no matter what, so give him what he wants.",
+      "translation": "",
+      "explanation_zh": "Sandor把她推回king，未说出口的含义仍是无法避免就减少pain。",
+      "literary_note_zh": "Sandor的do it是harm-reduction而非赞同；他不阻止Joffrey，也提供最低限度现实导航。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-057",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "She forced herself to take King Joffrey’s hand. The climb was something out of a nightmare; every step was a struggle, as if she were pulling her feet out of ankle-deep mud, and there were more steps than she would have believed, a thousand thousand steps, and horror waiting on the ramparts.",
+      "translation": "",
+      "explanation_zh": "Sansa强迫自己牵Joffrey手，上stairs如从深mud拔脚，ramparts上有horror等待。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-058",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "From the high battlements of the gatehouse, the whole world spread out below them. Sansa could see the Great Sept of Baelor on Visenya’s hill, where her father had died. At the other end of the Street of the Sisters stood the fire-blackened ruins of the Dragonpit. To the west, the swollen red sun was half-hidden behind the Gate of the Gods. The salt sea was at her back, and to the south was the fish market and the docks and the swirling torrent of the Blackwater Rush. And to the north . . .",
+      "translation": "",
+      "explanation_zh": "高墙上King’s Landing全景展开：sept、Dragonpit、sun、sea、docks和Blackwater。",
+      "literary_note_zh": "城景提供possible escape imagination，却也显示她被置于权力中心高处。",
+      "background_zh": "**battlement geography：** gatehouse高墙可俯瞰Baelor sept、Dragonpit、Blackwater与city north。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-059",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "She turned that way, and saw only the city, streets and alleys and hills and bottoms and more streets and more alleys and the stone of distant walls. Yet she knew that beyond them was open country, farms and fields and forests, and beyond that, north and north and north again, stood Winterfell.",
+      "translation": "",
+      "explanation_zh": "她望north，只见city，却想象更远的fields、forests与Winterfell。",
+      "literary_note_zh": "north重复三次把Winterfell变成心理方向，超越眼前city walls。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-060",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“What are you looking at?” Joffrey said. “This is what I wanted you to see, right here.”",
+      "translation": "",
+      "explanation_zh": "Joffrey打断，要求她看近处目标。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-061",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "A thick stone parapet protected the outer edge of the rampart, reaching as high as Sansa’s chin, with crenellations cut into it every five feet for archers. The heads were mounted between the crenels, along the top of the wall, impaled on iron spikes so they faced out over the city. Sansa had noted them the moment she’d stepped out onto the wallwalk, but the river and the bustling streets and the setting sun were ever so much prettier. He can make me look at the heads, she told herself, but he can’t make me see them.",
+      "translation": "",
+      "explanation_zh": "heads插在spikes间；Sansa从一开始就注意，却用river、streets、sun主动转移，告诉自己可被迫look但不能被迫see。",
+      "literary_note_zh": "look/see区分是cognitive resistance：Joffrey能控制视线对象，不能完全控制意义与情感连接。",
+      "background_zh": "**displayed heads：** gold cloaks把被处决者head涂tar置于spikes，以public terror展示traitor punishment。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-062",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“This one is your father,” he said. “This one here. Dog, turn it around so she can see him.”",
+      "translation": "",
+      "explanation_zh": "Joffrey指出Eddard head并命Dog转过来。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-063",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Sandor Clegane took the head by the hair and turned it. The severed head had been dipped in tar to preserve it longer. Sansa looked at it calmly, not seeing it at all. It did not really look like Lord Eddard, she thought; it did not even look real. “How long do I have to look?”",
+      "translation": "",
+      "explanation_zh": "Sandor抓头发转动tarred head；Sansa冷静解离，认为不像Eddard也不真实，只问要看多久。",
+      "literary_note_zh": "not real是dissociation保护，不是她真的不认识Eddard；只问时间恢复一点procedural control。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-064",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "Joffrey seemed disappointed. “Do you want to see the rest?” There was a long row of them.",
+      "translation": "",
+      "explanation_zh": "Joffrey对她反应失望，问是否看其余。",
+      "literary_note_zh": "Joffrey disappointed说明展示heads目的在获取恐惧反应，而非单纯传递信息。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P679-065",
+      "page": 679,
+      "end_page": 679,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "“If it please Your Grace.”",
+      "translation": "",
+      "explanation_zh": "Sansa以if it please Your Grace服从。",
+      "literary_note_zh": "Joffrey在name-day谈话中羞辱并威胁她，再逼她上battlements看Eddard与其他heads；Sansa以look/not see抵抗。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-066",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "Joffrey marched her down the wallwalk, past a dozen more heads and two empty spikes. “I’m saving those for my uncle Stannis and my uncle Renly,” he explained. The other heads had been dead and mounted much longer than her father. Despite the tar, most were long past being recognizable. The king pointed to one and said, “That’s your septa there,” but Sansa could not even have told that it was a woman. The jaw had rotted off her face, and birds had eaten one ear and most of a cheek.",
+      "translation": "",
+      "explanation_zh": "Joffrey带她经过更多heads与为Stannis/Renly保留的空spikes，并指Sept Mordane腐坏head。",
+      "literary_note_zh": "empty spikes把未来敌人预先物化为heads，显示Joffrey把wish当sentence。",
+      "background_zh": "**reserved spikes：** Joffrey预留给Stannis、Renly，反映其将两位叔父均视作future traitors。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-067",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "Sansa had wondered what had happened to Septa Mordane, although she supposed she had known all along. “Why did you kill her?” she asked. “She was godsworn . . . ”",
+      "translation": "",
+      "explanation_zh": "Sansa确认Septa命运，问为何杀godsworn woman。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "**Septa Mordane：** Sansa governess、godsworn septa，在Stark household被清洗后遇害。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-068",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "“She was a traitor.” Joffrey looked pouty; somehow she was upsetting him. “You haven’t said what you mean to give me for my name day. Maybe I should give you something instead, would you like that?”",
+      "translation": "",
+      "explanation_zh": "Joffrey仍称traitor，并因Sansa没按预期反应而pout，转回name day威胁。",
+      "literary_note_zh": "Sansa平静追问Mordane打断其期待的horror script，反而让Joffrey感到受挫。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-069",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“If it please you, my lord,” Sansa said.",
+      "translation": "",
+      "explanation_zh": "Sansa继续使用顺从套语。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-070",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "When he smiled, she knew he was mocking her. “Your brother is a traitor too, you know.” He turned Septa Mordane’s head back around. “I remember your brother from Winterfell. My dog called him the lord of the wooden sword. Didn’t you, dog?”",
+      "translation": "",
+      "explanation_zh": "Joffrey嘲弄她并说Robb也是traitor，拿Winterfell旧称呼lord of wooden sword取乐。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-071",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "“Did I?” the Hound replied. “I don’t recall.”",
+      "translation": "",
+      "explanation_zh": "Hound冷淡说不记得。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-072",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "Joffrey gave a petulant shrug. “Your brother defeated my uncle Jaime. My mother says it was treachery and deceit. She wept when she heard. Women are all weak, even her, though she pretends she isn’t. She says we need to stay in King’s Landing in case my other uncles attack, but I don’t care. After my name day feast, I’m going to raise a host and kill your brother myself. That’s what I’ll give you, Lady Sansa. Your brother’s head.”",
+      "translation": "",
+      "explanation_zh": "Joffrey透露Robb击败Jaime、Cersei哭泣，并威胁亲率军杀Robb，把brother head当gift。",
+      "literary_note_zh": "Robb victory与Jaime capture是Sansa首次听到的战略变化；Cersei tears暴露Lannister也会受损。",
+      "background_zh": "**new war news：** Robb已击败并俘获Jaime；Cersei要求留在capital防Stannis/Renly。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-073",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "A kind of madness took over her then, and she heard herself say, “Maybe my brother will give me your head.”",
+      "translation": "",
+      "explanation_zh": "瞬间madness使Sansa反击Robb也许会送来Joffrey head。",
+      "literary_note_zh": "Maybe my brother...不是计划性挑衅，而是长期压抑后madness瞬间突破survival script。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-074",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "Joffrey scowled. “You must never mock me like that. A true wife does not mock her lord. Ser Meryn, teach her.”",
+      "translation": "",
+      "explanation_zh": "Joffrey禁止wife嘲弄lord，命Meryn教训。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-075",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "This time the knight grasped her beneath the jaw and held her head still as he struck her. He hit her twice, left to right, and harder, right to left. Her lip split and blood ran down her chin, to mingle with the salt of her tears.",
+      "translation": "",
+      "explanation_zh": "Meryn固定她下巴左右掌击，打裂lip，血泪混合。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-076",
+      "page": 680,
+      "end_page": 680,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "“You shouldn’t be crying all the time,” Joffrey told her. “You’re more pretty when you smile and laugh.”",
+      "translation": "",
+      "explanation_zh": "Joffrey嫌她总哭，说笑起来更漂亮。",
+      "literary_note_zh": "Joffrey要求smile while bleeding，把appearance control与physical abuse绑定。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P680-077",
+      "page": 680,
+      "end_page": 681,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "Sansa made herself smile, afraid that he would have Ser Meryn hit her again if she did not, but it was no good, the king still shook his head. “Wipe off the blood, you’re all messy.”",
+      "translation": "",
+      "explanation_zh": "Sansa强迫smile避免再打，Joffrey仍命她擦血。",
+      "literary_note_zh": "Septa Mordane death与Robb victory消息触发Sansa反击；再受殴打后她一度想推Joffrey坠落，Sandor介入使时机消失。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P681-078",
+      "page": 681,
+      "end_page": 681,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "The outer parapet came up to her chin, but along the inner edge of the walk was nothing, nothing but a long plunge to the bailey seventy or eighty feet below. All it would take was a shove, she told herself. He was standing right there, right there, smirking at her with those fat wormlips. You could do it, she told herself. You could. Do it right now. It wouldn’t even matter if she went over with him. It wouldn’t matter at all.",
+      "translation": "",
+      "explanation_zh": "她注意inner edge无护栏、下方极深，产生推Joffrey并一同坠落的瞬间念头。",
+      "literary_note_zh": "push impulse包含self-sacrifice，延续开头suicidal despair；文本没有将其行动化或美化。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P681-079",
+      "page": 681,
+      "end_page": 681,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "“Here, girl.” Sandor Clegane knelt before her, between her and Joffrey. With a delicacy surprising in such a big man, he dabbed at the blood welling from her broken lip.",
+      "translation": "",
+      "explanation_zh": "Sandor恰好跪到两人中间，以意外轻柔动作替她擦血。",
+      "literary_note_zh": "Sandor位置上切断路径，可能有意或偶然；结果是阻止即时双重坠落。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH67-P681-080",
+      "page": 681,
+      "end_page": 681,
+      "type": "paragraph",
+      "order": 80,
+      "original_text": "The moment was gone. Sansa lowered her eyes. “Thank you,” she said when he was done. She was a good girl, and always remembered her courtesies.",
+      "translation": "",
+      "explanation_zh": "机会消失；Sansa低眼道谢，仍以good girl courtesies维持表面。",
+      "literary_note_zh": "courtesy结尾不再表示相信songs，而是她在失去机会后重新戴上可生存的mask。",
+      "background_zh": "本段没有新增必须补充的设定；重点在Sansa创伤反应、court language作为survival mask、Joffrey的proxy violence与Sandor的有限harm reduction。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

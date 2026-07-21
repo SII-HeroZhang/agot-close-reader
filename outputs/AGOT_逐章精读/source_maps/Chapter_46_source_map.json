@@ -1,0 +1,1873 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 46 — DAENERYS",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    449,
+    458
+  ],
+  "block_count": 86,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 449,
+      "first_id": "CH46-P449-001",
+      "last_id": "CH46-P449-006"
+    },
+    {
+      "page": 450,
+      "first_id": "CH46-P450-007",
+      "last_id": "CH46-P450-016"
+    },
+    {
+      "page": 451,
+      "first_id": "CH46-P451-017",
+      "last_id": "CH46-P451-024"
+    },
+    {
+      "page": 452,
+      "first_id": "CH46-P452-025",
+      "last_id": "CH46-P452-030"
+    },
+    {
+      "page": 453,
+      "first_id": "CH46-P453-031",
+      "last_id": "CH46-P453-039"
+    },
+    {
+      "page": 454,
+      "first_id": "CH46-P454-040",
+      "last_id": "CH46-P454-049"
+    },
+    {
+      "page": 455,
+      "first_id": "CH46-P455-050",
+      "last_id": "CH46-P455-060"
+    },
+    {
+      "page": 456,
+      "first_id": "CH46-P456-061",
+      "last_id": "CH46-P456-070"
+    },
+    {
+      "page": 457,
+      "first_id": "CH46-P457-071",
+      "last_id": "CH46-P457-079"
+    },
+    {
+      "page": 458,
+      "first_id": "CH46-P458-080",
+      "last_id": "CH46-P458-086"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH46-P449-001",
+      "page": 449,
+      "end_page": 449,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "The heart was steaming in the cool evening air when Khal Drogo set it before her, raw and bloody. His arms were red to the elbow. Behind him, his bloodriders knelt on the sand beside the corpse of the wild stallion, stone knives in their hands. The stallion’s blood looked black in the flickering orange glare of the torches that ringed the high chalk walls of the pit.",
+      "translation": "",
+      "explanation_zh": "Drogo把刚取出的raw stallion heart放到Daenerys面前，bloodriders持stone knives跪在尸体旁。",
+      "literary_note_zh": "heart steaming把生命刚离体的时间感置于仪式开端；torch使blood变black，神圣与恐怖同时出现。",
+      "background_zh": "**stallion-heart rite：** pregnant khaleesi公开吃完整颗raw stallion heart，以Dothraki信仰为胎儿获取strength与omens。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P449-002",
+      "page": 449,
+      "end_page": 449,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Dany touched the soft swell of her belly. Sweat beaded her skin and trickled down her brow. She could feel the old women watching her, the ancient crones of Vaes Dothrak, with eyes that shone dark as polished flint in their wrinkled faces. She must not flinch or look afraid. I am the blood of the dragon, she told herself as she took the stallion’s heart in both hands, lifted it to her mouth, and plunged her teeth into the tough, stringy flesh.",
+      "translation": "",
+      "explanation_zh": "Daenerys摸着孕腹，在dosh khaleen注视下以blood of dragon鼓励自己咬下heart。",
+      "literary_note_zh": "must not flinch是公开权力测试：Daenerys不只是进食，也在dosh khaleen、Drogo与khalasar前证明khaleesi资格。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P449-003",
+      "page": 449,
+      "end_page": 449,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "Warm blood filled her mouth and ran down over her chin. The taste threatened to gag her, but she made herself chew and swallow. The heart of a stallion would make her son strong and swift and fearless, or so the Dothraki believed, but only if the mother could eat it all. If she choked on the blood or retched up the flesh, the omens were less favorable; the child might be stillborn, or come forth weak, deformed, or female.",
+      "translation": "",
+      "explanation_zh": "她忍住温血与恶心吞咽；Dothraki相信吃完整颗heart才能让son强壮，失败预示stillbirth、畸弱或female。",
+      "literary_note_zh": "female与stillborn/deformed并列，清楚暴露Dothraki预兆体系的性别贬抑；这是文化信念，不是医学事实。",
+      "background_zh": "**文化／医学区分：** heart与胎儿性别、畸形、stillbirth间的因果是Dothraki belief，不是医学事实；female被视作bad omen反映性别等级。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P449-004",
+      "page": 449,
+      "end_page": 449,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "Her handmaids had helped her ready herself for the ceremony. Despite the tender mother’s stomach that had afflicted her these past two moons, Dany had dined on bowls of half-clotted blood to accustom herself to the taste, and Irri made her chew strips of dried horseflesh until her jaws were aching. She had starved herself for a day and a night before the ceremony in the hopes that hunger would help her keep down the raw meat.",
+      "translation": "",
+      "explanation_zh": "handmaids事先用半凝blood、dried horseflesh和禁食训练她适应味道与份量。",
+      "literary_note_zh": "成功看似瞬间意志奇迹，实则由handmaids数月训练、饮食适应与禁食共同准备。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P449-005",
+      "page": 449,
+      "end_page": 449,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "The wild stallion’s heart was all muscle, and Dany had to worry it with her teeth and chew each mouthful a long time. No steel was permitted within the sacred confines of Vaes Dothrak, beneath the shadow of the Mother of Mountains; she had to rip the heart apart with teeth and nails. Her stomach roiled and heaved, yet she kept on, her face smeared with the heartsblood that sometimes seemed to explode against her lips.",
+      "translation": "",
+      "explanation_zh": "Vaes Dothrak禁steel，Daenerys只能用牙与指甲撕muscle，忍住胃部翻涌继续。",
+      "literary_note_zh": "no steel规则让teeth/nails成为仪式工具，身体本身必须承担文化纯洁性要求。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P449-006",
+      "page": 449,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Khal Drogo stood over her as she ate, his face as hard as a bronze shield. His long black braid was shiny with oil. He wore gold rings in his mustache, gold bells in his braid, and a heavy belt of solid gold medallions around his waist, but his chest was bare. She looked at him whenever she felt her strength failing; looked at him, and chewed and swallowed, chewed and swallowed, chewed and swallowed. Toward the end, Dany thought she glimpsed a fierce pride in his dark, almond-shaped eyes, but she could not be sure. The khal’s face did not often betray the thoughts within.",
+      "translation": "",
+      "explanation_zh": "Drogo硬脸俯视；Daenerys每次力竭便看他，反复chew and swallow，最后似乎看见他的pride。",
+      "literary_note_zh": "chewed and swallowed三次重复模拟机械坚持；Drogo可能的pride仍用thought/glimpsed保留Daenerys不确定。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-007",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "And finally it was done. Her cheeks and fingers were sticky as she forced down the last of it. Only then did she turn her eyes back to the old women, the crones of the dosh khaleen.",
+      "translation": "",
+      "explanation_zh": "她终于吞下最后部分，手脸黏血，才重新看向dosh khaleen。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-008",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "“Khalakka dothrae mr’anha!” she proclaimed in her best Dothraki. A prince rides inside me! She had practiced the phrase for days with her handmaid Jhiqui.",
+      "translation": "",
+      "explanation_zh": "Daenerys用练习多日的Dothraki宣布prince正在体内骑行。",
+      "literary_note_zh": "背诵练习显示语言能力也是政治表演基础；正确一句Dothraki让她主动宣布而非被他人命名。",
+      "background_zh": "**khalakka：** khal之子、prince；Dany练习Dothraki句子公开确认胎儿male身份。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-009",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "The oldest of the crones, a bent and shriveled stick of a woman with a single black eye, raised her arms on high. “Khalakka dothrae!” she shrieked. The prince is riding!",
+      "translation": "",
+      "explanation_zh": "独眼老crone举臂回应prince is riding。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-010",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "“He is riding!” the other women answered. “Rakh! Rakh! Rakh haj!” they proclaimed. A boy, a boy, a strong boy.",
+      "translation": "",
+      "explanation_zh": "其余women齐声宣告是strong boy。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-011",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "Bells rang, a sudden clangor of bronze birds. A deep-throated warhorn sounded its long low note. The old women began to chant. Underneath their painted leather vests, their withered dugs swayed back and forth, shiny with oil and sweat. The eunuchs who served them threw bundles of dried grasses into a great bronze brazier, and clouds of fragrant smoke rose up toward the moon and the stars. The Dothraki believed the stars were horses made of fire, a great herd that galloped across the sky by night.",
+      "translation": "",
+      "explanation_zh": "bells、warhorn、chant与brazier香烟启动预言仪式；Dothraki把stars看作fire horses。",
+      "literary_note_zh": "stars as fire horses把天象纳入horse culture，prophecy不是孤立迷信，而嵌入整个宇宙想象。",
+      "background_zh": "**dosh khaleen：** deceased khals widows组成的wise-women council，居Vaes Dothrak并拥有连khals也尊重的预言与政治权威。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-012",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "As the smoke ascended, the chanting died away and the ancient crone closed her single eye, the better to peer into the future. The silence that fell was complete. Dany could hear the distant call of night birds, the hiss and crackle of the torches, the gentle lapping of water from the lake. The Dothraki stared at her with eyes of night, waiting.",
+      "translation": "",
+      "explanation_zh": "烟升chant止，crone闭眼看future，全场在lake与torch声中静候。",
+      "literary_note_zh": "关闭视觉才能peer future形成paradox；全场静音把crone interpretation塑成唯一权威声音。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-013",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "Khal Drogo laid his hand on Dany’s arm. She could feel the tension in his fingers. Even a khal as mighty as Drogo could know fear when the dosh khaleen peered into smoke of the future. At her back, her handmaids fluttered anxiously.",
+      "translation": "",
+      "explanation_zh": "Drogo握Daenerys手臂时手指紧张，显示强大khal也畏惧dosh khaleen预言。",
+      "literary_note_zh": "Drogo fingers泄露的fear比face更可读；powerful leader仍受religious institution约束。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-014",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "Finally the crone opened her eye and lifted her arms. “I have seen his face, and heard the thunder of his hooves,” she proclaimed in a thin, wavery voice.",
+      "translation": "",
+      "explanation_zh": "crone睁眼说看见胎儿面孔并听见hooves thunder。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-015",
+      "page": 450,
+      "end_page": 450,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“The thunder of his hooves!” the others chorused.",
+      "translation": "",
+      "explanation_zh": "其他women回声重复thunder。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P450-016",
+      "page": 450,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“As swift as the wind he rides, and behind him his khalasar covers the earth, men without number, with arakhs shining in their hands like blades of razor grass. Fierce as a storm this prince will be. His enemies will tremble before him, and their wives will weep tears of blood and rend their flesh in grief. The bells in his hair will sing his coming, and the milk men in the stone tents will fear his name.” The old woman trembled and looked at Dany almost as if she were afraid. “The prince is riding, and he shall be the stallion who mounts the world.”",
+      "translation": "",
+      "explanation_zh": "crone预言prince迅疾、khalasar无数、敌人恐惧，将成为stallion who mounts world。",
+      "literary_note_zh": "预言以敌妻血泪赞美conquest，world-stallion既是统一希望也是对外部people的灾难想象。",
+      "background_zh": "**stallion who mounts world：** 古预言中的khal of khals，将统一所有Dothraki并把world people视为herd。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-017",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“The stallion who mounts the world!” the onlookers cried in echo, until the night rang to the sound of their voices.",
+      "translation": "",
+      "explanation_zh": "围观者反复高喊这一title，声音响彻night。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-018",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "The one-eyed crone peered at Dany. “What shall he be called, the stallion who mounts the world?”",
+      "translation": "",
+      "explanation_zh": "独眼crone问这位world-stallion叫什么。",
+      "literary_note_zh": "Daenerys完成stallion-heart测试，dosh khaleen从smoke预言其son为统一Dothraki、征服world的stallion，并命名Rhaego。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-019",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "She stood to answer. “He shall be called Rhaego,” she said, using the words that Jhiqui had taught her. Her hands touched the swell beneath her breasts protectively as a roar went up from the Dothraki. “Rhaego,” they screamed. “Rhaego, Rhaego, Rhaego!”",
+      "translation": "",
+      "explanation_zh": "Daenerys站起宣布Rhaego，保护性摸孕腹，Dothraki以roar重复name。",
+      "literary_note_zh": "Rhaego把未见brother Rhaegar、未来son与Targaryen restoration连结；protective touch同时有母性与政治意味。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-020",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "The name was still ringing in her ears as Khal Drogo led her from the pit. His bloodriders fell in behind them. A procession followed them out onto the godsway, the broad grassy road that ran through the heart of Vaes Dothrak, from the horse gate to the Mother of Mountains. The crones of the dosh khaleen came first, with their eunuchs and slaves. Some supported themselves with tall carved staffs as they struggled along on ancient, shaking legs, while others walked as proud as any horselord. Each of the old women had been a khaleesi once. When their lord husbands died and a new khal took his place at the front of his riders, with a new khaleesi mounted beside him, they were sent here, to reign over the vast Dothraki nation. Even the mightiest of khals bowed to the wisdom and authority of the dosh khaleen. Still, it gave Dany the shivers to think that one day she might be sent to join them, whether she willed it or no.",
+      "translation": "",
+      "explanation_zh": "Drogo领她出pit，dosh khaleen procession随后；叙述说明每名crone曾是khaleesi，widowed后被强制留城统治nation。",
+      "literary_note_zh": "dosh khaleen拥有超越khals的authority，却来自widow被强制留城；制度把女性个人自由兑换为集体权威。",
+      "background_zh": "**widow rule：** khaleesi在khal死后必须加入dosh khaleen，不以本人意愿为转移；权威与强制同时存在。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-021",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "Behind the wise women came the others; Khal Ogo and his son, the khalakka Fogo, Khal Jommo and his wives, the chief men of Drogo’s khalasar, Dany’s handmaids, the khal’s servants and slaves, and more. Bells rang and drums beat a stately cadence as they marched along the godsway. Stolen heroes and the gods of dead peoples brooded in the darkness beyond the road. Alongside the procession, slaves ran lightly through the grass with torches in their hands, and the flickering flames made the great monuments seem almost alive.",
+      "translation": "",
+      "explanation_zh": "其后是其他khals、wives、leaders、handmaids、servants、slaves；沿godsway的stolen gods在黑暗中注视。",
+      "literary_note_zh": "stolen heroes/dead gods让Vaes Dothrak成为被征服文化的仓库；monuments保存外形，却失去原社区。",
+      "background_zh": "**godsway：** Vaes Dothrak中央grass road，两侧立有Dothraki从被征服people带来的heroes与gods。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-022",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "“What is meaning, name Rhaego?” Khal Drogo asked as they walked, using the Common Tongue of the Seven Kingdoms. She had been teaching him a few words when she could. Drogo was quick to learn when he put his mind to it, though his accent was so thick and barbarous that neither Ser Jorah nor Viserys could understand a word he said.",
+      "translation": "",
+      "explanation_zh": "Drogo用Daenerys教的Common Tongue问Rhaego含义，虽学得快但口音令Jorah、Viserys听不懂。",
+      "literary_note_zh": "Daenerys教Drogo Common Tongue形成双向学习，不再只是她单方面被迫适应Dothraki。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-023",
+      "page": 451,
+      "end_page": 451,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "“My brother Rhaegar was a fierce warrior, my sun-and-stars,” she told him. “He died before I was born. Ser Jorah says that he was the last of the dragons.”",
+      "translation": "",
+      "explanation_zh": "Daenerys说以未曾见过的brother Rhaegar命名，Jorah称其last dragon。",
+      "literary_note_zh": "Rhaegar身份来自Jorah转述与Viserys故事；Daenerys用name继承一个从未亲见的family past。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P451-024",
+      "page": 451,
+      "end_page": 452,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "Khal Drogo looked down at her. His face was a copper mask, yet under the long black mustache, drooping beneath the weight of its gold rings, she thought she glimpsed the shadow of a smile. “Is good name, Dan Ares wife, moon of my life,” he said.",
+      "translation": "",
+      "explanation_zh": "Drogo似乎微笑，以生涩Common Tongue认可名字并称她moon of life。",
+      "literary_note_zh": "Dan Ares wife展示Drogo仍在拆分陌生音节；不完美语言却承担亲密认可。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P452-025",
+      "page": 452,
+      "end_page": 452,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "They rode to the lake the Dothraki called the Womb of the World, surrounded by a fringe of reeds, its water still and calm. A thousand thousand years ago, Jhiqui told her, the first man had emerged from its depths, riding upon the back of the first horse.",
+      "translation": "",
+      "explanation_zh": "队伍到Womb of the World湖；传说first man从湖中骑first horse出现。",
+      "literary_note_zh": "Womb of World与pregnancy呼应，把个人孕腹置入Dothraki creation myth。",
+      "background_zh": "**Womb of World：** Dothraki creation lake，传说first man骑first horse由此出现。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P452-026",
+      "page": 452,
+      "end_page": 452,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "[原文含十四岁Daenerys在公众仪式中的裸露与露骨身体描写，此处不逐字复录。请参见源 PDF p.452 对应段落。]",
+      "translation": "",
+      "explanation_zh": "本段含十四岁Daenerys在公众仪式中的裸露与露骨身体描写；不逐字复录。",
+      "literary_note_zh": "本段涉及未成年公开裸露与露骨身体细节，不逐字复录。其叙事功能是通过water cleansing完成blood-to-sacred transition。",
+      "background_zh": "**安全说明：** 本段含十四岁Daenerys公开裸露与露骨身体描写；保留cleansing仪式作用与定位，不复录细节。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P452-027",
+      "page": 452,
+      "end_page": 452,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "[原文含成人Drogo对十四岁Daenerys的露骨性化注视、身体反应与脱衣描写，此处不逐字复录。请参见源 PDF p.452 对应段落。]",
+      "translation": "",
+      "explanation_zh": "本段含十四岁Daenerys被成人伴侣性化注视及露骨身体/性唤起描写；不逐字复录。",
+      "literary_note_zh": "本段含成人对十四岁Daenerys的露骨性化注视与唤起，不复录。公开仪式与private sexuality在群体目光下无缝连接。",
+      "background_zh": "**安全说明：** 本段含成人对十四岁Daenerys的露骨性化注视与身体反应；不逐字复录。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P452-028",
+      "page": 452,
+      "end_page": 452,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "[原文含成人Drogo与十四岁Daenerys之间的露骨性行为，此处不逐字复录。请参见源 PDF p.452 对应段落。]",
+      "translation": "",
+      "explanation_zh": "本段含成人Drogo与十四岁Daenerys的露骨性行为；不逐字复录。",
+      "literary_note_zh": "本段含成人与十四岁未成年人的露骨性行为，不逐字复录。文本把prophecy title带入行为语言，强化son、sex与conquest绑定。",
+      "background_zh": "**安全说明：** 本段含成人Drogo与十四岁Daenerys的露骨性行为；保留prophecy、权力与仪式衔接分析。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P452-029",
+      "page": 452,
+      "end_page": 452,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "Khal Drogo laced himself up and spoke a command, and horses were brought to the lakeshore. Cohollo had the honor of helping the khaleesi onto her silver. Drogo spurred his stallion, and set off down the godsway beneath the moon and stars. On her silver, Dany easily kept pace.",
+      "translation": "",
+      "explanation_zh": "仪式后Drogo整装并叫horses，Cohollo扶Daenerys上silver，两人月下沿godsway疾驰。",
+      "literary_note_zh": "procession解释dosh khaleen widow authority，Drogo学习Common Tongue；Womb of World cleansing后众人回hall公开庆祝pregnancy。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P452-030",
+      "page": 452,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "The silk tenting that roofed Khal Drogo’s hall had been rolled up tonight, and the moon followed them inside. Flames leapt ten feet in the air from three huge stone-lined firepits. The air was thick with the smells of roasting meat and curdled, fermented mare’s milk. The hall was crowded and noisy when they entered, the cushions packed with those whose rank and name were not sufficient to allow them at the ceremony. As Dany rode beneath the arched entry and up the center aisle, every eye was on her. The Dothraki screamed out comments on her belly and her breasts, hailing the life within her. She could not understand all they shouted, but one phrase came clear. “The stallion that mounts the world,” she heard, bellowed in a thousand voices.",
+      "translation": "",
+      "explanation_zh": "Drogo hall卷起roof silk、三座firepit高燃；Daenerys骑入时全场评论孕腹并高呼world-stallion。",
+      "literary_note_zh": "hall roof开放让moon延续ritual space；群众对孕腹的喊声把Daenerys body变成公共政治象征。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-031",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "The sounds of drums and horns swirled up into the night. Half-clothed women spun and danced on the low tables, amid joints of meat and platters piled high with plums and dates and pomegranates. Many of the men were drunk on clotted mare’s milk, yet Dany knew no arakhs would clash tonight, not here in the sacred city, where blades and bloodshed were forbidden.",
+      "translation": "",
+      "explanation_zh": "drums、horns、dancers、fruit和醉men充满宴会，但sacred city禁blade与bloodshed。",
+      "literary_note_zh": "no blade/no blood并不等于no violence；后文Viserys会误把规则字面当绝对安全。",
+      "background_zh": "**Vaes Dothrak law：** sacred city内禁止携带blade、shed blood；规则可被不流血的杀法绕过。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-032",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "Khal Drogo dismounted and took his place on the high bench. Khal Jommo and Khal Ogo, who had been in Vaes Dothrak with their khalasars when they arrived, were given seats of high honor to Drogo’s right and left. The bloodriders of the three khals sat below them, and farther down Khal Jommo’s four wives.",
+      "translation": "",
+      "explanation_zh": "Drogo居high bench，Jommo、Ogo与各bloodriders、wives按rank就座。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-033",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "Dany climbed off her silver and gave the reins to one of the slaves. As Doreah and Irri arranged her cushions, she searched for her brother. Even across the length of the crowded hall, Viserys should have been conspicuous with his pale skin, silvery hair, and beggar’s rags, but she did not see him anywhere.",
+      "translation": "",
+      "explanation_zh": "Daenerys下马后寻找Viserys，却没看见其显眼银发与破旧服装。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-034",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Her glance roamed the crowded tables near the walls, where men whose braids were even shorter than their manhoods sat on frayed rugs and flat cushions around the low tables, but all the faces she saw had black eyes and copper skin. She spied Ser Jorah Mormont near the center of the hall, close to the middle firepit. It was a place of respect, if not high honor; the Dothraki esteemed the knight’s prowess with a sword. Dany sent Jhiqui to bring him to her table. Mormont came at once, and went to one knee before her. “Khaleesi,” he said, “I am yours to command.”",
+      "translation": "",
+      "explanation_zh": "她在低位席间没找到brother，却见Jorah因剑术获尊重座位，召他到自己身旁。",
+      "literary_note_zh": "Dothraki respect Jorah sword prowess，即使此城禁sword；能力的社会价值超出当下能否使用。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-035",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "She patted the stuffed horsehide cushion beside her. “Sit and talk with me.”",
+      "translation": "",
+      "explanation_zh": "Daenerys拍cushion请Jorah坐下聊天。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-036",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“You honor me.” The knight seated himself cross-legged on the cushion. A slave knelt before him, offering a wooden platter full of ripe figs. Ser Jorah took one and bit it in half.",
+      "translation": "",
+      "explanation_zh": "Jorah称受honor，坐下取slave盘中fig。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-037",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“Where is my brother?” Dany asked. “He ought to have come by now, for the feast.”",
+      "translation": "",
+      "explanation_zh": "Daenerys问Viserys为何还未来feast。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-038",
+      "page": 453,
+      "end_page": 453,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“I saw His Grace this morning,” he told her. “He told me he was going to the Western Market, in search of wine.”",
+      "translation": "",
+      "explanation_zh": "Jorah说早晨见他要去Western Market找wine。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P453-039",
+      "page": 453,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“Wine?” Dany said doubtfully. Viserys could not abide the taste of the fermented mare’s milk the Dothraki drank, she knew that, and he was oft at the bazaars these days, drinking with the traders who came in the great caravans from east and west. He seemed to find their company more congenial than hers.",
+      "translation": "",
+      "explanation_zh": "Daenerys知道Viserys常去bazaar同caravan traders喝wine，似乎觉得他们比她更congenial。",
+      "literary_note_zh": "Viserys转向traders不是建立独立外交，而是从sister/khalasar失势后寻找愿听其king story的新观众。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-040",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "“Wine,” Ser Jorah confirmed, “and he has some thought to recruit men for his army from the sellswords who guard the caravans.” A serving girl laid a blood pie in front of him, and he attacked it with both hands.",
+      "translation": "",
+      "explanation_zh": "Jorah说Viserys还想从caravan sellswords招army，边说边吃blood pie。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-041",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "“Is that wise?” she asked. “He has no gold to pay soldiers. What if he’s betrayed?” Caravan guards were seldom troubled much by thoughts of honor, and the Usurper in King’s Landing would pay well for her brother’s head. “You ought to have gone with him, to keep him safe. You are his sworn sword.”",
+      "translation": "",
+      "explanation_zh": "Daenerys担心他无gold、会被betray，并责Jorah未履sworn sword保护。",
+      "literary_note_zh": "Daenerys仍以sworn sword规则要求Jorah保护Viserys，说明她尚在努力维持brother king架构。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-042",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "“We are in Vaes Dothrak,” he reminded her. “No one may carry a blade here or shed a man’s blood.”",
+      "translation": "",
+      "explanation_zh": "Jorah提醒Vaes Dothrak不许带blade或shed blood。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-043",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Yet men die,” she said. “Jhogo told me. Some of the traders have eunuchs with them, huge men who strangle thieves with wisps of silk. That way no blood is shed and the gods are not angered.”",
+      "translation": "",
+      "explanation_zh": "Daenerys指出仍有人死亡，traders可让eunuchs用silk勒死thieves以绕过no blood规则。",
+      "literary_note_zh": "silk strangling是legal loophole：禁止shed blood被遵守字面却不阻止杀人，预演gold crown。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-044",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“Then let us hope your brother will be wise enough not to steal anything.” Ser Jorah wiped the grease off his mouth with the back of his hand and leaned close over the table. “He had planned to take your dragon’s eggs, until I warned him that I’d cut off his hand if he so much as touched them.”",
+      "translation": "",
+      "explanation_zh": "Jorah说希望Viserys别偷东西，随后透露他曾想拿dragon eggs，自己以砍手阻止。",
+      "literary_note_zh": "Jorah以威胁阻止egg theft，保护Daenerys property，却没有先告诉她；保护与替她决定边界重叠。",
+      "background_zh": "**dragon eggs：** Illyrio给Daenerys的bride gifts，虽已石化仍极稀有昂贵，可兑换大批sellswords。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-045",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "For a moment Dany was so shocked she had no words. “My eggs . . . but they’re mine, Magister Illyrio gave them to me, a bride gift, why would Viserys want . . . they’re only stones . . . ”",
+      "translation": "",
+      "explanation_zh": "Daenerys震惊，强调eggs是Illyrio给自己的bride gift且只是stone。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-046",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“The same could be said of rubies and diamonds and fire opals, Princess . . . and dragon’s eggs are rarer by far. Those traders he’s been drinking with would sell their own manhoods for even one of those stones, and with all three Viserys could buy as many sellswords as he might need.”",
+      "translation": "",
+      "explanation_zh": "Jorah解释dragon eggs比gems更稀有，卖掉三枚足以买大量sellswords。",
+      "literary_note_zh": "feast中Daenerys寻找Viserys；Jorah揭露他想卖dragon eggs招sellswords，Daenerys仍以唯一family为由愿意给他。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-047",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "Dany had not known, had not even suspected. “Then . . . he should have them. He does not need to steal them. He had only to ask. He is my brother . . . and my true king.”",
+      "translation": "",
+      "explanation_zh": "Daenerys仍说若brother需要便应给他，他只需开口，因为他是brother与true king。",
+      "literary_note_zh": "Daenerys第一反应仍是主动让渡财富，brother/true king的旧忠诚压过property betrayal。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-048",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“He is your brother,” Ser Jorah acknowledged.",
+      "translation": "",
+      "explanation_zh": "Jorah只认可brother身份，没有认可true king。",
+      "literary_note_zh": "Jorah只重复brother，沉默删去true king；这是一种精确而不直接冒犯的否认。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P454-049",
+      "page": 454,
+      "end_page": 454,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“You do not understand, ser,” she said. “My mother died giving me birth, and my father and my brother Rhaegar even before that. I would never have known so much as their names if Viserys had not been there to tell me. He was the only one left. The only one. He is all I have.”",
+      "translation": "",
+      "explanation_zh": "Daenerys解释父母、Rhaegar早亡，只有Viserys给她家族names与陪伴，他曾是全部。",
+      "literary_note_zh": "He is all I have用过去孤立解释现在忠诚：Viserys既施虐，也是她童年唯一family archive与companion。",
+      "background_zh": "**family history：** Daenerys出生时mother死亡，Aerys与Rhaegar更早死；Viserys抚养并讲述她不曾亲见的family。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-050",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“Once,” said Ser Jorah. “No longer, Khaleesi. You belong to the Dothraki now. In your womb rides the stallion who mounts the world.” He held out his cup, and a slave filled it with fermented mare’s milk, sour-smelling and thick with clots.",
+      "translation": "",
+      "explanation_zh": "Jorah说那只是once；如今她属于Dothraki，womb中是world-stallion。",
+      "literary_note_zh": "Once/no longer把身份支点从blood brother转向Dothraki husband、child和title；也可能推动危险情感切断。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-051",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "Dany waved her away. Even the smell of it made her feel ill, and she would take no chances of bringing up the horse heart she had forced herself to eat. “What does it mean?” she asked. “What is this stallion? Everyone was shouting it at me, but I don’t understand.”",
+      "translation": "",
+      "explanation_zh": "Daenerys因horse heart拒绝mare’s milk，问prophecy含义。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-052",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“The stallion is the khal of khals promised in ancient prophecy, child. He will unite the Dothraki into a single khalasar and ride to the ends of the earth, or so it was promised. All the people of the world will be his herd.”",
+      "translation": "",
+      "explanation_zh": "Jorah解释是古代khal of khals预言，将统一Dothraki、骑至world ends，把所有人当herd。",
+      "literary_note_zh": "all people as herd揭示prophecy不是单纯伟大领导，而把world population降为被驱赶所有物。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-053",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "“Oh,” Dany said in a small voice. Her hand smoothed her robe down over the swell of her stomach. “I named him Rhaego.”",
+      "translation": "",
+      "explanation_zh": "Daenerys小声回应，并说自己给他取名Rhaego。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-054",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“A name to make the Usurper’s blood run cold.”",
+      "translation": "",
+      "explanation_zh": "Jorah说此名会令Usurper血冷。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-055",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "Suddenly Doreah was tugging at her elbow. “My lady, “ the handmaid whispered urgently, “your brother . . . ”",
+      "translation": "",
+      "explanation_zh": "Doreah急拉Daenerys手肘，低声提醒brother来了。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-056",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "Dany looked down the length of the long, roofless hall and there he was, striding toward her. From the lurch in his step, she could tell at once that Viserys had found his wine . . . and something that passed for courage.",
+      "translation": "",
+      "explanation_zh": "Daenerys看见Viserys醉步走近，判断wine给了他某种假courage。",
+      "literary_note_zh": "wine提供的something that passed for courage明确否定其真正勇气，把醉意写成冒险冲动。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-057",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "He was wearing his scarlet silks, soiled and travel-stained. His cloak and gloves were black velvet, faded from the sun. His boots were dry and cracked, his silver-blond hair matted and tangled. A longsword swung from his belt in a leather scabbard. The Dothraki eyed the sword as he passed; Dany heard curses and threats and angry muttering rising all around her, like a tide. The music died away in a nervous stammering of drums.",
+      "translation": "",
+      "explanation_zh": "Viserys穿污损scarlet silk、破旧boots并佩longsword；Dothraki怒视禁weapon，music紧张停顿。",
+      "literary_note_zh": "scarlet silks与longsword试图恢复king appearance，却因污损、禁令和集体怒视反而凸显beggar status。",
+      "background_zh": "**Viserys sword：** Illyrio借给他用于kingly appearance；在Vaes Dothrak佩带本身已是严重禁忌。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-058",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "A sense of dread closed around her heart. “Go to him,” she commanded Ser Jorah. “Stop him. Bring him here. Tell him he can have the dragon’s eggs if that is what he wants.” The knight rose swiftly to his feet.",
+      "translation": "",
+      "explanation_zh": "Daenerys恐惧，命Jorah阻止并愿给dragon eggs换Viserys放弃冲突。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-059",
+      "page": 455,
+      "end_page": 455,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "“Where is my sister?” Viserys shouted, his voice thick with wine. “I’ve come for her feast. How dare you presume to eat without me? No one eats before the king. Where is she? The whore can’t hide from the dragon.”",
+      "translation": "",
+      "explanation_zh": "Viserys醉喊自己是king、辱骂Daenerys并要求feast服从。",
+      "literary_note_zh": "No one eats before king是他用旧court hierarchy向完全不承认该rank的社会发令，performative authority失效。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P455-060",
+      "page": 455,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "He stopped beside the largest of the three firepits, peering around at the faces of the Dothraki. There were five thousand men in the hall, but only a handful who knew the Common Tongue. Yet even if his words were incomprehensible, you had only to look at him to know that he was drunk.",
+      "translation": "",
+      "explanation_zh": "他在firepit旁看五千Dothraki，虽多数听不懂Common Tongue，醉态一望即知。",
+      "literary_note_zh": "原自动提取在p.455–456把同段误切，已合并；听不懂words仍能读drunken body，非语言信息压过title。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-061",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "Ser Jorah went to him swiftly, whispered something in his ear, and took him by the arm, but Viserys wrenched free. “Keep your hands off me! No one touches the dragon without leave.”",
+      "translation": "",
+      "explanation_zh": "Jorah低声劝并拉他手臂，Viserys挣脱，声称无人可未经许可touch dragon。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-062",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "Dany glanced anxiously up at the high bench. Khal Drogo was saying something to the other khals beside him. Khal Jommo grinned, and Khal Ogo began to guffaw loudly.",
+      "translation": "",
+      "explanation_zh": "Daenerys焦虑看high bench，Jommo与Ogo因Drogo的话大笑。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-063",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "The sound of laughter made Viserys lift his eyes. “Khal Drogo,” he said thickly, his voice almost polite. “I’m here for the feast.” He staggered away from Ser Jorah, making to join the three khals on the high bench.",
+      "translation": "",
+      "explanation_zh": "笑声吸引Viserys，他近乎礼貌称自己来feast，踉跄想上high bench。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-064",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "Khal Drogo rose, spat out a dozen words in Dothraki, faster than Dany could understand, and pointed. “Khal Drogo says your place is not on the high bench,” Ser Jorah translated for her brother. “Khal Drogo says your place is there.”",
+      "translation": "",
+      "explanation_zh": "Drogo指向后方低位席；Jorah翻译Viserys不配high bench。",
+      "literary_note_zh": "Drogo不直接杀，先公开分配Viserys社会位置；羞辱从空间等级开始。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-065",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Viserys glanced where the khal was pointing. At the back of the long hall, in a corner by the wall, deep in shadow so better men would not need to look on them, sat the lowest of the low; raw unblooded boys, old men with clouded eyes and stiff joints, the dim-witted and the maimed. Far from the meat, and farther from honor. “That is no place for a king,” her brother declared.",
+      "translation": "",
+      "explanation_zh": "Viserys看到unblooded boys、老人、disabled等最低席，宣称不适合king。",
+      "literary_note_zh": "叙述用lowest of low复现Dothraki等级观；disabled与old被系统性贬低，精读不把此排序当客观价值。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-066",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“Is place,” Khal Drogo answered, in the Common Tongue that Dany had taught him, “for Sorefoot King.” He clapped his hands together. “A cart! Bring cart for Khal Rhaggat!”",
+      "translation": "",
+      "explanation_zh": "Drogo用新学Common Tongue叫他Sorefoot King，并命给Cart King拿cart。",
+      "literary_note_zh": "Sorefoot/Cart King把Viserys此前步行受伤与乘cart的屈辱固化为公共称号，反夺其自封king语言。",
+      "background_zh": "**Khal Rhaggat：** Dothraki称Viserys的Sorefoot/Cart King绰号，源自他被迫步行与乘cart的屈辱。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-067",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "Five thousand Dothraki began to laugh and shout. Ser Jorah was standing beside Viserys, screaming in his ear, but the roar in the hall was so thunderous that Dany could not hear what he was saying. Her brother shouted back and the two men grappled, until Mormont knocked Viserys bodily to the floor.",
+      "translation": "",
+      "explanation_zh": "五千人哄笑；Jorah与Viserys扭打，最终把他撞倒。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-068",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "Her brother drew his sword.",
+      "translation": "",
+      "explanation_zh": "Viserys拔出sword。",
+      "literary_note_zh": "极短句让blade crossing taboo成为不可逆转点；此前仍可能被escort away，此后整个hall必须回应。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-069",
+      "page": 456,
+      "end_page": 456,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "The bared steel shone a fearful red in the glare from the firepits. “Keep away from me!” Viserys hissed. Ser Jorah backed off a step, and her brother climbed unsteadily to his feet. He waved the sword over his head, the borrowed blade that Magister Illyrio had given him to make him seem more kingly. Dothraki were shrieking at him from all sides, screaming vile curses.",
+      "translation": "",
+      "explanation_zh": "借来的blade在fire中红亮；他挥剑威胁，Dothraki从四面咒骂。",
+      "literary_note_zh": "Jorah解释prophecy时醉酒Viserys佩禁剑闯入，拒绝低位席、受全场嘲笑并最终拔blade触犯sacred rule。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P456-070",
+      "page": 456,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "Dany gave a wordless cry of terror. She knew what a drawn sword meant here, even if her brother did not.",
+      "translation": "",
+      "explanation_zh": "Daenerys无声恐叫，因为知道sacred city拔剑意味着什么。",
+      "literary_note_zh": "Daenerys wordless cry显示语言训练在极端恐惧下短暂失效，也触发Viserys终于把她当目标。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-071",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "Her voice made Viserys turn his head, and he saw her for the first time. “There she is,” he said, smiling. He stalked toward her, slashing at the air as if to cut a path through a wall of enemies, though no one tried to bar his way.",
+      "translation": "",
+      "explanation_zh": "Viserys因她声音终于看见她，挥剑穿过无人阻拦的通道逼近。",
+      "literary_note_zh": "Viserys以Daenerys与fetus逼Drogo兑现crown；Daenerys翻译后Drogo以molten gold处刑，Daenerys由death否定其dragon身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-072",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "“The blade . . . you must not,” she begged him. “Please, Viserys. It is forbidden. Put down the sword and come share my cushions. There’s drink, food . . . is it the dragon’s eggs you want? You can have them, only throw away the sword.”",
+      "translation": "",
+      "explanation_zh": "Daenerys求他丢blade、共享food drink，并再次愿交dragon eggs。",
+      "literary_note_zh": "她连续提供cushions、drink、food、eggs，尽量让他拥有不丢面子的退出路径。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-073",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "“Do as she tells you, fool,” Ser Jorah shouted, “before you get us all killed.”",
+      "translation": "",
+      "explanation_zh": "Jorah叫Viserys听从，否则会害死所有人。",
+      "literary_note_zh": "Viserys以Daenerys与fetus逼Drogo兑现crown；Daenerys翻译后Drogo以molten gold处刑，Daenerys由death否定其dragon身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-074",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "[原文含Viserys以剑对十四岁Daenerys胸腹实施性化身体威胁，并明确威胁其胎儿；此处不逐字复录。请参见源 PDF p.457 对应段落。]",
+      "translation": "",
+      "explanation_zh": "本段含Viserys以剑对十四岁Daenerys胸腹实施性化威胁，并明确威胁剖出胎儿；不逐字复录。",
+      "literary_note_zh": "本段含针对十四岁Daenerys胸腹与胎儿的性化身体威胁，不逐字复录。Viserys把她、eggs、fetus都当交易财产。",
+      "background_zh": "**安全说明：** 本段含针对十四岁Daenerys与胎儿的性化身体暴力威胁；保留事件性质、动机与定位，不复录原句。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-075",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "Distantly, as from far away, Dany heard her handmaid Jhiqui sobbing in fear, pleading that she dared not translate, that the khal would bind her and drag her behind his horse all the way up the Mother of Mountains. She put her arm around the girl. “Don’t be afraid,” she said. “I shall tell him.”",
+      "translation": "",
+      "explanation_zh": "Jhiqui哭着不敢translate，怕Drogo严惩；Daenerys反而安慰她并决定亲自翻译。",
+      "literary_note_zh": "Daenerys在自己被blade威胁时安慰Jhiqui，显示khaleesi责任已从被保护者转向保护subordinate。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-076",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "She did not know if she had enough words, yet when she was done Khal Drogo spoke a few brusque sentences in Dothraki, and she knew he understood. The sun of her life stepped down from the high bench. “What did he say?” the man who had been her brother asked her, flinching.",
+      "translation": "",
+      "explanation_zh": "Daenerys词汇有限但说清威胁；Drogo下high bench，Viserys开始畏缩问其回应。",
+      "literary_note_zh": "Viserys以Daenerys与fetus逼Drogo兑现crown；Daenerys翻译后Drogo以molten gold处刑，Daenerys由death否定其dragon身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-077",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "It had grown so silent in the hall that she could hear the bells in Khal Drogo’s hair, chiming softly with each step he took. His bloodriders followed him, like three copper shadows. Daenerys had gone cold all over. “He says you shall have a splendid golden crown that men shall tremble to behold.”",
+      "translation": "",
+      "explanation_zh": "hall寂静只闻Drogo hair bells；Daenerys冷透，翻译说他会得到令众人颤抖的splendid golden crown。",
+      "literary_note_zh": "golden crown在语义上兑现Viserys demand，splendid/tremble同时隐藏致命双关；Daenerys已听懂结果。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-078",
+      "page": 457,
+      "end_page": 457,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "Viserys smiled and lowered his sword. That was the saddest thing, the thing that tore at her afterward . . . the way he smiled. “That was all I wanted,” he said. “What was promised.”",
+      "translation": "",
+      "explanation_zh": "Viserys误信字面，放低sword微笑说只要承诺之物；这smile日后最令Daenerys心痛。",
+      "literary_note_zh": "smile之所以最sad，是Viserys最后一刻仍把promise fulfillment当作恢复自我故事，没有理解关系已彻底断裂。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P457-079",
+      "page": 457,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "When the sun of her life reached her, Dany slid an arm around his waist. The khal said a word, and his bloodriders leapt forward. Qotho seized the man who had been her brother by the arms. Haggo shattered his wrist with a single, sharp twist of his huge hands. Cohollo pulled the sword from his limp fingers. Even now Viserys did not understand. “No,” he shouted, “you cannot touch me, I am the dragon, the dragon, and I will be crowned!”",
+      "translation": "",
+      "explanation_zh": "Daenerys靠住Drogo；bloodriders制伏Viserys、折腕夺剑，他仍喊自己是dragon、必须被crowned。",
+      "literary_note_zh": "the man who had been her brother把亲属身份转成过去式；不是生物关系消失，而是Daenerys内心不再承认原角色。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-080",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 80,
+      "original_text": "Khal Drogo unfastened his belt. The medallions were pure gold, massive and ornate, each one as large as a man’s hand. He shouted a command. Cook slaves pulled a heavy iron stew pot from the firepit, dumped the stew onto the ground, and returned the pot to the flames. Drogo tossed in the belt and watched without expression as the medallions turned red and began to lose their shape. She could see fires dancing in the onyx of his eyes. A slave handed him a pair of thick horsehair mittens, and he pulled them on, never so much as looking at the man.",
+      "translation": "",
+      "explanation_zh": "Drogo解下gold medallion belt，让slaves倒空stew pot、将gold放入火中熔化。",
+      "literary_note_zh": "Drogo沉默熔gold把财富、promise与处刑工具合一；等待过程延长公开恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-081",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 81,
+      "original_text": "Viserys began to scream the high, wordless scream of the coward facing death. He kicked and twisted, whimpered like a dog and wept like a child, but the Dothraki held him tight between them. Ser Jorah had made his way to Dany’s side. He put a hand on her shoulder. “Turn away, my princess, I beg you.”",
+      "translation": "",
+      "explanation_zh": "Viserys面对死亡尖叫挣扎，Jorah到Daenerys旁劝她转身。",
+      "literary_note_zh": "Jorah建议turn away提供保护选择，Daenerys拒绝见证；拒绝不等于无创伤。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-082",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 82,
+      "original_text": "“No.” She folded her arms across the swell of her belly, protectively.",
+      "translation": "",
+      "explanation_zh": "Daenerys拒绝，双臂保护孕腹。",
+      "literary_note_zh": "Viserys以Daenerys与fetus逼Drogo兑现crown；Daenerys翻译后Drogo以molten gold处刑，Daenerys由death否定其dragon身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-083",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 83,
+      "original_text": "At the last, Viserys looked at her. “Sister, please . . . Dany, tell them . . . make them . . . sweet sister . . . ”",
+      "translation": "",
+      "explanation_zh": "Viserys最后向sister求救，请她让众人停下。",
+      "literary_note_zh": "Viserys以Daenerys与fetus逼Drogo兑现crown；Daenerys翻译后Drogo以molten gold处刑，Daenerys由death否定其dragon身份。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-084",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 84,
+      "original_text": "When the gold was half-melted and starting to run, Drogo reached into the flames, snatched out the pot. “Crown!” he roared. “Here. A crown for Cart King!” And upended the pot over the head of the man who had been her brother.",
+      "translation": "",
+      "explanation_zh": "Drogo用mittens取出半熔gold pot，宣布给Cart King crown并倒在Viserys头上。",
+      "literary_note_zh": "crown从longed-for sovereignty变成execution device，是全章最残酷的literalization。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-085",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 85,
+      "original_text": "The sound Viserys Targaryen made when that hideous iron helmet covered his face was like nothing human. His feet hammered a frantic beat against the dirt floor, slowed, stopped. Thick globs of molten gold dripped down onto his chest, setting the scarlet silk to smoldering . . . yet no drop of blood was spilled.",
+      "translation": "",
+      "explanation_zh": "Viserys惨叫、动作逐渐停止；molten gold使silk冒烟，却遵守不spill blood的字面禁令。",
+      "literary_note_zh": "no blood spilled揭示sacred law被形式遵守而实质violence达到极端；与silk strangling完全同构。",
+      "background_zh": "**formal compliance：** molten gold杀人却不流血，使Drogo在字面上没有违反sacred-city bloodshed ban。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH46-P458-086",
+      "page": 458,
+      "end_page": 458,
+      "type": "paragraph",
+      "order": 86,
+      "original_text": "He was no dragon, Dany thought, curiously calm. Fire cannot kill a dragon.",
+      "translation": "",
+      "explanation_zh": "Daenerys异常平静地判断他不是dragon，因为fire不能杀dragon。",
+      "literary_note_zh": "Fire cannot kill a dragon是Daenerys用family myth处理brother death的逻辑：死亡反向证明Viserys从未配title。",
+      "background_zh": "本段没有新增必须补充的世界观事实；重点在Dothraki ritual authority、prophecy、Daenerys身份转移与Viserys触犯sacred law。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

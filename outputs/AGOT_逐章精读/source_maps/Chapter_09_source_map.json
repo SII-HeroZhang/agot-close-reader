@@ -1,0 +1,1433 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 9 — TYRION",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    84,
+    89
+  ],
+  "block_count": 66,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 84,
+      "first_id": "CH09-P084-001",
+      "last_id": "CH09-P084-006"
+    },
+    {
+      "page": 85,
+      "first_id": "CH09-P085-007",
+      "last_id": "CH09-P085-021"
+    },
+    {
+      "page": 86,
+      "first_id": "CH09-P086-022",
+      "last_id": "CH09-P086-033"
+    },
+    {
+      "page": 87,
+      "first_id": "CH09-P087-034",
+      "last_id": "CH09-P087-044"
+    },
+    {
+      "page": 88,
+      "first_id": "CH09-P088-045",
+      "last_id": "CH09-P088-057"
+    },
+    {
+      "page": 89,
+      "first_id": "CH09-P089-058",
+      "last_id": "CH09-P089-066"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH09-P084-001",
+      "page": 84,
+      "end_page": 84,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Somewhere in the great stone maze of Winterfell, a wolf howled. The sound hung over the castle like a flag of mourning.",
+      "translation": "",
+      "explanation_zh": "Winterfell深处传来狼嚎，声音像一面哀悼的旗帜笼罩整座城堡。",
+      "literary_note_zh": "`flag of mourning`把声音视觉化：狼嚎不只表达一只动物的情绪，而是像丧旗一样向整座城堡公告灾难。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P084-002",
+      "page": 84,
+      "end_page": 84,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Tyrion Lannister looked up from his books and shivered, though the library was snug and warm. Something about the howling of a wolf took a man right out of his here and now and left him in a dark forest of the mind, running naked before the pack.",
+      "translation": "",
+      "explanation_zh": "Tyrion从书中抬头并打寒战；狼嚎把他从温暖现实拖入被群狼追逐的黑暗想象。",
+      "literary_note_zh": "图书馆的温暖与“心智中的黑森林”对照，显示理性而博学的Tyrion也会对direwolf声产生原始恐惧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P084-003",
+      "page": 84,
+      "end_page": 84,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "When the direwolf howled again, Tyrion shut the heavy leatherbound cover on the book he was reading, a hundred-year-old discourse on the changing of the seasons by a long-dead maester. He covered a yawn with the back of his hand. His reading lamp was flickering, its oil all but gone, as dawn light leaked through the high windows. He had been at it all night, but that was nothing new. Tyrion Lannister was not much a one for sleeping.",
+      "translation": "",
+      "explanation_zh": "第二声狼嚎使Tyrion收起关于季节变化的古老论著，他意识到自己已在图书馆读了一整夜。",
+      "literary_note_zh": "一本讨论季节变化的百年古书建立Tyrion的求知欲，也让世界的异常季节成为当下可知的学术难题。",
+      "background_zh": "**文本事实：** Tyrion正读一位maester百年前撰写的季节变化论著，表明这个世界的学者也研究不规则季节。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P084-004",
+      "page": 84,
+      "end_page": 84,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "His legs were stiff and sore as he eased down off the bench. He massaged some life back into them and limped heavily to the table where the septon was snoring softly, his head pillowed on an open book in front of him. Tyrion glanced at the title. A life of the Grand Maester Aethelmure, no wonder. “Chayle,” he said softly. The young man jerked up, blinking, confused, the crystal of his order swinging wildly on its silver chain. “I’m off to break my fast. See that you return the books to the shelves. Be gentle with the Valyrian scrolls, the parchment is very dry. Ayrmidon’s Engines of War is quite rare, and yours is the only complete copy I’ve ever seen.” Chayle gaped at him, still half-asleep. Patiently, Tyrion repeated his instructions, then clapped the septon on the shoulder and left him to his tasks.",
+      "translation": "",
+      "explanation_zh": "Tyrion活动僵硬疼痛的短腿，路过趴在一本写高个王子的传记上熟睡的septon。",
+      "literary_note_zh": "熟睡者的书恰好写一位高个王子，与Tyrion艰难活动的身体形成一个无声、带苦味的笑话。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P084-005",
+      "page": 84,
+      "end_page": 84,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Outside, Tyrion swallowed a lungful of the cold morning air and began his laborious descent of the steep stone steps that corkscrewed around the exterior of the library tower. It was slow going; the steps were cut high and narrow, while his legs were short and twisted. The rising sun had not yet cleared the walls of Winterfell, but the men were already hard at it in the yard below. Sandor Clegane’s rasping voice drifted up to him. “The boy is a long time dying. I wish he would be quicker about it.”",
+      "translation": "",
+      "explanation_zh": "他在冷空气中艰难走下图书馆塔狭窄螺旋石阶，下方已有骑士练武和人们交谈。",
+      "literary_note_zh": "本段从狼嚎与图书馆塔写出Tyrion的博学、身体限制与被嘲笑日常，他以观察和语言对抗体格优势。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P084-006",
+      "page": 84,
+      "end_page": 84,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Tyrion glanced down and saw the Hound standing with young Joffrey as squires swarmed around them. “At least he dies quietly,” the prince replied. “It’s the wolf that makes the noise. I could scarce sleep last night.”",
+      "translation": "",
+      "explanation_zh": "Tyrion看见Sandor和Joffrey；Joffrey抱怨direwolf的叫声害他一夜无法睡觉。",
+      "literary_note_zh": "本段从狼嚎与图书馆塔写出Tyrion的博学、身体限制与被嘲笑日常，他以观察和语言对抗体格优势。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-007",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "Clegane cast a long shadow across the hard-packed earth as his squire lowered the black helm over his head. “I could silence the creature, if it please you,” he said through his open visor. His boy placed a longsword in his hand. He tested the weight of it, slicing at the cold morning air. Behind him, the yard rang to the clangor of steel on steel.",
+      "translation": "",
+      "explanation_zh": "Sandor在披甲后表示可以让direwolf永远安静，并用长剑试重。",
+      "literary_note_zh": "本段从狼嚎与图书馆塔写出Tyrion的博学、身体限制与被嘲笑日常，他以观察和语言对抗体格优势。",
+      "background_zh": "**文本事实：** Sandor Clegane被称为Hound，是Joffrey的近身护卫；此处他主动提议杀掉嚎叫的direwolf。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-008",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "The notion seemed to delight the prince. “Send a dog to kill a dog!” he exclaimed. “Winterfell is so infested with wolves, the Starks would never miss one.”",
+      "translation": "",
+      "explanation_zh": "Joffrey对派“狗”杀“狗”感到兴奋，并说Winterfell的狼多到Starks不会察觉少一只。",
+      "literary_note_zh": "Joffrey将Sandor也叫作`dog`，把人降为自己可驱使的动物；他的兴奋集中在语言游戏和杀戮上。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-009",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Tyrion hopped off the last step onto the yard. “I beg to differ, nephew,” he said. “The Starks can count past six. Unlike some princes I might name.”",
+      "translation": "",
+      "explanation_zh": "Tyrion从最后一级跳下，讽刺Joffrey连六都数不清，Starks却能。",
+      "literary_note_zh": "Tyrion用数量而不是道德说教拆解Joffrey的话，一句便同时保护direwolves与羞辱王子。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-010",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Joffrey had the grace at least to blush.",
+      "translation": "",
+      "explanation_zh": "Joffrey至少还知道脸红，说明他听懂了羞辱。",
+      "literary_note_zh": "本段从狼嚎与图书馆塔写出Tyrion的博学、身体限制与被嘲笑日常，他以观察和语言对抗体格优势。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-011",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“A voice from nowhere,” Sandor said. He peered through his helm, looking this way and that. “Spirits of the air!”",
+      "translation": "",
+      "explanation_zh": "Sandor装作没看见Tyrion，把他的声音称作来自空气精灵。",
+      "literary_note_zh": "Sandor把Tyrion的身高当作固定表演；Joffrey“总是笑”说明这不是即兴玩笑，而是已建立的群体等级。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-012",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "The prince laughed, as he always laughed when his bodyguard did this mummer’s farce. Tyrion was used to it. “Down here.”",
+      "translation": "",
+      "explanation_zh": "Joffrey照例被这场演戏逗笑；习以为常的Tyrion只说自己在下面。",
+      "literary_note_zh": "本段从狼嚎与图书馆塔写出Tyrion的博学、身体限制与被嘲笑日常，他以观察和语言对抗体格优势。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-013",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "The tall man peered down at the ground, and pretended to notice him. “The little lord Tyrion,” he said. “My pardons. I did not see you standing there.”",
+      "translation": "",
+      "explanation_zh": "Sandor低头假装刚发现Tyrion，又用“小领主”和没看见他继续嘲笑身高。",
+      "literary_note_zh": "本段从狼嚎与图书馆塔写出Tyrion的博学、身体限制与被嘲笑日常，他以观察和语言对抗体格优势。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-014",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“I am in no mood for your insolence today.” Tyrion turned to his nephew. “Joffrey, it is past time you called on Lord Eddard and his lady, to offer them your comfort.”",
+      "translation": "",
+      "explanation_zh": "Tyrion直言今天无意忍受冒犯，转而命Joffrey去安慰Eddard夫妇。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-015",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "Joffrey looked as petulant as only a boy prince can look. “What good will my comfort do them?”",
+      "translation": "",
+      "explanation_zh": "Joffrey闹别扭地问，他的安慰对Starks能有什么用。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-016",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“None,” Tyrion said. “Yet it is expected of you. Your absence has been noted.”",
+      "translation": "",
+      "explanation_zh": "Tyrion承认没有实际用处，但这是王子必须履行的礼仪，而且他的缺席已被注意。",
+      "literary_note_zh": "Tyrion坦白慰问没有实际效用，但他仍重视礼仪：王子的公开行为会向他人表达王室如何看待Starks。",
+      "background_zh": "**当前可知制度：** 王储对受灾高等贵族家庭表示慰问，属于公开礼仪和政治义务，不取决于它能否治疗伤者。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-017",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“The Stark boy is nothing to me,” Joffrey said. “I cannot abide the wailing of women.”",
+      "translation": "",
+      "explanation_zh": "Joffrey说Bran与自己无关，他也无法忍受女人的哭号。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-018",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "Tyrion Lannister reached up and slapped his nephew hard across the face. The boy’s cheek began to redden.",
+      "translation": "",
+      "explanation_zh": "Tyrion伸手重重打了Joffrey一耳光，使他的脸颊迅速发红。",
+      "literary_note_zh": "身高有限的Tyrion必须“reach up”才能打到Joffrey；空间动作同时强调他的身体限制与他此刻掌握的权威。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-019",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "“One word,” Tyrion said, “and I will hit you again.”",
+      "translation": "",
+      "explanation_zh": "Tyrion警告Joffrey再说一个字，自己就会再打他。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-020",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“I’m going to tell Mother!” Joffrey exclaimed.",
+      "translation": "",
+      "explanation_zh": "Joffrey马上威胁要告诉Mother。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P085-021",
+      "page": 85,
+      "end_page": 85,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "Tyrion hit him again. Now both cheeks flamed.",
+      "translation": "",
+      "explanation_zh": "Tyrion实现警告，再打一次，使Joffrey两边脸颊都火辣发红。",
+      "literary_note_zh": "第二个耳光直接回应“再说一字”的条件，Tyrion用严格执行而不是音量建立威慑。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-022",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "“You tell your mother,” Tyrion told him. “But first you get yourself to Lord and Lady Stark, and you fall to your knees in front of them, and you tell them how very sorry you are, and that you are at their service if there is the slightest thing you can do for them or theirs in this desperate hour, and that all your prayers go with them. Do you understand? Do you?”",
+      "translation": "",
+      "explanation_zh": "Tyrion允许Joffrey告状，但要求他首先跪在Starks面前，说出一整套合乎王子身份的慰问。",
+      "literary_note_zh": "这一长串慰问语与Joffrey的简短自私句形成反差；Tyrion几乎在为不合格的王储写一份礼仪脚本。",
+      "background_zh": "**文本事实：** Bran坠落后仍昏迷，Eddard与Catelyn正守着他；Joffrey此前没有去慰问。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-023",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "The boy looked as though he was going to cry. Instead, he managed a weak nod. Then he turned and fled headlong from the yard, holding his cheek. Tyrion watched him run.",
+      "translation": "",
+      "explanation_zh": "Joffrey强忍眼泪点头，捂着脸逃出院子，Tyrion注视他离开。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-024",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "A shadow fell across his face. He turned to find Clegane looming overhead like a cliff. His soot-dark armor seemed to blot out the sun. He had lowered the visor on his helm. It was fashioned in the likeness of a snarling black hound, fearsome to behold, but Tyrion had always thought it a great improvement over Clegane’s hideously burned face.",
+      "translation": "",
+      "explanation_zh": "Sandor的巨大阴影覆住Tyrion，黑狗头盔下的人像悬崖一样压迫，但Tyrion没有退缩。",
+      "literary_note_zh": "Sandor被比作悬崖，铠甲还遮住阳光，身材和黑甲构成对Tyrion的物理压迫，但对话中的主动权仍在Tyrion手里。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-025",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "“The prince will remember that, little lord,” the Hound warned him. The helm turned his laugh into a hollow rumble.",
+      "translation": "",
+      "explanation_zh": "Sandor警告Tyrion，王子会记住今天的羞辱。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-026",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "“I pray he does,” Tyrion Lannister replied. “If he forgets, be a good dog and remind him.” He glanced around the courtyard. “Do you know where I might find my brother?”",
+      "translation": "",
+      "explanation_zh": "Tyrion说他正希望Joffrey记住，还用“好狗”反过来命令Sandor提醒主人，然后询问Jaime在哪里。",
+      "literary_note_zh": "Tyrion用`good dog`将Sandor的Hound身份反过来作为贬称，他的语言成为抵消对方身体优势的武器。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-027",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "“Breaking fast with the queen.”",
+      "translation": "",
+      "explanation_zh": "Sandor告诉他，Jaime正与queen共进早餐。",
+      "literary_note_zh": "本段围绕Joffrey应否慰问Starks展开；Tyrion强迫王储履行公开义务，又与Sandor交换威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-028",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "“Ah,” Tyrion said. He gave Sandor Clegane a perfunctory nod and walked away as briskly as his stunted legs would carry him, whistling. He pitied the first knight to try the Hound today. The man did have a temper.",
+      "translation": "",
+      "explanation_zh": "Tyrion草草点头后尽快离开，还用吹口哨掩饰紧张；他同情今天第一个与Sandor对练的骑士。",
+      "literary_note_zh": "吹口哨显得轻松，但他“尽可能快”地离开并想到Sandor的坏脾气，说明Tyrion并未真正忽视威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-029",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "A cold, cheerless meal had been laid out in the morning room of the Guest House. Jaime sat at table with Cersei and the children, talking in low, hushed voices.",
+      "translation": "",
+      "explanation_zh": "Guest House的早餐气氛冰冷沉闷，Jaime、Cersei与孩子们在低声交谈。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-030",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“Is Robert still abed?” Tyrion asked as he seated himself, uninvited, at the table.",
+      "translation": "",
+      "explanation_zh": "Tyrion未受邀请便入座，直接问Robert是否仍在睡觉。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-031",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "His sister peered at him with the same expression of faint distaste she had worn since the day he was born. “The king has not slept at all,” she told him. “He is with Lord Eddard. He has taken their sorrow deeply to heart.”",
+      "translation": "",
+      "explanation_zh": "Cersei以一贯嫌恶的神情回答，Robert整夜未眠，正与Eddard一起并深深同情Starks。",
+      "literary_note_zh": "Cersei对Tyrion的嫌恶被写成从他出生日开始从未改变，一句便将当下早餐的冷淡延伸到整个家庭历史。",
+      "background_zh": "**文本事实：** Robert为Bran的遭遇整夜未睡，当时正与Eddard在一起。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-032",
+      "page": 86,
+      "end_page": 86,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“He has a large heart, our Robert,” Jaime said with a lazy smile. There was very little that Jaime took seriously. Tyrion knew that about his brother, and forgave it. During all the terrible long years of his childhood, only Jaime had ever shown him the smallest measure of affection or respect, and for that Tyrion was willing to forgive him most anything.",
+      "translation": "",
+      "explanation_zh": "Jaime懒洋洋地讽刺Robert“心很大”；Tyrion知道哥哥很少认真，但也记得童年只有Jaime给过他爱与尊重。",
+      "literary_note_zh": "Tyrion知道Jaime轻佻，却因童年仅有的爱而宽恕他；这让兄弟关系比单纯互相怀疑更复杂。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P086-033",
+      "page": 86,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "A servant approached. “Bread,” Tyrion told him, “and two of those little fish, and a mug of that good dark beer to wash them down. Oh, and some bacon. Burn it until it turns black.” The man bowed and moved off. Tyrion turned back to his siblings. Twins, male and female. They looked very much the part this morning. Both had chosen a deep green that matched their eyes. Their blond curls were all a fashionable tumble, and gold ornaments shone at wrists and fingers and throats.",
+      "translation": "",
+      "explanation_zh": "Tyrion点了大量食物和黑啤酒，然后观察穿着同样深绿、佩戴金饰的Jaime与Cersei，他们看起来极像一对双胞胎。",
+      "literary_note_zh": "双胞胎穿同色衣服、佩同样金饰，外观上构成高度一致的一组；Tyrion则在餐桌上同时是手足与局外观察者。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-034",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Tyrion wondered what it would be like to have a twin, and decided that he would rather not know. Bad enough to face himself in a looking glass every day. Another him was a thought too dreadful to contemplate.",
+      "translation": "",
+      "explanation_zh": "Tyrion想象有个双胞胎的感受，又自嘲说每天在镜中看自己已够可怕，不想再有另一个自己。",
+      "literary_note_zh": "镜子笑话是Tyrion主动抢先说出对自己外貌的恶意评价，以自嘲掌控别人可能使用的伤害。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-035",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "Prince Tommen spoke up. “Do you have news of Bran, Uncle?”",
+      "translation": "",
+      "explanation_zh": "Tommen主动询问Uncle是否有Bran的新消息。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-036",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“I stopped by the sickroom last night,” Tyrion announced. “There was no change. The maester thought that a hopeful sign.”",
+      "translation": "",
+      "explanation_zh": "Tyrion说自己昨夜去过病房，Bran没有变化，maester却把这视为希望迹象。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-037",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“I don’t want Brandon to die,” Tommen said timorously. He was a sweet boy. Not like his brother, but then Jaime and Tyrion were somewhat less than peas in a pod themselves.",
+      "translation": "",
+      "explanation_zh": "Tommen怯生生地说不想Bran死；Tyrion认为他是善良的孩子，与Joffrey完全不同。",
+      "literary_note_zh": "Tyrion用Jaime/Tyrion反证Joffrey/Tommen：同一家庭的兄弟不会因血缘就具有相同性情。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-038",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“Lord Eddard had a brother named Brandon as well,” Jaime mused. “One of the hostages murdered by Targaryen. It seems to be an unlucky name.”",
+      "translation": "",
+      "explanation_zh": "Jaime想起Eddard也曾有一个叫Brandon的兄弟，被Targaryen杀死，因而称这个名字不吉利。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "**文本事实：** Eddard已故的兄弟也叫Brandon，他曾是Targaryen手中的人质并被杀死。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-039",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“Oh, not so unlucky as all that, surely,” Tyrion said. The servant brought his plate. He ripped off a chunk of black bread.",
+      "translation": "",
+      "explanation_zh": "Tyrion边撕黑面包边否定“Brandon”总是不幸的说法。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-040",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Cersei was studying him warily. “What do you mean?”",
+      "translation": "",
+      "explanation_zh": "Cersei立刻警惕地盯着Tyrion，追问他这句话的含义。",
+      "literary_note_zh": "Cersei从冷淡立刻转为警惕，叙事没有解释原因，而是让读者像Tyrion一样通过反应推理。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-041",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Tyrion gave her a crooked smile. “Why, only that Tommen may get his wish. The maester thinks the boy may yet live.” He took a sip of beer.",
+      "translation": "",
+      "explanation_zh": "Tyrion歪嘴笑着解释，maester认为Bran仍可能活下来，Tommen的希望也许会实现。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-042",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Myrcella gave a happy gasp, and Tommen smiled nervously, but it was not the children Tyrion was watching. The glance that passed between Jaime and Cersei lasted no more than a second, but he did not miss it. Then his sister dropped her gaze to the table. “That is no mercy. These northern gods are cruel to let the child linger in such pain.”",
+      "translation": "",
+      "explanation_zh": "Myrcella惊喜，Tommen紧张地笑；Tyrion却专门观察Jaime和Cersei，没有错过两人一闪而过的目光交换以及Cersei随后低头。",
+      "literary_note_zh": "孩子们的喜悦与成人间短暂目光形成对照。**文本事实**只是Jaime和Cersei交换眼神；它的具体含义尚未证实。",
+      "background_zh": "**文本事实：** Tyrion观察到Jaime与Cersei短暂对视，Cersei随即低头。**合理推测：** 他正有意用Bran可能存活的消息测试两人，但眼神的确切意义尚未确认。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-043",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“What were the maester’s words?” Jaime asked.",
+      "translation": "",
+      "explanation_zh": "Jaime要求Tyrion准确复述maester的原话。",
+      "literary_note_zh": "本段转入Lannister家族早餐；Tyrion在闲谈、进食和亲情回忆中密切观察Jaime与Cersei对Bran生还消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P087-044",
+      "page": 87,
+      "end_page": 87,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "The bacon crunched when he bit into it. Tyrion chewed thoughtfully for a moment and said, “He thinks that if the boy were going to die, he would have done so already. It has been four days with no change.”",
+      "translation": "",
+      "explanation_zh": "Tyrion故意一边慢慢嚼脆培根一边回答：如果Bran会死，四天无变化的时间让他本应早已死去。",
+      "literary_note_zh": "Tyrion先咬脆培根、慢慢咀嚼再回答，用餐节奏拉长Jaime和Cersei的等待，也测试他们对每一条消息的反应。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-045",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“Will Bran get better, Uncle?” little Myrcella asked. She had all of her mother’s beauty, and none of her nature.",
+      "translation": "",
+      "explanation_zh": "Myrcella进一步问Bran是否会恢复；Tyrion认为她有Cersei的美貌，却没有母亲的性情。",
+      "literary_note_zh": "`all of her mother’s beauty, and none of her nature`用对称句式同时赞美Myrcella外貌和贬低Cersei品性。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-046",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“His back is broken, little one,” Tyrion told her. “The fall shattered his legs as well. They keep him alive with honey and water, or he would starve to death. Perhaps, if he wakes, he will be able to eat real food, but he will never walk again.”",
+      "translation": "",
+      "explanation_zh": "Tyrion坦白Bran脊背和双腿已重伤，目前只靠蜂蜜水维生；即使醒来能进食，也永远无法再走路。",
+      "literary_note_zh": "Tyrion不用儿童化安慰欺骗Myrcella，而是坦白区分“活下来”、“醒来”与“恢复行走”三种不同结果。",
+      "background_zh": "**文本事实：** Bran脊背与腿部重伤，仍在昏迷，靠蜂蜜和水维持生命；Tyrion判断他即使醒来也不会再行走。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-047",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“If he wakes,” Cersei repeated. “Is that likely?”",
+      "translation": "",
+      "explanation_zh": "Cersei重复“如果他醒来”，并追问这种可能性有多大。",
+      "literary_note_zh": "本段区分Bran存活、醒来与恢复的不同可能，同时交代Tyrion改道Wall的计划。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-048",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“The gods alone know,” Tyrion told her. “The maester only hopes.” He chewed some more bread. “I would swear that wolf of his is keeping the boy alive. The creature is outside his window day and night, howling. Every time they chase it away, it returns. The maester said they closed the window once, to shut out the noise, and Bran seemed to weaken. When they opened it again, his heart beat stronger.”",
+      "translation": "",
+      "explanation_zh": "Tyrion说只有众神知道，maester也只是希望；他还怀疑守在窗外日夜嚎叫、每次被赶都返回的direwolf正维系Bran生命。",
+      "literary_note_zh": "Tyrion用`I would swear`表示他对direwolf的判断是强烈直觉，不是医学证实；maester允许它留下的理由也是病人似乎有反应。",
+      "background_zh": "**文本事实：** Bran的direwolf日夜守在病房窗外，被赶走后总会返回；maester认为它在场时Bran似乎更坚强。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-049",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "The queen shuddered. “There is something unnatural about those animals,” she said. “They are dangerous. I will not have any of them coming south with us.”",
+      "translation": "",
+      "explanation_zh": "Cersei对direwolves感到战栗，称它们不自然又危险，决定不让任何一只随队南下。",
+      "literary_note_zh": "Cersei的`unnatural`不是中立分类，而是将无法控制、无法解释的动物关系定义为威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-050",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "Jaime said, “You’ll have a hard time stopping them, sister. They follow those girls everywhere.”",
+      "translation": "",
+      "explanation_zh": "Jaime提醒Cersei，direwolves总跟在Sansa和Arya身边，要阻止并不容易。",
+      "literary_note_zh": "本段区分Bran存活、醒来与恢复的不同可能，同时交代Tyrion改道Wall的计划。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-051",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "Tyrion started on his fish. “Are you leaving soon, then?”",
+      "translation": "",
+      "explanation_zh": "Tyrion开始吃鱼，顺势询问王室队伍是否很快离开。",
+      "literary_note_zh": "本段区分Bran存活、醒来与恢复的不同可能，同时交代Tyrion改道Wall的计划。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-052",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“Not near soon enough,” Cersei said. Then she frowned. “Are we leaving?” she echoed. “What about you? Gods, don’t tell me you are staying here?”",
+      "translation": "",
+      "explanation_zh": "Cersei说巴不得尽快离开，随后才意识到Tyrion说的是“你们”，吃惊地问他是否要留在Winterfell。",
+      "literary_note_zh": "Cersei回声重复`we`时才发现Tyrion把自己排除在南下队伍之外，短暂的语法错位暴露了计划分歧。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-053",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "Tyrion shrugged. “Benjen Stark is returning to the Night’s Watch with his brother’s bastard. I have a mind to go with them and see this Wall we have all heard so much of.”",
+      "translation": "",
+      "explanation_zh": "Tyrion说Benjen将带Jon回Night’s Watch，他打算同行，亲眼看看人人谈论的Wall。",
+      "literary_note_zh": "本段区分Bran存活、醒来与恢复的不同可能，同时交代Tyrion改道Wall的计划。",
+      "background_zh": "**文本事实：** Benjen将返回Night’s Watch，Jon将同行加入；Tyrion计划只作访客前往Wall。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-054",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "Jaime smiled. “I hope you’re not thinking of taking the black on us, sweet brother.”",
+      "translation": "",
+      "explanation_zh": "Jaime开玩笑问，Tyrion是否准备穿上黑衣、加入Night’s Watch。",
+      "literary_note_zh": "本段区分Bran存活、醒来与恢复的不同可能，同时交代Tyrion改道Wall的计划。",
+      "background_zh": "**术语：** `take the black`意为穿上Night’s Watch的黑衣、宣誓加入组织，其成员必须守独身等终身誓言。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-055",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "Tyrion laughed. “What, me, celibate? The whores would go begging from Dorne to Casterly Rock. No, I just want to stand on top of the Wall and piss off the edge of the world.”",
+      "translation": "",
+      "explanation_zh": "Tyrion笑称自己不可能守独身誓，只想站在Wall顶端，对着世界边缘撒尿。",
+      "literary_note_zh": "Tyrion把Wall这个宏大、近乎神话化的边界地标转化为粗俗身体笑话，既抵抗庄严语气，也表达他真想站上最高处。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-056",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "Cersei stood abruptly. “The children don’t need to hear this filth. Tommen, Myrcella, come.” She strode briskly from the morning room, her train and her pups trailing behind her.",
+      "translation": "",
+      "explanation_zh": "Cersei立刻起身，说孩子不应听这种脏话，带着Tommen和Myrcella离开。",
+      "literary_note_zh": "本段区分Bran存活、醒来与恢复的不同可能，同时交代Tyrion改道Wall的计划。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P088-057",
+      "page": 88,
+      "end_page": 88,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Jaime Lannister regarded his brother thoughtfully with those cool green eyes. “Stark will never consent to leave Winterfell with his son lingering in the shadow of death.”",
+      "translation": "",
+      "explanation_zh": "Cersei离开后，Jaime认真审视Tyrion，认为Eddard不会在儿子生死未卜时离开Winterfell。",
+      "literary_note_zh": "当Cersei与孩子离开后，Jaime的语气立刻从懒散玩笑转为冷静计算，说明他并非真的什么都不认真。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-058",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "“He will if Robert commands it,” Tyrion said. “And Robert will command it. There is nothing Lord Eddard can do for the boy in any case.”",
+      "translation": "",
+      "explanation_zh": "Tyrion判断Robert会命令Eddard出发，而他留下也无法改变Bran的伤情。",
+      "literary_note_zh": "本段在孩子们离开后进入更尖锐的兄弟对话；残疾生命的价值、Bran可能的证言与家族立场彼此缠绕。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-059",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "“He could end his torment,” Jaime said. “I would, if it were my son. It would be a mercy.”",
+      "translation": "",
+      "explanation_zh": "Jaime说Eddard可以结束Bran的痛苦；如果是自己的儿子，他会把安乐死当作仁慈。",
+      "literary_note_zh": "Jaime把杀死无法行走的儿子命名为`mercy`，正如他把自己的偏好`a good clean death`当作普遍标准。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-060",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“I advise against putting that suggestion to Lord Eddard, sweet brother,” Tyrion said. “He would not take it kindly.”",
+      "translation": "",
+      "explanation_zh": "Tyrion建议Jaime不要向Eddard提这个意见，因为Eddard绝不会善意接受。",
+      "literary_note_zh": "本段在孩子们离开后进入更尖锐的兄弟对话；残疾生命的价值、Bran可能的证言与家族立场彼此缠绕。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-061",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“Even if the boy does live, he will be a cripple. Worse than a cripple. A grotesque. Give me a good clean death.”",
+      "translation": "",
+      "explanation_zh": "Jaime认为Bran即使活下来也会成为残疾且畸形的人，所以自己宁要干净的死亡。",
+      "literary_note_zh": "本段在孩子们离开后进入更尖锐的兄弟对话；残疾生命的价值、Bran可能的证言与家族立场彼此缠绕。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-062",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "Tyrion replied with a shrug that accentuated the twist of his shoulders. “Speaking for the grotesques,” he said, “I beg to differ. Death is so terribly final, while life is full of possibilities.”",
+      "translation": "",
+      "explanation_zh": "Tyrion故意耸动扭曲的肩膀，以“代表畸形者”反驳：死亡无法挽回，生命却充满可能。",
+      "literary_note_zh": "Tyrion不否认自己被他人视为`grotesque`，而是把这个侮辱转化成发言资格；他以自己的存在反证“死亡胜过残疾生命”。",
+      "background_zh": "**文本事实：** Tyrion因身体被他人称为`grotesque`或`imp`；此处他以自身生活经验反驳Jaime对残疾生命的判决。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-063",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Jaime smiled. “You are a perverse little imp, aren’t you?”",
+      "translation": "",
+      "explanation_zh": "Jaime笑称Tyrion是性情反常的小imp。",
+      "literary_note_zh": "本段在孩子们离开后进入更尖锐的兄弟对话；残疾生命的价值、Bran可能的证言与家族立场彼此缠绕。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-064",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "“Oh, yes,” Tyrion admitted. “I hope the boy does wake. I would be most interested to hear what he might have to say.”",
+      "translation": "",
+      "explanation_zh": "Tyrion坦然承认，又说自己真希望Bran醒来，因为很想听听他会说什么。",
+      "literary_note_zh": "Tyrion说对Bran的话感兴趣，把病情问题重新变成“Bran是否看见或知道什么”的信息问题。",
+      "background_zh": "**文本事实：** Bran坠落的原因尚未向Tyrion公开；Tyrion表示如果Bran醒来，他对Bran可能说出的事很感兴趣。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-065",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "His brother’s smile curdled like sour milk. “Tyrion, my sweet brother,” he said darkly, “there are times when you give me cause to wonder whose side you are on.”",
+      "translation": "",
+      "explanation_zh": "Jaime的笑容像酸奶一样凝固变质，他阴沉地说Tyrion有时会让人怀疑他站在哪一边。",
+      "literary_note_zh": "笑容`curdled like sour milk`是可见的变质；Jaime的亲昵称呼未变，含义却从手足玩笑转为警告。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH09-P089-066",
+      "page": 89,
+      "end_page": 89,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "Tyrion’s mouth was full of bread and fish. He took a swallow of strong black beer to wash it all down, and grinned up wolfishly at Jaime, “Why, Jaime, my sweet brother,” he said, “you wound me. You know how much I love my family.”",
+      "translation": "",
+      "explanation_zh": "Tyrion用黑啤酒咽下面包和鱼，像狼一样朝Jaime露齿而笑，反讽说家人当然知道他多么爱自己的家族。",
+      "literary_note_zh": "`wolfishly`让Tyrion在一章始于狼嚎的章节末尾暂时获得狼的形象；“爱家人”与Jaime的质问同时保留亲情和威胁。",
+      "background_zh": "本段没有新增必须补充的世界观设定；重点在Tyrion的观察、讽刺、家族互动或对Bran伤情的判断。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}

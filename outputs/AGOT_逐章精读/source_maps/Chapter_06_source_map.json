@@ -1,0 +1,2497 @@
+{
+  "paper": {
+    "title": "A Game of Thrones — Chapter 6 (CATELYN)",
+    "author": "George R. R. Martin",
+    "source_type": "pdf",
+    "language": "en",
+    "source_path": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+    "pdf_page_range": [
+      57,
+      65
+    ],
+    "reader_mode": "spoiler-free close reading; English personal names"
+  },
+  "blocks": [
+    {
+      "id": "CH06-P057-001",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "Of all the rooms in Winterfell’s Great Keep, Catelyn’s bedchambers were the hottest. She seldom had to light a fire. The castle had been built over natural hot springs, and the scalding waters rushed through its walls and chambers like blood through a man’s body, driving the chill from the stone halls, filling the glass gardens with a moist warmth, keeping the earth from freezing. Open pools smoked day and night in a dozen small courtyards. That was a little thing, in summer; in winter, it was the difference between life and death.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn的bedchamber是Winterfell主堡中最温暖的房间，她很少需要生火，石墙内的温泉管道提供热量。",
+      "reading_note_zh": "温泉管道让私人房间成为南方般温暖的避难所，后续政治消息不断把寒冷重新带进来。",
+      "background_note_zh": "**文本事实：** Winterfell建在温泉之上，热水通过墙内管道为部分房间供暖。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-001"
+    },
+    {
+      "id": "CH06-P057-002",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Catelyn’s bath was always hot and steaming, and her walls warm to the touch. The warmth reminded her of Riverrun, of days in the sun with Lysa and Edmure, but Ned could never abide the heat. The Starks were made for the cold, he would tell her, and she would laugh and tell him in that case they had certainly built their castle in the wrong place.",
+      "translation": "",
+      "paragraph_explanation_zh": "持续温暖让她想起Riverrun的阳光；即使多年生活在北方，她仍会借身体感觉返回故乡。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-002"
+    },
+    {
+      "id": "CH06-P057-003",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "So when they had finished, Ned rolled off and climbed from her bed, as he had a thousand times before. He crossed the room, pulled back the heavy tapestries, and threw open the high narrow windows one by one, letting the night air into the chamber.",
+      "translation": "",
+      "paragraph_explanation_zh": "夫妻亲密结束后，Ned像往常一样起身开窗，让刺骨夜风进入温暖房间。",
+      "reading_note_zh": "亲密结束后立刻进入政治争论，说明Hand任命无法留在公共空间，已经进入婚姻核心。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-003"
+    },
+    {
+      "id": "CH06-P057-004",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "The wind swirled around him as he stood facing the dark, naked and empty-handed. Catelyn pulled the furs to her chin and watched him. He looked somehow smaller and more vulnerable, like the youth she had wed in the sept at Riverrun, fifteen long years gone. Her loins still ached from the urgency of his lovemaking. It was a good ache. She could feel his seed within her. She prayed that it might quicken there. It had been three years since Rickon. She was not too old. She could give him another son.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned赤身站在黑暗与寒风前，Catelyn裹紧毛皮看着他；两人对冷热的不同需求形成性格对照。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-004"
+    },
+    {
+      "id": "CH06-P057-005",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "“I will refuse him,” Ned said as he turned back to her. His eyes were haunted, his voice thick with doubt.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned转身宣布自己会拒绝Robert的Hand任命，声音疲惫却坚定。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-005"
+    },
+    {
+      "id": "CH06-P057-006",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Catelyn sat up in the bed. “You cannot. You must not.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn立刻坐起，强调他不能、也不应该拒绝。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-006"
+    },
+    {
+      "id": "CH06-P057-007",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "“My duties are here in the north. I have no wish to be Robert’s Hand.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说自己的责任在北方，个人也完全不想成为Hand。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-007"
+    },
+    {
+      "id": "CH06-P057-008",
+      "page": 57,
+      "end_page": 57,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "“He will not understand that. He is a king now, and kings are not like other men. If you refuse to serve him, he will wonder why, and sooner or later he will begin to suspect that you oppose him. Can’t you see the danger that would put us in?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn警告国王不是普通朋友；拒绝可能被理解为轻蔑，连婚约等“荣誉”也可能变成危险。",
+      "reading_note_zh": "Catelyn把`friend`与`king`分开：私人情感不能自动约束拥有制度权力的人。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P057-008"
+    },
+    {
+      "id": "CH06-P058-009",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Ned shook his head, refusing to believe. “Robert would never harm me or any of mine. We were closer than brothers. He loves me. If I refuse him, he will roar and curse and bluster, and in a week we will laugh about it together. I know the man!”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned不相信Robert会伤害自己家人，依赖两人过去比兄弟更亲密的关系。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-009"
+    },
+    {
+      "id": "CH06-P058-010",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "“You knew the man,” she said. “The king is a stranger to you.” Catelyn remembered the direwolf dead in the snow, the broken antler lodged deep in her throat. She had to make him see. “Pride is everything to a king, my lord. Robert came all this way to see you, to bring you these great honors, you cannot throw them back in his face.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn区分过去的男人与现在的国王，并想到direwolf和鹿角，认为Ned低估了改变。",
+      "reading_note_zh": "`You knew the man. The king is a stranger`概括本章争论，也回应Chapter 4中Ned几乎认不出Robert。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-010"
+    },
+    {
+      "id": "CH06-P058-011",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“Honors?” Ned laughed bitterly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned苦笑着重复“荣誉”，显然把任命视为负担。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-011"
+    },
+    {
+      "id": "CH06-P058-012",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“In his eyes, yes,” she said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn说至少在Robert看来，这些确实是荣誉。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-012"
+    },
+    {
+      "id": "CH06-P058-013",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“And in yours?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned反问Catelyn自己是否也如此看。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-013"
+    },
+    {
+      "id": "CH06-P058-014",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“And in mine,” she blazed, angry now. Why couldn’t he see? “He offers his own son in marriage to our daughter, what else would you call that? Sansa might someday be queen. Her sons could rule from the Wall to the mountains of Dorne. What is so wrong with that?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn愤怒承认：国王让继承人与Sansa联姻、让Ned代行王权，是家族难得的提升。",
+      "reading_note_zh": "Catelyn并非单纯追逐地位；她把王室“荣誉”理解为家族安全与无法轻易拒绝的政治现实。",
+      "background_note_zh": "**文本事实：** Hand任命和Joffrey–Sansa婚约会显著提高House Stark在王国政治中的位置。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-014"
+    },
+    {
+      "id": "CH06-P058-015",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“Gods, Catelyn, Sansa is only eleven,” Ned said. “And Joffrey . . . Joffrey is . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned再次指出Sansa只有十一岁，并对Joffrey明显有所保留。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-015"
+    },
+    {
+      "id": "CH06-P058-016",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "She finished for him. “ . . . crown prince, and heir to the Iron Throne. And I was only twelve when my father promised me to your brother Brandon.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn替他说完：Joffrey是王储；她自己十二岁时也已与Brandon订婚。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "**文本事实：** Catelyn十二岁时与Brandon Stark订婚；Brandon死后她依习俗嫁给Ned。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-016"
+    },
+    {
+      "id": "CH06-P058-017",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "That brought a bitter twist to Ned’s mouth. “Brandon. Yes. Brandon would know what to do. He always did. It was all meant for Brandon. You, Winterfell, everything. He was born to be a King’s Hand and a father to queens. I never asked for this cup to pass to me.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Brandon的名字让Ned苦涩，觉得死去的兄长更适合处理权力和荣耀。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-017"
+    },
+    {
+      "id": "CH06-P058-018",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“Perhaps not,” Catelyn said, “but Brandon is dead, and the cup has passed, and you must drink from it, like it or not.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn说Brandon已死，责任之杯已经传到Ned手中，他必须饮下。",
+      "reading_note_zh": "`the cup has passed`把继承责任写成必须饮下的苦酒，Brandon的死亡仍在决定Ned的人生。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-018"
+    },
+    {
+      "id": "CH06-P058-019",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "Ned turned away from her, back to the night. He stood staring out in the darkness, watching the moon and the stars perhaps, or perhaps the sentries on the wall.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned转向窗外，沉默凝视黑暗，月光照在他身上。",
+      "reading_note_zh": "本段在温暖bedchamber中展开Hand争论，Catelyn强调政治风险与家族机会，Ned强调北方职责与私人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-019"
+    },
+    {
+      "id": "CH06-P058-020",
+      "page": 58,
+      "end_page": 58,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "Catelyn softened then, to see his pain. Eddard Stark had married her in Brandon’s place, as custom decreed, but the shadow of his dead brother still lay between them, as did the other, the shadow of the woman he would not name, the woman who had borne him his bastard son.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn因看见丈夫痛苦而软化；她回想自己原本要嫁Brandon，却依习俗嫁给Ned并逐渐建立爱情。",
+      "reading_note_zh": "婚姻起于替代已故兄长，却在多年共同生活中变成真实爱情；这让即将分离更有重量。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-020"
+    },
+    {
+      "id": "CH06-P058-021",
+      "page": 58,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "She was about to go to him when the knock came at the door, loud and unexpected. Ned turned, frowning. “What is it?”",
+      "translation": "",
+      "paragraph_explanation_zh": "她正要走近Ned，突然而响亮的敲门打断私密谈话。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P058-021"
+    },
+    {
+      "id": "CH06-P059-022",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "Desmond’s voice came through the door. “My lord, Maester Luwin is without and begs urgent audience.”",
+      "translation": "",
+      "paragraph_explanation_zh": "守卫Desmond在门外报告Maester Luwin请求紧急觐见。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-022"
+    },
+    {
+      "id": "CH06-P059-023",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "“You told him I had left orders not to be disturbed?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned询问守卫是否已转达不得打扰的命令。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-023"
+    },
+    {
+      "id": "CH06-P059-024",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "“Yes, my lord. He insists.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Desmond确认转达，但Luwin仍坚持。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-024"
+    },
+    {
+      "id": "CH06-P059-025",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "“Very well. Send him in.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned只得允许他进入。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-025"
+    },
+    {
+      "id": "CH06-P059-026",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "Ned crossed to the wardrobe and slipped on a heavy robe. Catelyn realized suddenly how cold it had become. She sat up in bed and pulled the furs to her chin. “Perhaps we should close the windows,” she suggested.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned穿上厚袍；Catelyn这才意识到房间已经很冷，也穿衣并要求关窗。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-026"
+    },
+    {
+      "id": "CH06-P059-027",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "Ned nodded absently. Maester Luwin was shown in.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned心不在焉地点头，Maester Luwin被带进房间。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-027"
+    },
+    {
+      "id": "CH06-P059-028",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "The maester was a small grey man. His eyes were grey, and quick, and saw much. His hair was grey, what little the years had left him. His robe was grey wool, trimmed with white fur, the Stark colors. Its great floppy sleeves had pockets hidden inside. Luwin was always tucking things into those sleeves and producing other things from them: books, messages, strange artifacts, toys for the children. With all he kept hidden in his sleeves, Catelyn was surprised that Maester Luwin could lift his arms at all.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin身材矮小、通身灰色，目光敏锐；maester锁链由不同金属环组成，象征所学领域。",
+      "reading_note_zh": "Luwin的灰色外貌与多金属锁链并置：个人低调，知识范围却广。",
+      "background_note_zh": "**文本事实：** maester锁链由不同金属环组成，每种金属对应其研究和掌握的领域。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-028"
+    },
+    {
+      "id": "CH06-P059-029",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "The maester waited until the door had closed behind him before he spoke. “My lord,” he said to Ned, “pardon for disturbing your rest. I have been left a message.”",
+      "translation": "",
+      "paragraph_explanation_zh": "门关后Luwin才说，有一件东西被秘密留给Catelyn。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-029"
+    },
+    {
+      "id": "CH06-P059-030",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "Ned looked irritated. “Been left? By whom? Has there been a rider? I was not told.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned不悦地追问是谁送来、是否有骑手，为何自己没有收到报告。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-030"
+    },
+    {
+      "id": "CH06-P059-031",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“There was no rider, my lord. Only a carved wooden box, left on a table in my observatory while I napped. My servants saw no one, but it must have been brought by someone in the king’s party. We have had no other visitors from the south.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin说没有骑手，只有一个木雕盒趁他睡觉时被放在observatory桌上。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-031"
+    },
+    {
+      "id": "CH06-P059-032",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "“A wooden box, you say?” Catelyn said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn确认他说的是木盒。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-032"
+    },
+    {
+      "id": "CH06-P059-033",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“Inside was a fine new lens for the observatory, from Myr by the look of it. The lenscrafters of Myr are without equal.”",
+      "translation": "",
+      "paragraph_explanation_zh": "盒内是一块来自Myr的精良新镜片，制作精美且价值不低。",
+      "reading_note_zh": "lens既是昂贵实物，也是阅读指令：不要只看盒子表面，而要寻找隐藏信息。",
+      "background_note_zh": "**文本事实：** Myr以精密lens工艺闻名；镜片在本章被用作“看清隐藏真相”的暗号。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-033"
+    },
+    {
+      "id": "CH06-P059-034",
+      "page": 59,
+      "end_page": 59,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Ned frowned. He had little patience for this sort of thing, Catelyn knew. “A lens,” he said. “What has that to do with me?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned没有耐心听工艺细节，追问镜片为何与自己妻子有关。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P059-034"
+    },
+    {
+      "id": "CH06-P060-035",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "“I asked the same question,” Maester Luwin said. “Clearly there was more to this than the seeming.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin说自己也问了同一问题，显然礼物表面之下另有含义。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-035"
+    },
+    {
+      "id": "CH06-P060-036",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "Under the heavy weight of her furs, Catelyn shivered. “A lens is an instrument to help us see.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn在毛皮下发抖，想到lens能帮助人看得更清楚。",
+      "reading_note_zh": "Catelyn首先读出象征含义，显示她在家庭政治与暗示解读上比Ned更敏锐。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-036"
+    },
+    {
+      "id": "CH06-P060-037",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "“Indeed it is.” He fingered the collar of his order; a heavy chain worn tight around the neck beneath his robe, each link forged from a different metal.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin同意这个象征，并触摸maester锁链，确认送礼者想让他们看见被遮蔽的信息。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-037"
+    },
+    {
+      "id": "CH06-P060-038",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "Catelyn could feel dread stirring inside her once again. “What is it that they would have us see more clearly?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn的不安再次升起，问对方究竟想让他们看清什么。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-038"
+    },
+    {
+      "id": "CH06-P060-039",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“The very thing I asked myself.” Maester Luwin drew a tightly rolled paper out of his sleeve. “I found the true message concealed within a false bottom when I dismantled the box the lens had come in, but it is not for my eyes.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin取出藏在盒内的卷纸，说明真正信息就在镜片之外。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-039"
+    },
+    {
+      "id": "CH06-P060-040",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Ned held out his hand. “Let me have it, then.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned伸手要求查看信件。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-040"
+    },
+    {
+      "id": "CH06-P060-041",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Luwin did not stir. “Pardons, my lord. The message is not for you either. It is marked for the eyes of the Lady Catelyn, and her alone. May I approach?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin没有递给他，因为信件标明也不是写给Ned，而是只供Catelyn阅读。",
+      "reading_note_zh": "信件只给Catelyn且使用秘密方式，使信息权暂时不属于领主Ned，而属于姐妹关系。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-041"
+    },
+    {
+      "id": "CH06-P060-042",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Catelyn nodded, not trusting to speak. The maester placed the paper on the table beside the bed. It was sealed with a small blob of blue wax. Luwin bowed and began to retreat.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn紧张点头；Luwin把带蓝色封蜡的卷纸放在床边，随后准备退出。",
+      "reading_note_zh": "本段用秘密木盒、lens和只给Catelyn的信逐层揭开隐藏信息，悬念来自物件与阅读权限。",
+      "background_note_zh": "**文本事实：** House Arryn纹章为月鹰；封印说明信件声称来自Lysa。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-042"
+    },
+    {
+      "id": "CH06-P060-043",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "“Stay,” Ned commanded him. His voice was grave. He looked at Catelyn. “What is it? My lady, you’re shaking.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned命令Luwin留下，并从Catelyn脸色看出她害怕，追问信件为何让她发抖。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-043"
+    },
+    {
+      "id": "CH06-P060-044",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“I’m afraid,” she admitted. She reached out and took the letter in trembling hands. The furs dropped away from her nakedness, forgotten. In the blue wax was the moon-and-falcon seal of House Arryn. “It’s from Lysa.” Catelyn looked at her husband. “It will not make us glad,” she told him. “There is grief in this message, Ned. I can feel it.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn承认恐惧，赤身取过信件并认出蓝蜡上的House Arryn月鹰纹章，已经顾不上遮掩身体。",
+      "reading_note_zh": "她赤身取信不是情色描写，而是恐惧压过羞耻；身体防御和社交礼节同时被放弃。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-044"
+    },
+    {
+      "id": "CH06-P060-045",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Ned frowned, his face darkening. “Open it.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned脸色变沉，命令她打开。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-045"
+    },
+    {
+      "id": "CH06-P060-046",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "Catelyn broke the seal.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn掰开封印。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-046"
+    },
+    {
+      "id": "CH06-P060-047",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "Her eyes moved over the words. At first they made no sense to her. Then she remembered. “Lysa took no chances. When we were girls together, we had a private language, she and I.”",
+      "translation": "",
+      "paragraph_explanation_zh": "文字起初毫无意义，随后她认出Lysa使用了姐妹儿时共同发明的秘密语言。",
+      "reading_note_zh": "姐妹童年密码把私人亲密变成政治保密工具，家庭记忆获得情报功能。",
+      "background_note_zh": "**文本事实：** Lysa与Catelyn幼年共同创造秘密语言，因此只有Catelyn能直接阅读。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-047"
+    },
+    {
+      "id": "CH06-P060-048",
+      "page": 60,
+      "end_page": 60,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“Can you read it?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned询问她能否读懂。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P060-048"
+    },
+    {
+      "id": "CH06-P061-049",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“Yes,” Catelyn admitted.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn承认可以。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-049"
+    },
+    {
+      "id": "CH06-P061-050",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“Then tell us.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned要求她把内容说出来。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-050"
+    },
+    {
+      "id": "CH06-P061-051",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“Perhaps I should withdraw,” Maester Luwin said.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin提出自己或许应回避姐妹间的私密信息。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-051"
+    },
+    {
+      "id": "CH06-P061-052",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“No,” Catelyn said. “We will need your counsel.” She threw back the furs and climbed from the bed. The night air was as cold as the grave on her bare skin as she padded across the room.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn让他留下，因为接下来需要他的判断；她起身准备生火。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-052"
+    },
+    {
+      "id": "CH06-P061-053",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "Maester Luwin averted his eyes. Even Ned looked shocked. “What are you doing?” he asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin移开视线，连Ned也惊讶她在maester面前赤身行动。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-053"
+    },
+    {
+      "id": "CH06-P061-054",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“Lighting a fire,” Catelyn told him. She found a dressing gown and shrugged into it, then knelt over the cold hearth.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn解释自己只是点火，随后披上dressing gown跪到壁炉前。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-054"
+    },
+    {
+      "id": "CH06-P061-055",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“Maester Luwin—” Ned began.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned刚想以Luwin在场提醒她。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-055"
+    },
+    {
+      "id": "CH06-P061-056",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“Maester Luwin has delivered all my children,” Catelyn said. “This is no time for false modesty.” She slid the paper in among the kindling and placed the heavier logs on top of it.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn说Luwin接生过她所有孩子，现在不是讲虚假羞耻的时候，并开始烧掉信件。",
+      "reading_note_zh": "烧信保护Lysa和收信者，也意味着此后判断依赖记忆与信任，失去可反复核验的原件。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-056"
+    },
+    {
+      "id": "CH06-P061-057",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "Ned crossed the room, took her by the arm, and pulled her to her feet. He held her there, his face inches from her. “My lady, tell me! What was this message?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned抓住她手臂拉起，急切追问信中内容。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-057"
+    },
+    {
+      "id": "CH06-P061-058",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "Catelyn stiffened in his grasp. “A warning,” she said softly. “If we have the wits to hear.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn僵住，低声把它定义为一项需要足够智慧才能听懂的警告。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-058"
+    },
+    {
+      "id": "CH06-P061-059",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "His eyes searched her face. “Go on.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned搜索她的表情，催她继续。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-059"
+    },
+    {
+      "id": "CH06-P061-060",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“Lysa says Jon Arryn was murdered.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn说Lysa声称Jon Arryn遭到谋杀。",
+      "reading_note_zh": "`Jon Arryn was murdered`用极短句改变此前所有关于自然病逝的理解，但仍只是Lysa的指控。",
+      "background_note_zh": "**当前证据：** Lysa在密信中声称Jon Arryn遭谋杀。此时尚无独立证据证明指控。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-060"
+    },
+    {
+      "id": "CH06-P061-061",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "His fingers tightened on her arm. “By whom?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned手指收紧，立即追问凶手。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-061"
+    },
+    {
+      "id": "CH06-P061-062",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“The Lannisters,” she told him. “The queen.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn回答是Lannisters，尤其是王后。",
+      "reading_note_zh": "指控对象从广义Lannisters收束到queen，使Robert的婚姻与Jon Arryn之死潜在相连。",
+      "background_note_zh": "**当前证据：** 密信把责任指向Lannisters与Cersei；这是指控，不是已被查实的事实。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-062"
+    },
+    {
+      "id": "CH06-P061-063",
+      "page": 61,
+      "end_page": 61,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "Ned released his hold on her arm. There were deep red marks on her skin. “Gods,” he whispered. His voice was hoarse. “Your sister is sick with grief. She cannot know what she is saying.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned松手，Catelyn手臂已留下红印；他震惊到声音微弱。",
+      "reading_note_zh": "本段从身体恐惧进入密信内容；Lysa的谋杀指控改变夫妻选择，却尚未得到独立证实。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-063"
+    },
+    {
+      "id": "CH06-P061-064",
+      "page": 61,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "“She knows,” Catelyn said. “Lysa is impulsive, yes, but this message was carefully planned, cleverly hidden. She knew it meant death if her letter fell into the wrong hands. To risk so much, she must have had more than mere suspicion.” Catelyn looked to her husband. “Now we truly have no choice. You must be Robert’s Hand. You must go south with him and learn the truth.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn认为Lysa虽冲动，但秘密语言、盒子和隐藏方式都经过精心策划；冒死传信说明她自认掌握的不只是怀疑，因此Catelyn得出Ned必须南下调查的结论。",
+      "reading_note_zh": "Catelyn以传递方式证明Lysa认真谨慎，这是可信度论证，却仍不能替代直接证据。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P061-064"
+    },
+    {
+      "id": "CH06-P062-065",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "She saw at once that Ned had reached a very different conclusion. “The only truths I know are here. The south is a nest of adders I would do better to avoid.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned却得出相反结论：他只信任眼前的家人和北方，南方处处是谎言与危险。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-065"
+    },
+    {
+      "id": "CH06-P062-066",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "Luwin plucked at his chain collar where it had chafed the soft skin of his throat. “The Hand of the King has great power, my lord. Power to find the truth of Lord Arryn’s death, to bring his killers to the king’s justice. Power to protect Lady Arryn and her son, if the worst be true.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin提醒Hand必须拥有强大力量；若Jon Arryn被杀，新任Hand更应查清真相。",
+      "reading_note_zh": "Luwin把Hand权力解释成调查工具，从而把职位负担转化为保护家族的可能手段。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-066"
+    },
+    {
+      "id": "CH06-P062-067",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "Ned glanced helplessly around the bedchamber. Catelyn’s heart went out to him, but she knew she could not take him in her arms just then. First the victory must be won, for her children’s sake. “You say you love Robert like a brother. Would you leave your brother surrounded by Lannisters?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned无助地环顾房间；Catelyn心疼他，却知道自己不能代他逃避决定。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-067"
+    },
+    {
+      "id": "CH06-P062-068",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "“The Others take both of you,” Ned muttered darkly. He turned away from them and went to the window. She did not speak, nor did the maester. They waited, quiet, while Eddard Stark said a silent farewell to the home he loved. When he turned away from the window at last, his voice was tired and full of melancholy, and moisture glittered faintly in the corners of his eyes. “My father went south once, to answer the summons of a king. He never came home again.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned咒骂两人把他推向南方，转身望窗外。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-068"
+    },
+    {
+      "id": "CH06-P062-069",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“A different time,” Maester Luwin said. “A different king.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin提醒这是不同的时代、不同的国王，暗示Ned不必重复父兄命运。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-069"
+    },
+    {
+      "id": "CH06-P062-070",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "“Yes,” Ned said dully. He seated himself in a chair by the hearth. “Catelyn, you shall stay here in Winterfell.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned低落接受现实，并开始安排Catelyn留守Winterfell，与Robb和Rickon同在。",
+      "reading_note_zh": "Ned一旦接受南下，立即从情绪转入治理安排；职责思维帮助他承受个人不愿。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-070"
+    },
+    {
+      "id": "CH06-P062-071",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "His words were like an icy draft through her heart. “No,” she said, suddenly afraid. Was this to be her punishment? Never to see his face again, nor to feel his arms around her?",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn听见要分离，心中像灌入冷风，立刻拒绝。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-071"
+    },
+    {
+      "id": "CH06-P062-072",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "“Yes,” Ned said, in words that would brook no argument. “You must govern the north in my stead, while I run Robert’s errands. There must always be a Stark in Winterfell. Robb is fourteen. Soon enough, he will be a man grown. He must learn to rule, and I will not be here for him. Make him part of your councils. He must be ready when his time comes.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned用不容争辩的语气说明她必须代为治理北方，并教导Robb将来继承。",
+      "reading_note_zh": "Catelyn被要求成为北方实际治理者，说明她不是留在家中的被动配偶，而是权力代理人。",
+      "background_note_zh": "**文本事实：** Ned离开后Catelyn将代为治理北方，并培养Robb承担继承责任。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-072"
+    },
+    {
+      "id": "CH06-P062-073",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "“Gods will, not for many years,” Maester Luwin murmured.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin低声希望Ned真正继位不会发生在许多年内。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-073"
+    },
+    {
+      "id": "CH06-P062-074",
+      "page": 62,
+      "end_page": 62,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“Maester Luwin, I trust you as I would my own blood. Give my wife your voice in all things great and small. Teach my son the things he needs to know. Winter is coming.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned要求Luwin像支持自己一样支持Catelyn，成为她处理大小事务的顾问。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P062-074"
+    },
+    {
+      "id": "CH06-P063-075",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "Maester Luwin nodded gravely. Then silence fell, until Catelyn found her courage and asked the question whose answer she most dreaded. “What of the other children?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin郑重点头；沉默后，Catelyn鼓起勇气询问其他孩子如何安排。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-075"
+    },
+    {
+      "id": "CH06-P063-076",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 76,
+      "original_text": "Ned stood, and took her in his arms, and held her face close to his. “Rickon is very young,” he said gently. “He should stay here with you and Robb. The others I would take with me.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned抱住她，先说Rickon太小，必须留在Winterfell。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-076"
+    },
+    {
+      "id": "CH06-P063-077",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 77,
+      "original_text": "“I could not bear it,” Catelyn said, trembling.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn颤抖着说自己无法承受与更多孩子分离。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-077"
+    },
+    {
+      "id": "CH06-P063-078",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 78,
+      "original_text": "“You must,” he said. “Sansa must wed Joffrey, that is clear now, we must give them no grounds to suspect our devotion. And it is past time that Arya learned the ways of a southron court. In a few years she will be of an age to marry too.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned坚持必须这样：Sansa需南下完成婚约，Arya也要同行学习宫廷生活，Bran则能接触南方骑士。",
+      "reading_note_zh": "孩子安排被政治逻辑逐一解释；父母的爱不能取消继承、婚约和教育要求。",
+      "background_note_zh": "**文本事实：** Sansa因婚约必须南下；Arya接受宫廷礼仪训练；Bran学习南方骑士文化。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-078"
+    },
+    {
+      "id": "CH06-P063-079",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 79,
+      "original_text": "Sansa would shine in the south, Catelyn thought to herself, and the gods knew that Arya needed refinement. Reluctantly, she let go of them in her heart. But not Bran. Never Bran. “Yes,” she said, “but please, Ned, for the love you bear me, let Bran remain here at Winterfell. He is only seven.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn认为Sansa会在南方发光，Arya确实需要礼仪训练，但想到失去他们仍然痛苦。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-079"
+    },
+    {
+      "id": "CH06-P063-080",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 80,
+      "original_text": "“I was eight when my father sent me to foster at the Eyrie,” Ned said. “Ser Rodrik tells me there is bad feeling between Robb and Prince Joffrey. That is not healthy. Bran can bridge that distance. He is a sweet boy, quick to laugh, easy to love. Let him grow up with the young princes, let him become their friend as Robert became mine. Our House will be the safer for it.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说自己八岁便被送往Eyrie；Bran可缓和Robb与Joffrey的紧张，且这次随王室车队南下比海路更安全。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-080"
+    },
+    {
+      "id": "CH06-P063-081",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 81,
+      "original_text": "He was right; Catelyn knew it. It did not make the pain any easier to bear. She would lose all four of them, then: Ned, and both girls, and her sweet, loving Bran. Only Robb and little Rickon would be left to her. She felt lonely already. Winterfell was such a vast place. “Keep him off the walls, then,” she said bravely. “You know how Bran loves to climb.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn承认他有道理，却仍难以接受自己将同时失去四个孩子。",
+      "reading_note_zh": "本段把南下决定转换成北方治理与孩子分离方案，政治行动直接重排家庭。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-081"
+    },
+    {
+      "id": "CH06-P063-082",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 82,
+      "original_text": "Ned kissed the tears from her eyes before they could fall. “Thank you, my lady,” he whispered. “This is hard, I know.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned吻去她将落的眼泪，感谢她接受这项痛苦安排，并承认事情确实很难。",
+      "reading_note_zh": "Ned感谢的是Catelyn承担分离与治理，不只是同意他的决定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-082"
+    },
+    {
+      "id": "CH06-P063-083",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 83,
+      "original_text": "“What of Jon Snow, my lord?” Maester Luwin asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin询问Jon Snow应当如何安排。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-083"
+    },
+    {
+      "id": "CH06-P063-084",
+      "page": 63,
+      "end_page": 63,
+      "type": "paragraph",
+      "order": 84,
+      "original_text": "Catelyn tensed at the mention of the name. Ned felt the anger in her, and pulled away.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn听见名字立即绷紧；Ned察觉她的愤怒并松开拥抱。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-084"
+    },
+    {
+      "id": "CH06-P063-085",
+      "page": 63,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 85,
+      "original_text": "Many men fathered bastards. Catelyn had grown up with that knowledge. It came as no surprise to her, in the first year of her marriage, to learn that Ned had fathered a child on some girl chance met on campaign. He had a man’s needs, after all, and they had spent that year apart, Ned off at war in the south while she remained safe in her father’s castle at Riverrun. Her thoughts were more of Robb, the infant at her breast, than of the husband she scarcely knew. He was welcome to whatever solace he might find between battles. And if his seed quickened, she expected he would see to the child’s needs.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn知道许多贵族有bastards，甚至为他们提供生活；真正刺痛她的是Ned把Jon带回婚姻家庭。",
+      "reading_note_zh": "Catelyn段落坦率承认她能容忍bastard存在，却不能容忍Jon被放进自己的家庭中心。",
+      "background_note_zh": "**文本事实：** 贵族可能承认并供养bastards，但把私生子带入婚生家庭共同抚养并不常见。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P063-085"
+    },
+    {
+      "id": "CH06-P064-086",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 86,
+      "original_text": "He did more than that. The Starks were not like other men. Ned brought his bastard home with him, and called him “son” for all the north to see. When the wars were over at last, and Catelyn rode to Winterfell, Jon and his wet nurse had already taken up residence.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned不仅承认Jon，还让他与婚生子女同桌、同训；这使Catelyn每天都面对丈夫不忠的证据。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-086"
+    },
+    {
+      "id": "CH06-P064-087",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 87,
+      "original_text": "That cut deep. Ned would not speak of the mother, not so much as a word, but a castle has no secrets, and Catelyn heard her maids repeating tales they heard from the lips of her husband’s soldiers. They whispered of Ser Arthur Dayne, the Sword of the Morning, deadliest of the seven knights of Aerys’s Kingsguard, and of how their young lord had slain him in single combat. And they told how afterward Ned had carried Ser Arthur’s sword back to the beautiful young sister who awaited him in a castle called Starfall on the shores of the Summer Sea. The Lady Ashara Dayne, tall and fair, with haunting violet eyes. It had taken her a fortnight to marshal her courage, but finally, in bed one night, Catelyn had asked her husband the truth of it, asked him to his face.",
+      "translation": "",
+      "paragraph_explanation_zh": "更深伤口来自Ned拒绝透露Jon母亲身份；城堡流言说她可能是Ashara Dayne。",
+      "reading_note_zh": "未知母亲比已知不忠更具威胁，因为Catelyn无法衡量Ned曾经的感情。",
+      "background_note_zh": "**传闻：** Winterfell曾流传Ashara Dayne可能是Jon母亲；Ned从未确认。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-087"
+    },
+    {
+      "id": "CH06-P064-088",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 88,
+      "original_text": "That was the only time in all their years that Ned had ever frightened her. “Never ask me about Jon,” he said, cold as ice. “He is my blood, and that is all you need to know. And now I will learn where you heard that name, my lady.” She had pledged to obey; she told him; and from that day on, the whispering had stopped, and Ashara Dayne’s name was never heard in Winterfell again.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn唯一一次追问Ashara时，Ned罕见地吓到她，命令她永远不要再问Jon。",
+      "reading_note_zh": "Ned唯一一次令Catelyn恐惧发生在Jon母亲问题上，这种异常反应加深她多年不安。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-088"
+    },
+    {
+      "id": "CH06-P064-089",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 89,
+      "original_text": "Whoever Jon’s mother had been, Ned must have loved her fiercely, for nothing Catelyn said would persuade him to send the boy away. It was the one thing she could never forgive him. She had come to love her husband with all her heart, but she had never found it in her to love Jon. She might have overlooked a dozen bastards for Ned’s sake, so long as they were out of sight. Jon was never out of sight, and as he grew, he looked more like Ned than any of the trueborn sons she bore him. Somehow that made it worse. “Jon must go,” she said now.",
+      "translation": "",
+      "paragraph_explanation_zh": "她由Ned的沉默推断他曾强烈爱过Jon母亲，并长期无法说服他把Jon送走。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-089"
+    },
+    {
+      "id": "CH06-P064-090",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 90,
+      "original_text": "“He and Robb are close,” Ned said. “I had hoped . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说Jon与Robb感情亲近，原本希望Jon能留在Winterfell。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-090"
+    },
+    {
+      "id": "CH06-P064-091",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 91,
+      "original_text": "“He cannot stay here,” Catelyn said, cutting him off. “He is your son, not mine. I will not have him.” It was hard, she knew, but no less the truth. Ned would do the boy no kindness by leaving him here at Winterfell.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn打断并拒绝：Jon是Ned的儿子，不是她的，她不会在Ned离开后让Jon留下。",
+      "reading_note_zh": "`your son, not mine`为Catelyn划出明确边界，也把Jon再次变成无人愿意承担的孩子。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-091"
+    },
+    {
+      "id": "CH06-P064-092",
+      "page": 64,
+      "end_page": 64,
+      "type": "paragraph",
+      "order": 92,
+      "original_text": "The look Ned gave her was anguished. “You know I cannot take him south. There will be no place for him at court. A boy with a bastard’s name . . . you know what they will say of him. He will be shunned.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned露出痛苦神情，指出自己不能带Jon去宫廷，那里不会给bastard位置。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P064-092"
+    },
+    {
+      "id": "CH06-P065-093",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 93,
+      "original_text": "Catelyn armored her heart against the mute appeal in her husband’s eyes. “They say your friend Robert has fathered a dozen bastards himself.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn硬起心肠，用Robert把bastards留在宫廷之外作比较，拒绝被Ned无声恳求动摇。",
+      "reading_note_zh": "Catelyn`armored her heart`说明她看见Ned痛苦，却主动压下同情；这是防御，不是无知。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-093"
+    },
+    {
+      "id": "CH06-P065-094",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 94,
+      "original_text": "“And none of them has ever been seen at court!” Ned blazed. “The Lannister woman has seen to that. How can you be so damnably cruel, Catelyn? He is only a boy. He—”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned愤怒反驳：Robert的孩子正是被Cersei挡在宫廷外；他不愿同样抛开Jon。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-094"
+    },
+    {
+      "id": "CH06-P065-095",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 95,
+      "original_text": "His fury was on him. He might have said more, and worse, but Maester Luwin cut in. “Another solution presents itself,” he said, his voice quiet. “Your brother Benjen came to me about Jon a few days ago. It seems the boy aspires to take the black.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned还想继续争吵，Luwin及时提出另一种解决办法。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-095"
+    },
+    {
+      "id": "CH06-P065-096",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 96,
+      "original_text": "Ned looked shocked. “He asked to join the Night’s Watch?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin透露Jon希望加入守夜人，Ned对此十分震惊。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-096"
+    },
+    {
+      "id": "CH06-P065-097",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 97,
+      "original_text": "Catelyn said nothing. Let Ned work it out in his own mind; her voice would not be welcome now. Yet gladly would she have kissed the maester just then. His was the perfect solution. Benjen Stark was a Sworn Brother. Jon would be a son to him, the child he would never have. And in time the boy would take the oath as well. He would father no sons who might someday contest with Catelyn’s own grandchildren for Winterfell.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn沉默让Ned自行判断，却在心中因可能摆脱Jon而感到带罪恶感的释然。",
+      "reading_note_zh": "她的释然与羞耻同时存在，文本允许角色拥有不体面的真实感受而不替她粉饰。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-097"
+    },
+    {
+      "id": "CH06-P065-098",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 98,
+      "original_text": "Maester Luwin said, “There is great honor in service on the Wall, my lord.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin强调在长城服役具有很高荣誉。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "**文本事实：** 守夜人服务被视为荣誉道路，也接受bastards和其他缺乏继承位置的人。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-098"
+    },
+    {
+      "id": "CH06-P065-099",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 99,
+      "original_text": "“And even a bastard may rise high in the Night’s Watch,” Ned reflected. Still, his voice was troubled. “Jon is so young. If he asked this when he was a man grown, that would be one thing, but a boy of fourteen . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned想到bastard也能在守夜人晋升，且誓言会阻止Jon留下可能威胁Robb后代的子嗣。",
+      "reading_note_zh": "Ned同时看见守夜人的上升机会和誓言对子嗣的限制，家族继承风险进入判断。",
+      "background_note_zh": "**文本事实：** 守夜人不得生育子女，因此Jon未来不会产生可与Robb后代竞争的合法家族支系。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-099"
+    },
+    {
+      "id": "CH06-P065-100",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 100,
+      "original_text": "“A hard sacrifice,” Maester Luwin agreed. “Yet these are hard times, my lord. His road is no crueler than yours or your lady’s.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin承认这是艰难牺牲，但当前时代艰难，而且Jon的道路未必比Ned为婚生孩子安排的更残酷。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-100"
+    },
+    {
+      "id": "CH06-P065-101",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 101,
+      "original_text": "Catelyn thought of the three children she must lose. It was not easy keeping silent then.",
+      "translation": "",
+      "paragraph_explanation_zh": "Catelyn想到自己将失去三个南下孩子，在此刻很难继续沉默。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-101"
+    },
+    {
+      "id": "CH06-P065-102",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 102,
+      "original_text": "Ned turned away from them to gaze out the window, his long face silent and thoughtful. Finally he sighed, and turned back. “Very well,” he said to Maester Luwin. “I suppose it is for the best. I will speak to Ben.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned长久望窗思考，最终叹息同意Jon的选择。",
+      "reading_note_zh": "沉默思考后才同意，说明Ned并未把Jon送走视为轻松解决方案。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-102"
+    },
+    {
+      "id": "CH06-P065-103",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 103,
+      "original_text": "“When shall we tell Jon?” the maester asked.",
+      "translation": "",
+      "paragraph_explanation_zh": "Luwin询问何时告诉Jon。",
+      "reading_note_zh": "本段集中处理Jon的归属：Ned的父爱、Catelyn的伤口和守夜人制度共同决定少年的道路。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-103"
+    },
+    {
+      "id": "CH06-P065-104",
+      "page": 65,
+      "end_page": 65,
+      "type": "paragraph",
+      "order": 104,
+      "original_text": "“When I must. Preparations must be made. It will be a fortnight before we are ready to depart. I would sooner let Jon enjoy these last few days. Summer will end soon enough, and childhood as well. When the time comes, I will tell him myself.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说等必要时再告诉；出发准备需两周，他希望Jon先享受最后几天童年，因为夏天和童年都会很快结束。",
+      "reading_note_zh": "Ned推迟告知是为了保留最后两周家庭平静，也意味着Jon的个人未来由成人在他缺席时决定。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在夫妻决策、密信可信度、孩子安排或Jon的归属。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH06-P065-104"
+    }
+  ],
+  "pages": [
+    {
+      "page": 57,
+      "block_ids": [
+        "CH06-P057-001",
+        "CH06-P057-002",
+        "CH06-P057-003",
+        "CH06-P057-004",
+        "CH06-P057-005",
+        "CH06-P057-006",
+        "CH06-P057-007",
+        "CH06-P057-008"
+      ]
+    },
+    {
+      "page": 58,
+      "block_ids": [
+        "CH06-P058-009",
+        "CH06-P058-010",
+        "CH06-P058-011",
+        "CH06-P058-012",
+        "CH06-P058-013",
+        "CH06-P058-014",
+        "CH06-P058-015",
+        "CH06-P058-016",
+        "CH06-P058-017",
+        "CH06-P058-018",
+        "CH06-P058-019",
+        "CH06-P058-020",
+        "CH06-P058-021"
+      ]
+    },
+    {
+      "page": 59,
+      "block_ids": [
+        "CH06-P058-021",
+        "CH06-P059-022",
+        "CH06-P059-023",
+        "CH06-P059-024",
+        "CH06-P059-025",
+        "CH06-P059-026",
+        "CH06-P059-027",
+        "CH06-P059-028",
+        "CH06-P059-029",
+        "CH06-P059-030",
+        "CH06-P059-031",
+        "CH06-P059-032",
+        "CH06-P059-033",
+        "CH06-P059-034"
+      ]
+    },
+    {
+      "page": 60,
+      "block_ids": [
+        "CH06-P060-035",
+        "CH06-P060-036",
+        "CH06-P060-037",
+        "CH06-P060-038",
+        "CH06-P060-039",
+        "CH06-P060-040",
+        "CH06-P060-041",
+        "CH06-P060-042",
+        "CH06-P060-043",
+        "CH06-P060-044",
+        "CH06-P060-045",
+        "CH06-P060-046",
+        "CH06-P060-047",
+        "CH06-P060-048"
+      ]
+    },
+    {
+      "page": 61,
+      "block_ids": [
+        "CH06-P061-049",
+        "CH06-P061-050",
+        "CH06-P061-051",
+        "CH06-P061-052",
+        "CH06-P061-053",
+        "CH06-P061-054",
+        "CH06-P061-055",
+        "CH06-P061-056",
+        "CH06-P061-057",
+        "CH06-P061-058",
+        "CH06-P061-059",
+        "CH06-P061-060",
+        "CH06-P061-061",
+        "CH06-P061-062",
+        "CH06-P061-063",
+        "CH06-P061-064"
+      ]
+    },
+    {
+      "page": 62,
+      "block_ids": [
+        "CH06-P061-064",
+        "CH06-P062-065",
+        "CH06-P062-066",
+        "CH06-P062-067",
+        "CH06-P062-068",
+        "CH06-P062-069",
+        "CH06-P062-070",
+        "CH06-P062-071",
+        "CH06-P062-072",
+        "CH06-P062-073",
+        "CH06-P062-074"
+      ]
+    },
+    {
+      "page": 63,
+      "block_ids": [
+        "CH06-P063-075",
+        "CH06-P063-076",
+        "CH06-P063-077",
+        "CH06-P063-078",
+        "CH06-P063-079",
+        "CH06-P063-080",
+        "CH06-P063-081",
+        "CH06-P063-082",
+        "CH06-P063-083",
+        "CH06-P063-084",
+        "CH06-P063-085"
+      ]
+    },
+    {
+      "page": 64,
+      "block_ids": [
+        "CH06-P063-085",
+        "CH06-P064-086",
+        "CH06-P064-087",
+        "CH06-P064-088",
+        "CH06-P064-089",
+        "CH06-P064-090",
+        "CH06-P064-091",
+        "CH06-P064-092"
+      ]
+    },
+    {
+      "page": 65,
+      "block_ids": [
+        "CH06-P065-093",
+        "CH06-P065-094",
+        "CH06-P065-095",
+        "CH06-P065-096",
+        "CH06-P065-097",
+        "CH06-P065-098",
+        "CH06-P065-099",
+        "CH06-P065-100",
+        "CH06-P065-101",
+        "CH06-P065-102",
+        "CH06-P065-103",
+        "CH06-P065-104"
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": [
+    {
+      "term": "wet nurse",
+      "translation": "乳母；奶妈",
+      "note": "替别人的婴儿哺乳并照料孩子的女性"
+    },
+    {
+      "term": "southron",
+      "translation": "南方人（的）",
+      "note": "古风拼写，近似 southern"
+    },
+    {
+      "term": "heir",
+      "translation": "继承人",
+      "note": "`too many heirs` 暗示幼子继承机会有限"
+    },
+    {
+      "term": "fortnight",
+      "translation": "两星期",
+      "note": "英式常用时间单位"
+    },
+    {
+      "term": "take the black",
+      "translation": "披上黑衣；加入守夜人",
+      "note": "本书制度用语"
+    },
+    {
+      "term": "king’s justice",
+      "translation": "国王依法施行的裁决",
+      "note": "封建司法表达"
+    },
+    {
+      "term": "bastard",
+      "translation": "私生子（的）",
+      "note": "历史语境中的法律身份，常带侮辱性"
+    },
+    {
+      "term": "sworn",
+      "translation": "宣誓承担的；以誓言约束的",
+      "note": "`sworn to`"
+    },
+    {
+      "term": "keep",
+      "translation": "主堡；小型城堡",
+      "note": "此处不是动词“保持”"
+    },
+    {
+      "term": "direwolf",
+      "translation": "冰原狼；巨型狼",
+      "note": "House Stark的家徽动物"
+    },
+    {
+      "term": "antler",
+      "translation": "鹿角",
+      "note": "通常指鹿科动物分叉的角"
+    },
+    {
+      "term": "trueborn",
+      "translation": "婚生的；合法婚姻所生的",
+      "note": "与bastard身份相对"
+    },
+    {
+      "term": "sept",
+      "translation": "七神圣堂",
+      "note": "Faith of the Seven的礼拜场所"
+    },
+    {
+      "term": "melancholy",
+      "translation": "忧郁的；哀伤的",
+      "note": "形容树脸神情"
+    },
+    {
+      "term": "foster",
+      "translation": "寄养并教养",
+      "note": "贵族子弟在另一家族成长"
+    },
+    {
+      "term": "scarcely",
+      "translation": "几乎不；勉强",
+      "note": "`scarcely recognized`"
+    },
+    {
+      "term": "counsel",
+      "translation": "忠告；建议",
+      "note": "较正式用语"
+    },
+    {
+      "term": "bedchamber",
+      "translation": "卧室；寝室",
+      "note": "较古风表达"
+    },
+    {
+      "term": "brook no argument",
+      "translation": "不容争辩",
+      "note": "brook作动词表示容忍"
+    },
+    {
+      "term": "observatory",
+      "translation": "观测室；天文台",
+      "note": "maester观察天空的房间"
+    },
+    {
+      "term": "lenscrafter",
+      "translation": "镜片工匠",
+      "note": "制作精密光学镜片"
+    },
+    {
+      "term": "seeming",
+      "translation": "表象；外观",
+      "note": "`more than the seeming`"
+    },
+    {
+      "term": "avert",
+      "translation": "移开；避开",
+      "note": "`avert one’s eyes`"
+    },
+    {
+      "term": "false modesty",
+      "translation": "虚假的羞怯；不合时宜的矜持",
+      "note": "Catelyn拒绝社交遮掩"
+    },
+    {
+      "term": "impulsive",
+      "translation": "冲动的",
+      "note": "行动快于深思"
+    },
+    {
+      "term": "mute appeal",
+      "translation": "无声恳求",
+      "note": "通过眼神而非话语"
+    },
+    {
+      "term": "solace",
+      "translation": "安慰；慰藉",
+      "note": "常用于痛苦中的情感补偿"
+    },
+    {
+      "term": "refinement",
+      "translation": "礼仪教养；文雅训练",
+      "note": "此处指宫廷式行为规范"
+    }
+  ]
+}

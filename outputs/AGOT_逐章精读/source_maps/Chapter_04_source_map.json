@@ -1,0 +1,1918 @@
+{
+  "paper": {
+    "title": "A Game of Thrones — Chapter 4 (EDDARD)",
+    "author": "George R. R. Martin",
+    "source_type": "pdf",
+    "language": "en",
+    "source_path": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+    "pdf_page_range": [
+      40,
+      48
+    ],
+    "reader_mode": "spoiler-free close reading; English personal names"
+  },
+  "blocks": [
+    {
+      "id": "CH04-P040-001",
+      "page": 40,
+      "end_page": 40,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "The visitors poured through the castle gates in a river of gold and silver and polished steel, three hundred strong, a pride of bannermen and knights, of sworn swords and freeriders. Over their heads a dozen golden banners whipped back and forth in the northern wind, emblazoned with the crowned stag of Baratheon.",
+      "translation": "",
+      "paragraph_explanation_zh": "王室队伍像金银与钢铁组成的河流涌入Winterfell，规模与色彩先于个人面孔展示王权。",
+      "reading_note_zh": "`river of gold and silver and polished steel`把车队写成流动财富与武力，王室权力先以物质规模抵达。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P040-001"
+    },
+    {
+      "id": "CH04-P040-002",
+      "page": 40,
+      "end_page": 40,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Ned knew many of the riders. There came Ser Jaime Lannister with hair as bright as beaten gold, and there Sandor Clegane with his terrible burned face. The tall boy beside him could only be the crown prince, and that stunted little man behind them was surely the Imp, Tyrion Lannister.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned认出Jaime Lannister和烧伤面孔的Sandor Clegane，并据位置辨认出王储Joffrey与Tyrion Lannister。",
+      "reading_note_zh": "本段以Ned视角比较记忆中的Robert与眼前国王，让私人重逢始终受到礼仪和权力约束。",
+      "background_note_zh": "**文本事实：** Jaime Lannister属于Kingsguard；Sandor Clegane担任王子Joffrey的护卫。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P040-002"
+    },
+    {
+      "id": "CH04-P040-003",
+      "page": 40,
+      "end_page": 40,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "Yet the huge man at the head of the column, flanked by two knights in the snow-white cloaks of the Kingsguard, seemed almost a stranger to Ned . . . until he vaulted off the back of his warhorse with a familiar roar, and crushed him in a bone-crunching hug. “Ned! Ah, but it is good to see that frozen face of yours.” The king looked him over top to bottom, and laughed. “You have not changed at all.”",
+      "translation": "",
+      "paragraph_explanation_zh": "队伍前方体形巨大的国王Robert仍认得Ned，先用响亮笑声和旧日昵称打破正式场面。",
+      "reading_note_zh": "Robert第一声笑让Ned认出旧友，随后外貌差异才展开；声音比身体更保留过去。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P040-003"
+    },
+    {
+      "id": "CH04-P040-004",
+      "page": 40,
+      "end_page": 40,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "Would that Ned had been able to say the same. Fifteen years past, when they had ridden forth to win a throne, the Lord of Storm’s End had been clean-shaven, clear-eyed, and muscled like a maiden’s fantasy. Six and a half feet tall, he towered over lesser men, and when he donned his armor and the great antlered helmet of his House, he became a veritable giant. He’d had a giant’s strength too, his weapon of choice a spiked iron warhammer that Ned could scarcely lift. In those days, the smell of leather and blood had clung to him like perfume.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned回想十五年前两人并肩作战时，Robert精瘦强壮、挥舞战锤，是令人生畏的战士。",
+      "reading_note_zh": "本段以Ned视角比较记忆中的Robert与眼前国王，让私人重逢始终受到礼仪和权力约束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P040-004"
+    },
+    {
+      "id": "CH04-P040-005",
+      "page": 40,
+      "end_page": 40,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "Now it was perfume that clung to him like perfume, and he had a girth to match his height. Ned had last seen the king nine years before during Balon Greyjoy’s rebellion, when the stag and the direwolf had joined to end the pretensions of the self-proclaimed King of the Iron Islands. Since the night they had stood side by side in Greyjoy’s fallen stronghold, where Robert had accepted the rebel lord’s surrender and Ned had taken his son Theon as hostage and ward, the king had gained at least eight stone. A beard as coarse and black as iron wire covered his jaw to hide his double chin and the sag of the royal jowls, but nothing could hide his stomach or the dark circles under his eyes.",
+      "translation": "",
+      "paragraph_explanation_zh": "如今Robert依然高大，却因饮食享乐变得肥胖、气喘，香水也掩不住衰败感。",
+      "reading_note_zh": "重复的`perfume`与体重描写故意破坏英雄形象，Ned看到的是时间和享乐留下的痕迹。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P040-005"
+    },
+    {
+      "id": "CH04-P040-006",
+      "page": 40,
+      "end_page": 40,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Yet Robert was Ned’s king now, and not just a friend, so he said only, “Your Grace. Winterfell is yours.”",
+      "translation": "",
+      "paragraph_explanation_zh": "尽管心中震惊，Ned记得Robert既是朋友也是国王，只以正式礼仪欢迎他进入Winterfell。",
+      "reading_note_zh": "Ned压下真实反应，选择合乎礼法的话；私人友谊已经被君臣关系包围。",
+      "background_note_zh": "**文本事实：** Robert既是Ned的旧友也是国王，公开场合必须以`Your Grace`等君臣礼仪相待。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P040-006"
+    },
+    {
+      "id": "CH04-P041-007",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "By then the others were dismounting as well, and grooms were coming forward for their mounts. Robert’s queen, Cersei Lannister, entered on foot with her younger children. The wheelhouse in which they had ridden, a huge double-decked carriage of oiled oak and gilded metal pulled by forty heavy draft horses, was too wide to pass through the castle gate. Ned knelt in the snow to kiss the queen’s ring, while Robert embraced Catelyn like a long-lost sister. Then the children had been brought forward, introduced, and approved of by both sides.",
+      "translation": "",
+      "paragraph_explanation_zh": "Cersei Lannister带着孩子下车，王室与Stark家庭完成公开问候，众人都在观看。",
+      "reading_note_zh": "本段以Ned视角比较记忆中的Robert与眼前国王，让私人重逢始终受到礼仪和权力约束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-007"
+    },
+    {
+      "id": "CH04-P041-008",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "No sooner had those formalities of greeting been completed than the king had said to his host, “Take me down to your crypt, Eddard. I would pay my respects.”",
+      "translation": "",
+      "paragraph_explanation_zh": "礼节刚结束，Robert便要求Ned带他去crypt祭拜，显示他仍把Lyanna置于首要位置。",
+      "reading_note_zh": "Robert把祭拜Lyanna置于王后、孩子和宴会之前，显示这段旧爱仍支配他的情感秩序。",
+      "background_note_zh": "**文本事实：** Lyanna Stark是Ned的妹妹，也是Robert未能成婚的旧日未婚妻。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-008"
+    },
+    {
+      "id": "CH04-P041-009",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "Ned loved him for that, for remembering her still after all these years. He called for a lantern. No other words were needed. The queen had begun to protest. They had been riding since dawn, everyone was tired and cold, surely they should refresh themselves first. The dead would wait. She had said no more than that; Robert had looked at her, and her twin brother Jaime had taken her quietly by the arm, and she had said no more.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned因Robert记得Lyanna而感动，取灯亲自领路，不让随从陪同。",
+      "reading_note_zh": "本段以Ned视角比较记忆中的Robert与眼前国王，让私人重逢始终受到礼仪和权力约束。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-009"
+    },
+    {
+      "id": "CH04-P041-010",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "They went down to the crypt together, Ned and this king he scarcely recognized. The winding stone steps were narrow. Ned went first with the lantern. “I was starting to think we would never reach Winterfell,” Robert complained as they descended. “In the south, the way they talk about my Seven Kingdoms, a man forgets that your part is as big as the other six combined.”",
+      "translation": "",
+      "paragraph_explanation_zh": "两人走下曲折石阶进入crypt；Ned发现身边的国王已与记忆中的朋友大不相同。",
+      "reading_note_zh": "`this king he scarcely recognized`同时指外貌陌生与身份变化：朋友已经成为需要礼貌应对的国王。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-010"
+    },
+    {
+      "id": "CH04-P041-011",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "“I trust you enjoyed the journey, Your Grace?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned礼貌询问Robert旅途是否顺利。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-011"
+    },
+    {
+      "id": "CH04-P041-012",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "Robert snorted. “Bogs and forests and fields, and scarcely a decent inn north of the Neck. I’ve never seen such a vast emptiness. Where are all your people?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert抱怨北方只有沼泽、森林和差劲旅店，还打趣一路没见到传说中的女人。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-012"
+    },
+    {
+      "id": "CH04-P041-013",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“Likely they were too shy to come out,” Ned jested. He could feel the chill coming up the stairs, a cold breath from deep within the earth. “Kings are a rare sight in the north.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned以玩笑回应，说她们也许害羞躲着；地下寒气正逐渐增强。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-013"
+    },
+    {
+      "id": "CH04-P041-014",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "Robert snorted. “More likely they were hiding under the snow. Snow, Ned!” The king put one hand on the wall to steady himself as they descended.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert继续抱怨夏末下雪，用夸张语气嘲笑北方气候。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-014"
+    },
+    {
+      "id": "CH04-P041-015",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "“Late summer snows are common enough,” Ned said. “I hope they did not trouble you. They are usually mild.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned解释夏末小雪很常见，通常不造成大麻烦。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-015"
+    },
+    {
+      "id": "CH04-P041-016",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“The Others take your mild snows,” Robert swore. “What will this place be like in winter? I shudder to think.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert咒骂所谓“小雪”，无法想象真正冬天，并问Ned为何愿意居住在这种地方。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-016"
+    },
+    {
+      "id": "CH04-P041-017",
+      "page": 41,
+      "end_page": 41,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“The winters are hard,” Ned admitted. “But the Starks will endure. We always have.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned承认冬季严酷，却说Stark总能坚持下去。",
+      "reading_note_zh": "Stark的自我定义不是不受苦，而是`endure`；家族箴言在这里转化为生存态度。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P041-017"
+    },
+    {
+      "id": "CH04-P042-018",
+      "page": 42,
+      "end_page": 42,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "“You need to come south,” Robert told him. “You need a taste of summer before it flees. In Highgarden there are fields of golden roses that stretch away as far as the eye can see. The fruits are so ripe they explode in your mouth—melons, peaches, fireplums, you’ve never tasted such sweetness. You’ll see, I brought you some. Even at Storm’s End, with that good wind off the bay, the days are so hot you can barely move. And you ought to see the towns, Ned! Flowers everywhere, the markets bursting with food, the summerwines so cheap and so good that you can get drunk just breathing the air. Everyone is fat and drunk and rich.” He laughed and slapped his own ample stomach a thump. “And the girls, Ned!” he exclaimed, his eyes sparkling. “I swear, women lose all modesty in the heat. They swim naked in the river, right beneath the castle. Even in the streets, it’s too damn hot for wool or fur, so they go around in these short gowns, silk if they have the silver and cotton if not, but it’s all the same when they start sweating and the cloth sticks to their skin, they might as well be naked.” The king laughed happily.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert邀请Ned到南方感受夏天，热烈描绘Highgarden、Oldtown、Arbor等温暖丰饶之地。",
+      "reading_note_zh": "Robert列举南方景色和女人，语言丰盛外放，与crypt的寒暗和Ned的克制形成对照。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P042-018"
+    },
+    {
+      "id": "CH04-P042-019",
+      "page": 42,
+      "end_page": 42,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "Robert Baratheon had always been a man of huge appetites, a man who knew how to take his pleasures. That was not a charge anyone could lay at the door of Eddard Stark. Yet Ned could not help but notice that those pleasures were taking a toll on the king. Robert was breathing heavily by the time they reached the bottom of the stairs, his face red in the lantern light as they stepped out into the darkness of the crypt.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned记得Robert一向欲望旺盛、懂得享乐；他自己性情不同，因此只简短回应。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P042-019"
+    },
+    {
+      "id": "CH04-P042-020",
+      "page": 42,
+      "end_page": 42,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "“Your Grace,” Ned said respectfully. He swept the lantern in a wide semicircle. Shadows moved and lurched. Flickering light touched the stones underfoot and brushed against a long procession of granite pillars that marched ahead, two by two, into the dark. Between the pillars, the dead sat on their stone thrones against the walls, backs against the sepulchres that contained their mortal remains. “She is down at the end, with Father and Brandon.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned礼貌提醒他们来到地下是为Lyanna，并用灯光照出crypt中的石像。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P042-020"
+    },
+    {
+      "id": "CH04-P042-021",
+      "page": 42,
+      "end_page": 42,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "He led the way between the pillars and Robert followed wordlessly, shivering in the subterranean chill. It was always cold down here. Their footsteps rang off the stones and echoed in the vault overhead as they walked among the dead of House Stark. The Lords of Winterfell watched them pass. Their likenesses were carved into the stones that sealed the tombs. In long rows they sat, blind eyes staring out into eternal darkness, while great stone direwolves curled round their feet. The shifting shadows made the stone figures seem to stir as the living passed by.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned在前引路，Robert沉默跟随，在地下寒气中发抖。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P042-021"
+    },
+    {
+      "id": "CH04-P042-022",
+      "page": 42,
+      "end_page": 42,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "By ancient custom an iron longsword had been laid across the lap of each who had been Lord of Winterfell, to keep the vengeful spirits in their crypts. The oldest had long ago rusted away to nothing, leaving only a few red stains where the metal had rested on stone. Ned wondered if that meant those ghosts were free to roam the castle now. He hoped not. The first Lords of Winterfell had been men hard as the land they ruled. In the centuries before the Dragonlords came over the sea, they had sworn allegiance to no man, styling themselves the Kings in the North.",
+      "translation": "",
+      "paragraph_explanation_zh": "历代Lord of Winterfell石像膝上横放铁剑，用来安抚亡灵；最古老坟墓的剑已锈蚀消失。",
+      "reading_note_zh": "铁剑既象征领主身份，也被认为能约束亡灵；锈蚀消失让古老秩序显出脆弱。",
+      "background_note_zh": "**文本事实：** Winterfell的crypt安葬历代Stark领主，石像与铁剑属于古老丧葬习俗。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P042-022"
+    },
+    {
+      "id": "CH04-P043-023",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "Ned stopped at last and lifted the oil lantern. The crypt continued on into darkness ahead of them, but beyond this point the tombs were empty and unsealed; black holes waiting for their dead, waiting for him and his children. Ned did not like to think on that. “Here,” he told his king.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned停在crypt深处，前方仍有为未来死亡者预留的空墓穴。",
+      "reading_note_zh": "为未来领主预留的空墓把政治邀请置于死亡时间轴中，Ned的任何选择最终都通向这里。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-023"
+    },
+    {
+      "id": "CH04-P043-024",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "Robert nodded silently, knelt, and bowed his head.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert在Lyanna墓前跪下低头默哀。",
+      "reading_note_zh": "本段借进入crypt的空间移动对照南北性格，并让活人逐步走入Stark家族的死亡记忆。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-024"
+    },
+    {
+      "id": "CH04-P043-025",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "There were three tombs, side by side. Lord Rickard Stark, Ned’s father, had a long, stern face. The stonemason had known him well. He sat with quiet dignity, stone fingers holding tight to the sword across his lap, but in life all swords had failed him. In two smaller sepulchres on either side were his children.",
+      "translation": "",
+      "paragraph_explanation_zh": "相邻三座墓分别属于Ned的父亲Rickard、兄长Brandon和妹妹Lyanna，石像保存家族死亡。",
+      "reading_note_zh": "三座并列墓穴把Ned的私人失去集中可视化，也解释他为何对旧战争不愿轻易浪漫化。",
+      "background_note_zh": "**文本事实：** Rickard、Brandon和Lyanna是Ned在旧战争前后失去的父亲、兄长与妹妹。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-025"
+    },
+    {
+      "id": "CH04-P043-026",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "Brandon had been twenty when he died, strangled by order of the Mad King Aerys Targaryen only a few short days before he was to wed Catelyn Tully of Riverrun. His father had been forced to watch him die. He was the true heir, the eldest, born to rule.",
+      "translation": "",
+      "paragraph_explanation_zh": "Brandon二十岁时奉Mad King Aerys之命被勒死，原本属于他的婚姻和继承都随之中断。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "**文本事实：** Aerys Targaryen下令处死Brandon；Catelyn原本与Brandon订婚，后来嫁给Ned。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-026"
+    },
+    {
+      "id": "CH04-P043-027",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "Lyanna had only been sixteen, a child-woman of surpassing loveliness. Ned had loved her with all his heart. Robert had loved her even more. She was to have been his bride.",
+      "translation": "",
+      "paragraph_explanation_zh": "Lyanna十六岁去世，石像无法还原她的美；Ned对她的爱与悲伤仍然强烈。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-027"
+    },
+    {
+      "id": "CH04-P043-028",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "“She was more beautiful than that,” the king said after a silence. His eyes lingered on Lyanna’s face, as if he could will her back to life. Finally he rose, made awkward by his weight. “Ah, damn it, Ned, did you have to bury her in a place like this?” His voice was hoarse with remembered grief. “She deserved more than darkness . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说Lyanna本人比石像更美，并抱怨她不该被安葬在阴冷地下。",
+      "reading_note_zh": "Robert爱的是记忆中的Lyanna，甚至想替她选择墓地；Ned掌握她临终意愿，两种哀悼因此冲突。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-028"
+    },
+    {
+      "id": "CH04-P043-029",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "“She was a Stark of Winterfell,” Ned said quietly. “This is her place.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned回答Lyanna属于Winterfell，这里就是她应在的位置。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-029"
+    },
+    {
+      "id": "CH04-P043-030",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“She should be on a hill somewhere, under a fruit tree, with the sun and clouds above her and the rain to wash her clean.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert想象她应该葬在有阳光、雨水和花香的山丘上，反映他理想化的悼念方式。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-030"
+    },
+    {
+      "id": "CH04-P043-031",
+      "page": 43,
+      "end_page": 43,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "“I was with her when she died,” Ned reminded the king. “She wanted to come home, to rest beside Brandon and Father.” He could hear her still at times. Promise me, she had cried, in a room that smelled of blood and roses. Promise me, Ned. The fever had taken her strength and her voice had been faint as a whisper, but when he gave her his word, the fear had gone out of his sister’s eyes. Ned remembered the way she had smiled then, how tightly her fingers had clutched his as she gave up her hold on life, the rose petals spilling from her palm, dead and black. After that he remembered nothing. They had found him still holding her body, silent with grief. The little crannogman, Howland Reed, had taken her hand from his. Ned could recall none of it. “I bring her flowers when I can,” he said. “Lyanna was . . . fond of flowers.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned提醒Robert，自己在Lyanna临终时陪伴她；回到父兄身旁是她明确的愿望。",
+      "reading_note_zh": "`promise me`未在本段解释内容；无剧透阅读应保留这个未完成信息，而不是提前填答案。",
+      "background_note_zh": "**文本事实：** Ned在Lyanna临终时陪伴她，并按其意愿把遗体带回Winterfell。承诺内容当前未说明。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-031"
+    },
+    {
+      "id": "CH04-P043-032",
+      "page": 43,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "The king touched her cheek, his fingers brushing across the rough stone as gently as if it were living flesh. “I vowed to kill Rhaegar for what he did to her.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert轻触石像脸颊，回忆曾发誓杀死Rhaegar，为Lyanna复仇。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P043-032"
+    },
+    {
+      "id": "CH04-P044-033",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "“You did,” Ned reminded him.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned提醒Robert，他确实完成了这个誓言。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-033"
+    },
+    {
+      "id": "CH04-P044-034",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "“Only once,” Robert said bitterly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert苦涩回答，自己只杀了Rhaegar一次，仍不足以消解仇恨。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-034"
+    },
+    {
+      "id": "CH04-P044-035",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "They had come together at the ford of the Trident while the battle crashed around them, Robert with his warhammer and his great antlered helm, the Targaryen prince armored all in black. On his breastplate was the three-headed dragon of his House, wrought all in rubies that flashed like fire in the sunlight. The waters of the Trident ran red around the hooves of their destriers as they circled and clashed, again and again, until at last a crushing blow from Robert’s hammer stove in the dragon and the chest beneath it. When Ned had finally come on the scene, Rhaegar lay dead in the stream, while men of both armies scrabbled in the swirling waters for rubies knocked free of his armor.",
+      "translation": "",
+      "paragraph_explanation_zh": "叙述回顾Trident之战：Robert用战锤击碎Rhaegar胸甲，红宝石散入河水。",
+      "reading_note_zh": "红宝石散入河水把历史战役压缩成传奇画面，Robert却仍停留在无法结束的私人仇恨中。",
+      "background_note_zh": "**文本事实：** Robert在Trident之战中亲手杀死Rhaegar Targaryen，这场胜利是旧战争的关键节点。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-035"
+    },
+    {
+      "id": "CH04-P044-036",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "“In my dreams, I kill him every night,” Robert admitted. “A thousand deaths will still be less than he deserves.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert承认自己每晚在梦中再次杀死Rhaegar，即使千次死亡也嫌不够。",
+      "reading_note_zh": "反复梦杀说明复仇没有治疗失去；胜利结束了战斗，却没有结束Robert的心理时间。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-036"
+    },
+    {
+      "id": "CH04-P044-037",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "There was nothing Ned could say to that. After a quiet, he said, “We should return, Your Grace. Your wife will be waiting.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned无法回应这种执念，转而建议回去，因为王后正在等待。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-037"
+    },
+    {
+      "id": "CH04-P044-038",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "“The Others take my wife,” Robert muttered sourly, but he started back the way they had come, his footsteps falling heavily. “And if I hear ‘Your Grace’ once more, I’ll have your head on a spike. We are more to each other than that.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert厌恶地咒骂妻子，却开始沿原路返回，脚步让crypt回声震动。",
+      "reading_note_zh": "本段围绕Lyanna、Rhaegar与旧战争展示两种哀悼：Ned尊重遗愿，Robert反复沉浸于复仇。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-038"
+    },
+    {
+      "id": "CH04-P044-039",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "“I had not forgotten,” Ned replied quietly. When the king did not answer, he said, “Tell me about Jon.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说自己没有忘记Jon Arryn，随后询问他的病情与死亡经过。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-039"
+    },
+    {
+      "id": "CH04-P044-040",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Robert shook his head. “I have never seen a man sicken so quickly. We gave a tourney on my son’s name day. If you had seen Jon then, you would have sworn he would live forever. A fortnight later he was dead. The sickness was like a fire in his gut. It burned right through him.” He paused beside a pillar, before the tomb of a long-dead Stark. “I loved that old man.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说Jon Arryn发病极快，前不久还健康地观看tourney，两周后便去世。",
+      "reading_note_zh": "Jon Arryn从健康到死亡只隔两周，速度本身构成疑问，但当前人物把它描述为疾病。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-040"
+    },
+    {
+      "id": "CH04-P044-041",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "“We both did.” Ned paused a moment. “Catelyn fears for her sister. How does Lysa bear her grief?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned提到两人都如同失去父亲，并询问Lysa如何承受悲痛。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-041"
+    },
+    {
+      "id": "CH04-P044-042",
+      "page": 44,
+      "end_page": 44,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Robert’s mouth gave a bitter twist. “Not well, in truth,” he admitted. “I think losing Jon has driven the woman mad, Ned. She has taken the boy back to the Eyrie. Against my wishes. I had hoped to foster him with Tywin Lannister at Casterly Rock. Jon had no brothers, no other sons. Was I supposed to leave him to be raised by women?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说Lysa几乎被悲伤逼疯，拒绝让儿子由Tywin Lannister收为ward，并连夜逃回Eyrie。",
+      "reading_note_zh": "Lysa的夜逃既可视为悲伤失控，也可视为保护孩子；本章没有足够信息裁定。",
+      "background_note_zh": "**文本事实：** Lysa是Jon Arryn遗孀；其六岁儿子Robert Arryn继承Eyrie。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P044-042"
+    },
+    {
+      "id": "CH04-P045-043",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "Ned would sooner entrust a child to a pit viper than to Lord Tywin, but he left his doubts unspoken. Some old wounds never truly heal, and bleed again at the slightest word. “The wife has lost the husband,” he said carefully. “Perhaps the mother feared to lose the son. The boy is very young.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned认为把孩子交给Tywin极不安全，但没有公开说出，以免旧伤再次引发争执。",
+      "reading_note_zh": "Ned的内心判断与公开沉默分开，显示他知道旧政治创伤可能因一句话重新流血。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-043"
+    },
+    {
+      "id": "CH04-P045-044",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "“Six, and sickly, and Lord of the Eyrie, gods have mercy,” the king swore. “Lord Tywin had never taken a ward before. Lysa ought to have been honored. The Lannisters are a great and noble House. She refused to even hear of it. Then she left in the dead of night, without so much as a by-your-leave. Cersei was furious.” He sighed deeply. “The boy is my namesake, did you know that? Robert Arryn. I am sworn to protect him. How can I do that if his mother steals him away?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert抱怨六岁且体弱的Robert Arryn如今继承Eyrie，认为由Tywin教养能使他坚强。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "**文本事实：** ward由另一贵族家族抚养，可兼具教育、结盟与政治控制意义。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-044"
+    },
+    {
+      "id": "CH04-P045-045",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "“I will take him as ward, if you wish,” Ned said. “Lysa should consent to that. She and Catelyn were close as girls, and she would be welcome here as well.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned主动提出由自己收养男孩，认为Lysa与Catelyn的姐妹关系会让她接受。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-045"
+    },
+    {
+      "id": "CH04-P045-046",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "“A generous offer, my friend,” the king said, “but too late. Lord Tywin has already given his consent. Fostering the boy elsewhere would be a grievous affront to him.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert称赞提议，却说为时已晚：Tywin已同意，Lysa的拒绝令Lannister家族蒙羞。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-046"
+    },
+    {
+      "id": "CH04-P045-047",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "“I have more concern for my nephew’s welfare than I do for Lannister pride,” Ned declared.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned明确表示自己更关心外甥的安危，而非Lannister的骄傲。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-047"
+    },
+    {
+      "id": "CH04-P045-048",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“That is because you do not sleep with a Lannister.” Robert laughed, the sound rattling among the tombs and bouncing from the vaulted ceiling. His smile was a flash of white teeth in the thicket of the huge black beard. “Ah, Ned,” he said, “you are still too serious.” He put a massive arm around Ned’s shoulders. “I had planned to wait a few days to speak to you, but I see now there’s no need for it. Come, walk with me.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert用关于婚姻的粗俗玩笑回应，笑声在墓穴中回荡。",
+      "reading_note_zh": "Robert用笑话化解关于儿童监护与Lannister权力的严重分歧，是他常见的逃避方式。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-048"
+    },
+    {
+      "id": "CH04-P045-049",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "They started back down between the pillars. Blind stone eyes seemed to follow them as they passed. The king kept his arm around Ned’s shoulder. “You must have wondered why I finally came north to Winterfell, after so long.”",
+      "translation": "",
+      "paragraph_explanation_zh": "两人继续穿过石柱；Robert搂住Ned肩膀，开始解释自己为何远道而来。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-049"
+    },
+    {
+      "id": "CH04-P045-050",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "Ned had his suspicions, but he did not give them voice. “For the joy of my company, surely,” he said lightly. “And there is the Wall. You need to see it, Your Grace, to walk along its battlements and talk to those who man it. The Night’s Watch is a shadow of what it once was. Benjen says—”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned其实已有猜测，却以玩笑说Robert只是为了享受他的陪伴。",
+      "reading_note_zh": "本段从Jon Arryn的病逝转向遗属、监护和职位问题，私人悲痛迅速显出政治后果。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-050"
+    },
+    {
+      "id": "CH04-P045-051",
+      "page": 45,
+      "end_page": 45,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“No doubt I will hear what your brother says soon enough,” Robert said. “The Wall has stood for what, eight thousand years? It can keep a few days more. I have more pressing concerns. These are difficult times. I need good men about me. Men like Jon Arryn. He served as Lord of the Eyrie, as Warden of the East, as the Hand of the King. He will not be easy to replace.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说长城已屹立数千年，Mance Rayder不足为惧；他真正关心的是Jon Arryn死后留下的职位。",
+      "reading_note_zh": "Robert主动降低Mance威胁的重要性，是为了把谈话转向他真正需要Ned解决的王国职位。",
+      "background_note_zh": "**文本事实：** Jon Arryn生前同时担任Hand of the King与Warden of the East；两者都是国王授予的重要职位。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P045-051"
+    },
+    {
+      "id": "CH04-P046-052",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“His son . . . ” Ned began.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned刚想提Jon Arryn的儿子。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-052"
+    },
+    {
+      "id": "CH04-P046-053",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "“His son will succeed to the Eyrie and all its incomes,” Robert said brusquely. “No more.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert打断：男孩只继承Eyrie和收入，不能自动继承父亲的王国职位。",
+      "reading_note_zh": "Robert明确区分世袭财产与国王任命：儿子继承领地，不自动继承父亲的国家权力。",
+      "background_note_zh": "**文本事实：** Eyrie与收入可世袭；Warden of the East涉及军事统帅权，需国王任命。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-053"
+    },
+    {
+      "id": "CH04-P046-054",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "That took Ned by surprise. He stopped, startled, and turned to look at his king. The words came unbidden. “The Arryns have always been Wardens of the East. The title goes with the domain.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned惊讶地停步，指出House Arryn历来担任Warden of the East，这个头衔应与Eyrie领地相连。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-054"
+    },
+    {
+      "id": "CH04-P046-055",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“Perhaps when he comes of age, the honor can be restored to him,” Robert said. “I have this year to think of, and next. A six-year-old boy is no war leader, Ned.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说等男孩成年或许归还荣誉，但当前必须交给能指挥军队的人。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-055"
+    },
+    {
+      "id": "CH04-P046-056",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“In peace, the title is only an honor. Let the boy keep it. For his father’s sake if not his own. Surely you owe Jon that much for his service.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned主张和平时期头衔主要是荣誉，应为Jon Arryn的儿子保留，至少以此回报其父的服务。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-056"
+    },
+    {
+      "id": "CH04-P046-057",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "The king was not pleased. He took his arm from around Ned’s shoulders. “Jon’s service was the duty he owed his liege lord. I am not ungrateful, Ned. You of all men ought to know that. But the son is not the father. A mere boy cannot hold the east.” Then his tone softened. “Enough of this. There is a more important office to discuss, and I would not argue with you.” Robert grasped Ned by the elbow. “I have need of you, Ned.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert不悦，认为Jon的服务本就是臣子义务，而自己不能让半数王国军队由病弱幼童名义统领。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-057"
+    },
+    {
+      "id": "CH04-P046-058",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "“I am yours to command, Your Grace. Always.” They were words he had to say, and so he said them, apprehensive about what might come next.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned说自己永远服从国王；这是身份要求他说的话，而非内心完全认同。",
+      "reading_note_zh": "`words he had to say`让效忠誓言出现裂缝：形式绝对，内心仍保留判断。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-058"
+    },
+    {
+      "id": "CH04-P046-059",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "Robert scarcely seemed to hear him. “Those years we spent in the Eyrie . . . gods, those were good years. I want you at my side again, Ned. I want you down in King’s Landing, not up here at the end of the world where you are no damned use to anybody.” Robert looked off into the darkness, for a moment as melancholy as a Stark. “I swear to you, sitting a throne is a thousand times harder than winning one. Laws are a tedious business and counting coppers is worse. And the people . . . there is no end of them. I sit on that damnable iron chair and listen to them complain until my mind is numb and my ass is raw. They all want something, money or land or justice. The lies they tell . . . and my lords and ladies are no better. I am surrounded by flatterers and fools. It can drive a man to madness, Ned. Half of them don’t dare tell me the truth, and the other half can’t find it. There are nights I wish we had lost at the Trident. Ah, no, not truly, but . . .",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert几乎没听见，转而怀念两人在Eyrie的少年岁月，感叹身边无人真正理解自己。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-059"
+    },
+    {
+      "id": "CH04-P046-060",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“I understand,” Ned said softly.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned温和表示理解。",
+      "reading_note_zh": "本段区分世袭领地与王室任命，并通过Robert的怀旧逐步引出真正请求。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-060"
+    },
+    {
+      "id": "CH04-P046-061",
+      "page": 46,
+      "end_page": 46,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "Robert looked at him. “I think you do. If so, you are the only one, my old friend.” He smiled. “Lord Eddard Stark, I would name you the Hand of the King.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert确认Ned可能是唯一理解他的人，正式提出任命Ned为Hand of the King。",
+      "reading_note_zh": "任命在友情语言中提出，但Hand是国家最高责任之一；私人信任与政治负担被绑在一起。",
+      "background_note_zh": "**文本事实：** Hand of the King是国王最重要的行政代理，可制定法律、指挥军队并代王处理事务。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-061"
+    },
+    {
+      "id": "CH04-P046-062",
+      "page": 46,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "Ned dropped to one knee. The offer did not surprise him; what other reason could Robert have had for coming so far? The Hand of the King was the second-most powerful man in the Seven Kingdoms. He spoke with the king’s voice, commanded the king’s armies, drafted the king’s laws. At times he even sat upon the Iron Throne to dispense king’s justice, when the king was absent, or sick, or otherwise indisposed. Robert was offering him a responsibility as large as the realm itself.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned单膝跪下；这个邀请并不意外，因为他早已猜到Robert来访的真正目的。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P046-062"
+    },
+    {
+      "id": "CH04-P047-063",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "It was the last thing in the world he wanted.",
+      "translation": "",
+      "paragraph_explanation_zh": "但成为Hand是Ned最不想要的结果。",
+      "reading_note_zh": "单句独段直接切开礼仪：Ned知道邀请合理，却明确不想接受。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-063"
+    },
+    {
+      "id": "CH04-P047-064",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "“Your Grace,” he said. “I am not worthy of the honor.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned以自己不配为由试图推辞。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-064"
+    },
+    {
+      "id": "CH04-P047-065",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "Robert groaned with good-humored impatience. “If I wanted to honor you, I’d let you retire. I am planning to make you run the kingdom and fight the wars while I eat and drink and wench myself into an early grave.” He slapped his gut and grinned. “You know the saying, about the king and his Hand?”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说这不是荣誉性奖励，而是需要Ned治理王国、约束国王并阻止其愚行。",
+      "reading_note_zh": "Robert不是给Ned体面职位，而是公开承认自己需要有人替他工作并限制他。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-065"
+    },
+    {
+      "id": "CH04-P047-066",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "Ned knew the saying. “What the king dreams,” he said, “the Hand builds.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned引用俗语：国王负责梦想，Hand负责把梦想建成现实。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-066"
+    },
+    {
+      "id": "CH04-P047-067",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "“I bedded a fishmaid once who told me the lowborn have a choicer way to put it. The king eats, they say, and the Hand takes the shit.” He threw back his head and roared his laughter. The echoes rang through the darkness, and all around them the dead of Winterfell seemed to watch with cold and disapproving eyes.",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert用低俗版本改写这句俗语，自己大笑，却发现Ned没有笑。",
+      "reading_note_zh": "低俗俗语把宏大的王权分工拉回身体需求，既表现Robert的幽默，也暴露他对统治的懒散。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-067"
+    },
+    {
+      "id": "CH04-P047-068",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "Finally the laughter dwindled and stopped. Ned was still on one knee, his eyes upraised. “Damn it, Ned,” the king complained. “You might at least humor me with a smile.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert的笑声渐止，Ned仍然跪着；Robert抱怨他连配合笑一下都不肯。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-068"
+    },
+    {
+      "id": "CH04-P047-069",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 69,
+      "original_text": "“They say it grows so cold up here in winter that a man’s laughter freezes in his throat and chokes him to death,” Ned said evenly. “Perhaps that is why the Starks have so little humor.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned平静地用北方严寒会让笑声冻结在喉咙里的故事解释Stark为何缺少幽默。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-069"
+    },
+    {
+      "id": "CH04-P047-070",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 70,
+      "original_text": "“Come south with me, and I’ll teach you how to laugh again,” the king promised. “You helped me win this damnable throne, now help me hold it. We were meant to rule together. If Lyanna had lived, we should have been brothers, bound by blood as well as affection. Well, it is not too late. I have a son. You have a daughter. My Joff and your Sansa shall join our houses, as Lyanna and I might once have done.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert邀请Ned南下共同守住王国，并提出让Joffrey与Sansa订婚，以完成自己与Lyanna未能建立的家族联结。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-070"
+    },
+    {
+      "id": "CH04-P047-071",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 71,
+      "original_text": "This offer did surprise him. “Sansa is only eleven.”",
+      "translation": "",
+      "paragraph_explanation_zh": "这项婚约才真正让Ned意外；他首先指出Sansa只有十一岁。",
+      "reading_note_zh": "Hand任命后紧接婚约，使Ned的公共职责和家庭未来同时被王权重新安排。",
+      "background_note_zh": "**文本事实：** Joffrey是Robert的继承人，Sansa是Ned十一岁的长女；此处提出的是未来婚约。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-071"
+    },
+    {
+      "id": "CH04-P047-072",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 72,
+      "original_text": "Robert waved an impatient hand. “Old enough for betrothal. The marriage can wait a few years.” The king smiled. “Now stand up and say yes, curse you.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert说十一岁已足以订婚，婚礼可以等待几年，并催Ned起身答应。",
+      "reading_note_zh": "Robert把婚姻理解为修复自己未能与Lyanna成婚的方式，孩子因而承受上一代未完成愿望。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-072"
+    },
+    {
+      "id": "CH04-P047-073",
+      "page": 47,
+      "end_page": 47,
+      "type": "paragraph",
+      "order": 73,
+      "original_text": "“Nothing would give me greater pleasure, Your Grace,” Ned answered. He hesitated. “These honors are all so unexpected. May I have some time to consider? I need to tell my wife . . . ”",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned礼貌表示荣幸，却请求时间考虑这些突然而重大的安排。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P047-073"
+    },
+    {
+      "id": "CH04-P048-074",
+      "page": 48,
+      "end_page": 48,
+      "type": "paragraph",
+      "order": 74,
+      "original_text": "“Yes, yes, of course, tell Catelyn, sleep on it if you must.” The king reached down, clasped Ned by the hand, and pulled him roughly to his feet. “Just don’t keep me waiting too long. I am not the most patient of men.”",
+      "translation": "",
+      "paragraph_explanation_zh": "Robert允许他与Catelyn商量，但催促不要拖太久，并粗鲁有力地把Ned拉起。",
+      "reading_note_zh": "本段围绕Hand任命与婚约展开；Robert用友情和家庭愿景邀请，Ned则以不祥预感回应。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P048-074"
+    },
+    {
+      "id": "CH04-P048-075",
+      "page": 48,
+      "end_page": 48,
+      "type": "paragraph",
+      "order": 75,
+      "original_text": "For a moment Eddard Stark was filled with a terrible sense of foreboding. This was his place, here in the north. He looked at the stone figures all around them, breathed deep in the chill silence of the crypt. He could feel the eyes of the dead. They were all listening, he knew. And winter was coming.",
+      "translation": "",
+      "paragraph_explanation_zh": "Ned在crypt中产生强烈不祥预感：他属于北方与Winterfell，不愿离开，石像的盲眼仿佛正在注视。",
+      "reading_note_zh": "终段把Ned的归属感放在墓穴中表达：离开北方不仅是旅行，而像走向已经预留的空墓。",
+      "background_note_zh": "本段没有新增必须补充的世界观设定；重点在Ned与Robert的关系、旧战争记忆或职位谈判。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": "CH04-P048-075"
+    }
+  ],
+  "pages": [
+    {
+      "page": 40,
+      "block_ids": [
+        "CH04-P040-001",
+        "CH04-P040-002",
+        "CH04-P040-003",
+        "CH04-P040-004",
+        "CH04-P040-005",
+        "CH04-P040-006"
+      ]
+    },
+    {
+      "page": 41,
+      "block_ids": [
+        "CH04-P041-007",
+        "CH04-P041-008",
+        "CH04-P041-009",
+        "CH04-P041-010",
+        "CH04-P041-011",
+        "CH04-P041-012",
+        "CH04-P041-013",
+        "CH04-P041-014",
+        "CH04-P041-015",
+        "CH04-P041-016",
+        "CH04-P041-017"
+      ]
+    },
+    {
+      "page": 42,
+      "block_ids": [
+        "CH04-P042-018",
+        "CH04-P042-019",
+        "CH04-P042-020",
+        "CH04-P042-021",
+        "CH04-P042-022"
+      ]
+    },
+    {
+      "page": 43,
+      "block_ids": [
+        "CH04-P043-023",
+        "CH04-P043-024",
+        "CH04-P043-025",
+        "CH04-P043-026",
+        "CH04-P043-027",
+        "CH04-P043-028",
+        "CH04-P043-029",
+        "CH04-P043-030",
+        "CH04-P043-031",
+        "CH04-P043-032"
+      ]
+    },
+    {
+      "page": 44,
+      "block_ids": [
+        "CH04-P043-032",
+        "CH04-P044-033",
+        "CH04-P044-034",
+        "CH04-P044-035",
+        "CH04-P044-036",
+        "CH04-P044-037",
+        "CH04-P044-038",
+        "CH04-P044-039",
+        "CH04-P044-040",
+        "CH04-P044-041",
+        "CH04-P044-042"
+      ]
+    },
+    {
+      "page": 45,
+      "block_ids": [
+        "CH04-P045-043",
+        "CH04-P045-044",
+        "CH04-P045-045",
+        "CH04-P045-046",
+        "CH04-P045-047",
+        "CH04-P045-048",
+        "CH04-P045-049",
+        "CH04-P045-050",
+        "CH04-P045-051"
+      ]
+    },
+    {
+      "page": 46,
+      "block_ids": [
+        "CH04-P046-052",
+        "CH04-P046-053",
+        "CH04-P046-054",
+        "CH04-P046-055",
+        "CH04-P046-056",
+        "CH04-P046-057",
+        "CH04-P046-058",
+        "CH04-P046-059",
+        "CH04-P046-060",
+        "CH04-P046-061",
+        "CH04-P046-062"
+      ]
+    },
+    {
+      "page": 47,
+      "block_ids": [
+        "CH04-P046-062",
+        "CH04-P047-063",
+        "CH04-P047-064",
+        "CH04-P047-065",
+        "CH04-P047-066",
+        "CH04-P047-067",
+        "CH04-P047-068",
+        "CH04-P047-069",
+        "CH04-P047-070",
+        "CH04-P047-071",
+        "CH04-P047-072",
+        "CH04-P047-073"
+      ]
+    },
+    {
+      "page": 48,
+      "block_ids": [
+        "CH04-P048-074",
+        "CH04-P048-075"
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": [
+    {
+      "term": "heir",
+      "translation": "继承人",
+      "note": "`too many heirs` 暗示幼子继承机会有限"
+    },
+    {
+      "term": "destrier",
+      "translation": "中世纪骑士战马",
+      "note": "比普通乘用马高大昂贵"
+    },
+    {
+      "term": "fortnight",
+      "translation": "两星期",
+      "note": "英式常用时间单位"
+    },
+    {
+      "term": "thicket",
+      "translation": "灌木丛；密林",
+      "note": "枝条密集、难以穿行"
+    },
+    {
+      "term": "longsword",
+      "translation": "长剑",
+      "note": "中世纪武器名称"
+    },
+    {
+      "term": "king’s justice",
+      "translation": "国王依法施行的裁决",
+      "note": "封建司法表达"
+    },
+    {
+      "term": "ward",
+      "translation": "受监护者；寄养的贵族子弟",
+      "note": "并非普通客人或囚犯"
+    },
+    {
+      "term": "don",
+      "translation": "穿上；披上",
+      "note": "文学化，与take off相对"
+    },
+    {
+      "term": "warden",
+      "translation": "守护者；军政长官",
+      "note": "此处为Warden of the North头衔"
+    },
+    {
+      "term": "sworn",
+      "translation": "宣誓承担的；以誓言约束的",
+      "note": "`sworn to`"
+    },
+    {
+      "term": "liege lord",
+      "translation": "受宣誓效忠的领主",
+      "note": "封建义务关系中的上级领主"
+    },
+    {
+      "term": "keep",
+      "translation": "主堡；小型城堡",
+      "note": "此处不是动词“保持”"
+    },
+    {
+      "term": "direwolf",
+      "translation": "冰原狼；巨型狼",
+      "note": "House Stark的家徽动物"
+    },
+    {
+      "term": "realm",
+      "translation": "王国；领土",
+      "note": "历史和奇幻语境常用"
+    },
+    {
+      "term": "antler",
+      "translation": "鹿角",
+      "note": "通常指鹿科动物分叉的角"
+    },
+    {
+      "term": "melancholy",
+      "translation": "忧郁的；哀伤的",
+      "note": "形容树脸神情"
+    },
+    {
+      "term": "grievous",
+      "translation": "令人悲痛的；严重的",
+      "note": "`grievous news`"
+    },
+    {
+      "term": "foster",
+      "translation": "寄养并教养",
+      "note": "贵族子弟在另一家族成长"
+    },
+    {
+      "term": "mercy",
+      "translation": "宽慰；幸事；仁慈",
+      "note": "`some small mercy`指不幸中的一点安慰"
+    },
+    {
+      "term": "wheelhouse",
+      "translation": "大型有篷马车",
+      "note": "王室长途出行工具"
+    },
+    {
+      "term": "affront",
+      "translation": "公然侮辱；冒犯",
+      "note": "对名誉或权威的冒犯"
+    },
+    {
+      "term": "flank",
+      "translation": "位于……两侧；护卫侧翼",
+      "note": "军事与队列用语"
+    },
+    {
+      "term": "girth",
+      "translation": "腰围；腹围",
+      "note": "此处委婉指Robert肥胖"
+    },
+    {
+      "term": "scarcely",
+      "translation": "几乎不；勉强",
+      "note": "`scarcely recognized`"
+    },
+    {
+      "term": "crypt",
+      "translation": "地下墓室",
+      "note": "Winterfell家族墓穴"
+    },
+    {
+      "term": "bog",
+      "translation": "沼泽；泥炭地",
+      "note": "Robert抱怨北方地貌"
+    },
+    {
+      "term": "jest",
+      "translation": "开玩笑；笑谈",
+      "note": "较文学化"
+    },
+    {
+      "term": "endure",
+      "translation": "忍受并坚持；熬过",
+      "note": "Stark面对冬季的态度"
+    },
+    {
+      "term": "subterranean",
+      "translation": "地下的",
+      "note": "形容crypt寒气"
+    },
+    {
+      "term": "unsealed",
+      "translation": "未封闭的",
+      "note": "为未来死亡者预留的空墓"
+    },
+    {
+      "term": "surpassing",
+      "translation": "非凡的；无比的",
+      "note": "`surpassing loveliness`"
+    },
+    {
+      "term": "linger",
+      "translation": "停留；久久不离",
+      "note": "目光或情绪持续"
+    },
+    {
+      "term": "ford",
+      "translation": "浅滩；可涉水过河处",
+      "note": "Trident战场地形"
+    },
+    {
+      "term": "warhammer",
+      "translation": "战锤",
+      "note": "Robert的标志性武器"
+    },
+    {
+      "term": "sicken",
+      "translation": "患病；病情加重",
+      "note": "`sicken quickly`"
+    },
+    {
+      "term": "tourney",
+      "translation": "比武大会",
+      "note": "tournament的古风缩写"
+    },
+    {
+      "term": "brusquely",
+      "translation": "唐突生硬地",
+      "note": "Robert打断Ned"
+    },
+    {
+      "term": "unbidden",
+      "translation": "未经邀请地；不由自主地",
+      "note": "话语或记忆自行涌出"
+    },
+    {
+      "term": "foreboding",
+      "translation": "不祥预感",
+      "note": "尚无具体证据的强烈担忧"
+    },
+    {
+      "term": "betrothal",
+      "translation": "订婚；婚约",
+      "note": "贵族家族政治安排"
+    }
+  ]
+}

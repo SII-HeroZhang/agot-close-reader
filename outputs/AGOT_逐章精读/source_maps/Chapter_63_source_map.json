@@ -1,0 +1,1485 @@
+{
+  "work": "A Game of Thrones",
+  "section": "Chapter 63 — CATELYN",
+  "source_file": "/Users/herozhang/Downloads/A Game Of Thrones.pdf",
+  "source_format": "pdf-text",
+  "page_range": [
+    631,
+    638
+  ],
+  "block_count": 68,
+  "name_policy": "Personal names remain in original English.",
+  "spoiler_policy": "Only information available through each current paragraph is used.",
+  "pages": [
+    {
+      "page": 631,
+      "first_id": "CH63-P631-001",
+      "last_id": "CH63-P631-007"
+    },
+    {
+      "page": 632,
+      "first_id": "CH63-P632-008",
+      "last_id": "CH63-P632-016"
+    },
+    {
+      "page": 633,
+      "first_id": "CH63-P633-017",
+      "last_id": "CH63-P633-024"
+    },
+    {
+      "page": 634,
+      "first_id": "CH63-P634-025",
+      "last_id": "CH63-P634-034"
+    },
+    {
+      "page": 635,
+      "first_id": "CH63-P635-035",
+      "last_id": "CH63-P635-042"
+    },
+    {
+      "page": 636,
+      "first_id": "CH63-P636-043",
+      "last_id": "CH63-P636-054"
+    },
+    {
+      "page": 637,
+      "first_id": "CH63-P637-055",
+      "last_id": "CH63-P637-066"
+    },
+    {
+      "page": 638,
+      "first_id": "CH63-P638-067",
+      "last_id": "CH63-P638-068"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "CH63-P631-001",
+      "page": 631,
+      "end_page": 631,
+      "type": "paragraph",
+      "order": 1,
+      "original_text": "The woods were full of whispers.",
+      "translation": "",
+      "explanation_zh": "whispers一句把森林环境、伏兵低语和即将发生的隐秘行动叠合。",
+      "literary_note_zh": "极短opening把whispers同时赋给人、树叶、溪水与埋伏消息，树林仿佛主动保守秘密。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P631-002",
+      "page": 631,
+      "end_page": 631,
+      "type": "paragraph",
+      "order": 2,
+      "original_text": "Moonlight winked on the tumbling waters of the stream below as it wound its rocky way along the floor of the valley. Beneath the trees, warhorses whickered softly and pawed at the moist, leafy ground, while men made nervous jests in hushed voices. Now and again, she heard the chink of spears, the faint metallic slither of chain mail, but even those sounds were muffled.",
+      "translation": "",
+      "explanation_zh": "月光、溪流、战马与压低的玩笑构成极静的临战声景，金属声也被树林吸收。",
+      "literary_note_zh": "Catelyn在whispering wood等待，以童年、Brandon、Eddard与Robb出生记忆理解当前不确定；trap依赖Jaime缺乏patience。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P631-003",
+      "page": 631,
+      "end_page": 631,
+      "type": "paragraph",
+      "order": 3,
+      "original_text": "“It should not be long now, my lady,” Hallis Mollen said. He had asked for the honor of protecting her in the battle to come; it was his right, as Winterfell’s captain of guards, and Robb had not refused it to him. She had thirty men around her, charged to keep her unharmed and see her safely home to Winterfell if the fighting went against them. Robb had wanted fifty; Catelyn had insisted that ten would be enough, that he would need every sword for the fight. They made their peace at thirty, neither happy with it.",
+      "translation": "",
+      "explanation_zh": "Hallis预计很快接战；Robb与Catelyn就她的护卫人数从五十和十折中到三十。",
+      "literary_note_zh": "三十是mother/commander双重角色的折中：她不愿夺走battle swords，Robb又不能无视其安全。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P631-004",
+      "page": 631,
+      "end_page": 631,
+      "type": "paragraph",
+      "order": 4,
+      "original_text": "“It will come when it comes,” Catelyn told him. When it came, she knew it would mean death. Hal’s death perhaps . . . or hers, or Robb’s. No one was safe. No life was certain. Catelyn was content to wait, to listen to the whispers in the woods and the faint music of the brook, to feel the warm wind in her hair.",
+      "translation": "",
+      "explanation_zh": "Catelyn承认battle意味着任何人都可能死，因此暂时安于等待并感受自然。",
+      "literary_note_zh": "等待自然细节不是平静无忧，而是接受不确定性后暂时停止控制。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P631-005",
+      "page": 631,
+      "end_page": 631,
+      "type": "paragraph",
+      "order": 5,
+      "original_text": "She was no stranger to waiting, after all. Her men had always made her wait. “Watch for me, little cat,” her father would always tell her, when he rode off to court or fair or battle. And she would, standing patiently on the battlements of Riverrun as the waters of the Red Fork and the Tumblestone flowed by. He did not always come when he said he would, and days would ofttimes pass as Catelyn stood her vigil, peering out between crenels and through arrow loops until she caught a glimpse of Lord Hoster on his old brown gelding, trotting along the rivershore toward the landing. “Did you watch for me?” he’d ask when he bent to bug her. “Did you, little cat?”",
+      "translation": "",
+      "explanation_zh": "她想起童年在Riverrun等待Hoster归来，守望成为贯穿一生的女性经验。",
+      "literary_note_zh": "watch/wait在Catelyn一生反复出现，显示贵族women常在战争叙事边缘承担不知道结果的时间。",
+      "background_zh": "**Riverrun childhood：** Hoster常离家处理court、fair或battle，Catelyn从城墙守望其沿河归来。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P631-006",
+      "page": 631,
+      "end_page": 631,
+      "type": "paragraph",
+      "order": 6,
+      "original_text": "Brandon Stark had bid her wait as well. “I shall not be long, my lady,” he had vowed. “We will be wed on my return.” Yet when the day came at last, it was his brother Eddard who stood beside her in the sept.",
+      "translation": "",
+      "explanation_zh": "Brandon也让她等婚礼，却再未回来，最终站在sept旁的是Eddard。",
+      "literary_note_zh": "Brandon promise与Eddard replacement把waiting连接死亡、婚姻和政治命运突变。",
+      "background_zh": "**Brandon Stark：** Catelyn原订婚对象，赴King’s Landing后死亡，最终由弟弟Eddard与她成婚。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P631-007",
+      "page": 631,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 7,
+      "original_text": "Ned had lingered scarcely a fortnight with his new bride before he too had ridden off to war with promises on his lips. At least he had left her with more than words; he had given her a son. Nine moons had waxed and waned, and Robb had been born in Riverrun while his father still warred in the south. She had brought him forth in blood and pain, not knowing whether Ned would ever see him. Her son. He had been so small . . .",
+      "translation": "",
+      "explanation_zh": "Eddard新婚不久也赴war，但留下Robb；Catelyn在不知丈夫能否归来的情况下独自生产。",
+      "literary_note_zh": "Robb出生记忆使当前commander重新成为她在war absence中独自守护的child。",
+      "background_zh": "**Robb birth：** rebellion期间Eddard在south作战，Robb在Riverrun出生，父子当时未见。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-008",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 8,
+      "original_text": "And now it was for Robb that she waited . . . for Robb, and for Jaime Lannister, the gilded knight who men said had never learned to wait at all. “The Kingslayer is restless, and quick to anger,” her uncle Brynden had told Robb. And he had wagered their lives and their best hope of victory on the truth of what he said.",
+      "translation": "",
+      "explanation_zh": "如今她等待Robb和从不耐等待的Jaime；计划把生命押在Blackfish对Jaime性格的判断上。",
+      "literary_note_zh": "Jaime impatience是整个ambush的行为假设；战术依赖对手按性格行动。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-009",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 9,
+      "original_text": "If Robb was frightened, he gave no sign of it. Catelyn watched her son as he moved among the men, touching one on the shoulder, sharing a jest with another, helping a third to gentle an anxious horse. His armor clinked softly when he moved. Only his head was bare. Catelyn watched a breeze stir his auburn hair, so like her own, and wondered when her son had grown so big. Fifteen, and near as tall as she was.",
+      "translation": "",
+      "explanation_zh": "Robb在士兵间安抚人马、说笑，外表镇静；Catelyn惊觉十五岁的儿子已近自己高。",
+      "literary_note_zh": "touch/jest/gentle horse是leadership performance，也可能真实安抚；文本不把二者分开。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-010",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 10,
+      "original_text": "Let him grow taller, she asked the gods. Let him know sixteen, and twenty, and fifty. Let him grow as tall as his father, and hold his own son in his arms. Please, please, please. As she watched him, this tall young man with the new beard and the direwolf prowling at his heels, all she could see was the babe they had laid at her breast at Riverrun, so long ago.",
+      "translation": "",
+      "explanation_zh": "她祈求Robb活到成年、为父，眼中披甲青年仍是Riverrun的婴儿。",
+      "literary_note_zh": "十五、十六、二十、五十的年龄递进把母亲愿望拉长到battle之外的完整人生。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-011",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 11,
+      "original_text": "The night was warm, but the thought of Riverrun was enough to make her shiver. Where are they? she wondered. Could her uncle have been wrong? So much rested on the truth of what he had told them. Robb had given the Blackfish three hundred picked men, and sent them ahead to screen his march. “Jaime does not know,” Ser Brynden said when he rode back. “I’ll stake my life on that. No bird has reached him, my archers have seen to that. We’ve seen a few of his outriders, but those that saw us did not live to tell of it. He ought to have sent out more. He does not know.”",
+      "translation": "",
+      "explanation_zh": "Riverrun令她发冷；她回忆Blackfish封锁raven、消灭scouts并断言Jaime不知伏军。",
+      "literary_note_zh": "Catelyn在whispering wood等待，以童年、Brandon、Eddard与Robb出生记忆理解当前不确定；trap依赖Jaime缺乏patience。",
+      "background_zh": "**Blackfish screen：** 三百picked men封锁raven与out­riders，确保Jaime不知道Robb骑兵已到。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-012",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 12,
+      "original_text": "“How large is his host?” her son asked.",
+      "translation": "",
+      "explanation_zh": "Robb询问Jaime军力。",
+      "literary_note_zh": "Catelyn在whispering wood等待，以童年、Brandon、Eddard与Robb出生记忆理解当前不确定；trap依赖Jaime缺乏patience。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-013",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 13,
+      "original_text": "“Twelve thousand foot, scattered around the castle in three separate camps, with the rivers between,” her uncle said, with the craggy smile she remembered so well. “There is no other way to besiege Riverrun, yet still, that will be their undoing. Two or three thousand horse.”",
+      "translation": "",
+      "explanation_zh": "Blackfish说十二千foot分散在三处river-separated camps，另有两三千horse，围城结构将成为弱点。",
+      "literary_note_zh": "三个camps由rivers隔开是siege necessity，也是各部分难以即时互援的operational weakness。",
+      "background_zh": "**Riverrun siege geography：** 河流把围城foot分成三camp；Jaime的horse可被诱离，而foot难即时合流。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-014",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 14,
+      "original_text": "“The Kingslayer has us three to one,” said Galbart Glover.",
+      "translation": "",
+      "explanation_zh": "Galbart指出敌军仍三倍于己。",
+      "literary_note_zh": "Catelyn在whispering wood等待，以童年、Brandon、Eddard与Robb出生记忆理解当前不确定；trap依赖Jaime缺乏patience。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-015",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 15,
+      "original_text": "‘True enough,” Ser Brynden said, “yet there is one thing Ser Jaime lacks.”",
+      "translation": "",
+      "explanation_zh": "Blackfish承认数量劣势，却说Jaime缺少一样东西。",
+      "literary_note_zh": "Catelyn在whispering wood等待，以童年、Brandon、Eddard与Robb出生记忆理解当前不确定；trap依赖Jaime缺乏patience。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P632-016",
+      "page": 632,
+      "end_page": 632,
+      "type": "paragraph",
+      "order": 16,
+      "original_text": "“Yes?” Robb asked.",
+      "translation": "",
+      "explanation_zh": "Robb追问是什么。",
+      "literary_note_zh": "Catelyn在whispering wood等待，以童年、Brandon、Eddard与Robb出生记忆理解当前不确定；trap依赖Jaime缺乏patience。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-017",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 17,
+      "original_text": "“Patience.”",
+      "translation": "",
+      "explanation_zh": "答案是patience。",
+      "literary_note_zh": "单词Patience既回答数量劣势，也回扣Catelyn的waiting主题。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-018",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 18,
+      "original_text": "Their host was greater than it had been when they left the Twins. Lord Jason Mallister had brought his power out from Seagard to join them as they swept around the headwaters of the Blue Fork and galloped south, and others had crept forth as well, hedge knights and small lords and masterless men-at-arms who had fled north when her brother Edmure’s army was shattered beneath the walls of Riverrun. They had driven their horses as hard as they dared to reach this place before Jaime Lannister had word of their coming, and now the hour was at hand.",
+      "translation": "",
+      "explanation_zh": "Mallister和溃军幸存者使Robb兵力增加；他们急行以在消息抵达Jaime前到达埋伏地。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "**Robb force：** 过Twins的horse又获Mallister和Edmure败军幸存者加入，总数约六千。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-019",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 19,
+      "original_text": "Catelyn watched her son mount up. Olyvar Frey held his horse for him, Lord Walder’s son, two years older than Robb, and ten years younger and more anxious. He strapped Robb’s shield in place and handed up his helm. When he lowered it over the face she loved so well, a tall young knight sat on his grey stallion where her son had been. It was dark among the trees, where the moon did not reach. When Robb turned his head to look at her, she could see only black inside his visor. “I must ride down the line, Mother,” he told her. “Father says you should let the men see you before a battle.”",
+      "translation": "",
+      "explanation_zh": "Olyvar为Robb披挂；helm落下后Catelyn熟悉的儿子视觉上变成无脸knight，Robb说Ned教过临战巡线。",
+      "literary_note_zh": "helm把face变成black void，视觉化mother看着son进入公共lord identity。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-020",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 20,
+      "original_text": "‘Go, then,” she said. “Let them see you.”",
+      "translation": "",
+      "explanation_zh": "Catelyn让他去给men看见。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-021",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 21,
+      "original_text": "‘It will give them courage,” Robb said.",
+      "translation": "",
+      "explanation_zh": "Robb说这会给他们courage。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-022",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 22,
+      "original_text": "And who will give me courage? she wondered, yet she kept her silence and made herself smile for him. Robb turned the big grey stallion and walked him slowly away from her, Grey Wind shadowing his steps. Behind him his battle guard formed up. When he’d forced Catelyn to accept her protectors, she had insisted that he be guarded as well, and the lords bannermen had agreed. Many of their sons had clamored for the honor of riding with the Young Wolf, as they had taken to calling him. Torrhen Karstark and his brother Eddard were among his thirty, and Patrek Mallister, Smalljon Umber, Daryn Hornwood, Theon Greyjoy, no less than five of Walder Frey’s vast brood, along with older men like Ser Wendel Manderly and Robin Flint. One of his companions was even a woman: Dacey Mormont, Lady Maege’s eldest daughter and heir to Bear Island, a lanky six-footer who had been given a morningstar at an age when most girls were given dolls. Some of the other lords muttered about that, but Catelyn would not listen to their complaints. “This is not about the honor of your houses,” she told them. “This is about keeping my son alive and whole.”",
+      "translation": "",
+      "explanation_zh": "Catelyn暗问谁给自己勇气，却微笑放行；她坚持Robb也有三十名精锐battle guard，包括Dacey。",
+      "literary_note_zh": "And who will give me courage不出口，说明她把own fear隐藏成Robb所需支持。Dacey身份也显示本章不把combat guard限定为男性。",
+      "background_zh": "**Young Wolf guard：** 三十名贵族子弟和资深warriors组成Robb贴身battle guard；Dacey是Bear Island heir。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-023",
+      "page": 633,
+      "end_page": 633,
+      "type": "paragraph",
+      "order": 23,
+      "original_text": "And if it comes to that, she wondered, will thirty be enough? Will six thousand be enough?",
+      "translation": "",
+      "explanation_zh": "她仍怀疑三十护卫或六千军队是否足够。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P633-024",
+      "page": 633,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 24,
+      "original_text": "A bird called faintly in the distance, a high sharp trill that felt like an icy hand on Catelyn’s neck. Another bird answered; a third, a fourth. She knew their call well enough, from her years at Winterfell. Snow shrikes. Sometimes you saw them in the deep of winter, when the godswood was white and still. They were northern birds.",
+      "translation": "",
+      "explanation_zh": "远处北方snow shrikes依次鸣叫，跨页句合并后像冰手触颈，是预定接敌信号。",
+      "literary_note_zh": "snow shrikes既是自然合理鸟声，也是侦察signal；northern birds让North军仿佛借环境说话。",
+      "background_zh": "**snow shrikes：** North冬季可见的鸟；本段被scouts模仿/利用作接敌signal。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-025",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 25,
+      "original_text": "They are coming, Catelyn thought.",
+      "translation": "",
+      "explanation_zh": "Catelyn立即明白Jaime军来了。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-026",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 26,
+      "original_text": "“They’re coming, my lady,” Hal Mollen whispered. He was always a man for stating the obvious. “Gods be with us.”",
+      "translation": "",
+      "explanation_zh": "Hallis也低声确认并祈神。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-027",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 27,
+      "original_text": "She nodded as the woods grew still around them. In the quiet she could hear them, far off yet moving closer; the tread of many horses, the rattle of swords and spears and armor, the murmur of human voices, with here a laugh, and there a curse.",
+      "translation": "",
+      "explanation_zh": "森林突然静止，远方horse、armor和人声逐渐靠近。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-028",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 28,
+      "original_text": "Eons seemed to come and go. The sounds grew louder. She heard more laughter, a shouted command, splashing as they crossed and recrossed the little stream. A horse snorted. A man swore. And then at last she saw him . . . only for an instant, framed between the branches of the trees as she looked down at the valley floor, yet she knew it was him. Even at a distance, Ser Jaime Lannister was unmistakable. The moonlight had silvered his armor and the gold of his hair, and turned his crimson cloak to black. He was not wearing a helm.",
+      "translation": "",
+      "explanation_zh": "等待仿佛跨过eons；Catelyn从枝间短暂认出无helm的Jaime。",
+      "literary_note_zh": "Jaime不戴helm强化其bold impatience，也让Catelyn能在瞬间确定目标。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-029",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 29,
+      "original_text": "He was there and he was gone again, his silvery armor obscured by the trees once more. Others came behind him, long columns of them, knights and sworn swords and freeriders, three quarters of the Lannister horse.",
+      "translation": "",
+      "explanation_zh": "Jaime再被树遮住，身后三分之二以上Lannister horse进入valley。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-030",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 30,
+      "original_text": "“He is no man for sitting in a tent while his carpenters build siege towers,” Ser Brynden had promised. “He has ridden out with his knights thrice already, to chase down raiders or storm a stubborn holdfast.”",
+      "translation": "",
+      "explanation_zh": "Blackfish曾判断Jaime不会坐守siege camp，已三次亲自追击raiders。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-031",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 31,
+      "original_text": "Nodding, Robb had studied the map her uncle had drawn him. Ned had taught him to read maps. “Raid him here,” he said, pointing. “A few hundred men, no more. Tully banners. When he comes after you, we will be waiting”—his finger moved an inch to the left—“here.”",
+      "translation": "",
+      "explanation_zh": "Robb据地图设计Tully小队在指定位置诱袭，主军移到另一位置等待。",
+      "literary_note_zh": "raid诱饵规模必须足够可信又不能损失过大；Tully banners引导Jaime做出特定识别。",
+      "background_zh": "**ambush design：** 小股Tully banners制造raid，利用Jaime惯于亲率horse追击，将其带入wooded valley。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-032",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 32,
+      "original_text": "Here was a hush in the night, moonlight and shadows, a thick carpet of dead leaves underfoot, densely wooded ridges sloping gently down to the streambed, the underbrush thinning as the ground fell away.",
+      "translation": "",
+      "explanation_zh": "‘here’被具体化为月影、枯叶、密林ridge和streambed的伏击地形。",
+      "literary_note_zh": "三次Here把抽象map点转为实际地形、亲子告别和trap闭合时刻。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-033",
+      "page": 634,
+      "end_page": 634,
+      "type": "paragraph",
+      "order": 33,
+      "original_text": "Here was her son on his stallion, glancing back at her one last time and lifting his sword in salute.",
+      "translation": "",
+      "explanation_zh": "‘here’也是Robb回望母亲、举剑作最后salute的瞬间。",
+      "literary_note_zh": "Robb军增援后藏于valley ridges，以Tully raiders引Jaime三分之二以上骑兵进入伏击区。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P634-034",
+      "page": 634,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 34,
+      "original_text": "Here was the call of Maege Mormont’s warhorn, a long low blast that rolled down the valley from the east, to tell them that the last of Jaime’s riders had entered the trap.",
+      "translation": "",
+      "explanation_zh": "Maege horn长鸣，确认最后一批Jaime riders已进入trap。",
+      "literary_note_zh": "horn不是冲锋本身，而是最后敌骑进入kill zone的确认。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-035",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 35,
+      "original_text": "And Grey Wind threw back his head and howled.",
+      "translation": "",
+      "explanation_zh": "Grey Wind随即howl。",
+      "literary_note_zh": "horns、Grey Wind与hidden archers发动合围；Catelyn看不见全局，只从月光和声音感受battle。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-036",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 36,
+      "original_text": "The sound seemed to go right through Catelyn Stark, and she found herself shivering. It was a terrible sound, a frightening sound, yet there was music in it too. For a second she felt something like pity for the Lannisters below. So this is what death sounds like, she thought.",
+      "translation": "",
+      "explanation_zh": "恐怖howl使Catelyn战栗，却也听见音乐，并短暂怜悯即将死亡的Lannisters。",
+      "literary_note_zh": "death sounds like music呈现Catelyn对战术成功的恐惧与不可避免欣赏并存。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-037",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 37,
+      "original_text": "HAAroooooooooooooooooooooooo came the answer from the far ridge as the Greatjon winded his own horn. To east and west, the trumpets of the Mallisters and Freys blew vengeance. North, where the valley narrowed and bent like a cocked elbow, Lord Karstark’s warhorns added their own deep, mournful voices to the dark chorus. Men were shouting and horses rearing in the stream below.",
+      "translation": "",
+      "explanation_zh": "Greatjon、Mallister、Frey、Karstark号角从四面回应，valley中的敌军开始混乱。",
+      "literary_note_zh": "horns、Grey Wind与hidden archers发动合围；Catelyn看不见全局，只从月光和声音感受battle。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-038",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 38,
+      "original_text": "The whispering wood let out its breath all at once, as the bowmen Robb had hidden in the branches of the trees let fly their arrows and the night erupted with the screams of men and horses. All around her, the riders raised their lances, and the dirt and leaves that had buried the cruel bright points fell away to reveal the gleam of sharpened steel. “Winterfell!” she heard Robb shout as the arrows sighed again. He moved away from her at a trot, leading his men downhill.",
+      "translation": "",
+      "explanation_zh": "hidden bowmen齐射、埋在土叶下的lances显露；Robb高喊Winterfell带队下坡。",
+      "literary_note_zh": "土叶掩住lance points说明伏击不只靠位置，还靠visual concealment。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-039",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 39,
+      "original_text": "Catelyn sat on her horse, unmoving, with Hal Mollen and her guard around her, and she waited as she had waited before, for Brandon and Ned and her father. She was high on the ridge, and the trees hid most of what was going on beneath her. A heartbeat, two, four, and suddenly it was as if she and her protectors were alone in the wood. The rest were melted away into the green.",
+      "translation": "",
+      "explanation_zh": "Catelyn仍被护卫包围在ridge上，像过去等Brandon、Eddard、Hoster一样等Robb；军队消失进树林。",
+      "literary_note_zh": "horns、Grey Wind与hidden archers发动合围；Catelyn看不见全局，只从月光和声音感受battle。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-040",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 40,
+      "original_text": "Yet when she looked across the valley to the far ridge, she saw the Greatjon’s riders emerge from the darkness beneath the trees. They were in a long line, an endless line, and as they burst from the wood there was an instant, the smallest part of a heartbeat, when all Catelyn saw was the moonlight on the points of their lances, as if a thousand willowisps were coming down the ridge, wreathed in silver flame.",
+      "translation": "",
+      "explanation_zh": "对面Greatjon长线骑兵冲出，lance points在月光下像银焰will-o’-wisps。",
+      "literary_note_zh": "will-o’-wisps银焰把骑兵短暂超自然化，下一段立即剥除浪漫。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-041",
+      "page": 635,
+      "end_page": 635,
+      "type": "paragraph",
+      "order": 41,
+      "original_text": "Then she blinked, and they were only men, rushing down to kill or die.",
+      "translation": "",
+      "explanation_zh": "她一眨眼，浪漫幻象还原为冲去杀或被杀的men。",
+      "literary_note_zh": "horns、Grey Wind与hidden archers发动合围；Catelyn看不见全局，只从月光和声音感受battle。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P635-042",
+      "page": 635,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 42,
+      "original_text": "Afterward, she could not claim she had seen the battle. Yet she could hear, and the valley rang with echoes. The crack of a broken lance, the clash of swords, the cries of “Lannister” and “Winterfell” and “Tully! Riverrun and Tully!” When she realized there was no more to see, she closed her eyes and listened. The battle came alive around her. She heard hoofbeats, iron boots splashing in shallow water, the woody sound of swords on oaken shields and the scrape of steel against steel, the hiss of arrows, the thunder of drums, the terrified screaming of a thousand horses. Men shouted curses and begged for mercy, and got it (or not), and lived (or died). The ridges seemed to play queer tricks with sound. Once she heard Robb’s voice, as clear as if he’d been standing at her side, calling, “To me! To me!” And she heard his direwolf, snarling and growling, heard the snap of those long teeth, the tearing of flesh, shrieks of fear and pain from man and horse alike. Was there only one wolf? It was hard to be certain.",
+      "translation": "",
+      "explanation_zh": "Catelyn事后承认没真正看见battle，只通过回声、weapon、horse与求饶声重建；偶尔仿佛听见Robb和可能不止一只wolf。",
+      "literary_note_zh": "她没see battle却以sound构建极具身体感的叙事，符合被安排在ridge保护区的限制视角。",
+      "background_zh": "**limited POV：** Catelyn在ridge受保护，正文明确她不能声称看见battle，声音重建必须视作主观感知。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-043",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 43,
+      "original_text": "Little by little, the sounds dwindled and died, until at last there was only the wolf. As a red dawn broke in the east, Grey Wind began to howl again.",
+      "translation": "",
+      "explanation_zh": "声响逐渐消失，red dawn时只剩Grey Wind再次howl。",
+      "literary_note_zh": "horns、Grey Wind与hidden archers发动合围；Catelyn看不见全局，只从月光和声音感受battle。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-044",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 44,
+      "original_text": "Robb came back to her on a different horse, riding a piebald gelding in the place of the grey stallion he had taken down into the valley. The wolf’s head on his shield was slashed half to pieces, raw wood showing where deep gouges had been hacked in the oak, but Robb himself seemed unhurt. Yet when he came closer, Catelyn saw that his mailed glove and the sleeve of his surcoat were black with blood. “You’re hurt,” she said.",
+      "translation": "",
+      "explanation_zh": "Robb换马归来，shield严重破损、衣袖染血；Catelyn以为他受伤。",
+      "literary_note_zh": "Robb无伤却沾他人blood，胜利从一开始就以护卫代价写在身上。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-045",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 45,
+      "original_text": "Robb lifted his hand, opened and closed his fingers. “No,” he said. “This is . . . Torrhen’s blood, perhaps, or . . . ” He shook his head. “I do not know.”",
+      "translation": "",
+      "explanation_zh": "Robb活动手指说血不是自己的，却也不知属于Torrhen还是谁。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-046",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 46,
+      "original_text": "A mob of men followed him up the slope, dirty and dented and grinning, with Theon and the Greatjon at their head. Between them they dragged Ser Jaime Lannister. They threw him down in front of her horse. “The Kingslayer,” Hal announced, unnecessarily.",
+      "translation": "",
+      "explanation_zh": "Theon与Greatjon等拖着被俘Jaime上坡，扔到Catelyn马前。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-047",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 47,
+      "original_text": "Lannister raised his head. “Lady Stark,” he said from his knees. Blood ran down one cheek from a gash across his scalp, but the pale light of dawn had put the glint of gold back in his hair. “I would offer you my sword, but I seem to have mislaid it.”",
+      "translation": "",
+      "explanation_zh": "Jaime跪地仍以失剑玩笑维持讥诮和尊严。",
+      "literary_note_zh": "Jaime用mislaid sword把被俘改写成轻巧失物，语言是其最后保有的control。",
+      "background_zh": "**Jaime captive：** Kingslayer兼Tywin长子，活着可交换Stark/Tully prisoners并限制敌方选择。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-048",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 48,
+      "original_text": "“It is not your sword I want, ser,” she told him. “Give me my father and my brother Edmure. Give me my daughters. Give me my lord husband.”",
+      "translation": "",
+      "explanation_zh": "Catelyn说自己要的是Hoster、Edmure、女儿和Eddard。",
+      "literary_note_zh": "Catelyn列亲人而非领土，明确Jaime作为hostage的交换价值。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-049",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 49,
+      "original_text": "“I have mislaid them as well, I fear.”",
+      "translation": "",
+      "explanation_zh": "Jaime说这些人也被自己mislaid。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-050",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 50,
+      "original_text": "“A pity,” Catelyn said coldly.",
+      "translation": "",
+      "explanation_zh": "Catelyn冷淡回答可惜。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-051",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 51,
+      "original_text": "“Kill him, Robb,” Theon Greyjoy urged. “Take his head off.”",
+      "translation": "",
+      "explanation_zh": "Theon催Robb斩首Jaime。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-052",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 52,
+      "original_text": "“No,” her son answered, peeling off his bloody glove. “He’s more use alive than dead. And my lord father never condoned the murder of prisoners after a battle.”",
+      "translation": "",
+      "explanation_zh": "Robb拒绝：活俘更有价值，且Eddard不允许战后杀prisoner。",
+      "literary_note_zh": "more use alive同时是战略判断和对Eddard prisoner ethic的遵守。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-053",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 53,
+      "original_text": "“A wise man,” Jaime Lannister said, “and honorable.”",
+      "translation": "",
+      "explanation_zh": "Jaime称Eddard wise and honorable，语气也含自保。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P636-054",
+      "page": 636,
+      "end_page": 636,
+      "type": "paragraph",
+      "order": 54,
+      "original_text": "“Take him away and put him in irons,” Catelyn said.",
+      "translation": "",
+      "explanation_zh": "Catelyn命令给Jaime上chains带走。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-055",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 55,
+      "original_text": "“Do as my lady mother says,” Robb commanded, “and make certain there’s a strong guard around him. Lord Karstark will want his head on a pike.”",
+      "translation": "",
+      "explanation_zh": "Robb命人听母亲，并加强guard，因为Karstark会要Jaime首级。",
+      "literary_note_zh": "Karstark revenge预示prisoner security不只要防escape，还要防己方报仇。",
+      "background_zh": "**Karstark grievance：** Jaime亲手杀Torrhen、Eddard Karstark与Daryn，造成己方内部处置俘虏的压力。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-056",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 56,
+      "original_text": "“That he will,” the Greatjon agreed, gesturing. Lannister was led away to be bandaged and chained.",
+      "translation": "",
+      "explanation_zh": "Greatjon同意，Jaime被带去包扎和锁押。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-057",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 57,
+      "original_text": "“Why should Lord Karstark want him dead?” Catelyn asked.",
+      "translation": "",
+      "explanation_zh": "Catelyn询问Karstark为何仇恨Jaime。",
+      "literary_note_zh": "Robb无伤归来并俘获Jaime；North军拒绝处决，准备把他作为高价值prisoner。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-058",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 58,
+      "original_text": "Robb looked away into the woods, with the same brooding look that Ned often got. “He . . . he killed them . . . ”",
+      "translation": "",
+      "explanation_zh": "Robb避开目光，像Eddard般阴郁，艰难说Jaime杀了他们。",
+      "literary_note_zh": "Jaime突击造成Karstark与Hornwood死亡；Catelyn压住哀痛和庆祝，提醒Tywin与Riverrun仍在。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-059",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 59,
+      "original_text": "“Lord Karstark’s sons,” Galbart Glover explained.",
+      "translation": "",
+      "explanation_zh": "Galbart说明死者是Karstark sons。",
+      "literary_note_zh": "Jaime突击造成Karstark与Hornwood死亡；Catelyn压住哀痛和庆祝，提醒Tywin与Riverrun仍在。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-060",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 60,
+      "original_text": "“Both of them,” said Robb. “Torrhen and Eddard. And Daryn Hornwood as well.”",
+      "translation": "",
+      "explanation_zh": "Robb说Torrhen、Eddard Karstark与Daryn Hornwood都死了。",
+      "literary_note_zh": "Jaime突击造成Karstark与Hornwood死亡；Catelyn压住哀痛和庆祝，提醒Tywin与Riverrun仍在。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-061",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 61,
+      "original_text": "“No one can fault Lannister on his courage,” Glover said. “When he saw that he was lost, he rallied his retainers and fought his way up the valley, hoping to reach Lord Robb and cut him down. And almost did.”",
+      "translation": "",
+      "explanation_zh": "Galbart承认Jaime败局中仍集结retainers，试图突进斩杀Robb，几乎成功。",
+      "literary_note_zh": "Jaime最后突击既证明courage，也说明Blackfish对其不肯接受等待/失败的判断准确。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-062",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 62,
+      "original_text": "“He mislaid his sword in Eddard Karstark’s neck, after he took Torrhen’s hand off and split Daryn Hornwood’s skull open,” Robb said. “All the time he was shouting for me. If they hadn’t tried to stop him—”",
+      "translation": "",
+      "explanation_zh": "Robb描述Jaime杀死三名护卫并不断呼喊挑战自己，哽在‘若无人阻止’。",
+      "literary_note_zh": "Jaime突击造成Karstark与Hornwood死亡；Catelyn压住哀痛和庆祝，提醒Tywin与Riverrun仍在。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-063",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 63,
+      "original_text": "“—I should then be mourning in place of Lord Karstark,” Catelyn said. “Your men did what they were sworn to do, Robb. They died protecting their liege lord. Grieve for them. Honor them for their valor. But not now. You have no time for grief. You may have lopped the head off the snake, but three quarters of the body is still coiled around my father’s castle. We have won a battle, not a war.”",
+      "translation": "",
+      "explanation_zh": "Catelyn指出若无护卫牺牲，自己会代Karstark哀悼；她要求Robb稍后再grieve，因为只赢battle，Riverrun仍被围。",
+      "literary_note_zh": "Catelyn允许grief但规定not now，将母亲经验转成commander discipline。",
+      "background_zh": "**battle versus war：** Jaime horse遭重创、本人被俘，但三处siege camps大部foot仍围Riverrun，Tywin主军也未败。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-064",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 64,
+      "original_text": "“But such a battle!” said Theon Greyjoy eagerly. “My lady, the realm has not seen such a victory since the Field of Fire. I vow, the Lannisters lost ten men for every one of ours that fell. We’ve taken close to a hundred knights captive, and a dozen lords bannermen. Lord Westerling, Lord Banefort, Ser Garth Greenfield, Lord Estren, Ser Tytos Brax, Mallor the Dornishman . . . and three Lannisters besides Jaime, Lord Tywin’s own nephews, two of his sister’s sons and one of his dead brother’s . . . ”",
+      "translation": "",
+      "explanation_zh": "Theon兴奋夸大战果、十比一伤亡与大量贵族俘虏，类比Field of Fire。",
+      "literary_note_zh": "Theon以名单和比例把惨烈转为triumph rhetoric，容易遮蔽Torrhen等具体死亡。",
+      "background_zh": "**Field of Fire：** Aegon conquest中以dragons造成的著名压倒性胜利；Theon用它夸张本次战果。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-065",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 65,
+      "original_text": "“And Lord Tywin?” Catelyn interrupted. “Have you perchance taken Lord Tywin, Theon?”",
+      "translation": "",
+      "explanation_zh": "Catelyn打断，问是否俘获Tywin。",
+      "literary_note_zh": "问Tywin一句就测试victory scope：战果巨大，却未终止敌方最高command。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P637-066",
+      "page": 637,
+      "end_page": 637,
+      "type": "paragraph",
+      "order": 66,
+      "original_text": "“No,” Greyjoy answered, brought up short.",
+      "translation": "",
+      "explanation_zh": "Theon承认没有，胜利兴奋被压住。",
+      "literary_note_zh": "Jaime突击造成Karstark与Hornwood死亡；Catelyn压住哀痛和庆祝，提醒Tywin与Riverrun仍在。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P638-067",
+      "page": 638,
+      "end_page": 638,
+      "type": "paragraph",
+      "order": 67,
+      "original_text": "“Until you do, this war is far from done.”",
+      "translation": "",
+      "explanation_zh": "Catelyn说Tywin未被拿下，war远未结束。",
+      "literary_note_zh": "Jaime突击造成Karstark与Hornwood死亡；Catelyn压住哀痛和庆祝，提醒Tywin与Riverrun仍在。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    },
+    {
+      "id": "CH63-P638-068",
+      "page": 638,
+      "end_page": 638,
+      "type": "paragraph",
+      "order": 68,
+      "original_text": "Robb raised his head and pushed his hair back out of his eyes. “My mother is right. We still have Riverrun.”",
+      "translation": "",
+      "explanation_zh": "Robb接受母亲判断，提醒仍要解救Riverrun。",
+      "literary_note_zh": "Riverrun把Robb注意力从庆祝拉回最初战略目的。",
+      "background_zh": "本段没有新增必须补充的设定；重点在ambush对patience的利用、Catelyn受限的听觉视角与battle胜利后的未竟目标。",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "refs": [],
+      "insert_after": null
+    }
+  ]
+}
