@@ -301,7 +301,10 @@
       const key = `${chapterId}|${anchorId}`;
       const index = study.bookmarks.findIndex((item) => `${item.chapterId}|${item.anchorId}` === key);
       if (index >= 0) study.bookmarks.splice(index, 1);
-      else study.bookmarks.unshift({ chapterId, anchorId, displayId: anchorId.toUpperCase(), page: button.closest(".paragraph-card")?.querySelector(".page-pill")?.textContent || "", url: `${chapter.url}#${anchorId}`, createdAt: now() });
+      else {
+        const pdfPage = button.closest(".paragraph-card")?.querySelector(".js-open-pdf")?.dataset.pdfPage || "";
+        study.bookmarks.unshift({ chapterId, anchorId, displayId: anchorId.toUpperCase(), page: pdfPage ? `PDF p.${pdfPage}` : "", url: `${chapter.url}#${anchorId}`, createdAt: now() });
+      }
       saveData(); updateChapterControls();
     }));
 

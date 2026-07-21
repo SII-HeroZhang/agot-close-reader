@@ -40,6 +40,7 @@ def png_size(path: Path) -> tuple[int, int]:
 def main() -> None:
     manifest = json.loads((DIST / "data/manifest.json").read_text(encoding="utf-8"))
     search = json.loads((DIST / "data/search-index.json").read_text(encoding="utf-8"))
+    page_map = json.loads((DIST / "data/page-map.json").read_text(encoding="utf-8"))
     if len(manifest) != EXPECTED_SECTIONS:
         fail(f"Expected {EXPECTED_SECTIONS} sections, found {len(manifest)}")
     if len(search) != EXPECTED_PARAGRAPHS:
@@ -47,12 +48,12 @@ def main() -> None:
     if sum(int(chapter["count"]) for chapter in manifest) != EXPECTED_PARAGRAPHS:
         fail("Manifest paragraph total does not equal 6,763")
 
-    expected_routes = [DIST / "index.html", DIST / "library/index.html"]
+    expected_routes = [DIST / "index.html", DIST / "library/index.html", DIST / "pdf/index.html"]
     expected_routes += [DIST / f"chapters/{chapter['id']}/index.html" for chapter in manifest]
     missing = [str(path) for path in expected_routes if not path.is_file()]
     if missing:
         fail(f"Missing routes: {missing[:5]}")
-    if len(list(DIST.rglob("index.html"))) != EXPECTED_SECTIONS + 2:
+    if len(list(DIST.rglob("index.html"))) != EXPECTED_SECTIONS + 3:
         fail("Unexpected number of generated HTML routes")
 
     all_anchors: list[str] = []
@@ -73,6 +74,9 @@ def main() -> None:
                 fail(f"{chapter['label']}: incomplete paragraph UI at {anchor}")
             if card.parent and card.parent.name == "p":
                 fail(f"{chapter['label']}: invalid section nested inside paragraph at {anchor}")
+            pdf_button = card.select_one(".js-open-pdf[data-pdf-page]")
+            if not pdf_button or pdf_button.get("data-anchor") != anchor:
+                fail(f"{chapter['label']}: missing PDF companion control at {anchor}")
         toc_targets = [link.get("href", "").removeprefix("#") for link in soup.select(".local-toc a[href^='#']")]
         if toc_targets != local_anchors:
             fail(f"{chapter['label']}: paragraph TOC order does not match source")
@@ -83,6 +87,11 @@ def main() -> None:
     search_anchors = [row["anchorId"] for row in search]
     if search_anchors != all_anchors:
         fail("Search index order/anchors do not match rendered chapters")
+    mapped_anchors = {row["anchorId"] for rows in page_map.values() for row in rows}
+    if mapped_anchors != set(all_anchors):
+        fail("PDF page map does not cover every paragraph anchor")
+    if any(not (1 <= int(page) <= 755) for page in page_map):
+        fail("PDF page map contains an invalid page number")
 
     html_files = list(DIST.rglob("*.html"))
     for page in html_files:
@@ -111,9 +120,12 @@ def main() -> None:
         if probe.casefold() not in indexed_text:
             fail(f"Search coverage probe missing: {probe}")
 
-    for required in ("assets/site.css", "assets/site.js", "assets/search-worker.js", "assets/og.png", "robots.txt", "sitemap.xml", ".nojekyll"):
+    for required in ("assets/site.css", "assets/site.js", "assets/pdf-reader.js", "assets/search-worker.js", "assets/og.png", "assets/agot-original.pdf", "data/page-map.json", "robots.txt", "sitemap.xml", ".nojekyll"):
         if not (DIST / required).exists():
             fail(f"Missing required artifact: {required}")
+    pdf_path = DIST / "assets/agot-original.pdf"
+    if pdf_path.stat().st_size != 4_921_287 or pdf_path.read_bytes()[:5] != b"%PDF-":
+        fail("Hosted PDF is missing, damaged, or not the expected 755-page source file")
     width, height = png_size(DIST / "assets/og.png")
     if width < 1200 or height < 630:
         fail(f"OG image is too small: {width}x{height}")
@@ -126,6 +138,9 @@ def main() -> None:
         "uniqueAnchors": len(set(all_anchors)),
         "checkedLinks": checked_links,
         "searchRows": len(search),
+        "pdfMappedPages": len(page_map),
+        "pdfMappedAnchors": len(mapped_anchors),
+        "hostedPdfBytes": pdf_path.stat().st_size,
         "ogImage": f"{width}x{height}",
     }, ensure_ascii=False, indent=2))
 

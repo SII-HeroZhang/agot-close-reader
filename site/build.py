@@ -158,7 +158,9 @@ def render_markdown(chapter: dict) -> str:
         toolbar = soup.new_tag("div")
         toolbar["class"] = "paragraph-tools"
         toolbar.append(BeautifulSoup(
-            f'<span class="page-pill">PDF p.{block["page"]}</span>'
+            f'<button type="button" class="page-pill pdf-page-button js-open-pdf" '
+            f'data-pdf-page="{block["page"]}" data-anchor="{block_id.lower()}" '
+            f'aria-label="在 PDF 中查看第 {block["page"]} 页">▣ PDF p.{block["page"]}</button>'
             f'<button type="button" class="icon-button js-bookmark" data-anchor="{block_id.lower()}" '
             f'aria-pressed="false" aria-label="收藏段落 {block_id}">☆ <span>书签</span></button>'
             f'<button type="button" class="icon-button js-copy-link" data-anchor="{block_id.lower()}" '
@@ -221,7 +223,7 @@ def global_header() -> str:
       <button type="button" class="header-icon mobile-only" data-open-sidebar aria-label="打开章节目录">☰</button>
       <a class="brand" href="{route()}"><span class="brand-mark">冰</span><span>{SITE_TITLE}</span></a>
       <nav class="top-nav" aria-label="主导航">
-        <a href="{route()}">首页</a><a href="{route('library/')}">我的书房</a>
+        <a href="{route()}">首页</a><a href="{route('pdf/')}">PDF 阅读器</a><a href="{route('library/')}">我的书房</a>
       </nav>
       <div class="header-actions">
         <button type="button" class="header-button js-open-search" aria-label="打开全文搜索">⌕ <span>搜索</span><kbd>⌘K</kbd></button>
@@ -243,7 +245,18 @@ def dialogs() -> str:
       <label>正文字号 <output id="font-size-output">18px</output><input id="font-size-control" type="range" min="16" max="24" step="1" value="18"></label>
       <label>正文宽度 <output id="line-width-output">760px</output><input id="line-width-control" type="range" min="620" max="920" step="20" value="760"></label>
       <fieldset><legend>主题</legend><div class="segmented"><button type="button" data-theme-choice="auto">跟随系统</button><button type="button" data-theme-choice="light">浅色</button><button type="button" data-theme-choice="dark">深色</button></div></fieldset>
-    </dialog>'''
+    </dialog>
+    <dialog class="pdf-dialog" id="pdf-dialog" aria-labelledby="pdf-dialog-title">
+      <div class="dialog-head pdf-dialog-head"><div><p class="eyebrow">Local PDF companion</p><h2 id="pdf-dialog-title">原文与解读对照</h2></div>
+        <div class="pdf-head-actions"><button type="button" class="text-button js-select-pdf">选择 PDF</button><button type="button" class="dialog-close js-close-pdf" aria-label="关闭 PDF 对照阅读">×</button></div></div>
+      <div class="pdf-split"><section class="pdf-viewer-shell" data-pdf-viewer>
+        <div class="pdf-empty-state"><strong>正在载入原始 PDF</strong><p>如果内嵌阅读器无法显示，可以使用下方按钮在新标签页打开当前页。</p></div>
+        <iframe class="pdf-frame js-pdf-frame" title="A Game of Thrones 原始 PDF"></iframe>
+        <a class="pdf-open-tab js-pdf-open-tab" target="_blank" rel="noopener">在新标签页打开当前页 ↗</a>
+      </section><aside class="pdf-companion"><div class="pdf-companion-heading"><div><p class="eyebrow">Close reading</p><h2>对应解读</h2></div><span class="js-pdf-page-label">PDF p.—</span></div>
+        <div id="pdf-companion-content"><p class="empty-state">从章节中的段落点击“PDF p.X”，即可在这里查看对应解读。</p></div></aside></div>
+    </dialog>
+    <input class="sr-only" id="pdf-file-input" type="file" accept="application/pdf,.pdf" aria-label="选择另一份本地 PDF 文件">'''
 
 
 def footer() -> str:
@@ -265,7 +278,7 @@ def html_page(*, title: str, description: str, body: str, chapters: list[dict], 
     <meta property="og:url" content="{canonical}"><meta property="og:image" content="{SITE_URL}/assets/og.png">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="stylesheet" href="{route('assets/site.css')}"><script>window.AGOT_CONFIG={config};</script>
-    <script src="{route('assets/site.js')}" defer></script></head>
+    <script src="{route('assets/site.js')}" defer></script><script src="{route('assets/pdf-reader.js')}" defer></script></head>
     <body data-page="{page_kind}">{global_header()}<div class="sidebar-scrim" data-close-sidebar></div>
     {chapter_nav(chapters, current)}{body}{dialogs()}{footer()}<button type="button" class="back-to-top" aria-label="返回顶部">↑</button></body></html>'''
 
@@ -289,7 +302,7 @@ def build_home(chapters: list[dict]) -> str:
     body = f'''<main class="home-main">
       <section class="hero"><div class="hero-copy"><p class="eyebrow">A Game of Thrones · 逐章精读</p><h1>{SITE_TITLE}</h1>
       <p class="hero-lead">从 Prologue 到 Chapter 72，保留英文原段，逐段拆解词汇、叙事、人物动机与无剧透背景。</p>
-      <div class="hero-actions"><button type="button" class="primary-button js-open-search">搜索全书</button><a class="secondary-button" href="{route('chapters/prologue/')}">从序章开始</a></div></div>
+      <div class="hero-actions"><button type="button" class="primary-button js-open-search">搜索全书</button><a class="secondary-button" href="{route('chapters/prologue/')}">从序章开始</a><a class="secondary-button" href="{route('pdf/')}">打开 PDF 阅读器</a></div></div>
       <div class="hero-stats"><div><strong>73</strong><span>篇章</span></div><div><strong>{total:,}</strong><span>精读段落</span></div><div><strong>{first_page}–{last_page}</strong><span>PDF 正文页</span></div></div></section>
       <section class="continue-section"><div class="section-heading"><div><p class="eyebrow">Continue reading</p><h2>继续阅读</h2></div><a href="{route('library/')}">打开我的书房 →</a></div>
       <article class="continue-card" id="continue-card"><div><span class="continue-label">还没有阅读记录</span><h3>从 Prologue 开始这次守望</h3><p>阅读进度只保存在当前浏览器，可随时导出备份。</p></div><a href="{route('chapters/prologue/')}">开始阅读</a></article></section>
@@ -313,7 +326,7 @@ def build_chapter(chapter: dict, chapters: list[dict]) -> str:
     body = f'''<div class="reader-shell"><main class="reader-main">
       <header class="chapter-hero"><p class="eyebrow">{chapter['label']} · PDF pp.{chapter['pages'][0]}–{chapter['pages'][1]}</p>
       <h1>{chapter['pov']}</h1><p>{chapter['count']} 个原文段落 · 英文姓名 · 无剧透精读</p>
-      <div class="chapter-actions"><button type="button" class="secondary-button" id="mark-complete">标记本章已读</button><button type="button" class="secondary-button js-open-search">在全书中搜索</button></div>
+      <div class="chapter-actions"><button type="button" class="secondary-button" id="mark-complete">标记本章已读</button><button type="button" class="secondary-button js-open-search">在全书中搜索</button><button type="button" class="secondary-button js-open-pdf" data-pdf-page="{chapter['pages'][0]}">PDF 对照阅读</button></div>
       <div class="reading-progress-track" aria-hidden="true"><span id="reading-progress-bar"></span></div></header>
       <article class="reader-content">{article}</article>
       <nav class="chapter-pagination" aria-label="章节翻页">{prev_link}{next_link}</nav></main>
@@ -333,6 +346,23 @@ def build_library(chapters: list[dict]) -> str:
     return html_page(title=f"我的书房 · {SITE_TITLE}", description="本机保存的阅读进度、段落书签与词汇收藏。", body=body, chapters=chapters, page_kind="library")
 
 
+def build_pdf_reader(chapters: list[dict]) -> str:
+    body = f'''<main class="pdf-reader-main"><header class="pdf-reader-hero"><p class="eyebrow">Read · Compare instantly</p><h1>PDF 对照阅读器</h1>
+      <p>在左侧直接阅读原始 PDF，右侧按当前页查看精读段落。章节页中的每个“PDF p.X”按钮也能立即打开原页与对应解读。</p>
+      <div class="pdf-reader-actions"><a class="primary-button" href="{route('assets/agot-original.pdf')}" target="_blank" rel="noopener">在新标签页打开完整 PDF</a><button type="button" class="secondary-button js-select-pdf">改用本地 PDF</button><button type="button" class="secondary-button js-remove-pdf" hidden>恢复站内 PDF</button><span class="pdf-file-status js-pdf-file-status">正在载入站内 PDF…</span></div></header>
+      <section class="pdf-reader-toolbar" aria-label="PDF 页码控制"><button type="button" data-pdf-step="-1" aria-label="上一页">←</button>
+        <form id="pdf-page-form"><label for="pdf-page-input">PDF 页码</label><input id="pdf-page-input" type="number" min="1" max="755" value="6" inputmode="numeric"><span>/ 755</span><button type="submit">前往</button></form>
+        <button type="button" data-pdf-step="1" aria-label="下一页">→</button></section>
+      <div class="pdf-reader-layout"><section class="pdf-viewer-shell pdf-reader-viewer" data-pdf-viewer>
+        <div class="pdf-empty-state"><strong>正在载入《A Game of Thrones》PDF</strong><p>如果浏览器不支持内嵌 PDF，可以在新标签页中打开当前页。</p></div>
+        <iframe class="pdf-frame js-pdf-frame" data-pdf-page="6" title="A Game of Thrones 原始 PDF"></iframe>
+        <a class="pdf-open-tab js-pdf-open-tab" target="_blank" rel="noopener">在新标签页打开当前页 ↗</a>
+      </section><aside class="pdf-page-notes"><div class="pdf-companion-heading"><div><p class="eyebrow">Page companion</p><h2>本页解读</h2></div><span id="pdf-reader-page-label">PDF p.6</span></div>
+        <p class="pdf-page-hint">点击条目进入完整精读。跨页段落也会显示，并标记为“承接上页”。</p><div id="pdf-page-results" aria-live="polite"><p class="empty-state">正在载入页码索引…</p></div></aside></div>
+      <aside class="privacy-note"><strong>版权提示</strong><p>PDF 与英文原文版权归 George R. R. Martin 及相关权利人所有，本站仅用于非商业语言学习与文本分析。权利人可通过仓库 Issues 联系处理或申请下架。</p></aside></main>'''
+    return html_page(title=f"PDF 对照阅读器 · {SITE_TITLE}", description="在浏览器本地阅读 A Game of Thrones PDF，并按页查看对应中文精读。", body=body, chapters=chapters, page_kind="pdf")
+
+
 def write_text(path: Path, value: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(value, encoding="utf-8")
@@ -347,11 +377,15 @@ def main() -> None:
     for asset in (SITE / "assets").iterdir():
         if asset.is_file():
             shutil.copy2(asset, DIST / "assets" / asset.name)
-    if (SITE / "public" / "og.png").exists():
-        shutil.copy2(SITE / "public" / "og.png", DIST / "assets" / "og.png")
+    public_dir = SITE / "public"
+    if public_dir.exists():
+        for public_file in public_dir.iterdir():
+            if public_file.is_file():
+                shutil.copy2(public_file, DIST / "assets" / public_file.name)
 
     write_text(DIST / "index.html", build_home(chapters))
     write_text(DIST / "library" / "index.html", build_library(chapters))
+    write_text(DIST / "pdf" / "index.html", build_pdf_reader(chapters))
     for chapter in chapters:
         write_text(DIST / "chapters" / chapter["id"] / "index.html", build_chapter(chapter, chapters))
 
@@ -370,7 +404,20 @@ def main() -> None:
     write_text(DIST / "data" / "manifest.json", json.dumps(manifest, ensure_ascii=False, separators=(",", ":")))
     write_text(DIST / "data" / "search-index.json", json.dumps(search_rows, ensure_ascii=False, separators=(",", ":")))
 
-    urls = [f"{SITE_URL}/", f"{SITE_URL}/library/"] + [f"{SITE_ORIGIN}{c['url']}" for c in chapters]
+    page_map: dict[str, list[dict]] = {}
+    for chapter in chapters:
+        for block in chapter["blocks"]:
+            for page in range(block["page"], block["endPage"] + 1):
+                page_map.setdefault(str(page), []).append({
+                    "chapterId": chapter["id"], "chapterLabel": chapter["label"], "pov": chapter["pov"],
+                    "anchorId": block["id"].lower(), "displayId": block["id"], "pdfPage": page,
+                    "startPage": block["page"], "continued": page > block["page"],
+                    "url": f'{chapter["url"]}#{block["id"].lower()}', "original": block["original"],
+                    "summary": block["summary"],
+                })
+    write_text(DIST / "data" / "page-map.json", json.dumps(page_map, ensure_ascii=False, separators=(",", ":")))
+
+    urls = [f"{SITE_URL}/", f"{SITE_URL}/library/", f"{SITE_URL}/pdf/"] + [f"{SITE_ORIGIN}{c['url']}" for c in chapters]
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"  <url><loc>{html.escape(url)}</loc></url>\n" for url in urls) + "</urlset>\n"
     write_text(DIST / "sitemap.xml", sitemap)
     write_text(DIST / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")

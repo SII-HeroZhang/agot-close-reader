@@ -6,4 +6,5 @@ site/.cache/
 work/rendered/
 node_modules/
 *.pdf
+!site/public/agot-original.pdf
 *.log
