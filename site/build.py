@@ -214,6 +214,8 @@ def chapter_nav(chapters: list[dict], current: str | None = None) -> str:
         '<aside class="chapter-sidebar" id="chapter-sidebar" aria-label="章节导航">'
         '<div class="sidebar-heading"><span>全书目录</span><button class="sidebar-close" type="button" '
         'data-close-sidebar aria-label="关闭章节目录">×</button></div>'
+        f'<nav class="sidebar-utility"><a href="{route("pdf/")}"><strong>▣ 阅读完整 PDF</strong><small>原文与解读对照</small></a>'
+        f'<a href="{route("library/")}"><strong>我的书房</strong><small>进度、书签与词汇</small></a></nav>'
         '<nav class="chapter-link-list">' + "".join(links) + '</nav></aside>'
     )
 
@@ -302,8 +304,10 @@ def build_home(chapters: list[dict]) -> str:
     body = f'''<main class="home-main">
       <section class="hero"><div class="hero-copy"><p class="eyebrow">A Game of Thrones · 逐章精读</p><h1>{SITE_TITLE}</h1>
       <p class="hero-lead">从 Prologue 到 Chapter 72，保留英文原段，逐段拆解词汇、叙事、人物动机与无剧透背景。</p>
-      <div class="hero-actions"><button type="button" class="primary-button js-open-search">搜索全书</button><a class="secondary-button" href="{route('chapters/prologue/')}">从序章开始</a><a class="secondary-button" href="{route('pdf/')}">打开 PDF 阅读器</a></div></div>
+      <div class="hero-actions"><a class="primary-button" href="{route('pdf/')}">阅读完整 PDF</a><a class="secondary-button" href="{route('chapters/prologue/')}">从序章开始</a><button type="button" class="secondary-button js-open-search">搜索全书</button></div></div>
       <div class="hero-stats"><div><strong>73</strong><span>篇章</span></div><div><strong>{total:,}</strong><span>精读段落</span></div><div><strong>{first_page}–{last_page}</strong><span>PDF 正文页</span></div></div></section>
+      <section class="pdf-home-callout"><div><p class="eyebrow">Read the original</p><h2>直接阅读完整原文 PDF</h2><p>755 页原书已内置。左侧读原文，右侧按页查看对应解读；也可以从任意精读段落一键返回原页。</p></div>
+      <div><a class="primary-button" href="{route('pdf/')}">进入 PDF 对照阅读器</a><a class="secondary-button" href="{route('assets/agot-original.pdf')}" target="_blank" rel="noopener">单独打开 PDF ↗</a></div></section>
       <section class="continue-section"><div class="section-heading"><div><p class="eyebrow">Continue reading</p><h2>继续阅读</h2></div><a href="{route('library/')}">打开我的书房 →</a></div>
       <article class="continue-card" id="continue-card"><div><span class="continue-label">还没有阅读记录</span><h3>从 Prologue 开始这次守望</h3><p>阅读进度只保存在当前浏览器，可随时导出备份。</p></div><a href="{route('chapters/prologue/')}">开始阅读</a></article></section>
       <section class="catalog"><div class="section-heading"><div><p class="eyebrow">73 sections</p><h2>章节目录</h2></div></div>

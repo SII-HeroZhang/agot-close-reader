@@ -88,6 +88,11 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 }
 .sidebar-heading { height: 54px; display: flex; align-items: center; justify-content: space-between; padding: 0 18px; font-size: 13px; font-weight: 750; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); }
 .sidebar-close { display: none; border: 0; background: transparent; color: var(--ink); font-size: 24px; }
+.sidebar-utility { display: grid; gap: 7px; padding: 0 10px 12px; border-bottom: 1px solid var(--line); }
+.sidebar-utility a { display: flex; flex-direction: column; gap: 2px; padding: 10px; border: 1px solid var(--line); border-radius: 6px; background: color-mix(in srgb, var(--surface) 62%, transparent); text-decoration: none; }
+.sidebar-utility strong { color: var(--ink); font-size: 12px; }
+.sidebar-utility small { color: var(--gold); font-size: 10px; }
+.sidebar-utility a:hover { border-color: var(--gold); }
 .chapter-link-list { overflow-y: auto; padding: 0 10px 28px; scrollbar-width: thin; }
 .chapter-link-list a { display: flex; justify-content: space-between; gap: 10px; padding: 9px 10px; margin: 2px 0; border-radius: 7px; text-decoration: none; color: var(--ink-soft); font-size: 13px; }
 .chapter-link-list a small { color: var(--gold); font-size: 10px; letter-spacing: .08em; }
@@ -115,6 +120,10 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 .hero-stats span { color: var(--ink-soft); font-size: 13px; }
 
 .continue-section, .catalog { max-width: 1180px; margin: 0 auto 74px; }
+.pdf-home-callout { max-width: 1180px; margin: -30px auto 56px; display: flex; align-items: center; justify-content: space-between; gap: 36px; padding: 28px 30px; border: 1px solid var(--gold); background: color-mix(in srgb, var(--surface) 88%, var(--gold) 12%); box-shadow: var(--shadow); }
+.pdf-home-callout h2 { margin: 0; font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-size: clamp(25px, 3vw, 36px); }
+.pdf-home-callout p:not(.eyebrow) { max-width: 700px; margin: 10px 0 0; color: var(--ink-soft); line-height: 1.7; }
+.pdf-home-callout > div:last-child { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; min-width: 340px; }
 .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 20px; margin-bottom: 20px; }
 .section-heading h2 { margin: 0; font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-size: 30px; }
 .section-heading > a { color: var(--gold); font-size: 14px; text-decoration: none; }
@@ -305,6 +314,8 @@ dialog::backdrop { background: rgba(4, 10, 16, .66); backdrop-filter: blur(4px);
   .home-main, .library-main { padding: 34px 18px 70px; }
   .hero { grid-template-columns: 1fr; gap: 36px; min-height: 0; margin-bottom: 64px; }
   .hero h1 { font-size: clamp(56px, 17vw, 86px); }
+  .pdf-home-callout { margin-top: -20px; align-items: flex-start; flex-direction: column; padding: 24px; }
+  .pdf-home-callout > div:last-child { min-width: 0; justify-content: flex-start; }
   .hero-stats { grid-template-columns: repeat(3, 1fr); }
   .hero-stats div { padding: 16px 12px; }
   .hero-stats strong { font-size: 24px; }

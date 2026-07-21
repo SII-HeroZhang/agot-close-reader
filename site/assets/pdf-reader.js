@@ -87,6 +87,7 @@
 
   function refreshViewers() {
     document.querySelectorAll("[data-pdf-viewer]").forEach((viewer) => {
+      if (viewer.closest("#pdf-dialog") && !dialog?.open) return;
       updateViewer(viewer, viewer.querySelector(".js-pdf-frame")?.dataset.pdfPage);
     });
   }
